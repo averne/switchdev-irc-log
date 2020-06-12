@@ -1,0 +1,44 @@
+[00:36:06] <plutobot> Wiki | Page changed: Network Interface services | User: yls8 | https://switchbrew.org/w/index.php?curid=112&diff=9663&oldid=9659
+[01:00:22] <plutobot> GitHub | New commit | User: yellows | https://github.com/switchbrew/libnx/commit/29dd63e5db
+[01:00:23] <DoozerBot> yellows8 pushed to master: Added support for nifmLa. Added nifmRequestGetAppletInfo. "Added support for nifmLa. Added nifmRequestGetAppletInfo." [032 files added07, 3 files modified], building targets: 02lib
+[01:01:15] *** Joins coggy9
+[01:04:35] <DoozerBot> 02lib: 03 v3.3.0.6 Build OK - https://doozer.io/build/mm7q765nzw
+[01:10:14] *** Quits derk0pf (Read error: Operation timed out)
+[01:34:54] *** Quits coggy9 (Quit: Leaving)
+[02:06:08] *** Quits rajkosto (Read error: Connection reset by peer)
+[02:09:33] *** Quits l1quid (Read error: Connection reset by peer)
+[02:18:03] *** Joins l1quid
+[02:34:37] *** Quits refs (Quit: refs)
+[03:14:33] *** Quits d3m3vilur (Read error: Connection reset by peer)
+[03:20:06] *** Quits rjeli___ (Read error: Connection reset by peer)
+[03:22:47] *** Joins rjeli___
+[03:23:08] *** Joins d3m3vilur
+[03:45:27] *** Joins Maylay_
+[03:49:20] *** Quits Maylay (Read error: Operation timed out)
+[04:41:35] <DoozerBot> yellows8 pushed to master: swkbd: Added proper support for using SwkbdInlineMode_UserDisplay. "swkbd: Added proper support for using SwkbdInlineMode_UserDisplay." [072 files modified], building targets: 02lib
+[04:42:15] <plutobot> GitHub | New commit | User: yellows | https://github.com/switchbrew/libnx/commit/857e2f5c4d
+[04:43:54] *** Quits irc2 (hub.efnet.us irc.Prison.NET)
+[04:46:13] <DoozerBot> 02lib: 03 v3.3.0.7 Build OK - https://doozer.io/build/k8edr7a69k
+[04:52:03] <plutobot> GitHub | New commit | User: yellows | https://github.com/switchbrew/libnx/commit/42568d6af8
+[04:52:04] <DoozerBot> yellows8 pushed to master: swkbd: Adjusted the order in the .h. "swkbd: Adjusted the order in the .h." [071 file modified], building targets: 02lib
+[04:56:23] <DoozerBot> 02lib: 03 v3.3.0.8 Build OK - https://doozer.io/build/xiljw9jp56
+[04:56:30] <plutobot> GitHub | New commit | User: yellows | https://github.com/switchbrew/switch-examples/commit/4437fb814f
+[05:05:56] *** Joins irc2
+[06:49:28] *** Joins flotwig
+[08:22:24] *** Quits fgsfds (Read error: Connection reset by peer)
+[09:37:55] *** Quits panicbit (Ping timeout: 186 seconds)
+[10:09:57] *** Joins WntrMute
+[10:16:54] *** Quits chang0- (Quit: http://www.changoland.com)
+[10:22:05] *** Joins panicbit
+[10:40:36] *** Joins CCFL_Man_
+[10:41:34] *** Quits CCFL_Man (Ping timeout: 265 seconds)
+[10:46:16] *** Quits GerbilSof (Read error: Operation timed out)
+[10:56:39] *** Joins GerbilSof
+[11:30:54] *** Joins chang0-
+[11:32:18] *** Joins changoXPR
+[11:44:01] *** Joins |Shadow|_
+[11:48:39] *** Quits |Shadow| (Read error: Operation timed out)
+[12:55:21] *** |Shadow|_ is now known as |Shadow|
+[13:58:42] *** Joins Snetry
+[13:59:17] *** Quits Sentry (Read error: Operation timed out)
+[13:59:17] *** Snetry is now known as Sentry

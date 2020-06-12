@@ -1,0 +1,53 @@
+[00:40:22] *** Quits ris2z (Ping timeout: 248 seconds)
+[00:45:44] *** Joins ris2z
+[01:52:50] *** Quits balrog (Quit: Bye)
+[01:53:44] *** Joins refs
+[01:59:35] *** Joins balrog
+[02:03:52] *** Joins GerbilSof
+[02:56:09] *** Quits |Shadow| (Read error: Operation timed out)
+[03:24:57] *** Joins |Shadow|
+[03:59:41] *** Quits flewkey (Ping timeout: 272 seconds)
+[04:07:50] *** Quits refs (Quit: refs)
+[07:41:46] *** Quits CCFL_Man (Read error: Connection reset by peer)
+[07:48:50] *** Joins CCFL_Man
+[08:20:23] *** Joins foghorn3
+[08:26:51] *** Quits foghorn2 (Read error: Operation timed out)
+[08:29:40] *** Joins rajkosto
+[08:55:13] *** Quits averne (quit)
+[08:56:01] *** Joins averne_
+[08:56:01] *** Quits averne (Read error: Connection reset by peer)
+[08:56:01] *** Server sets mode: +stn 
+[09:23:12] *** Quits mukunda (Ping timeout: 265 seconds)
+[10:44:16] *** Joins dcnick3
+[12:46:35] *** Quits lameboy (Quit: brb)
+[12:47:13] *** Joins lameboy
+[13:01:41] *** Joins mukunda
+[13:29:30] *** Joins dcnick3_
+[13:30:50] *** Quits dcnick3 (Read error: Operation timed out)
+[13:49:19] *** Quits dcnick3_ (Read error: Operation timed out)
+[14:26:59] *** Joins dcnick3
+[14:42:44] *** Quits rajkosto (Read error: Connection reset by peer)
+[15:11:34] <plutobot> GitHub | New commit | User: HookedBehemoth | https://github.com/switchbrew/switch-tools/commit/d34444b575
+[15:13:28] <plutobot> GitHub | New commit | User: HookedBehemoth | https://github.com/switchbrew/libnx/commit/ac468913e4
+[15:13:35] <DoozerBot> fincs pushed to master: add commands for accessing process storage (#485) "add commands for accessing process storage (#485)" [074 files modified], building targets: 02lib
+[15:21:02] <DoozerBot> 02lib: 03 v3.3.0.2 Build OK - https://doozer.io/build/rdhstznkyq
+[16:09:12] *** Quits dcnick3 (Read error: Connection reset by peer)
+[17:36:35] *** Joins flewkey
+[17:40:20] <plutobot> GitHub | New commit | User: fincs | https://github.com/switchbrew/switch-tools/commit/17276a6bc4
+[18:14:27] *** Joins refs
+[18:21:09] *** Quits GerbilSof (Windows must now restart because the Remote Procedure Call (RPC) service terminated unexpectedly.)
+[18:21:29] *** Joins GerbilSof
+[19:45:40] <plutobot> GitHub | New PR: nxlink Fix CP... | User: averne | https://github.com/switchbrew/switch-tools/pull/28
+[19:57:47] *** Joins KuKzz_
+[20:02:11] *** Quits KuKzz (Ping timeout: 745 seconds)
+[20:20:35] <plutobot> Wiki | Page changed: Applet Manager services | User: yls8 | https://switchbrew.org/w/index.php?curid=132&diff=9636&oldid=9294
+[20:40:04] <plutobot> Wiki | New page: Cabinet Applet | User: yls8 | https://switchbrew.org/w/index.php?curid=410
+[20:44:55] *** Quits oldtopman (Read error: Operation timed out)
+[21:02:23] *** Joins oldtopman
+[21:47:12] <plutobot> Wiki | Page changed: Cabinet Applet | User: yls8 | https://switchbrew.org/w/index.php?curid=410&diff=9638&oldid=9637
+[22:44:09] *** Joins derk0pf
+[23:00:16] *** Joins CCFL_Man_
+[23:00:16] *** Quits derk0pf (Read error: Connection reset by peer)
+[23:03:36] *** Quits CCFL_Man (Ping timeout: 745 seconds)
+[23:15:46] <plutobot> Wiki | Page changed: Cabinet Applet | User: yls8 | https://switchbrew.org/w/index.php?curid=410&diff=9639&oldid=9638
+[23:47:57] *** CCFL_Man_ is now known as CCFL_Man

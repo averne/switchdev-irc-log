@@ -1,0 +1,34 @@
+[00:00:14] <plutobot> Wiki | Page changed: Internet Browser | User: yls8 | https://switchbrew.org/w/index.php?curid=12&diff=9610&oldid=9441
+[03:05:57] <Behemoth> yellows8: turns out official software closes album before loginShare starts.
+[03:09:41] <yellows8> figured
+[03:10:38] <yellows8> what's the use-case for webapplet under LibraryApplet?
+[03:25:27] <Behemoth> I made an album replacement with custom hoster support and still supporting Nintendo Share would be nice.
+[03:25:27] <Behemoth> Also I need if for oauth but that's only for initial hoster setup so that's fine for application exclusive.
+[03:28:54] <yellows8> ah
+[03:31:05] <Behemoth> (also Nintendo Share somehow supports videos over 15Mb on twitter and my twitter api access doesn't)
+[03:41:15] <yellows8> able to figure out how album does that special handling?(might be related to Jump?)
+[06:38:34] *** Quits panicbit (Ping timeout: 186 seconds)
+[06:38:34] *** Joins panicbit
+[07:19:58] *** Quits mukunda (Read error: Operation timed out)
+[08:22:42] *** Joins KuKzz_
+[08:27:07] *** Quits KuKzz (Ping timeout: 745 seconds)
+[10:15:25] <Behemoth> My RE game is weak but I could give it a try.
+[10:16:07] <Behemoth> I failed at finding out how they round the video length in album. (It makes no sense
+[10:30:27] *** Quits fgsfds (Read error: Connection reset by peer)
+[11:07:52] *** Quits flewkey (Ping timeout: 272 seconds)
+[11:21:38] <Behemoth> Oh JumpLibraryApplet is already in libnx
+[11:56:34] <Behemoth> Yeah with jump it works
+[11:56:34] <Behemoth> Was confused why it didn't initially. libapplet web doesn't use the libapplet launch proxy that checks the flag.
+[12:13:25] *** averne_ is now known as averne
+[12:16:58] <Behemoth> ofw actually sets a function pointer that's called in nn::applet::StartLibraryApplet instead of setting the jump flag
+[12:25:27] *** Joins flewkey
+[12:39:47] <Behemoth> Also ofw still uses ReserveToStartAndWaitAndUnwindThis while libnx only does that on <4.0.0
+[12:39:48] <Behemoth> Do you know what the actual difference is? With ReserveToStartAndWait webapplet exits abnormally (0x290, qlaunch assert).
+[12:48:51] *** Joins mukunda
+[13:22:39] *** Quits averne (quit)
+[13:31:15] *** Joins averne_
+[13:31:15] *** Server sets mode: +stn 
+[13:33:59] *** Quits averne (Read error: Operation timed out)
+[13:39:17] *** Joins averne
+[13:39:17] *** Server sets mode: +stn 
+[13:48:10] *** Joins refs

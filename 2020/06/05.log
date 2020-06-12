@@ -1,0 +1,182 @@
+[00:02:18] <yellows8> so you want to use that for general hb apps too?
+[00:02:23] <Behemoth> yes
+[00:04:06] <Behemoth> SciresM said he wanted to reach out.
+[00:04:06] <Behemoth> It's about NPDM permissions that hbloader doesn't set.
+[00:12:19] *** Joins TAL_
+[00:13:23] *** Joins mid-kid1
+[00:13:40] *** Joins usineur_
+[00:14:01] *** Joins nrq_
+[00:14:13] *** Joins Phils3r_
+[00:16:36] *** Quits tsr (Ping timeout: 745 seconds)
+[00:17:46] *** Quits TurtleP (Ping timeout: 745 seconds)
+[00:17:51] *** Joins TurtleP
+[00:18:02] *** Joins tpw-rules
+[00:18:54] *** Joins DeusQain
+[00:20:09] *** Quits usineur (Ping timeout: 745 seconds)
+[00:20:09] *** Quits mid-kid (Ping timeout: 745 seconds)
+[00:20:24] *** Joins gruetzko-
+[00:20:42] *** Quits nrq (Ping timeout: 745 seconds)
+[00:20:42] *** Quits tpw_rules (Ping timeout: 745 seconds)
+[00:20:42] *** tpw-rules is now known as tpw_rules
+[00:20:42] *** Quits gruetzkop (Ping timeout: 745 seconds)
+[00:20:43] *** Quits DeusQain_ (Ping timeout: 745 seconds)
+[00:20:45] *** Quits TAL (Ping timeout: 745 seconds)
+[00:20:46] *** Quits Jdbye (Ping timeout: 745 seconds)
+[00:20:47] *** Quits hthh (Ping timeout: 745 seconds)
+[00:20:47] *** Quits Phils3r (Ping timeout: 745 seconds)
+[00:21:02] *** Sentry- is now known as Sentry
+[00:22:21] *** Joins tsr
+[00:23:21] *** Joins mtheall_
+[00:24:46] *** Quits mtheall (Ping timeout: 745 seconds)
+[00:25:21] *** Quits klockee (Ping timeout: 745 seconds)
+[00:27:25] *** Joins Jdbye
+[00:36:49] *** Quits Pieman (Ping timeout: 272 seconds)
+[00:36:52] *** Joins flagrama_
+[00:37:27] *** Quits flagrama (Ping timeout: 272 seconds)
+[00:37:27] *** Quits CaptainOm (Ping timeout: 272 seconds)
+[00:37:27] *** flagrama_ is now known as flagrama
+[00:37:51] *** Joins Pieman
+[00:38:05] *** Quits nohit (Ping timeout: 272 seconds)
+[00:39:59] *** Quits d3m3vilur (Read error: Operation timed out)
+[00:40:27] *** Joins d3m3vilur
+[00:40:49] *** TAL_ is now known as TAL
+[00:45:11] *** Quits yuriks___ (Ping timeout: 1230 seconds)
+[00:46:21] *** Quits rjeli__ (Ping timeout: 1230 seconds)
+[00:48:41] *** Quits SCV (Ping timeout: 1230 seconds)
+[01:07:30] *** Quits refs (Quit: refs)
+[01:14:37] *** Joins rjeli__
+[01:14:53] *** Quits rjeli__ (Read error: Connection reset by peer)
+[01:20:56] *** Joins rjeli__
+[01:25:37] *** Quits rjeli__ (Read error: Connection reset by peer)
+[01:26:39] <Behemoth> Are library applets even with libnx? Last time I tried it failed to allocate heap and after overwriting with fake heap it failed in appletInit
+[01:26:57] *** Quits dcnick3 (Read error: Operation timed out)
+[01:27:06] *** Joins Snetry
+[01:28:35] <Behemoth> *supported with libnx
+[01:29:18] *** Joins hthh
+[01:29:32] *** Joins klock
+[01:30:51] *** Joins rjeli__
+[01:31:01] *** Quits rjeli__ (Read error: Connection reset by peer)
+[01:31:17] *** Quits Sentry (Read error: Operation timed out)
+[01:31:17] *** Snetry is now known as Sentry
+[01:41:26] *** Joins yuriks___
+[01:43:15] *** Joins rjeli__
+[02:06:09] *** Quits yuriks___ (Read error: Connection reset by peer)
+[02:08:00] *** Quits rjeli__ (Read error: Connection reset by peer)
+[02:09:01] *** Quits Retr0id (Read error: Operation timed out)
+[02:10:39] *** Joins flewkey3
+[02:11:34] *** Joins Retr0id
+[02:11:49] *** Quits flewkey (Ping timeout: 272 seconds)
+[02:11:49] *** flewkey3 is now known as flewkey
+[02:12:00] *** Joins yuriks___
+[02:12:08] *** Quits yuriks___ (Read error: Connection reset by peer)
+[02:13:47] *** Joins rjeli__
+[02:20:21] *** Joins yuriks___
+[02:21:31] *** Quits yuriks___ (Read error: Connection reset by peer)
+[02:21:46] *** Quits rjeli__ (Read error: Connection reset by peer)
+[02:27:01] *** Joins yuriks___
+[02:27:43] *** Quits yuriks___ (Read error: Connection reset by peer)
+[02:33:32] *** Joins yuriks___
+[02:36:43] *** Quits yuriks___ (Read error: Connection reset by peer)
+[02:48:43] *** Quits Retr0id (Read error: Operation timed out)
+[02:51:16] *** Joins Retr0id
+[02:54:50] *** Joins rjeli__
+[03:06:33] *** Joins yuriks___
+[03:07:33] *** Quits karolherb (Ping timeout: 272 seconds)
+[03:08:37] *** Joins karolherb
+[03:10:54] *** Joins rjeli___
+[03:13:19] *** Quits rjeli__ (Read error: Connection timed out)
+[03:13:19] *** rjeli___ is now known as rjeli__
+[03:23:57] *** Joins CCFL_Man
+[03:37:46] *** Joins nohit
+[04:02:59] *** Quits averne (quit)
+[04:03:46] *** Joins averne
+[04:03:46] *** Server sets mode: +stn 
+[04:05:43] *** Joins yuriks___
+[04:08:18] *** Joins SCV
+[07:07:16] *** Quits fgsfds (Read error: Connection reset by peer)
+[07:41:10] *** Joins Behemoth_
+[07:42:23] *** Quits Behemoth (Read error: Connection reset by peer)
+[08:35:15] <yls8bot> https://yls8.mtheall.com/ninupdates/reports.php?date=2020-06-05_06-35-05&sys=hac Update-details for the following hac report is now available/updated: https://yls8.mtheall.com/ninupdates/reports.php?date=2020-06-05_06-35-05&sys=hac Sysmodule SwIPC-generation .info files for the following hac report is now available/updated: 
+[08:35:21] <yls8bot> https://yls8.mtheall.com/ninupdates/reports.php?date=2020-06-05_06-35-05&sys=hac 
+[08:40:40] <ihaveamac> "We have fixed the issue where it was not possible in some countries or regions to add funds using a new credit card or to register credit card information in Nintendo eShop on Nintendo Switch."
+[08:45:15] <plutobot> Wiki | Page changed: FirmwareNews | User: Yls8bot | https://switchbrew.org/w/index.php?curid=43&diff=9625&oldid=9565
+[08:45:15] <plutobot> Wiki | New page: 10.0.4 | User: Yls8bot | https://switchbrew.org/w/index.php?curid=409
+[08:45:15] <plutobot> Wiki | Page changed: Template:NavboxVersions | User: Yls8bot | https://switchbrew.org/w/index.php?curid=183&diff=9623&oldid=9563
+[08:50:11] *** Quits ris2z (Ping timeout: 272 seconds)
+[08:53:46] *** Joins ris2z
+[09:25:38] *** Joins changoXPR
+[09:26:41] *** Joins capin1
+[09:27:17] *** Quits chang0- (Read error: Operation timed out)
+[09:29:19] <plutobot> Wiki | Page changed: Title list | User: Zachycatgames | https://switchbrew.org/w/index.php?curid=84&diff=9626&oldid=9566
+[09:29:50] <plutobot> Wiki | Page changed: System Versions | User: Thomhack50 | https://switchbrew.org/w/index.php?curid=105&diff=9627&oldid=9577
+[09:29:57] *** Quits capin (Read error: Operation timed out)
+[09:29:57] *** Quits kyaputen9 (Read error: Operation timed out)
+[09:46:53] *** Joins kyaputen9
+[09:51:38] *** Joins dcnick3
+[09:54:46] *** Quits flagrama (Ping timeout: 272 seconds)
+[09:54:47] *** Quits plutobot (Ping timeout: 272 seconds)
+[09:54:47] *** Quits m4ts (Ping timeout: 272 seconds)
+[09:54:49] *** Joins flagrama
+[09:55:26] *** Joins refsw2
+[09:56:02] *** Quits nohit (Ping timeout: 272 seconds)
+[09:56:03] *** Quits Pieman (Ping timeout: 272 seconds)
+[09:56:03] *** Quits refsw` (Ping timeout: 272 seconds)
+[09:56:03] *** Quits DacoTaco (Ping timeout: 272 seconds)
+[09:56:03] *** Quits madk (Ping timeout: 272 seconds)
+[09:56:15] *** Joins nohit
+[09:56:40] *** Quits karolherb (Ping timeout: 272 seconds)
+[09:56:41] *** Quits flewkey (Ping timeout: 272 seconds)
+[09:56:41] *** Quits KuKzz (Ping timeout: 272 seconds)
+[09:56:41] *** Quits AlexAltea (Ping timeout: 272 seconds)
+[09:56:41] *** Quits eggster (Ping timeout: 272 seconds)
+[09:56:41] *** Quits GrecKo_ (Ping timeout: 272 seconds)
+[09:56:41] *** Quits des^ (Ping timeout: 272 seconds)
+[09:56:43] *** Joins GrecKo
+[09:57:09] *** Joins karolherb
+[09:57:24] *** Joins eggster
+[10:01:45] *** Joins KuKzz
+[10:11:18] *** Joins Pieman
+[10:19:27] *** Joins AlexAltea
+[10:47:45] *** Joins m4ts
+[10:47:55] *** Joins flewkey
+[10:48:10] *** Joins plutobot
+[10:48:43] *** Joins des^
+[10:49:42] *** Joins madk
+[10:52:38] *** Joins DacoTaco
+[11:03:20] *** Joins coggy9_Y5
+[11:03:24] *** Quits coggy9 (Ping timeout: 265 seconds)
+[11:54:19] <plutobot> GitHub | New PR: npdmtool add ... | User: HookedBehemoth | https://github.com/switchbrew/switch-tools/pull/27
+[12:16:26] *** Joins rajkosto
+[12:40:07] <plutobot> GitHub | New PR: add permissio... | User: HookedBehemoth | https://github.com/switchbrew/nx-hbloader/pull/29
+[13:32:53] *** Joins derk0pf
+[13:43:34] *** Quits derk0pf (Read error: Operation timed out)
+[13:43:41] *** Quits rajkosto (Read error: Connection reset by peer)
+[14:17:54] <plutobot> GitHub | New PR: add commands ... | User: HookedBehemoth | https://github.com/switchbrew/libnx/pull/485
+[14:18:04] <DoozerBot> PR-#485: add commands for accessing process storage, building targets: 02lib
+[14:21:59] <DoozerBot> 02lib: 03 v3.3.0.2 Build OK - https://doozer.io/build/fa2npqo21p
+[16:34:19] <plutobot> Wiki | Page changed: System Versions | User: yls8 | https://switchbrew.org/w/index.php?curid=105&diff=9628&oldid=9627
+[16:36:42] <plutobot> Wiki | Page changed: 10.0.4 | User: yls8 | https://switchbrew.org/w/index.php?curid=409&diff=9629&oldid=9624
+[16:42:59] <plutobot> Wiki | Page changed: 10.0.4 | User: yls8 | https://switchbrew.org/w/index.php?curid=409&diff=9630&oldid=9629
+[16:46:03] <plutobot> Wiki | Page changed: System Version Title | User: yls8 | https://switchbrew.org/w/index.php?curid=116&diff=9631&oldid=9572
+[16:53:11] <plutobot> Wiki | Page changed: 10.0.4 | User: yls8 | https://switchbrew.org/w/index.php?curid=409&diff=9632&oldid=9630
+[17:04:03] <plutobot> Wiki | Page changed: 10.0.4 | User: yls8 | https://switchbrew.org/w/index.php?curid=409&diff=9633&oldid=9632
+[17:05:15] <plutobot> Wiki | Page changed: 10.0.4 | User: yls8 | https://switchbrew.org/w/index.php?curid=409&diff=9634&oldid=9633
+[18:02:29] *** Joins coggy9has
+[18:06:19] *** Quits coggy9_Y5 (Ping timeout: 265 seconds)
+[18:11:15] <DoozerBot> PR-#485: add commands for accessing process storage, building targets: 02lib
+[18:17:57] <DoozerBot> 02lib: 03 v3.3.0.3 Build OK - https://doozer.io/build/s8atxp51gm
+[18:20:24] <DoozerBot> PR-#485: add commands for accessing process storage, building targets: 02lib
+[18:23:37] <DoozerBot> 02lib: 03 v3.3.0.4 Build OK - https://doozer.io/build/kq7b3rqoyq
+[18:40:03] *** Joins fgsfds
+[19:02:04] *** Quits coggy9has (Quit: Leaving)
+[19:02:26] *** Joins coggy9
+[19:15:43] *** Quits coggy9 (Read error: Connection reset by peer)
+[19:24:03] *** Joins coggy9
+[19:46:22] *** Joins mukunda
+[19:49:23] <DoozerBot> PR-#485: add commands for accessing process storage, building targets: 02lib
+[19:53:29] <DoozerBot> 02lib: 03 v3.3.0.5 Build OK - https://doozer.io/build/n2v8cs3yqv
+[21:12:06] *** yuriks___ is now known as yuriks
+[22:31:35] <plutobot> Wiki | Page changed: TSEC | User: Hexkyz | https://switchbrew.org/w/index.php?curid=199&diff=9635&oldid=9619
+[22:53:18] *** Quits dcnick3 (Read error: Operation timed out)
+[23:08:25] *** Quits freundTec (Quit: ZNC disconnected. Probably just rebooting my server - ZNC 1.6.6+deb1ubuntu0.2 - http://znc.in)
+[23:09:35] *** Joins freundTec

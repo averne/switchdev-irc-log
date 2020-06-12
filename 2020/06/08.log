@@ -1,0 +1,228 @@
+[00:00:04] *** Joins yuriks
+[00:26:41] *** Quits yuriks (Ping timeout: 1230 seconds)
+[00:57:22] *** Joins yuriks
+[00:59:26] *** Quits yuriks (Read error: Connection reset by peer)
+[01:05:38] *** Joins yuriks
+[01:11:47] *** Quits yuriks (Read error: Connection reset by peer)
+[01:17:46] *** Joins yuriks
+[01:19:38] *** Joins foghorn2
+[01:21:22] *** Quits thejsa (Read error: Operation timed out)
+[01:23:08] *** Joins thejsa
+[01:26:03] *** Quits foghorn3 (Read error: Operation timed out)
+[01:26:17] *** Quits lemmy (Ping timeout: 610 seconds)
+[01:49:31] *** Quits yuriks (Ping timeout: 1230 seconds)
+[01:50:25] *** Joins yuriks
+[02:04:00] *** Quits yuriks (Read error: Connection reset by peer)
+[02:10:29] *** Joins yuriks
+[02:15:44] *** Joins lemmy
+[02:31:31] *** Quits yuriks (Ping timeout: 1230 seconds)
+[02:37:40] *** Quits GerbilSof (Quit: Windows must now restart because the Remote Procedure Call (RPC) service terminated unexpectedly.)
+[02:37:59] *** Joins yuriks
+[02:38:00] *** Joins GerbilSof
+[02:39:15] *** Quits yuriks (Read error: Connection reset by peer)
+[02:49:15] *** Joins rjeli__
+[02:57:13] *** Joins rjeli___
+[02:59:23] *** Joins yuriks
+[03:07:39] *** Quits yuriks (Read error: Connection reset by peer)
+[03:08:09] *** Quits rjeli___ (Read error: Connection reset by peer)
+[03:08:16] *** Quits rjeli__ (Ping timeout: 1230 seconds)
+[03:27:12] *** Joins yuriks
+[03:28:19] *** Quits panicbit (Ping timeout: 186 seconds)
+[03:31:18] *** Quits yuriks (Read error: Connection reset by peer)
+[03:37:31] *** Joins yuriks
+[03:42:15] *** Quits changoXPR (Read error: Operation timed out)
+[03:42:39] *** Joins panicbit
+[03:46:08] *** Quits yuriks (Read error: Connection reset by peer)
+[03:54:15] *** Joins yuriks
+[03:59:36] *** Joins rjeli___
+[04:02:29] *** Joins chang0-
+[04:09:29] <plutobot> Wiki | Page changed: Internet Browser | User: yls8 | https://switchbrew.org/w/index.php?curid=12&diff=9649&oldid=9610
+[04:34:59] *** Quits panicbit (Ping timeout: 186 seconds)
+[04:35:11] *** Joins panicbit
+[04:42:11] *** Quits rjeli___ (Ping timeout: 1230 seconds)
+[04:42:56] *** Quits refs (Quit: refs)
+[04:57:43] *** Joins rjeli___
+[05:15:10] *** Quits rjeli___ (Read error: Connection reset by peer)
+[05:15:48] *** Joins rjeli___
+[05:37:01] *** Quits rjeli___ (Ping timeout: 1230 seconds)
+[05:38:40] *** Joins rjeli___
+[05:54:08] *** Quits rjeli___ (Read error: Connection timed out)
+[05:55:12] *** Joins rjeli___
+[06:18:02] *** Quits rjeli___ (Read error: Connection reset by peer)
+[06:36:53] *** Quits yuriks (Read error: Connection reset by peer)
+[06:56:21] *** Joins yuriks
+[06:59:07] *** Joins rjeli___
+[07:17:21] *** Quits yuriks (Ping timeout: 1230 seconds)
+[07:18:16] *** Joins yuriks
+[07:20:16] *** Quits rjeli___ (Ping timeout: 1230 seconds)
+[07:22:25] *** Joins rjeli___
+[07:23:14] *** Quits yuriks (Read error: Connection reset by peer)
+[07:42:38] *** Joins yuriks
+[07:43:36] *** Quits rjeli___ (Ping timeout: 1230 seconds)
+[07:45:18] *** Joins TAL_
+[07:46:42] *** Joins irc
+[07:47:11] *** Joins datagutt_
+[07:47:17] *** Joins WntrDeaf
+[07:49:19] *** Joins plutoo_
+[07:50:01] *** Quits yuriks (Read error: Connection reset by peer)
+[07:51:37] *** Joins klockee
+[07:51:53] *** Quits Maylay (Ping timeout: 272 seconds)
+[07:54:50] *** Joins l1quid_
+[07:54:51] *** Quits l1quid_ (Remote host closed the connection!)
+[07:55:09] *** Joins yuriks
+[07:57:41] *** Joins l1quid_
+[07:58:18] *** Quits lemmy (se.hub irc.underworld.no)
+[07:58:18] *** Quits l1quid (se.hub irc.underworld.no)
+[07:58:18] *** Quits capin1 (se.hub irc.underworld.no)
+[07:58:18] *** Quits Behemoth_ (se.hub irc.underworld.no)
+[07:58:18] *** Quits klock (se.hub irc.underworld.no)
+[07:58:18] *** Quits TAL (se.hub irc.underworld.no)
+[07:58:18] *** Quits datagutt (se.hub irc.underworld.no)
+[07:58:18] *** Quits plutoo (se.hub irc.underworld.no)
+[07:58:18] *** Quits irc4 (se.hub irc.underworld.no)
+[07:58:18] *** Quits WntrMute (se.hub irc.underworld.no)
+[07:58:18] *** Quits Stary (se.hub irc.underworld.no)
+[07:58:40] *** Joins Stary_
+[08:00:26] *** Joins capin2
+[08:00:53] *** Joins rjeli___
+[08:03:22] *** Quits rjeli___ (Read error: Connection reset by peer)
+[08:09:40] *** Quits yuriks (Read error: Connection reset by peer)
+[08:13:48] *** WntrDeaf is now known as WntrMute
+[08:14:09] *** l1quid_ is now known as l1quid
+[08:14:12] *** datagutt_ is now known as datagutt
+[08:14:54] *** Joins yuriks
+[08:18:27] *** Joins lemmy
+[08:22:43] *** Joins rjeli___
+[08:38:04] *** Joins derk0pf
+[08:59:50] *** Quits derk0pf (Read error: Connection reset by peer)
+[09:05:48] *** Quits rjeli___ (Read error: Connection reset by peer)
+[09:12:32] *** TAL_ is now known as TAL
+[09:23:18] *** Quits KuKzz_ (Ping timeout: 496 seconds)
+[09:25:37] *** Joins rjeli___
+[09:41:11] *** Quits rjeli___ (Read error: Connection reset by peer)
+[09:42:38] *** Quits l1quid (Read error: Connection reset by peer)
+[09:52:09] *** Joins rjeli___
+[09:52:47] *** Quits rjeli___ (Read error: Connection reset by peer)
+[09:57:46] *** Quits yuriks (Ping timeout: 1230 seconds)
+[09:57:55] *** Joins rjeli___
+[09:58:35] *** Quits rjeli___ (Read error: Connection reset by peer)
+[10:01:17] *** Joins derk0pf
+[10:15:00] *** Joins yuriks
+[10:18:52] *** Joins rjeli___
+[10:22:24] *** Quits rjeli___ (Read error: Connection reset by peer)
+[10:25:43] *** Quits yuriks (Read error: Connection reset by peer)
+[10:28:09] *** Joins rjeli___
+[10:56:13] *** Joins yuriks
+[11:03:46] *** Quits Ferret (Remote host closed the connection)
+[11:06:14] *** Quits fgsfds (Read error: Connection reset by peer)
+[11:12:59] *** Joins rjeli____
+[11:13:30] *** Quits rjeli___ (Read error: Connection reset by peer)
+[11:13:30] *** rjeli____ is now known as rjeli___
+[11:33:01] *** Quits mukunda (Read error: Operation timed out)
+[11:33:31] *** Joins derk0pf_
+[11:35:22] *** Quits derk0pf (Read error: Operation timed out)
+[11:37:56] *** Quits awordnot (Read error: Operation timed out)
+[11:38:23] *** Quits giglife (Read error: Operation timed out)
+[11:39:34] *** Joins giglife
+[11:39:37] *** Quits balrog (Read error: Operation timed out)
+[11:40:05] *** Joins balrog
+[11:41:54] *** Quits tpw_rules (Read error: Operation timed out)
+[11:42:12] *** Quits hordak (Read error: Operation timed out)
+[11:43:12] *** Joins usineur
+[11:43:51] *** Quits j0hny5 (Read error: Operation timed out)
+[11:44:01] *** Quits usineur_ (Read error: Operation timed out)
+[11:45:52] *** Joins SCV
+[11:46:02] *** Quits endrift (Ping timeout: 622 seconds)
+[11:46:06] *** Quits AuroraWri (Read error: Operation timed out)
+[11:46:30] *** Quits |Shadow| (Read error: Operation timed out)
+[11:46:58] *** Quits derk0pf_ (Read error: Connection reset by peer)
+[11:51:40] *** Joins awordnot
+[11:51:43] *** Joins j0hny5
+[11:52:51] *** Joins AuroraWri
+[11:53:49] *** Joins tpw_rules
+[11:54:26] *** Joins |Shadow|
+[14:33:17] *** Quits Sentry (Quit: left EFNet)
+[14:33:29] *** Joins Snetry
+[14:50:50] *** Quits averne (quit)
+[14:54:07] *** Joins averne
+[14:54:07] *** Server sets mode: +stn 
+[14:54:56] *** Joins derk0pf
+[15:29:42] *** Quits derk0pf (Read error: Connection reset by peer)
+[15:51:39] *** Joins mukunda
+[15:56:24] *** Joins KuKzz
+[16:11:09] *** Quits yuriks (Read error: Connection reset by peer)
+[16:11:39] *** Quits rjeli___ (Read error: Connection reset by peer)
+[16:11:39] *** Quits SCV (Read error: Connection reset by peer)
+[16:41:41] *** Joins yuriks
+[16:42:02] *** Joins SCV
+[16:42:50] *** Quits yuriks (Read error: Connection reset by peer)
+[16:49:34] *** Joins SCV_
+[16:52:34] *** Joins rjeli___
+[17:02:24] *** Joins yuriks
+[17:02:26] *** Quits CCFL_Man (Read error: Operation timed out)
+[17:03:36] *** Quits SCV (Ping timeout: 1230 seconds)
+[17:10:36] *** Quits SCV_ (Ping timeout: 1230 seconds)
+[17:13:34] *** Joins rjeli____
+[17:14:06] *** Quits rjeli___ (Ping timeout: 1230 seconds)
+[17:14:06] *** rjeli____ is now known as rjeli___
+[17:14:22] *** Joins SCV_
+[17:26:34] *** Joins CCFL_Man
+[17:54:28] *** Quits SCV_ (Read error: Connection reset by peer)
+[17:54:28] *** Quits rjeli___ (Read error: Connection reset by peer)
+[18:05:26] *** Quits yuriks (Ping timeout: 1230 seconds)
+[18:06:22] *** Joins yuriks
+[18:14:08] *** Joins rjeli___
+[18:14:44] *** Joins SCV_
+[18:33:14] *** Quits yuriks (Read error: Connection reset by peer)
+[18:53:16] *** Joins yuriks
+[19:09:22] <plutobot> Wiki | Page changed: Fuses | User: Lacius | https://switchbrew.org/w/index.php?curid=186&diff=9650&oldid=9560
+[20:01:35] *** Quits rjeli___ (Read error: Connection reset by peer)
+[20:06:46] *** Quits yuriks (Ping timeout: 1230 seconds)
+[20:07:41] *** Joins yuriks
+[20:08:03] *** Joins rjeli___
+[20:15:31] *** Quits SCV_ (Ping timeout: 1230 seconds)
+[20:15:47] *** Quits yuriks (Read error: Connection reset by peer)
+[20:26:21] *** Quits rjeli___ (Read error: Connection reset by peer)
+[20:28:55] *** Joins derk0pf
+[20:31:16] *** Quits derk0pf (Remote host closed the connection)
+[20:35:17] *** Joins derk0pf
+[20:35:46] *** Joins yuriks
+[20:52:37] *** Joins yuriks_
+[20:52:37] *** Quits yuriks (Read error: Connection reset by peer)
+[20:52:37] *** yuriks_ is now known as yuriks
+[20:55:46] *** Quits hexkyz (Ping timeout: 745 seconds)
+[20:56:55] *** Quits yuriks (Read error: Connection reset by peer)
+[20:57:16] *** Joins fgsfds
+[21:03:21] *** Joins yuriks
+[21:06:37] *** Joins hexkyz
+[21:06:47] *** Joins rjeli___
+[21:26:57] *** Joins refs
+[21:40:23] <plutobot> Wiki | Page changed: Fuses | User: Hexkyz | https://switchbrew.org/w/index.php?curid=186&diff=9651&oldid=9650
+[21:42:05] <plutobot> Wiki | Page changed: Fuses | User: Hexkyz | https://switchbrew.org/w/index.php?curid=186&diff=9652&oldid=9651
+[21:47:42] *** Quits mukunda (Ping timeout: 492 seconds)
+[22:03:10] <plutobot> Wiki | Page changed: Fuses | User: Hexkyz | https://switchbrew.org/w/index.php?curid=186&diff=9653&oldid=9652
+[22:09:51] *** Quits rjeli___ (Ping timeout: 1230 seconds)
+[22:16:21] *** Joins rjeli___
+[22:16:59] *** Quits rjeli___ (Read error: Connection reset by peer)
+[22:23:33] *** Joins rjeli___
+[22:23:37] *** Quits rjeli___ (Read error: Connection reset by peer)
+[22:41:39] *** Joins rjeli___
+[22:59:27] *** Joins SCV_
+[23:19:31] *** Joins KuKzz_
+[23:19:46] *** Joins Summeli
+[23:21:37] *** Quits KuKzz (Ping timeout: 272 seconds)
+[23:21:37] *** Quits plutobot (Ping timeout: 272 seconds)
+[23:22:15] *** Quits m4tsa (Ping timeout: 272 seconds)
+[23:22:15] *** Quits DacoTaco (Ping timeout: 272 seconds)
+[23:22:53] *** Quits Stary_ (Ping timeout: 272 seconds)
+[23:22:53] *** Quits AlexAltea (Ping timeout: 272 seconds)
+[23:22:53] *** Quits madk (Ping timeout: 272 seconds)
+[23:22:53] *** Quits des^ (Ping timeout: 272 seconds)
+[23:22:57] *** Quits yuriks (Read error: Connection reset by peer)
+[23:22:57] *** Quits rjeli___ (Read error: Connection reset by peer)
+[23:23:31] *** Quits flewkey (Ping timeout: 272 seconds)
+[23:23:40] *** Joins Stary
+[23:26:27] *** Joins yuriks
+[23:26:28] *** Joins rjeli___
+[23:49:32] *** Joins AlexAltea
+[23:57:38] *** Quits SCV_ (Read error: Connection reset by peer)

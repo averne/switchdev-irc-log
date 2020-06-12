@@ -1,0 +1,100 @@
+[00:49:03] *** Quits oldtopman (Read error: Operation timed out)
+[01:04:17] *** Joins oldtopman
+[02:59:30] <plutobot> Wiki | Page changed: Cabinet Applet | User: yls8 | https://switchbrew.org/w/index.php?curid=410&diff=9640&oldid=9639
+[02:59:51] <plutobot> Wiki | Page changed: Cabinet Applet | User: yls8 | https://switchbrew.org/w/index.php?curid=410&diff=9641&oldid=9640
+[03:29:23] *** Quits panicbit (Ping timeout: 186 seconds)
+[03:43:45] *** Joins panicbit
+[04:08:02] *** Quits refs (Quit: refs)
+[04:11:55] <plutobot> Wiki | Page changed: Switch System Flaws | User: SciresM | https://switchbrew.org/w/index.php?curid=14&diff=9642&oldid=9131
+[04:13:17] <plutobot> Wiki | Page changed: Switch System Flaws | User: SciresM | https://switchbrew.org/w/index.php?curid=14&diff=9643&oldid=9642
+[04:13:47] <plutobot> Wiki | Page changed: Switch System Flaws | User: SciresM | https://switchbrew.org/w/index.php?curid=14&diff=9644&oldid=9643
+[04:34:21] <plutobot> Wiki | Page changed: Cabinet Applet | User: yls8 | https://switchbrew.org/w/index.php?curid=410&diff=9645&oldid=9641
+[04:40:55] <plutobot> GitHub | New commit | User: yellows | https://github.com/switchbrew/libnx/commit/9dc185ba3c
+[04:40:55] <DoozerBot> yellows8 pushed to master: Added support for libapplet nfpLa (amiibo). "Added support for libapplet nfpLa (amiibo)." [032 files added07, 1 file modified], building targets: 02lib
+[04:45:13] <DoozerBot> 02lib: 03 v3.3.0.3 Build OK - https://doozer.io/build/bz8b2uc3ut
+[06:29:05] *** Quits mukunda (Ping timeout: 492 seconds)
+[07:27:15] *** Quits panicbit (Ping timeout: 186 seconds)
+[07:27:27] *** Joins panicbit
+[08:04:26] *** Quits fgsfds (Read error: Connection reset by peer)
+[08:45:25] *** Quits coggy9 (Read error: Connection reset by peer)
+[09:14:09] *** Quits flewkey (Quit: Ping timeout (120 seconds))
+[09:14:33] *** Joins flewkey
+[10:05:18] *** Joins derk0pf
+[11:17:39] *** Quits panicbit (Ping timeout: 186 seconds)
+[12:01:56] *** Joins panicbit
+[13:06:00] *** Quits uyjulian (Quit: ZNC - http://znc.in)
+[13:06:24] *** Joins uyjulian
+[13:31:34] *** Joins refs
+[13:38:11] *** Quits Maylay (Read error: Operation timed out)
+[13:39:11] *** Joins Maylay
+[14:34:54] *** Quits derk0pf (Read error: Operation timed out)
+[15:42:27] *** Joins mukunda
+[16:00:41] *** averne_ is now known as averne
+[16:07:02] *** Joins derk0pf
+[16:52:03] *** Joins m4tsa
+[16:53:49] *** Quits m4ts (Ping timeout: 272 seconds)
+[18:04:58] *** Joins derk0pf_
+[18:07:57] *** Quits derk0pf (Ping timeout: 265 seconds)
+[18:14:20] *** Joins fgsfds
+[19:50:55] *** Quits derk0pf_ (Read error: Operation timed out)
+[20:27:04] <plutobot> Wiki | Page changed: Switch System Flaws | User: Hexkyz | https://switchbrew.org/w/index.php?curid=14&diff=9646&oldid=9644
+[21:06:30] <plutobot> Wiki | Page changed: OLSC services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=347&diff=9647&oldid=9210
+[21:07:11] <plutobot> Wiki | Page changed: OLSC services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=347&diff=9648&oldid=9647
+[21:43:10] *** Joins ^f4h-Q^
+[21:44:07] *** Joins jn_
+[21:45:31] *** Joins Phils3r
+[21:45:46] *** Joins thejsa
+[21:45:57] *** Joins mid-kid2
+[21:46:00] *** Joins rctgamer
+[21:46:05] *** Joins derrek_
+[21:48:58] *** Joins l1quid_
+[21:49:11] *** Quits Phils3r_ (Ping timeout: 615 seconds)
+[21:49:11] *** Quits Ferret (Ping timeout: 615 seconds)
+[21:49:11] *** Quits jn (Ping timeout: 615 seconds)
+[21:49:11] *** ^f4h-Q^ is now known as Ferret
+[21:49:11] *** Quits l1quid (Ping timeout: 745 seconds)
+[21:49:11] *** l1quid_ is now known as l1quid
+[21:49:11] *** Quits carsten1 (Ping timeout: 745 seconds)
+[21:49:12] *** Quits rctgamer3 (Ping timeout: 615 seconds)
+[21:49:46] *** Quits Ghabry (Ping timeout: 745 seconds)
+[21:50:56] *** Quits yuriks (Ping timeout: 1230 seconds)
+[21:50:56] *** Quits mid-kid1 (Ping timeout: 745 seconds)
+[21:50:57] *** Quits Summeli (Ping timeout: 745 seconds)
+[21:51:32] *** Quits thejsa_ (Ping timeout: 745 seconds)
+[21:51:33] *** Quits derrek (Ping timeout: 745 seconds)
+[21:51:33] *** derrek_ is now known as derrek
+[21:52:54] *** Joins carsten1
+[21:53:51] *** Quits rjeli__ (Ping timeout: 1230 seconds)
+[21:56:10] *** Joins Ghabry
+[21:56:54] *** Joins coriolis
+[21:59:06] *** Quits SCV (Ping timeout: 1230 seconds)
+[22:00:57] *** Quits Ghabry (Read error: Connection timed out)
+[22:05:39] *** Joins Ghabry
+[22:30:26] *** Joins rjeli__
+[22:30:31] *** Quits rjeli__ (Read error: Connection reset by peer)
+[22:31:46] *** Quits Aaerox (Read error: Operation timed out)
+[22:31:48] *** Joins giglife_
+[22:31:49] *** Quits yls8bot (Write error: Broken pipe)
+[22:32:52] *** Quits Lightswor (Read error: Operation timed out)
+[22:34:01] *** Joins Lightswor
+[22:34:19] *** Quits giglife (Read error: Operation timed out)
+[22:34:19] *** giglife_ is now known as giglife
+[22:35:23] *** Quits yellows8 (Read error: Operation timed out)
+[22:35:33] *** Joins yellows8
+[22:35:33] *** WntrMute sets mode: +o yellows8
+[22:35:49] *** Quits Surkow (Read error: Operation timed out)
+[22:38:12] *** Joins Kyouju-
+[22:38:25] *** Quits GrecKo (Read error: Operation timed out)
+[22:39:53] *** Quits AlexAltea (Read error: Operation timed out)
+[22:41:14] *** Quits DeusQain (Read error: Operation timed out)
+[22:41:38] *** Joins GrecKo
+[22:43:01] *** Quits Kyouju (Read error: Operation timed out)
+[22:43:01] *** Kyouju- is now known as Kyouju
+[22:44:35] *** Joins AlexAltea
+[22:46:03] *** Joins Surkow
+[22:47:19] *** Joins rjeli__
+[22:48:26] *** Joins DeusQain
+[22:53:44] *** Joins Aaerox
+[22:54:14] *** Joins yls8bot
+[22:54:24] *** yellows8 sets mode: +o yls8bot
+[23:41:45] *** Quits rjeli__ (Read error: Connection reset by peer)

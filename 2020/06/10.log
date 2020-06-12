@@ -1,0 +1,114 @@
+[00:41:38] <plutobot> Wiki | Page changed: Applet Manager services | User: yls8 | https://switchbrew.org/w/index.php?curid=132&diff=9654&oldid=9636
+[01:16:38] <plutobot> Wiki | New page: MiiEdit Applet | User: yls8 | https://switchbrew.org/w/index.php?curid=411
+[01:30:17] *** Joins CCFL_Man
+[01:54:51] *** Joins dibas
+[02:09:03] *** Quits coggy9 (Ping timeout: 265 seconds)
+[02:17:45] *** Quits derk0pf (Ping timeout: 265 seconds)
+[02:20:10] *** Quits refs (Quit: refs)
+[02:51:20] *** Joins rajkosto
+[03:08:00] *** Quits |Shadow| (Read error: Operation timed out)
+[03:19:11] <plutobot> Wiki | Page changed: MiiEdit Applet | User: yls8 | https://switchbrew.org/w/index.php?curid=411&diff=9656&oldid=9655
+[03:19:59] *** Joins |Shadow|
+[03:24:28] <plutobot> Wiki | Page changed: MiiEdit Applet | User: yls8 | https://switchbrew.org/w/index.php?curid=411&diff=9657&oldid=9656
+[03:29:46] *** Quits rajkosto (Quit: Leaving)
+[03:30:01] *** Joins rajkosto
+[03:42:47] *** Joins coggy9
+[04:01:37] <plutobot> GitHub | New commit | User: yellows | https://github.com/switchbrew/libnx/commit/7940d8e9e1
+[04:01:41] <DoozerBot> yellows8 pushed to master: Added support for the miiLa libapplet (MiiEdit). "Added support for the miiLa libapplet (MiiEdit)." [032 files added07, 1 file modified], building targets: 02lib
+[04:03:29] <DoozerBot> yellows8 pushed to master: miiLa: Minor docs adjustment. "miiLa: Minor docs adjustment." [071 file modified], building targets: 02lib
+[04:03:30] <DoozerBot> 02lib: 08 v3.3.0.4 Cancelled - https://doozer.io/build/hpu8gxna5u
+[04:03:33] <plutobot> GitHub | New commit | User: yellows | https://github.com/switchbrew/libnx/commit/05badbdc29
+[04:06:32] <DoozerBot> 02lib: 03 v3.3.0.5 Build OK - https://doozer.io/build/n2ymquevvi
+[05:17:28] *** Joins CCFL_Man_
+[05:17:45] *** Quits CCFL_Man (Ping timeout: 272 seconds)
+[05:58:51] *** Joins endrift
+[06:14:40] *** CCFL_Man_ is now known as CCFL_Man
+[06:49:22] *** Joins thejsa_
+[06:57:25] *** Quits thejsa (Ping timeout: 745 seconds)
+[08:19:49] *** Quits figgis_ (Read error: Connection reset by peer)
+[08:32:19] *** Quits panicbit (Ping timeout: 186 seconds)
+[08:32:32] *** Joins panicbit
+[08:58:13] *** lansiir is now known as oldtopman
+[09:30:20] *** Quits CCFL_Man (Ping timeout: 265 seconds)
+[09:31:21] *** Joins CCFL_Man
+[10:40:48] *** Quits |Shadow| ()
+[10:47:17] *** Quits plutoo_ (se.hub irc.nordunet.se)
+[10:51:19] *** Joins |Shadow|
+[10:55:52] *** Joins plutoo
+[11:04:41] *** Quits |Shadow| ()
+[11:09:54] *** Joins |Shadow|
+[11:46:48] *** Joins rajko
+[11:48:28] *** Quits rajkosto (Ping timeout: 255 seconds)
+[11:50:46] *** Quits rajko (hub.efnet.us irc.Prison.NET)
+[12:12:59] *** Quits balrog (Read error: Operation timed out)
+[12:13:31] *** Quits mtheall_ (Read error: Operation timed out)
+[12:13:46] *** Joins mtheall
+[12:13:48] *** Quits ds84183 (Read error: Operation timed out)
+[12:13:50] *** Joins balrog
+[12:14:02] *** Joins ds84182
+[12:14:04] *** Quits capin2 (Read error: Operation timed out)
+[12:14:57] *** Quits nrq_ (Read error: Operation timed out)
+[12:15:28] *** Quits WntrMute (Ping timeout: 260 seconds)
+[12:15:37] *** Joins capin2
+[12:15:56] *** Quits Behemoth_ (Ping timeout: 260 seconds)
+[12:15:56] *** Quits Cu3PO42 (Ping timeout: 260 seconds)
+[12:16:03] *** Snetry is now known as Sentry
+[12:16:52] *** Quits irc1 (Ping timeout: 260 seconds)
+[12:16:52] *** Quits Jdbye (Ping timeout: 260 seconds)
+[12:16:52] *** Quits fincs (Ping timeout: 260 seconds)
+[12:17:45] *** Joins nrq
+[12:17:52] *** Joins irc1
+[12:19:30] *** Joins Behemoth_
+[12:19:40] *** Quits cpnc0ke (Ping timeout: 492 seconds)
+[12:21:26] *** Joins cpnc0ke
+[12:23:37] *** Joins Cu3PO42
+[12:27:14] *** Joins Jdbye
+[12:31:40] *** Joins rajkosto
+[12:31:46] *** Quits noirscape (Read error: Operation timed out)
+[12:32:05] *** Joins noirscape
+[12:52:10] *** Joins theKlanc
+[12:52:10] *** Quits klanc (Read error: Connection reset by peer)
+[13:19:35] *** Joins rajko
+[13:21:26] *** Quits rajkosto (hub.efnet.us irc.Prison.NET)
+[13:39:15] *** Quits uyjulian (Quit: ZNC - http://znc.in)
+[13:39:39] *** Joins uyjulian
+[14:36:33] *** Joins fincs
+[15:57:31] *** Joins derk0pf
+[16:23:11] *** Quits derk0pf (Read error: Connection reset by peer)
+[16:37:32] *** Quits GeekShad1 (Remote host closed the connection)
+[17:06:35] *** Joins mukunda
+[17:20:03] *** Quits averne (quit)
+[17:23:52] *** Joins averne
+[17:23:52] *** Server sets mode: +stn 
+[17:42:43] *** Joins fgsfds
+[18:08:58] *** Joins derk0pf
+[18:14:11] *** Quits panicbit (Ping timeout: 186 seconds)
+[18:14:23] *** Joins panicbit
+[18:26:08] *** Quits averne (quit)
+[18:28:30] *** Joins averne
+[18:28:30] *** Server sets mode: +stn 
+[18:29:51] *** Quits rajko (Read error: Connection reset by peer)
+[18:44:53] *** Quits derk0pf (Read error: Connection reset by peer)
+[19:15:22] *** Joins derk0pf
+[19:30:21] *** Quits ris2z (Ping timeout: 492 seconds)
+[19:30:46] *** Joins n87
+[19:34:17] *** Joins ris2z
+[19:34:19] *** Quits ris2z (Remote host closed the connection!)
+[19:36:28] *** Joins ris2z
+[19:43:25] *** Quits n87 (Read error: Connection reset by peer)
+[20:00:26] *** Joins derk0pf_
+[20:00:26] *** Quits derk0pf (Read error: Connection reset by peer)
+[20:10:28] *** Quits derk0pf_ (Quit: leaving)
+[20:10:50] *** Joins derk0pf
+[21:27:21] *** Joins refs
+[21:52:32] *** Quits flewkey (Quit: The Lounge - https://thelounge.chat)
+[22:04:21] *** Quits averne (quit)
+[22:29:33] *** Joins averne
+[22:29:33] *** Server sets mode: +stn 
+[22:59:39] *** Quits mukunda ()
+[23:14:47] *** Quits derk0pf (Remote host closed the connection)
+[23:39:58] *** Joins omlet05_
+[23:39:58] *** Quits omlet05 (Read error: Connection reset by peer)
+[23:50:34] *** Quits kyaputen9 (Ping timeout: 610 seconds)
+[23:54:06] *** Joins irc2
+[23:56:15] *** Quits irc1 (Ping timeout: 610 seconds)

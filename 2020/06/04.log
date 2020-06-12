@@ -1,0 +1,67 @@
+[01:30:47] *** Quits refs (Quit: refs)
+[01:30:50] *** Joins Sentry-
+[01:31:19] *** Quits Snetry (Read error: Connection refused)
+[04:25:06] *** Quits averne (quit)
+[04:26:54] *** Joins averne_
+[04:26:54] *** Server sets mode: +stn 
+[04:34:13] *** Quits averne (Read error: Operation timed out)
+[04:45:47] *** Joins Snetry
+[04:47:07] *** Quits Sentry- (Read error: Connection refused)
+[05:53:59] *** Quits mukunda (Read error: Connection reset by peer)
+[06:27:27] *** Joins KuKzz
+[06:27:50] *** Quits KuKzz_ (Ping timeout: 496 seconds)
+[08:38:00] *** Joins dcnick3
+[09:10:05] *** Quits figgis_ (Remote host closed the connection)
+[09:10:54] *** Joins fgsfds
+[09:10:56] *** Quits CCFL_Man (Ping timeout: 265 seconds)
+[10:56:50] *** averne_ is now known as averne
+[10:57:14] *** Joins Sentry-
+[10:58:09] *** Quits Snetry (Read error: Operation timed out)
+[12:06:28] *** Joins figgis_
+[12:14:03] *** Quits fgsfds (Read error: Operation timed out)
+[13:27:48] *** Joins CCFL_Man
+[13:34:44] *** Quits CCFL_Man (Connection closed)
+[14:27:43] *** Quits dcnick3 (Read error: Operation timed out)
+[14:34:27] *** Joins figgis__
+[14:42:02] *** Quits figgis_ (Read error: Operation timed out)
+[15:34:41] *** Quits chang0- (Ping timeout: 272 seconds)
+[15:36:14] *** Joins chang0-
+[16:05:18] *** Joins dcnick3
+[16:44:25] <plutobot> Wiki | Page changed: HID Shared Memory | User: yls8 | https://switchbrew.org/w/index.php?curid=83&diff=9620&oldid=8944
+[16:52:45] *** Quits |Shadow| (Read error: Connection reset by peer)
+[16:54:15] *** Quits hordak (Read error: Connection reset by peer)
+[16:55:44] *** Joins hordak
+[16:56:24] *** Quits ris2z (Read error: Connection reset by peer)
+[16:58:24] *** Joins ris2z
+[17:29:57] *** Quits karolherb (Read error: Connection reset by peer)
+[17:30:31] *** Joins karolherb
+[18:27:01] *** Quits capin (Quit: WeeChat 2.8)
+[18:27:22] *** Joins capin
+[20:16:48] *** Quits figgis__ (Quit: Leaving)
+[20:17:05] *** Joins fgsfds
+[20:48:12] *** Joins refs
+[23:02:01] *** Quits dcnick3 (Read error: Operation timed out)
+[23:12:49] <Behemoth> Do you know how OpenDataStorageByProgramId/OpenDataFileSystemByProgramId are supposed to work?
+[23:12:50] <Behemoth> With programs that aren't running I get 0x339a02 (undocumented) bc it doesn't find it in a linked list.
+[23:12:50] <Behemoth> With programs that _are_ running I get 0x320002 (access denied according to the wiki)
+[23:13:20] *** Joins |Shadow|
+[23:15:35] <Behemoth> It's not in libnx btw.
+[23:15:35] <Behemoth> We plan to use it to access applet romfs to get access to their audio files without requiring the user to dump them or having to codewash to fit our license.
+[23:22:28] <yellows8> dunno
+[23:24:08] <Behemoth> Do you know of another way to mount applet romfs?
+[23:24:11] <yellows8> are you testing this under hbl?
+[23:24:17] <Behemoth> yes
+[23:24:43] *** Joins coggy9
+[23:25:03] <Behemoth> on album override I get it's contents with mount to self but for every title override it's the titles files.
+[23:27:15] <Behemoth> *patching the access denied in fs works but that's undesireable and unmaintainable
+[23:29:30] <yellows8> what are you patching? hbl is supposed to have fs_permissions={all} :/
+[23:30:04] <Behemoth> it doesn't check those permissions here
+[23:30:47] *** Joins dcnick3
+[23:31:42] <Behemoth> 10.0.0 fs .text+0x74c20
+[23:31:49] <Behemoth> tbh I have no idea what it verifies here
+[23:33:33] <Behemoth> that's also called by OpenDataFileSystemWithProgramIndex & OpenDataStorageWithProgramIndex
+[23:56:00] <yellows8> isn't this for a custom-libraryapplet? why does it need to access other-program-romfs?
+[23:57:20] *** Quits dcnick3 (Read error: Operation timed out)
+[23:57:41] *** Joins dcnick3
+[23:58:33] <Behemoth> The library I use (borealis) is made to mimic switch's UI and not just for library applet replacements.
+[23:58:33] <Behemoth> Now we wanted to use the HOS sounds.
