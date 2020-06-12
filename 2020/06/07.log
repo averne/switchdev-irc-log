@@ -1,0 +1,100 @@
+[00:49:03] *** Quits: oldtopman (~oldtopman@75-166-195-89.hlrn.qwest.net) (Read error: Operation timed out)
+[01:04:17] *** Joins: oldtopman (~oldtopman@97-118-95-228.hlrn.qwest.net)
+[02:59:30] <plutobot> Wiki | Page changed: Cabinet Applet | User: yls8 | https://switchbrew.org/w/index.php?curid=410&diff=9640&oldid=9639
+[02:59:51] <plutobot> Wiki | Page changed: Cabinet Applet | User: yls8 | https://switchbrew.org/w/index.php?curid=410&diff=9641&oldid=9640
+[03:29:23] *** Quits: panicbit (~panicbit@p5b09e867.dip0.t-ipconnect.de) (Ping timeout: 186 seconds)
+[03:43:45] *** Joins: panicbit (~panicbit@p57adee7d.dip0.t-ipconnect.de)
+[04:08:02] *** Quits: refs (~refs@p200300dd872b3c003597dc8797531d35.dip0.t-ipconnect.de) (Quit: refs)
+[04:11:55] <plutobot> Wiki | Page changed: Switch System Flaws | User: SciresM | https://switchbrew.org/w/index.php?curid=14&diff=9642&oldid=9131
+[04:13:17] <plutobot> Wiki | Page changed: Switch System Flaws | User: SciresM | https://switchbrew.org/w/index.php?curid=14&diff=9643&oldid=9642
+[04:13:47] <plutobot> Wiki | Page changed: Switch System Flaws | User: SciresM | https://switchbrew.org/w/index.php?curid=14&diff=9644&oldid=9643
+[04:34:21] <plutobot> Wiki | Page changed: Cabinet Applet | User: yls8 | https://switchbrew.org/w/index.php?curid=410&diff=9645&oldid=9641
+[04:40:55] <plutobot> GitHub | New commit | User: yellows | https://github.com/switchbrew/libnx/commit/9dc185ba3c
+[04:40:55] <DoozerBot> yellows8 pushed to master: Added support for libapplet nfpLa (amiibo). "Added support for libapplet nfpLa (amiibo)." [032 files added07, 1 file modified], building targets: 02lib
+[04:45:13] <DoozerBot> 02lib: 03 v3.3.0.3 Build OK - https://doozer.io/build/bz8b2uc3ut
+[06:29:05] *** Quits: mukunda (~mukunda@adsl-074-188-208-203.sip.asm.bellsouth.net) (Ping timeout: 492 seconds)
+[07:27:15] *** Quits: panicbit (~panicbit@p57adee7d.dip0.t-ipconnect.de) (Ping timeout: 186 seconds)
+[07:27:27] *** Joins: panicbit (~panicbit@p57adee7d.dip0.t-ipconnect.de)
+[08:04:26] *** Quits: fgsfds (~figgis@93.123.144.171) (Read error: Connection reset by peer)
+[08:45:25] *** Quits: coggy9 (~coggy9@2600:6c58:7300:400:cc33:df9:44ba:e35a) (Read error: Connection reset by peer)
+[09:14:09] *** Quits: flewkey (~flewkey@173.231.63.70) (Quit: Ping timeout (120 seconds))
+[09:14:33] *** Joins: flewkey (~flewkey@173.231.63.70)
+[10:05:18] *** Joins: derk0pf (~derk0pf@x59cc87b7.dyn.telefonica.de)
+[11:17:39] *** Quits: panicbit (~panicbit@p57adee7d.dip0.t-ipconnect.de) (Ping timeout: 186 seconds)
+[12:01:56] *** Joins: panicbit (~panicbit@p57adee7d.dip0.t-ipconnect.de)
+[13:06:00] *** Quits: uyjulian (~uyjulian@69-110-38-205.lightspeed.lbcktx.sbcglobal.net) (Quit: ZNC - http://znc.in)
+[13:06:24] *** Joins: uyjulian (~uyjulian@69-110-38-205.lightspeed.lbcktx.sbcglobal.net)
+[13:31:34] *** Joins: refs (~refs@p200300dd873845006cd90bbdb410c8c5.dip0.t-ipconnect.de)
+[13:38:11] *** Quits: Maylay (~gren@108-198-59-230.lightspeed.miamfl.sbcglobal.net) (Read error: Operation timed out)
+[13:39:11] *** Joins: Maylay (~gren@108-198-59-230.lightspeed.miamfl.sbcglobal.net)
+[14:34:54] *** Quits: derk0pf (~derk0pf@x59cc87b7.dyn.telefonica.de) (Read error: Operation timed out)
+[15:42:27] *** Joins: mukunda (~mukunda@adsl-074-188-208-203.sip.asm.bellsouth.net)
+[16:00:41] *** averne_ is now known as averne
+[16:07:02] *** Joins: derk0pf (~derk0pf@x59cc87b7.dyn.telefonica.de)
+[16:52:03] *** Joins: m4tsa (~mats@ti0030a400-2881.bb.online.no)
+[16:53:49] *** Quits: m4ts (~mats@ti0030a400-2881.bb.online.no) (Ping timeout: 272 seconds)
+[18:04:58] *** Joins: derk0pf_ (~derk0pf@x59cc820f.dyn.telefonica.de)
+[18:07:57] *** Quits: derk0pf (~derk0pf@x59cc87b7.dyn.telefonica.de) (Ping timeout: 265 seconds)
+[18:14:20] *** Joins: fgsfds (~figgis@93.123.144.171)
+[19:50:55] *** Quits: derk0pf_ (~derk0pf@x59cc820f.dyn.telefonica.de) (Read error: Operation timed out)
+[20:27:04] <plutobot> Wiki | Page changed: Switch System Flaws | User: Hexkyz | https://switchbrew.org/w/index.php?curid=14&diff=9646&oldid=9644
+[21:06:30] <plutobot> Wiki | Page changed: OLSC services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=347&diff=9647&oldid=9210
+[21:07:11] <plutobot> Wiki | Page changed: OLSC services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=347&diff=9648&oldid=9647
+[21:43:10] *** Joins: ^f4h-Q^ (dook.dook@2607:2200:0:2347:0:3353:3c:e832)
+[21:44:07] *** Joins: jn_ (~quassel@5.146.194.186)
+[21:45:31] *** Joins: Phils3r (~Phil@phils3r.de)
+[21:45:46] *** Joins: thejsa (~eva@lana.core.fs3d.net)
+[21:45:57] *** Joins: mid-kid2 (~mid-kid@136-144-185-148.colo.transip.net)
+[21:46:00] *** Joins: rctgamer (~rctgamer3@185.66.251.249)
+[21:46:05] *** Joins: derrek_ (fBnYArdPiM@sirius.uberspace.de)
+[21:48:58] *** Joins: l1quid_ (~lq@2001:41d0:8:c23a::1)
+[21:49:11] *** Quits: Phils3r_ (~Phil@2a02:c205:3000:2328::1) (Ping timeout: 615 seconds)
+[21:49:11] *** Quits: Ferret (dook.dook@2607:2200:0:2347:0:3353:3c:e832) (Ping timeout: 615 seconds)
+[21:49:11] *** Quits: jn (~quassel@2a02:908:1062:f900:20d:b9ff:fe49:15fc) (Ping timeout: 615 seconds)
+[21:49:11] *** ^f4h-Q^ is now known as Ferret
+[21:49:11] *** Quits: l1quid (~lq@2001:41d0:8:c23a::1) (Ping timeout: 745 seconds)
+[21:49:11] *** l1quid_ is now known as l1quid
+[21:49:11] *** Quits: carsten1 (AMzPn3nwvi@2001:1a50:11:0:5f:8f:accb:19b) (Ping timeout: 745 seconds)
+[21:49:12] *** Quits: rctgamer3 (~rctgamer3@2a00:f10:121:a00:4ba:60ff:fe00:196c) (Ping timeout: 615 seconds)
+[21:49:46] *** Quits: Ghabry (~ghabry@datengurke.mastergk.de) (Ping timeout: 745 seconds)
+[21:50:56] *** Quits: yuriks (sid369190@2001:67c:2f08:5::5:a226) (Ping timeout: 1230 seconds)
+[21:50:56] *** Quits: mid-kid1 (~mid-kid@2a01:7c8:aac8:1e8:5054:ff:fe5e:cd48) (Ping timeout: 745 seconds)
+[21:50:57] *** Quits: Summeli (summeli@irc.summeli.com) (Ping timeout: 745 seconds)
+[21:51:32] *** Quits: thejsa_ (~jsa@lana.core.fs3d.net) (Ping timeout: 745 seconds)
+[21:51:33] *** Quits: derrek (mSDO5XZiAH@2001:1a50:11:0:5f:8f:acec:1) (Ping timeout: 745 seconds)
+[21:51:33] *** derrek_ is now known as derrek
+[21:52:54] *** Joins: carsten1 (rdr8gKy9g3@2001:1a50:11:0:5f:8f:accb:19b)
+[21:53:51] *** Quits: rjeli__ (sid289321@2001:67c:2f08:3::4:6a29) (Ping timeout: 1230 seconds)
+[21:56:10] *** Joins: Ghabry (~ghabry@datengurke.mastergk.de)
+[21:56:54] *** Joins: coriolis (~coriolis@ns398009.ip-192-95-24.net)
+[21:59:06] *** Quits: SCV (sid226262@2001:67c:2f08:3::3:73d6) (Ping timeout: 1230 seconds)
+[22:00:57] *** Quits: Ghabry (~ghabry@datengurke.mastergk.de) (Read error: Connection timed out)
+[22:05:39] *** Joins: Ghabry (~ghabry@datengurke.mastergk.de)
+[22:30:26] *** Joins: rjeli__ (sid289321@192.184.9.112)
+[22:30:31] *** Quits: rjeli__ (sid289321@192.184.9.112) (Read error: Connection reset by peer)
+[22:31:46] *** Quits: Aaerox (Aaerox@fuckyou.k.thnx.org) (Read error: Operation timed out)
+[22:31:48] *** Joins: giglife_ (giglife@CPE0492268436b0-CM688f2e1dc9d0.cpe.net.cable.rogers.com)
+[22:31:49] *** Quits: yls8bot (~yls8bot@mtheall.com) (Write error: Broken pipe)
+[22:32:52] *** Quits: Lightswor (~Lightswor@107.170.253.193) (Read error: Operation timed out)
+[22:34:01] *** Joins: Lightswor (~Lightswor@2604:a880:1:20::1d3:9001)
+[22:34:19] *** Quits: giglife (giglife@CPE0492268436b0-CM688f2e1dc9d0.cpe.net.cable.rogers.com) (Read error: Operation timed out)
+[22:34:19] *** giglife_ is now known as giglife
+[22:35:23] *** Quits: yellows8 (~yellows8@adiza.nexticom.net) (Read error: Operation timed out)
+[22:35:33] *** Joins: yellows8 (yellows8@adiza.nexticom.net)
+[22:35:33] *** WntrMute sets mode: +o yellows8
+[22:35:49] *** Quits: Surkow (~Surkow@84-104-14-64.cable.dynamic.v4.ziggo.nl) (Read error: Operation timed out)
+[22:38:12] *** Joins: Kyouju- (~Kyouju@2001:41d0:8:e68a::)
+[22:38:25] *** Quits: GrecKo (~grecko@static.9.103.4.46.clients.your-server.de) (Read error: Operation timed out)
+[22:39:53] *** Quits: AlexAltea (~alexaltea@phi.nz) (Read error: Operation timed out)
+[22:41:14] *** Quits: DeusQain (quasselcor@mx.qainsworld.com) (Read error: Operation timed out)
+[22:41:38] *** Joins: GrecKo (~grecko@static.9.103.4.46.clients.your-server.de)
+[22:43:01] *** Quits: Kyouju (~Kyouju@ks3311808.kimsufi.com) (Read error: Operation timed out)
+[22:43:01] *** Kyouju- is now known as Kyouju
+[22:44:35] *** Joins: AlexAltea (~alexaltea@phi.nz)
+[22:46:03] *** Joins: Surkow (~Surkow@84-104-14-64.cable.dynamic.v4.ziggo.nl)
+[22:47:19] *** Joins: rjeli__ (sid289321@192.184.9.112)
+[22:48:26] *** Joins: DeusQain (~DeusQain@mx.qainsworld.com)
+[22:53:44] *** Joins: Aaerox (Aaerox@fuckyou.k.thnx.org)
+[22:54:14] *** Joins: yls8bot (~yls8bot@mtheall.com)
+[22:54:24] *** yellows8 sets mode: +o yls8bot
+[23:41:45] *** Quits: rjeli__ (sid289321@192.184.9.112) (Read error: Connection reset by peer)

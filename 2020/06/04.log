@@ -1,0 +1,67 @@
+[01:30:47] *** Quits: refs (~refs@p200300dd8716390045db3e85d2252182.dip0.t-ipconnect.de) (Quit: refs)
+[01:30:50] *** Joins: Sentry- (~sentry@dslb-092-072-098-111.092.072.pools.vodafone-ip.de)
+[01:31:19] *** Quits: Snetry (~sentry@dslb-146-060-139-109.146.060.pools.vodafone-ip.de) (Read error: Connection refused)
+[04:25:06] *** Quits: averne (~averne@176-179-35-51.abo.bbox.fr) (quit)
+[04:26:54] *** Joins: averne_ (~averne@176-179-35-51.abo.bbox.fr)
+[04:26:54] *** Server sets mode: +stn 
+[04:34:13] *** Quits: averne (~averne@176-179-35-51.abo.bbox.fr) (Read error: Operation timed out)
+[04:45:47] *** Joins: Snetry (~sentry@ipservice-092-209-083-112.092.209.pools.vodafone-ip.de)
+[04:47:07] *** Quits: Sentry- (~sentry@dslb-092-072-098-111.092.072.pools.vodafone-ip.de) (Read error: Connection refused)
+[05:53:59] *** Quits: mukunda (~mukunda@adsl-074-188-208-148.sip.asm.bellsouth.net) (Read error: Connection reset by peer)
+[06:27:27] *** Joins: KuKzz (KuKzz@95.143.216.177)
+[06:27:50] *** Quits: KuKzz_ (~KuKzz@95.143.216.177) (Ping timeout: 496 seconds)
+[08:38:00] *** Joins: dcnick3 (~dcnick3@188.130.155.151)
+[09:10:05] *** Quits: figgis_ (~figgis@93.123.144.171) (Remote host closed the connection)
+[09:10:54] *** Joins: fgsfds (~figgis@93.123.144.171)
+[09:10:56] *** Quits: CCFL_Man (5b58a4f9ba@c-73-64-119-64.hsd1.pa.comcast.net) (Ping timeout: 265 seconds)
+[10:56:50] *** averne_ is now known as averne
+[10:57:14] *** Joins: Sentry- (~sentry@dslb-188-100-204-190.188.100.pools.vodafone-ip.de)
+[10:58:09] *** Quits: Snetry (~sentry@ipservice-092-209-083-112.092.209.pools.vodafone-ip.de) (Read error: Operation timed out)
+[12:06:28] *** Joins: figgis_ (~figgis@93.123.144.171)
+[12:14:03] *** Quits: fgsfds (~figgis@93.123.144.171) (Read error: Operation timed out)
+[13:27:48] *** Joins: CCFL_Man (fbdf4c4307@c-73-64-119-64.hsd1.pa.comcast.net)
+[13:34:44] *** Quits: CCFL_Man (fbdf4c4307@c-73-64-119-64.hsd1.pa.comcast.net) (Connection closed)
+[14:27:43] *** Quits: dcnick3 (~dcnick3@188.130.155.151) (Read error: Operation timed out)
+[14:34:27] *** Joins: figgis__ (~figgis@93.123.144.171)
+[14:42:02] *** Quits: figgis_ (~figgis@93.123.144.171) (Read error: Operation timed out)
+[15:34:41] *** Quits: chang0- (~Changolan@ip72-194-70-236.oc.oc.cox.net) (Ping timeout: 272 seconds)
+[15:36:14] *** Joins: chang0- (~Changolan@ip72-194-70-236.oc.oc.cox.net)
+[16:05:18] *** Joins: dcnick3 (~dcnick3@188.130.155.151)
+[16:44:25] <plutobot> Wiki | Page changed: HID Shared Memory | User: yls8 | https://switchbrew.org/w/index.php?curid=83&diff=9620&oldid=8944
+[16:52:45] *** Quits: |Shadow| (~Shadow1@ip24-253-253-71.ok.ok.cox.net) (Read error: Connection reset by peer)
+[16:54:15] *** Quits: hordak (hordak@cautio.us) (Read error: Connection reset by peer)
+[16:55:44] *** Joins: hordak (hordak@cautio.us)
+[16:56:24] *** Quits: ris2z (~2ri@158.174.119.23) (Read error: Connection reset by peer)
+[16:58:24] *** Joins: ris2z (~2ri@158.174.119.23)
+[17:29:57] *** Quits: karolherb (~kherbst@2a02:8308:b0be:6900:482c:9537:40:83ba) (Read error: Connection reset by peer)
+[17:30:31] *** Joins: karolherb (~kherbst@2a02:8308:b0be:6900:482c:9537:40:83ba)
+[18:27:01] *** Quits: capin (capin@107.170.40.252) (Quit: WeeChat 2.8)
+[18:27:22] *** Joins: capin (~capin@107.170.40.252)
+[20:16:48] *** Quits: figgis__ (~figgis@93.123.144.171) (Quit: Leaving)
+[20:17:05] *** Joins: fgsfds (~figgis@93.123.144.171)
+[20:48:12] *** Joins: refs (~refs@p200300dd8713f900c088963f0a1121f6.dip0.t-ipconnect.de)
+[23:02:01] *** Quits: dcnick3 (~dcnick3@188.130.155.151) (Read error: Operation timed out)
+[23:12:49] <Behemoth> Do you know how OpenDataStorageByProgramId/OpenDataFileSystemByProgramId are supposed to work?
+[23:12:50] <Behemoth> With programs that aren't running I get 0x339a02 (undocumented) bc it doesn't find it in a linked list.
+[23:12:50] <Behemoth> With programs that _are_ running I get 0x320002 (access denied according to the wiki)
+[23:13:20] *** Joins: |Shadow| (~Shadow1@ip24-253-253-71.ok.ok.cox.net)
+[23:15:35] <Behemoth> It's not in libnx btw.
+[23:15:35] <Behemoth> We plan to use it to access applet romfs to get access to their audio files without requiring the user to dump them or having to codewash to fit our license.
+[23:22:28] <yellows8> dunno
+[23:24:08] <Behemoth> Do you know of another way to mount applet romfs?
+[23:24:11] <yellows8> are you testing this under hbl?
+[23:24:17] <Behemoth> yes
+[23:24:43] *** Joins: coggy9 (~coggy9@2600:6c58:7300:400:b1c4:75e4:8073:3a9b)
+[23:25:03] <Behemoth> on album override I get it's contents with mount to self but for every title override it's the titles files.
+[23:27:15] <Behemoth> *patching the access denied in fs works but that's undesireable and unmaintainable
+[23:29:30] <yellows8> what are you patching? hbl is supposed to have fs_permissions={all} :/
+[23:30:04] <Behemoth> it doesn't check those permissions here
+[23:30:47] *** Joins: dcnick3 (~dcnick3@188.130.155.151)
+[23:31:42] <Behemoth> 10.0.0 fs .text+0x74c20
+[23:31:49] <Behemoth> tbh I have no idea what it verifies here
+[23:33:33] <Behemoth> that's also called by OpenDataFileSystemWithProgramIndex & OpenDataStorageWithProgramIndex
+[23:56:00] <yellows8> isn't this for a custom-libraryapplet? why does it need to access other-program-romfs?
+[23:57:20] *** Quits: dcnick3 (~dcnick3@188.130.155.151) (Read error: Operation timed out)
+[23:57:41] *** Joins: dcnick3 (~dcnick3@188.130.155.151)
+[23:58:33] <Behemoth> The library I use (borealis) is made to mimic switch's UI and not just for library applet replacements.
+[23:58:33] <Behemoth> Now we wanted to use the HOS sounds.

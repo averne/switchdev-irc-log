@@ -1,0 +1,182 @@
+[00:02:18] <yellows8> so you want to use that for general hb apps too?
+[00:02:23] <Behemoth> yes
+[00:04:06] <Behemoth> SciresM said he wanted to reach out.
+[00:04:06] <Behemoth> It's about NPDM permissions that hbloader doesn't set.
+[00:12:19] *** Joins: TAL_ (~TAL@defiant.tlercher.de)
+[00:13:23] *** Joins: mid-kid1 (~mid-kid@2a01:7c8:aac8:1e8:5054:ff:fe5e:cd48)
+[00:13:40] *** Joins: usineur_ (~matthieu@ferb.fr)
+[00:14:01] *** Joins: nrq_ (~nrq@ns340910.ip-37-59-40.eu)
+[00:14:13] *** Joins: Phils3r_ (~Phil@2a02:c205:3000:2328::1)
+[00:16:36] *** Quits: tsr (~tsr@anfoog.org) (Ping timeout: 745 seconds)
+[00:17:46] *** Quits: TurtleP (~turtlep@bnc.devkitpro.org) (Ping timeout: 745 seconds)
+[00:17:51] *** Joins: TurtleP (~turtlep@bnc.devkitpro.org)
+[00:18:02] *** Joins: tpw-rules (~tpw_rules@li1059-135.members.linode.com)
+[00:18:54] *** Joins: DeusQain (quasselcor@mx.qainsworld.com)
+[00:20:09] *** Quits: usineur (~matthieu@ferb.fr) (Ping timeout: 745 seconds)
+[00:20:09] *** Quits: mid-kid (~mid-kid@136-144-185-148.colo.transip.net) (Ping timeout: 745 seconds)
+[00:20:24] *** Joins: gruetzko- (~gruetzkop@bnc.dont-follow.us)
+[00:20:42] *** Quits: nrq (~nrq@ns340910.ip-37-59-40.eu) (Ping timeout: 745 seconds)
+[00:20:42] *** Quits: tpw_rules (~tpw_rules@li1059-135.members.linode.com) (Ping timeout: 745 seconds)
+[00:20:42] *** tpw-rules is now known as tpw_rules
+[00:20:42] *** Quits: gruetzkop (gruetzkopf@bnc.dont-follow.us) (Ping timeout: 745 seconds)
+[00:20:43] *** Quits: DeusQain_ (quasselcor@mx.qainsworld.com) (Ping timeout: 745 seconds)
+[00:20:45] *** Quits: TAL (znc@defiant.tlercher.de) (Ping timeout: 745 seconds)
+[00:20:46] *** Quits: Jdbye (~furry4lif@me.jdbye.com) (Ping timeout: 745 seconds)
+[00:20:47] *** Quits: hthh (~hthh@hh.ht) (Ping timeout: 745 seconds)
+[00:20:47] *** Quits: Phils3r (~Phil@phils3r.de) (Ping timeout: 745 seconds)
+[00:21:02] *** Sentry- is now known as Sentry
+[00:22:21] *** Joins: tsr (~tsr@anfoog.org)
+[00:23:21] *** Joins: mtheall_ (~mtheall@mtheall.com)
+[00:24:46] *** Quits: mtheall (~mtheall@mtheall.com) (Ping timeout: 745 seconds)
+[00:25:21] *** Quits: klockee (~efklock@vps1.ksociety.net) (Ping timeout: 745 seconds)
+[00:27:25] *** Joins: Jdbye (~furry4lif@me.jdbye.com)
+[00:36:49] *** Quits: Pieman (sid188464@id-188464.brockwell.irccloud.com) (Ping timeout: 272 seconds)
+[00:36:52] *** Joins: flagrama_ (flagrama@stonehaven.irccloud.com)
+[00:37:27] *** Quits: flagrama (flagrama@2001:67c:2f08:8::2:38d5) (Ping timeout: 272 seconds)
+[00:37:27] *** Quits: CaptainOm (sid21565@id-21565.brockwell.irccloud.com) (Ping timeout: 272 seconds)
+[00:37:27] *** flagrama_ is now known as flagrama
+[00:37:51] *** Joins: Pieman (sid188464@brockwell.irccloud.com)
+[00:38:05] *** Quits: nohit (sid334887@id-334887.ealing.irccloud.com) (Ping timeout: 272 seconds)
+[00:39:59] *** Quits: d3m3vilur (sid4654@id-4654.charlton.irccloud.com) (Read error: Operation timed out)
+[00:40:27] *** Joins: d3m3vilur (sid4654@charlton.irccloud.com)
+[00:40:49] *** TAL_ is now known as TAL
+[00:45:11] *** Quits: yuriks___ (sid369190@2001:67c:2f08:5::5:a226) (Ping timeout: 1230 seconds)
+[00:46:21] *** Quits: rjeli__ (sid289321@2001:67c:2f08:3::4:6a29) (Ping timeout: 1230 seconds)
+[00:48:41] *** Quits: SCV (sid226262@2001:67c:2f08:3::3:73d6) (Ping timeout: 1230 seconds)
+[01:07:30] *** Quits: refs (~refs@p200300dd8713f900c088963f0a1121f6.dip0.t-ipconnect.de) (Quit: refs)
+[01:14:37] *** Joins: rjeli__ (sid289321@192.184.9.112)
+[01:14:53] *** Quits: rjeli__ (sid289321@192.184.9.112) (Read error: Connection reset by peer)
+[01:20:56] *** Joins: rjeli__ (sid289321@192.184.9.112)
+[01:25:37] *** Quits: rjeli__ (sid289321@192.184.9.112) (Read error: Connection reset by peer)
+[01:26:39] <Behemoth> Are library applets even with libnx? Last time I tried it failed to allocate heap and after overwriting with fake heap it failed in appletInit
+[01:26:57] *** Quits: dcnick3 (~dcnick3@188.130.155.151) (Read error: Operation timed out)
+[01:27:06] *** Joins: Snetry (~sentry@dslb-094-220-208-235.094.220.pools.vodafone-ip.de)
+[01:28:35] <Behemoth> *supported with libnx
+[01:29:18] *** Joins: hthh (~hthh@hh.ht)
+[01:29:32] *** Joins: klock (~efklock@vps1.ksociety.net)
+[01:30:51] *** Joins: rjeli__ (sid289321@192.184.9.112)
+[01:31:01] *** Quits: rjeli__ (sid289321@192.184.9.112) (Read error: Connection reset by peer)
+[01:31:17] *** Quits: Sentry (~sentry@dslb-188-100-204-190.188.100.pools.vodafone-ip.de) (Read error: Operation timed out)
+[01:31:17] *** Snetry is now known as Sentry
+[01:41:26] *** Joins: yuriks___ (sid369190@192.184.10.118)
+[01:43:15] *** Joins: rjeli__ (sid289321@192.184.9.112)
+[02:06:09] *** Quits: yuriks___ (sid369190@192.184.10.118) (Read error: Connection reset by peer)
+[02:08:00] *** Quits: rjeli__ (sid289321@192.184.9.112) (Read error: Connection reset by peer)
+[02:09:01] *** Quits: Retr0id (~Retr0id@185.122.57.169) (Read error: Operation timed out)
+[02:10:39] *** Joins: flewkey3 (~flewkey@173.231.63.70)
+[02:11:34] *** Joins: Retr0id (~Retr0id@185.122.57.169)
+[02:11:49] *** Quits: flewkey (~flewkey@173.231.63.70) (Ping timeout: 272 seconds)
+[02:11:49] *** flewkey3 is now known as flewkey
+[02:12:00] *** Joins: yuriks___ (sid369190@192.184.10.118)
+[02:12:08] *** Quits: yuriks___ (sid369190@192.184.10.118) (Read error: Connection reset by peer)
+[02:13:47] *** Joins: rjeli__ (sid289321@192.184.9.112)
+[02:20:21] *** Joins: yuriks___ (sid369190@192.184.10.118)
+[02:21:31] *** Quits: yuriks___ (sid369190@192.184.10.118) (Read error: Connection reset by peer)
+[02:21:46] *** Quits: rjeli__ (sid289321@192.184.9.112) (Read error: Connection reset by peer)
+[02:27:01] *** Joins: yuriks___ (sid369190@192.184.10.118)
+[02:27:43] *** Quits: yuriks___ (sid369190@192.184.10.118) (Read error: Connection reset by peer)
+[02:33:32] *** Joins: yuriks___ (sid369190@192.184.10.118)
+[02:36:43] *** Quits: yuriks___ (sid369190@192.184.10.118) (Read error: Connection reset by peer)
+[02:48:43] *** Quits: Retr0id (~Retr0id@185.122.57.169) (Read error: Operation timed out)
+[02:51:16] *** Joins: Retr0id (~Retr0id@185.122.57.169)
+[02:54:50] *** Joins: rjeli__ (sid289321@192.184.9.112)
+[03:06:33] *** Joins: yuriks___ (sid369190@192.184.10.118)
+[03:07:33] *** Quits: karolherb (~kherbst@2a02:8308:b0be:6900:482c:9537:40:83ba) (Ping timeout: 272 seconds)
+[03:08:37] *** Joins: karolherb (~kherbst@ip-86-49-248-228.net.upcbroadband.cz)
+[03:10:54] *** Joins: rjeli___ (sid289321@2001:67c:2f08:3::4:6a29)
+[03:13:19] *** Quits: rjeli__ (sid289321@192.184.9.112) (Read error: Connection timed out)
+[03:13:19] *** rjeli___ is now known as rjeli__
+[03:23:57] *** Joins: CCFL_Man (29372e2c0a@c-73-64-119-64.hsd1.pa.comcast.net)
+[03:37:46] *** Joins: nohit (sid334887@192.184.9.110)
+[04:02:59] *** Quits: averne (~averne@176-179-35-51.abo.bbox.fr) (quit)
+[04:03:46] *** Joins: averne (~averne@176-179-35-51.abo.bbox.fr)
+[04:03:46] *** Server sets mode: +stn 
+[04:05:43] *** Joins: yuriks___ (sid369190@2001:67c:2f08:5::5:a226)
+[04:08:18] *** Joins: SCV (sid226262@2001:67c:2f08:3::3:73d6)
+[07:07:16] *** Quits: fgsfds (~figgis@93.123.144.171) (Read error: Connection reset by peer)
+[07:41:10] *** Joins: Behemoth_ (~quassel@vmd39331.contaboserver.net)
+[07:42:23] *** Quits: Behemoth (~quassel@vmd39331.contaboserver.net) (Read error: Connection reset by peer)
+[08:35:15] <yls8bot> https://yls8.mtheall.com/ninupdates/reports.php?date=2020-06-05_06-35-05&sys=hac Update-details for the following hac report is now available/updated: https://yls8.mtheall.com/ninupdates/reports.php?date=2020-06-05_06-35-05&sys=hac Sysmodule SwIPC-generation .info files for the following hac report is now available/updated: 
+[08:35:21] <yls8bot> https://yls8.mtheall.com/ninupdates/reports.php?date=2020-06-05_06-35-05&sys=hac 
+[08:40:40] <ihaveamac> "We have fixed the issue where it was not possible in some countries or regions to add funds using a new credit card or to register credit card information in Nintendo eShop on Nintendo Switch."
+[08:45:15] <plutobot> Wiki | Page changed: FirmwareNews | User: Yls8bot | https://switchbrew.org/w/index.php?curid=43&diff=9625&oldid=9565
+[08:45:15] <plutobot> Wiki | New page: 10.0.4 | User: Yls8bot | https://switchbrew.org/w/index.php?curid=409
+[08:45:15] <plutobot> Wiki | Page changed: Template:NavboxVersions | User: Yls8bot | https://switchbrew.org/w/index.php?curid=183&diff=9623&oldid=9563
+[08:50:11] *** Quits: ris2z (~2ri@158.174.119.23) (Ping timeout: 272 seconds)
+[08:53:46] *** Joins: ris2z (~2ri@158.174.119.23)
+[09:25:38] *** Joins: changoXPR (~Changolan@ip72-194-70-236.oc.oc.cox.net)
+[09:26:41] *** Joins: capin1 (capin@107.170.40.252)
+[09:27:17] *** Quits: chang0- (~Changolan@ip72-194-70-236.oc.oc.cox.net) (Read error: Operation timed out)
+[09:29:19] <plutobot> Wiki | Page changed: Title list | User: Zachycatgames | https://switchbrew.org/w/index.php?curid=84&diff=9626&oldid=9566
+[09:29:50] <plutobot> Wiki | Page changed: System Versions | User: Thomhack50 | https://switchbrew.org/w/index.php?curid=105&diff=9627&oldid=9577
+[09:29:57] *** Quits: capin (~capin@107.170.40.252) (Read error: Operation timed out)
+[09:29:57] *** Quits: kyaputen9 (~kayputen@163.172.191.41) (Read error: Operation timed out)
+[09:46:53] *** Joins: kyaputen9 (~kayputen@163.172.191.41)
+[09:51:38] *** Joins: dcnick3 (~dcnick3@188.130.155.151)
+[09:54:46] *** Quits: flagrama (flagrama@stonehaven.irccloud.com) (Ping timeout: 272 seconds)
+[09:54:47] *** Quits: plutobot (~plutobot@188.166.26.149) (Ping timeout: 272 seconds)
+[09:54:47] *** Quits: m4ts (~mats@ti0030a400-2881.bb.online.no) (Ping timeout: 272 seconds)
+[09:54:49] *** Joins: flagrama (flagrama@id-145621.stonehaven.irccloud.com)
+[09:55:26] *** Joins: refsw2 (~refsw@80.150.130.51)
+[09:56:02] *** Quits: nohit (sid334887@192.184.9.110) (Ping timeout: 272 seconds)
+[09:56:03] *** Quits: Pieman (sid188464@brockwell.irccloud.com) (Ping timeout: 272 seconds)
+[09:56:03] *** Quits: refsw` (~refsw@80.150.130.51) (Ping timeout: 272 seconds)
+[09:56:03] *** Quits: DacoTaco (~DacoTaco@178-119-112-131.access.telenet.be) (Ping timeout: 272 seconds)
+[09:56:03] *** Quits: madk (~madk@184.69.197.50) (Ping timeout: 272 seconds)
+[09:56:15] *** Joins: nohit (sid334887@2001:67c:2f08:2::5:1c27)
+[09:56:40] *** Quits: karolherb (~kherbst@ip-86-49-248-228.net.upcbroadband.cz) (Ping timeout: 272 seconds)
+[09:56:41] *** Quits: flewkey (~flewkey@173.231.63.70) (Ping timeout: 272 seconds)
+[09:56:41] *** Quits: KuKzz (KuKzz@95.143.216.177) (Ping timeout: 272 seconds)
+[09:56:41] *** Quits: AlexAltea (~alexaltea@62.210.122.193) (Ping timeout: 272 seconds)
+[09:56:41] *** Quits: eggster (~eggster@irchighway.eggy.cc) (Ping timeout: 272 seconds)
+[09:56:41] *** Quits: GrecKo_ (~grecko@static.9.103.4.46.clients.your-server.de) (Ping timeout: 272 seconds)
+[09:56:41] *** Quits: des^ (~des@ip1f10817f.dynamic.kabel-deutschland.de) (Ping timeout: 272 seconds)
+[09:56:43] *** Joins: GrecKo (~grecko@static.9.103.4.46.clients.your-server.de)
+[09:57:09] *** Joins: karolherb (~kherbst@2a02:8308:b0be:6900:482c:9537:40:83ba)
+[09:57:24] *** Joins: eggster (~eggster@irchighway.eggy.cc)
+[10:01:45] *** Joins: KuKzz (KuKzz@95.143.216.177)
+[10:11:18] *** Joins: Pieman (sid188464@id-188464.brockwell.irccloud.com)
+[10:19:27] *** Joins: AlexAltea (~alexaltea@phi.nz)
+[10:47:45] *** Joins: m4ts (~mats@ti0030a400-2881.bb.online.no)
+[10:47:55] *** Joins: flewkey (~flewkey@173.231.63.70)
+[10:48:10] *** Joins: plutobot (~plutobot@188.166.26.149)
+[10:48:43] *** Joins: des^ (~des@ip1f10817f.dynamic.kabel-deutschland.de)
+[10:49:42] *** Joins: madk (~madk@184.69.197.50)
+[10:52:38] *** Joins: DacoTaco (~DacoTaco@178-119-112-131.access.telenet.be)
+[11:03:20] *** Joins: coggy9_Y5 (~coggy9@2600:6c58:7300:400:4b:dd9e:f0d7:c425)
+[11:03:24] *** Quits: coggy9 (~coggy9@2600:6c58:7300:400:b1c4:75e4:8073:3a9b) (Ping timeout: 265 seconds)
+[11:54:19] <plutobot> GitHub | New PR: npdmtool add ... | User: HookedBehemoth | https://github.com/switchbrew/switch-tools/pull/27
+[12:16:26] *** Joins: rajkosto (~rajkosto@cable-178-149-122-96.dynamic.sbb.rs)
+[12:40:07] <plutobot> GitHub | New PR: add permissio... | User: HookedBehemoth | https://github.com/switchbrew/nx-hbloader/pull/29
+[13:32:53] *** Joins: derk0pf (~derk0pf@x5271793d.dyn.telefonica.de)
+[13:43:34] *** Quits: derk0pf (~derk0pf@x5271793d.dyn.telefonica.de) (Read error: Operation timed out)
+[13:43:41] *** Quits: rajkosto (~rajkosto@cable-178-149-122-96.dynamic.sbb.rs) (Read error: Connection reset by peer)
+[14:17:54] <plutobot> GitHub | New PR: add commands ... | User: HookedBehemoth | https://github.com/switchbrew/libnx/pull/485
+[14:18:04] <DoozerBot> PR-#485: add commands for accessing process storage, building targets: 02lib
+[14:21:59] <DoozerBot> 02lib: 03 v3.3.0.2 Build OK - https://doozer.io/build/fa2npqo21p
+[16:34:19] <plutobot> Wiki | Page changed: System Versions | User: yls8 | https://switchbrew.org/w/index.php?curid=105&diff=9628&oldid=9627
+[16:36:42] <plutobot> Wiki | Page changed: 10.0.4 | User: yls8 | https://switchbrew.org/w/index.php?curid=409&diff=9629&oldid=9624
+[16:42:59] <plutobot> Wiki | Page changed: 10.0.4 | User: yls8 | https://switchbrew.org/w/index.php?curid=409&diff=9630&oldid=9629
+[16:46:03] <plutobot> Wiki | Page changed: System Version Title | User: yls8 | https://switchbrew.org/w/index.php?curid=116&diff=9631&oldid=9572
+[16:53:11] <plutobot> Wiki | Page changed: 10.0.4 | User: yls8 | https://switchbrew.org/w/index.php?curid=409&diff=9632&oldid=9630
+[17:04:03] <plutobot> Wiki | Page changed: 10.0.4 | User: yls8 | https://switchbrew.org/w/index.php?curid=409&diff=9633&oldid=9632
+[17:05:15] <plutobot> Wiki | Page changed: 10.0.4 | User: yls8 | https://switchbrew.org/w/index.php?curid=409&diff=9634&oldid=9633
+[18:02:29] *** Joins: coggy9has (~coggy9@2600:6c58:7300:400:d1e1:c5fe:2fc4:5e62)
+[18:06:19] *** Quits: coggy9_Y5 (~coggy9@2600:6c58:7300:400:4b:dd9e:f0d7:c425) (Ping timeout: 265 seconds)
+[18:11:15] <DoozerBot> PR-#485: add commands for accessing process storage, building targets: 02lib
+[18:17:57] <DoozerBot> 02lib: 03 v3.3.0.3 Build OK - https://doozer.io/build/s8atxp51gm
+[18:20:24] <DoozerBot> PR-#485: add commands for accessing process storage, building targets: 02lib
+[18:23:37] <DoozerBot> 02lib: 03 v3.3.0.4 Build OK - https://doozer.io/build/kq7b3rqoyq
+[18:40:03] *** Joins: fgsfds (~figgis@93.123.144.171)
+[19:02:04] *** Quits: coggy9has (~coggy9@2600:6c58:7300:400:d1e1:c5fe:2fc4:5e62) (Quit: Leaving)
+[19:02:26] *** Joins: coggy9 (~coggy9@2600:6c58:7300:400:d1e1:c5fe:2fc4:5e62)
+[19:15:43] *** Quits: coggy9 (~coggy9@2600:6c58:7300:400:d1e1:c5fe:2fc4:5e62) (Read error: Connection reset by peer)
+[19:24:03] *** Joins: coggy9 (~coggy9@2600:6c58:7300:400:cc33:df9:44ba:e35a)
+[19:46:22] *** Joins: mukunda (~mukunda@adsl-074-188-208-203.sip.asm.bellsouth.net)
+[19:49:23] <DoozerBot> PR-#485: add commands for accessing process storage, building targets: 02lib
+[19:53:29] <DoozerBot> 02lib: 03 v3.3.0.5 Build OK - https://doozer.io/build/n2v8cs3yqv
+[21:12:06] *** yuriks___ is now known as yuriks
+[22:31:35] <plutobot> Wiki | Page changed: TSEC | User: Hexkyz | https://switchbrew.org/w/index.php?curid=199&diff=9635&oldid=9619
+[22:53:18] *** Quits: dcnick3 (~dcnick3@188.130.155.151) (Read error: Operation timed out)
+[23:08:25] *** Quits: freundTec (~freundTec@freundtech.com) (Quit: ZNC disconnected. Probably just rebooting my server - ZNC 1.6.6+deb1ubuntu0.2 - http://znc.in)
+[23:09:35] *** Joins: freundTec (~freundTec@freundtech.com)
