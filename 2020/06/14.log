@@ -1,0 +1,74 @@
+[00:04:58] *** Joins stl1988
+[00:05:54] *** Quits stl1988 (Read error: Connection reset by peer)
+[02:20:36] *** Quits IShaDoWl (Ping timeout: 255 seconds)
+[02:59:58] <plutobot> Wiki | Page changed: Software Keyboard | User: yls8 | https://switchbrew.org/w/index.php?curid=342&diff=9666&oldid=6971
+[04:08:51] *** Quits panicbit (Ping timeout: 186 seconds)
+[04:39:05] *** Quits kyaputen9 (Read error: Connection reset by peer)
+[04:39:14] *** Joins kyaputen9
+[04:43:37] *** Quits refs (Quit: refs)
+[04:53:18] *** Joins panicbit
+[05:51:08] *** Quits fgsfds (Read error: Connection reset by peer)
+[06:04:04] <plutobot> GitHub | New commit | User: yellows | https://github.com/switchbrew/libnx/commit/3d4f61735a
+[06:04:07] <DoozerBot> yellows8 pushed to master: swkbd: Updated for 10.x and added: "swkbd: Updated for 10.x and added:" [072 files modified], building targets: 02lib
+[06:08:06] <DoozerBot> 02lib: 03 v3.3.0.9 Build OK - https://doozer.io/build/1c4d03hlln
+[06:08:46] <plutobot> GitHub | New commit | User: yellows | https://github.com/switchbrew/switch-examples/commit/73b50688ab
+[07:21:23] *** Quits panicbit (Ping timeout: 186 seconds)
+[08:07:05] *** Joins panicbit
+[09:09:43] *** Quits KuKzz_ (Ping timeout: 272 seconds)
+[09:09:43] *** Quits DacoTaco (Ping timeout: 272 seconds)
+[09:10:21] *** Quits m4ts (Ping timeout: 272 seconds)
+[09:10:21] *** Quits madk (Ping timeout: 272 seconds)
+[09:10:59] *** Quits flewkey (Ping timeout: 272 seconds)
+[09:10:59] *** Quits oldtopman (Ping timeout: 272 seconds)
+[09:10:59] *** Quits des^ (Ping timeout: 272 seconds)
+[09:10:59] *** Quits plutobot (Ping timeout: 272 seconds)
+[09:14:16] *** Joins |Shadow|_
+[09:14:59] *** Quits |Shadow| (Read error: Operation timed out)
+[09:16:04] *** Joins KuKzz
+[09:17:27] *** |Shadow|_ is now known as |Shadow|
+<<<<<<< HEAD
+[09:26:37] *** Joins oldtopman
+[09:49:26] *** Quits coggy9 (Read error: Connection reset by peer)
+[09:51:59] *** Joins coggy9
+[09:52:47] *** Joins m4ts
+[09:53:04] *** Joins plutobot
+[09:53:22] *** Joins flewkey
+[09:53:34] *** Joins des^
+[09:53:53] *** Joins madk
+[09:54:12] *** Joins DacoTaco
+[09:55:22] *** Quits coggy9 (Client Quit)
+[09:58:57] *** Joins coggy9
+=======
+[09:26:37] *** Joins oldtopman
+[09:49:26] *** Quits coggy9 (Read error: Connection reset by peer)
+[09:51:59] *** Joins coggy9
+[09:52:47] *** Joins m4ts
+[09:53:04] *** Joins plutobot
+[09:53:22] *** Joins flewkey
+[09:53:34] *** Joins des^
+[09:53:53] *** Joins madk
+[09:54:12] *** Joins DacoTaco
+[09:55:22] *** Quits coggy9 (Client Quit)
+[09:58:57] *** Joins coggy9
+[12:29:04] *** Quits Sentry (Read error: Connection refused)
+[12:33:04] *** Joins Snetry
+[12:47:45] *** Joins fgsfds
+[13:36:30] *** Joins refs
+[13:40:07] *** Quits AuroraWri (Read error: Operation timed out)
+[14:49:52] *** Joins Sentry-
+[14:51:43] *** Quits Snetry (Read error: Operation timed out)
+[14:53:02] *** Quits Sentry- (Read error: Operation timed out)
+[14:53:52] *** Joins derk0pf
+[15:02:43] *** Joins Snetry
+[15:17:23] *** Joins hordak
+[15:40:14] *** Joins rajkosto
+[16:23:02] *** Quits derk0pf (Read error: Connection reset by peer)
+[17:08:38] *** Joins derk0pf
+[17:28:49] *** Joins derk0pf_
+[17:34:49] *** Quits derk0pf (Read error: Operation timed out)
+[19:58:14] *** Quits rajkosto (Read error: Connection reset by peer)
+[20:08:56] *** Quits derk0pf_ (Read error: Connection reset by peer)
+[21:45:49] *** Joins jason0597
+[22:02:45] *** Quits kyaputen9 (Read error: Connection reset by peer)
+[22:02:48] *** Joins kyaputen9
+>>>>>>> 1ef00ef (Add new log files)
