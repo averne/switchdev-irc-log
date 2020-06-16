@@ -1,0 +1,49 @@
+[00:14:48] *** Quits jason0597 (Read error: Operation timed out)
+[01:47:07] *** Joins Sentry-
+[01:48:12] *** Quits Snetry (Read error: Connection refused)
+[02:20:25] *** Quits refs (Quit: refs)
+[02:39:55] *** Quits madk (Quit: ZNC 1.7.1 - https://znc.in)
+[02:41:12] *** Joins madk
+[02:56:46] *** Quits rajkosto (Read error: Connection reset by peer)
+[04:28:26] *** Quits DoozerBot (Ping timeout: 745 seconds)
+[04:29:24] *** Joins DoozerBot
+[06:00:55] <DoozerBot> PR-#487: Add fucntion to write to the motion controls, rather than read, building targets: 02lib
+[06:00:58] <plutobot> GitHub | New PR: Add fucntion ... | User: shakkar | https://github.com/switchbrew/libnx/pull/487
+[06:05:10] <DoozerBot> 02lib: 03 v3.3.0.14 Build OK - https://doozer.io/build/5m8u2ptp0m
+[07:13:55] *** Quits panicbit (Ping timeout: 186 seconds)
+[07:14:07] *** Joins panicbit
+[07:55:31] *** Quits panicbit (Ping timeout: 186 seconds)
+[07:56:05] *** Joins panicbit
+[08:54:12] *** Quits panicbit (Ping timeout: 186 seconds)
+[08:54:23] *** Joins panicbit
+[12:07:47] *** Quits panicbit (Ping timeout: 186 seconds)
+[12:09:47] *** Joins panicbit
+[12:17:35] *** Quits fgsfds (Read error: Connection reset by peer)
+[12:35:32] *** Quits KuKzz (Ping timeout: 255 seconds)
+[12:36:05] *** Quits AlexAltea (Read error: Operation timed out)
+[12:40:16] *** Joins KuKzz
+[12:42:38] *** Joins AlexAltea
+[12:47:47] *** Quits yls8bot (Read error: Operation timed out)
+[12:52:33] *** Quits Aaerox (Read error: Operation timed out)
+[12:54:19] *** Quits freundTec (Read error: Operation timed out)
+[12:54:25] *** Joins freundTec
+[13:05:56] *** Joins Aaerox
+[13:07:50] *** Joins yls8bot
+[13:08:06] *** yellows8 sets mode: +o yls8bot
+[13:21:07] *** Joins fgsfds
+[13:21:18] *** Quits fgsfds (Client Quit)
+[14:57:12] *** Joins jason0597
+[14:58:43] *** Joins rajkosto
+[15:26:37] *** Joins derk0pf
+[16:13:38] *** Joins foghorn3
+[16:20:06] *** Quits foghorn2 (Read error: Operation timed out)
+[16:20:55] *** Joins foghorn2
+[16:24:23] *** Quits foghorn3 (Ping timeout: 610 seconds)
+[16:37:07] *** Quits derk0pf (Read error: Operation timed out)
+[19:36:41] *** Joins derk0pf
+[19:38:02] *** Quits jason0597 (Remote host closed the connection)
+[19:38:12] *** Joins jason0597
+[20:59:45] *** Joins fgsfds
+[21:11:15] *** Joins refs
+[23:16:01] *** Quits zini (Ping timeout: 745 seconds)
+[23:46:56] *** Quits derk0pf (Read error: Operation timed out)
