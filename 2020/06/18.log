@@ -1,0 +1,83 @@
+[00:38:43] *** Quits panicbit (Ping timeout: 186 seconds)
+[00:39:54] *** Joins panicbit
+[00:44:55] *** Quits KuKzz ()
+[01:15:48] *** Joins KuKzz
+[01:40:22] *** Joins capin
+[01:43:07] *** Quits jason0597 (Read error: Operation timed out)
+[02:20:32] *** Quits refs (Quit: refs)
+[04:09:54] *** Quits oldtopman (hub.efnet.us irc.Prison.NET)
+[04:41:19] *** Quits Snetry (Read error: Connection refused)
+[04:43:16] *** Joins Snetry
+[04:49:43] <plutobot> GitHub | New PR: fix return va... | User: Stary | https://github.com/switchbrew/libnx/pull/488
+[04:49:46] <DoozerBot> PR-#488: fix return value of romfs_stat for non-existent files/directories, building targets: 02lib
+[04:53:36] <DoozerBot> 02lib: 03 v3.3.0.11 Build OK - https://doozer.io/build/zy3nhg7ctz
+[06:20:26] *** Joins oldtopman
+[06:21:38] *** Joins Sentry-
+[06:23:21] *** Quits Snetry (Read error: Connection refused)
+[06:35:34] *** Joins miigotu
+[08:13:59] *** Quits oldtopman (hub.efnet.us irc.Prison.NET)
+[08:38:31] *** Joins oldtopman
+[09:41:49] *** Quits foghorn2 (se.hub efnet.deic.eu)
+[09:41:50] *** Quits irc3 (se.hub efnet.deic.eu)
+[09:41:50] *** Quits kyaputen9 (se.hub efnet.deic.eu)
+[09:41:50] *** Quits thejsa_ (se.hub efnet.deic.eu)
+[09:45:16] *** Joins foghorn2
+[09:45:16] *** Joins irc3
+[09:45:16] *** Joins kyaputen9
+[09:45:16] *** Joins thejsa_
+[10:59:59] *** Joins uyjulian_
+[11:07:10] *** Joins Snetry
+[11:08:31] *** Quits uyjulian (Ping timeout: 745 seconds)
+[11:08:31] *** uyjulian_ is now known as uyjulian
+[11:12:22] *** Quits Sentry- (Read error: Operation timed out)
+[11:37:37] *** Joins rajkosto
+[11:58:15] <plutobot> GitHub | New commit | User: Ezekiel Bethel | https://github.com/switchbrew/libnx/commit/d0a7c6a2a5
+[11:58:24] <DoozerBot> WinterMute pushed to master: fix return value of romfs_stat for non-existent files/directories (#488) "fix return value of romfs_stat for non-existent files/directories (#488)" [071 file modified], building targets: 02lib
+[12:01:49] <DoozerBot> 02lib: 03 v3.3.0.11 Build OK - https://doozer.io/build/9tf8tevhy5
+[12:28:03] *** Quits Surkow (Quit: Bye bye - Laptop goes to sleep - NOP NOP NOP)
+[12:30:37] *** Joins Surkow
+[12:40:53] *** Joins jason0597
+[13:27:17] *** Quits jason0597 (Read error: Operation timed out)
+[13:46:43] *** Joins jason0597
+[14:12:22] *** Quits Maylay_ (Read error: Operation timed out)
+[14:13:04] *** Joins Maylay
+[14:24:52] *** Quits lameboy (Ping timeout: 186 seconds)
+[14:25:33] *** Joins lameboy
+[16:33:51] *** Joins |Shadow|_
+[16:37:39] *** Quits |Shadow| (Read error: Operation timed out)
+[17:22:21] *** Quits |Shadow|_ (Read error: Operation timed out)
+[17:23:24] *** Joins |Shadow|
+[20:05:41] *** Quits Maylay (Ping timeout: 265 seconds)
+[20:09:12] *** Joins Maylay
+[21:13:26] *** Quits CCFL_Man (Ping timeout: 745 seconds)
+[21:22:07] *** Joins derk0pf
+[21:40:54] *** Joins refs
+[21:54:19] *** Quits derk0pf (Ping timeout: 272 seconds)
+[22:43:13] *** Quits jason0597 (Read error: Operation timed out)
+[23:00:12] *** Quits DacoTaco (Ping timeout: 272 seconds)
+[23:00:12] *** Quits flagrama (Ping timeout: 272 seconds)
+[23:00:12] *** Quits oldtopman (Ping timeout: 272 seconds)
+[23:00:12] *** Quits karolherb (Ping timeout: 272 seconds)
+[23:00:14] *** Quits Pieman (Ping timeout: 272 seconds)
+[23:02:11] *** Joins oldtopman
+[23:03:45] *** Quits des^ (Ping timeout: 272 seconds)
+[23:03:45] *** Quits nohit (Ping timeout: 272 seconds)
+[23:03:45] *** Joins karolherb
+[23:03:45] *** Joins nohit
+[23:03:45] *** Joins DacoTaco
+[23:03:45] *** Joins des^
+[23:03:45] *** Joins flagrama
+[23:03:48] *** Snetry is now known as Sentry
+[23:03:48] *** Joins Pieman
+[23:06:01] *** Joins jason0597
+[23:13:56] *** Joins foghorn3
+[23:14:28] *** Quits thejsa_ (Read error: Operation timed out)
+[23:14:32] *** Joins thejsa
+[23:20:26] *** Quits foghorn2 (Read error: Operation timed out)
+[23:46:12] *** Quits jason0597 (Remote host closed the connection)
+[23:46:35] *** Joins foghorn2
+[23:46:48] *** Joins jason0597
+[23:50:00] *** Quits foghorn2 (Remote host closed the connection)
+[23:51:28] *** Joins foghorn2
+[23:52:45] *** Quits foghorn3 (Read error: Operation timed out)
+[23:58:57] *** Quits jason0597 (Ping timeout: 610 seconds)
