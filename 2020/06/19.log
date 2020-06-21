@@ -1,0 +1,86 @@
+[00:03:53] *** Joins jason0597
+[00:04:09] *** Quits jason0597 (Read error: Connection reset by peer)
+[00:04:28] *** Joins jason0597
+[00:33:23] *** Quits fgsfds (Ping timeout: 622 seconds)
+[00:33:58] *** Joins fgsfds
+[00:40:13] *** Joins jn
+[00:46:33] *** Joins figgis_
+[00:48:06] *** Quits jn_ (Ping timeout: 745 seconds)
+[00:49:53] *** Quits fgsfds (Ping timeout: 265 seconds)
+[01:09:01] *** Joins figgis__
+[01:12:36] *** Quits figgis_ (Ping timeout: 265 seconds)
+[01:28:43] *** Joins miigotu_
+[01:33:58] *** Quits Pieman (se.hub efnet.portlane.se)
+[01:33:58] *** Quits flagrama (se.hub efnet.portlane.se)
+[01:33:58] *** Quits DacoTaco (se.hub efnet.portlane.se)
+[01:33:58] *** Quits des^ (se.hub efnet.portlane.se)
+[01:33:58] *** Quits nohit (se.hub efnet.portlane.se)
+[01:33:58] *** Quits karolherb (se.hub efnet.portlane.se)
+[01:33:58] *** Quits refs (se.hub efnet.portlane.se)
+[01:33:58] *** Quits miigotu (se.hub efnet.portlane.se)
+[01:33:58] *** Quits AlexAltea (se.hub efnet.portlane.se)
+[01:33:58] *** Quits madk (se.hub efnet.portlane.se)
+[01:33:58] *** Quits mtheall_ (se.hub efnet.portlane.se)
+[01:33:58] *** Quits flewkey (se.hub efnet.portlane.se)
+[01:33:58] *** Quits plutobot (se.hub efnet.portlane.se)
+[01:33:58] *** Quits m4ts (se.hub efnet.portlane.se)
+[01:37:46] *** Joins karolherb
+[01:37:46] *** Joins Pieman
+[01:37:46] *** Joins refs
+[01:37:46] *** Joins madk
+[01:37:46] *** Joins DacoTaco
+[01:37:46] *** Joins nohit
+[01:37:46] *** Joins mtheall
+[01:37:46] *** Joins flagrama
+[01:37:46] *** Joins plutobot
+[01:37:46] *** Joins m4ts
+[01:42:58] *** Joins AlexAltea
+[02:17:35] *** Quits refs (Quit: refs)
+[02:19:54] <Behemoth_> On my photoViewer replacement "glfwGetWindowAttrib(Application::window, GLFW_ICONIFIED)" never returns false.
+[02:19:54] <Behemoth_> Since it works under hbloader ABI I thought that I might miss the focus event somehow and the only time it ever checks it's not already in focus.
+[02:19:54] <Behemoth_> ifdef would work but I don't want to mess up the library I'm using.
+[02:23:47] <Behemoth_> Here's the busy loop for reference: https://github.com/natinusala/borealis/blob/master/library/lib/application.cpp#L334
+[02:53:36] *** Quits jason0597 (Read error: Operation timed out)
+[03:07:39] <plutobot> Wiki | Page changed: EMMC pinout | User: Stuckpixel | https://switchbrew.org/w/index.php?curid=60&diff=9667&oldid=8657
+[03:11:34] *** Quits chang0- ()
+[03:22:57] *** Joins chang0-
+[03:53:25] *** Quits rajkosto (Read error: Connection reset by peer)
+[04:52:34] *** Joins CCFL_Man
+[08:05:07] *** Quits panicbit (Ping timeout: 186 seconds)
+[08:06:20] *** Joins panicbit
+[09:06:22] *** Joins mukunda
+[09:43:23] *** Joins CCFL_Man_
+[09:48:40] *** Quits CCFL_Man (Read error: Operation timed out)
+[10:28:08] *** Joins Adubbz
+[13:12:43] *** Quits mukunda (Read error: Operation timed out)
+[15:19:30] *** Joins IShaDoWl
+[15:26:02] *** Joins jason0597
+[17:27:40] *** Joins mukunda
+[19:20:23] *** miigotu_ is now known as miigotu
+[19:20:46] *** Quits Adubbz (Ping timeout: 622 seconds)
+[20:08:45] *** Quits flagrama (Ping timeout: 272 seconds)
+[20:08:56] *** Joins flagrama
+[20:09:23] *** Quits Pieman (Ping timeout: 272 seconds)
+[20:09:23] *** Quits m4ts (Ping timeout: 272 seconds)
+[20:10:01] *** Quits madk (Ping timeout: 272 seconds)
+[20:10:01] *** Quits mtheall (Ping timeout: 272 seconds)
+[20:10:19] *** Joins mtheall
+[20:10:39] *** Quits AlexAltea (Ping timeout: 272 seconds)
+[20:10:39] *** Quits DacoTaco (Ping timeout: 272 seconds)
+[20:10:39] *** Quits plutobot (Ping timeout: 272 seconds)
+[20:11:15] *** Joins Pieman
+[20:13:07] *** Joins AlexAltea
+[20:18:06] *** Quits averne (quit)
+[20:19:51] *** Joins averne_
+[20:19:51] *** Server sets mode: +stn 
+[20:22:13] *** Quits averne (Read error: Operation timed out)
+[21:10:55] *** Joins refs
+[21:17:17] *** Joins m4ts
+[21:17:29] *** Joins plutobot
+[21:18:02] *** Joins DacoTaco
+[21:22:19] *** Joins madk
+[21:47:25] *** Quits jason0597 (Read error: Operation timed out)
+[22:08:24] *** Quits |Shadow| (Read error: Operation timed out)
+[22:10:28] *** Joins |Shadow|
+[22:11:57] *** Quits mukunda (Read error: Operation timed out)
+[23:34:45] *** Joins jason0597

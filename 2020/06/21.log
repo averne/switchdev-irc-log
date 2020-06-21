@@ -1,0 +1,84 @@
+[00:07:18] *** Quits derk0pf (Ping timeout: 622 seconds)
+[01:48:39] *** Joins mukunda
+[02:14:28] *** Quits averne_ (quit)
+[02:15:45] *** Joins averne
+[02:15:45] *** Quits averne_ (Read error: Connection reset by peer)
+[02:15:45] *** Server sets mode: +stn 
+[02:24:49] *** Joins Adubbz
+[03:11:28] *** Quits mukunda (Read error: Connection reset by peer)
+[03:11:48] *** Joins mukunda
+[04:11:38] *** Quits refs (Quit: refs)
+[04:34:58] *** Quits madk (Ping timeout: 272 seconds)
+[05:43:44] *** Quits fgsfds (Read error: Connection reset by peer)
+[05:47:04] *** Joins madk
+[05:49:16] *** Joins GerbilSof
+[06:25:48] *** Quits madk (Ping timeout: 272 seconds)
+[07:10:46] *** Joins madk
+[07:17:07] *** Quits madk (Ping timeout: 272 seconds)
+[07:53:46] *** Joins madk
+[08:02:04] *** Quits madk (Ping timeout: 272 seconds)
+[08:41:32] *** Quits mukunda (Read error: Operation timed out)
+[08:52:51] *** Joins madk
+[08:59:43] *** Quits madk (Ping timeout: 272 seconds)
+[09:00:58] *** Joins madk
+[09:29:08] *** Quits madk (Quit: ZNC 1.7.1 - https://znc.in)
+[09:29:21] *** Joins madk
+[09:43:37] <plutobot> Wiki | Page changed: Gamecard | User: Shuffle2 | https://switchbrew.org/w/index.php?curid=308&diff=9669&oldid=6968
+[10:22:09] *** Quits Sentry (Read error: Operation timed out)
+[10:31:59] *** Joins Snetry
+[10:37:29] <plutobot> Wiki | Page changed: Gamecard | User: Shuffle2 | https://switchbrew.org/w/index.php?curid=308&diff=9673&oldid=9669
+[10:48:20] *** Joins Sentry-
+[10:49:40] *** Quits Snetry (Read error: Operation timed out)
+[11:33:15] *** Joins mukunda
+[11:33:47] *** Joins um-velho-
+[13:45:56] *** Joins refs
+[14:44:19] <DoozerBot> PR-#414: Add lm service and logging implementation, building targets: 02lib
+[14:51:40] <DoozerBot> 02lib: 03 v3.1.0.71 Build OK - https://doozer.io/build/1qauv2v57s
+[15:19:53] *** Joins Mimoja
+[16:00:02] *** Quits chang0- ()
+[16:12:48] <plutobot> Wiki | Page changed: Capture services | User: Behemoth | https://switchbrew.org/w/index.php?curid=160&diff=9674&oldid=8758
+[16:42:57] *** Joins fgsfds
+[17:26:59] *** Joins figgis_
+[17:27:55] *** Quits mukunda (Read error: Operation timed out)
+[17:28:14] *** Quits endrift (Read error: Operation timed out)
+[17:28:17] *** Quits mtheall (Read error: Operation timed out)
+[17:28:17] *** Quits miigotu (Read error: Operation timed out)
+[17:28:19] *** Quits nullstrin (Read error: Operation timed out)
+[17:28:28] *** Joins mtheall
+[17:28:29] *** Joins Adubbz_
+[17:28:42] *** Quits awordnot (Read error: Operation timed out)
+[17:28:50] *** Quits capin (Read error: Operation timed out)
+[17:29:02] *** Joins capin
+[17:29:02] *** Joins awordnot
+[17:29:07] *** Quits giglife (Read error: Operation timed out)
+[17:29:15] *** Quits l1quid (Read error: Operation timed out)
+[17:29:17] *** Quits tpw_rules (Read error: Operation timed out)
+[17:29:20] *** Joins l1quid
+[17:29:21] *** Quits l1quid (Remote host closed the connection!)
+[17:29:24] *** Joins endrift
+[17:29:27] *** Joins l1quid
+[17:29:31] *** Joins miigotu
+[17:29:35] *** Quits j0hny5 (Read error: Operation timed out)
+[17:29:49] *** Joins giglife
+[17:29:51] *** Quits Behemoth_ (Read error: Connection reset by peer)
+[17:29:58] *** Joins j0hny5
+[17:31:31] *** Quits Sentry- (Read error: Operation timed out)
+[17:31:36] *** Joins tpw_rules
+[17:31:48] *** Joins Behemoth_
+[17:32:48] *** Quits um-velho- (Read error: Operation timed out)
+[17:33:22] *** Joins nullstrin
+[17:33:46] *** Quits Adubbz (Read error: Operation timed out)
+[17:33:59] *** Joins um-velho-
+[17:34:35] *** Quits fgsfds (Read error: Operation timed out)
+[17:36:25] *** Joins Snetry
+[18:16:00] *** Quits um-velho- (Ping timeout: 265 seconds)
+[18:21:56] *** Joins um-velho-
+[19:07:52] *** Joins Sentry-
+[19:09:05] *** Quits Snetry (Read error: Connection refused)
+[19:13:23] <plutobot> Wiki | Page changed: SSL services | User: yls8 | https://switchbrew.org/w/index.php?curid=145&diff=9675&oldid=9573
+[19:16:47] <DoozerBot> yellows8 pushed to master: ssl: Improved docs. "ssl: Improved docs." [071 file modified], building targets: 02lib
+[19:16:51] <plutobot> GitHub | New commit | User: yellows | https://github.com/switchbrew/libnx/commit/a0ce273019
+[19:20:46] <DoozerBot> 02lib: 03 v3.3.0.12 Build OK - https://doozer.io/build/h4h605u0wu
+[19:35:45] *** Quits Adubbz_ (Ping timeout: 265 seconds)
+[19:51:13] *** Joins chang0-
+[21:19:57] *** Joins mukunda
