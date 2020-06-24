@@ -1,0 +1,71 @@
+[00:11:29] *** Quits mukunda (Ping timeout: 492 seconds)
+[00:18:07] *** Joins Adubbz
+[00:53:01] *** Quits Adubbz (Quit: Leaving)
+[01:15:54] *** Joins changoXPR
+[01:17:38] *** Quits oldtopman (Read error: Operation timed out)
+[01:20:26] *** Quits chang0- (hub.efnet.us irc.Prison.NET)
+[01:28:19] *** Quits panicbit (Ping timeout: 186 seconds)
+[01:49:51] *** Joins oldtopman
+[01:53:25] *** Joins panicbit
+[02:02:07] <plutobot> Wiki | Page changed: Internet Browser | User: yls8 | https://switchbrew.org/w/index.php?curid=12&diff=9678&oldid=9649
+[02:35:03] *** Quits refs (Quit: refs)
+[02:58:16] *** Joins mukunda
+[03:04:59] *** Quits jason0597 (Read error: Operation timed out)
+[03:07:05] *** Quits ris2z (Ping timeout: 492 seconds)
+[03:10:12] *** Joins ris2z
+[03:10:13] *** Quits ris2z (Remote host closed the connection!)
+[03:10:42] *** Joins ris2z
+[03:21:17] *** Quits figgis_ (Read error: Connection reset by peer)
+[03:53:55] *** Quits oldtopman (hub.efnet.us irc.Prison.NET)
+[04:19:32] *** Joins oldtopman
+[04:58:58] *** Quits Behemoth_ (Read error: Connection reset by peer)
+[05:16:32] <plutobot> Wiki | Page changed: Internet Browser | User: yls8 | https://switchbrew.org/w/index.php?curid=12&diff=9679&oldid=9678
+[05:18:03] <plutobot> Wiki | Page changed: Internet Browser | User: yls8 | https://switchbrew.org/w/index.php?curid=12&diff=9680&oldid=9679
+[06:07:15] *** Quits rajkosto (Read error: Connection reset by peer)
+[06:37:12] *** Quits oldtopman (hub.efnet.us irc.Prison.NET)
+[07:22:53] *** Quits uyjulian (Quit: ZNC - http://znc.in)
+[07:23:14] *** Joins uyjulian
+[07:31:30] *** Joins oldtopman
+[08:18:23] *** Quits awordnot (Read error: Operation timed out)
+[08:34:41] *** Joins awordnot
+[11:22:20] *** Joins Behemoth_
+[11:27:10] *** Quits mukunda (Read error: Operation timed out)
+[11:42:16] *** Joins fgsfds
+[11:43:25] *** Joins jason0597
+[11:46:05] <plutobot> GitHub | New PR: added momentu... | User: Chrscool | https://github.com/switchbrew/nx-hbmenu/pull/124
+[11:58:21] *** Joins DacoTaco
+[12:23:40] *** Joins derk0pf
+[12:24:15] *** Quits jason0597 (Read error: Operation timed out)
+[13:41:10] *** Joins jason0597
+[14:34:58] *** Quits |Shadow| ()
+[14:42:17] *** Joins |Shadow|
+[15:54:40] *** Quits jason0597 (Read error: Operation timed out)
+[15:56:47] *** Joins mukunda
+[16:01:56] *** Joins rajkosto
+[16:40:04] <DoozerBot> yellows8 pushed to master: web: Added WebSession support. "applet: Added get-event funcs:" [072 files modified]
+[16:40:04] <DoozerBot> yellows8 pushed to master: web: Added WebSession support. "web: Added WebSession support." [072 files modified], building targets: 02lib
+[16:44:26] <DoozerBot> 02lib: 03 v3.3.0.14 Build OK - https://doozer.io/build/a9rpk06bp6
+[16:46:08] <plutobot> GitHub | New commit | User: yellows | https://github.com/switchbrew/libnx/commit/e2db987144
+[16:46:08] <plutobot> GitHub | New commit | User: yellows | https://github.com/switchbrew/libnx/commit/6620dfaa6f
+[17:01:58] *** Quits rajkosto (Read error: Connection reset by peer)
+[17:28:12] *** Joins jason0597
+[17:28:30] *** Joins miigotu
+[17:30:47] *** Quits miigotu_ (Ping timeout: 272 seconds)
+[17:31:52] *** Joins miigotu_
+[17:38:06] *** Joins rajkosto
+[17:38:39] *** Quits jason0597 (Quit: Leaving)
+[17:41:26] *** Quits miigotu (Ping timeout: 745 seconds)
+[18:20:16] *** Quits mukunda (Ping timeout: 492 seconds)
+[21:01:55] *** Joins mukunda
+[21:16:52] *** Joins refs
+[21:21:53] <plutobot> GitHub | New PR: Added sdl-ttf... | User: AdaLovegirls | https://github.com/switchbrew/switch-examples/pull/80
+[21:50:03] *** Joins derk0pf_
+[21:58:46] *** Quits derk0pf (Read error: Operation timed out)
+[22:26:06] *** Quits oldtopman (hub.efnet.us irc.Prison.NET)
+[22:43:34] *** Joins oldtopman
+[23:00:13] *** Quits derk0pf_ (Read error: Connection reset by peer)
+[23:00:41] *** Joins derk0pf
+[23:08:59] *** Quits oldtopman (hub.efnet.us irc.Prison.NET)
+[23:31:18] *** Joins oldtopman
+[23:51:02] *** Quits ris2z (Ping timeout: 496 seconds)
+[23:53:41] *** Joins ris2z
