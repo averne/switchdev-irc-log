@@ -1,0 +1,85 @@
+[00:18:11] *** Quits hordak (Quit: Scheiße!)
+[00:18:22] *** Joins hordak
+[00:30:52] *** Quits hordak (Scheiße!)
+[00:32:21] *** Joins hordak
+[00:35:18] *** Quits hordak (Client Quit)
+[00:37:49] *** Quits derk0pf (Read error: Operation timed out)
+[00:48:48] *** Joins mukunda
+[00:52:29] *** Quits ris2z (Ping timeout: 622 seconds)
+[00:55:21] *** Joins hordak
+[01:00:03] *** Joins ris2z
+[01:00:20] *** Quits hordak (Quit: Scheiße!)
+[04:35:09] <DoozerBot> PR-#490: err: add ErrorContextType enum, building targets: 02lib
+[04:42:36] <DoozerBot> 02lib: 03 v3.3.0.15 Build OK - https://doozer.io/build/k5auxun1ht
+[04:46:47] <plutobot> GitHub | New PR: err add Error... | User: SciresM | https://github.com/switchbrew/libnx/pull/490
+[05:02:42] *** Quits GerbilSof (Windows must now restart because the Remote Procedure Call (RPC) service terminated unexpectedly.)
+[06:08:11] *** Joins GerbilSof
+[07:36:25] *** Quits rajkosto (Read error: Connection reset by peer)
+[07:51:16] *** Quits mukunda (Ping timeout: 745 seconds)
+[07:59:13] *** Joins coggy9
+[08:00:02] *** Joins derk0pf
+[08:17:00] *** Quits averne (quit)
+[08:18:10] *** Joins averne
+[08:18:10] *** Server sets mode: +stn 
+[08:34:32] *** Quits averne (quit)
+[09:08:34] *** Joins averne
+[09:08:34] *** Server sets mode: +stn 
+[09:11:01] *** Joins CCFL_Man_
+[09:11:06] *** Quits CCFL_Man (Read error: Operation timed out)
+[09:23:42] *** Joins CCFL_Man
+[09:24:21] *** Quits CCFL_Man_ (Read error: Operation timed out)
+[09:43:15] *** Quits panicbit (Ping timeout: 186 seconds)
+[10:10:09] *** Joins panicbit
+[10:16:17] *** Quits fgsfds (Read error: Connection reset by peer)
+[11:36:21] *** Joins lameboy
+[11:36:34] *** Quits lameboy (Client Quit)
+[11:36:58] *** Joins lameboy
+[11:37:02] *** Quits lameboy (Remote host closed the connection)
+[11:37:38] *** Joins lameboy
+[11:50:17] *** Quits lameboy (Quit: brb)
+[12:05:14] *** Joins lameboy
+[12:05:21] *** Quits lameboy (Remote host closed the connection)
+[12:08:44] *** Quits derk0pf (Ping timeout: 265 seconds)
+[12:10:18] *** Joins derk0pf
+[12:12:49] *** Joins lameboy
+[12:52:06] <DoozerBot> fincs pushed to master: err: add ErrorContextType enum "err: add ErrorContextType enum" [071 file modified], building targets: 02lib
+[12:52:07] <plutobot> GitHub | New commit | User: Michael Scire | https://github.com/switchbrew/libnx/commit/e36c7a760f
+[12:55:42] <DoozerBot> 02lib: 03 v3.3.0.15 Build OK - https://doozer.io/build/cu4ykmnhc7
+[13:38:40] *** Quits derk0pf (Read error: Connection reset by peer)
+[13:59:52] *** Joins mukunda
+[14:00:40] *** Joins derk0pf
+[14:58:42] *** Quits derk0pf (Read error: Connection reset by peer)
+[16:04:10] *** Quits lameboy (Read error: Connection reset by peer)
+[16:04:37] *** Joins lameboy
+[16:35:54] *** Joins rajkosto
+[17:22:11] *** Joins derk0pf
+[17:25:41] *** Quits mukunda (Ping timeout: 272 seconds)
+[17:27:44] *** Joins derk0pf_
+[17:30:56] *** Joins refs
+[18:23:51] *** Quits Maylay (Read error: Operation timed out)
+[18:59:40] *** Joins Maylay
+[18:59:41] *** Quits derk0pf (Read error: Connection reset by peer)
+[18:59:41] *** Quits derk0pf_ (Read error: Connection reset by peer)
+[19:55:26] *** Quits averne (quit)
+[19:59:26] *** Joins averne
+[19:59:26] *** Server sets mode: +stn 
+[20:11:54] *** Joins mukunda
+[20:17:37] *** Joins derk0pf
+[20:18:36] *** Joins derk0pf_
+[20:44:01] *** Quits rajkosto (Read error: Operation timed out)
+[20:45:42] *** Joins fgsfds
+[20:56:37] *** Quits derk0pf_ (Ping timeout: 272 seconds)
+[20:58:31] *** Quits ris2z (Ping timeout: 272 seconds)
+[21:02:07] *** Quits derk0pf (Read error: Operation timed out)
+[21:07:44] *** Joins ris2z
+[21:12:15] *** Quits averne (quit)
+[21:13:05] *** Joins averne
+[21:13:06] *** Server sets mode: +stn 
+[21:19:24] *** Quits averne (quit)
+[21:30:09] *** Joins averne
+[21:30:09] *** Server sets mode: +stn 
+[21:30:09] *** Server sets mode: +stn 
+[22:33:18] *** Joins derk0pf
+[22:38:56] <plutobot> Wiki | Page changed: LDN services | User: yls8 | https://switchbrew.org/w/index.php?curid=109&diff=9681&oldid=9607
+[22:58:14] *** Quits derk0pf (Read error: Connection reset by peer)
+[23:28:47] *** Joins rajkosto

@@ -1,0 +1,43 @@
+[00:02:13] *** Joins mukunda
+[01:30:10] *** Quits Maylay (Read error: Operation timed out)
+[01:42:17] *** Joins Maylay
+[02:03:40] *** Quits oldtopman (hub.efnet.us irc.Prison.NET)
+[02:08:40] *** Joins lansiir
+[02:29:36] *** Quits jn (Ping timeout: 615 seconds)
+[02:31:35] *** Joins jn
+[02:41:29] *** Quits refs (Quit: refs)
+[06:31:13] *** Quits fgsfds (Read error: Connection reset by peer)
+[08:27:41] *** Quits rajkosto (Read error: Connection reset by peer)
+[10:46:43] <plutobot> GitHub | New commit | User: Nichole Mattera | https://github.com/switchbrew/switch-examples/commit/cb01bf3c37
+[10:58:44] <plutobot> GitHub | New commit | User: Dave Murphy | https://github.com/switchbrew/switch-examples/commit/179e9a847b
+[10:58:44] <plutobot> GitHub | New commit | User: Dave Murphy | https://github.com/switchbrew/switch-examples/commit/a6de2da842
+[13:44:45] *** Quits mukunda (Read error: Operation timed out)
+[14:08:15] *** Joins fgsfds
+[14:18:55] *** Joins derk0pf
+[15:09:02] *** Quits derk0pf (Read error: Connection reset by peer)
+[16:11:15] *** Quits Phils3r (Quit: ZNC - https://znc.in)
+[16:11:22] *** Joins Phils3r
+[16:43:13] *** Joins derk0pf
+[17:00:29] *** lansiir is now known as oldtopman
+[17:29:23] *** Quits panicbit (Ping timeout: 186 seconds)
+[17:29:42] *** Joins panicbit
+[17:46:37] <plutobot> GitHub | New commit | User: Chris Bradel | https://github.com/switchbrew/nx-hbmenu/commit/45efcfcb98
+[19:03:31] *** Quits derk0pf (Read error: Operation timed out)
+[19:56:30] *** Joins rajkosto
+[21:04:03] *** Joins mukunda
+[21:17:28] <madk> can someone give me a quick rundown on OpenGL and shaders and how to use them on the switch? Is it possible? I don't know much about graphics and I don't even know where to read. I looked at the examples repo but there were none using .vert and .frag files (the ones I want to compile / run)
+[21:17:37] <madk> basically I'm trying to port a program idk what I'm doing.
+[21:32:32] *** Joins derk0pf
+[21:53:57] <averne> see https://github.com/switchbrew/switch-examples/blob/master/graphics/opengl/simple_triangle/source/main.cpp#L182-L208 for instance
+[21:55:08] <averne> of course you can also load vertex sources from external files, see the romfs example if you want to see how to include files along with your executable
+[21:59:07] <madk> thanks. Do you have a shader tutorial or how I can learn to write these? Is there any limitations to what the switch opengl implementation can do? Like I said I'm trying to port a program and it compiles fine but is just a blank screen. I have no idea what the shaders actually do so I need to rewrite it to use something simple I understand but idk where to learn to do this
+[22:03:50] <uyjulian> Maybe try learning how to use shader on PC first. Easier to debug there too
+[22:04:02] <averne> any opengl tutorial will cover shaders
+[22:24:08] *** Joins foghorn3
+[22:30:38] *** Quits foghorn2 (Read error: Operation timed out)
+[22:32:59] <madk> there are no special considerations for the switch?
+[22:36:20] <uyjulian> The best way to know is to test it yourself
+[22:38:13] <madk> well my shaders don't work
+[22:38:38] <madk> but okay I'll figure out what's going on by learning wtf the code is doing lmao. I was just curious I guess if there was things to know about. 
+[23:19:13] *** Quits lameboy (Quit: Astalabyebye...)
+[23:47:42] *** Quits mukunda (Ping timeout: 610 seconds)
