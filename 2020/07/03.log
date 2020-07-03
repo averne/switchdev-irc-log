@@ -1,0 +1,50 @@
+[00:03:46] <DoozerBot> fincs pushed to master: fs: add missing AccessLog functions. (#491) "fs: add missing AccessLog functions. (#491)" [072 files modified], building targets: 02lib
+[00:03:46] <plutobot> GitHub | New commit | User: SciresM | https://github.com/switchbrew/libnx/commit/b8a095ac2f
+[00:08:00] <DoozerBot> 02lib: 03 v3.3.0.16 Build OK - https://doozer.io/build/sgblbxoogc
+[00:15:59] *** Joins mukunda
+[00:28:27] *** Quits eggy (Quit: Got Milk? Don't ask.)
+[00:40:50] *** Joins eggster
+[00:44:43] *** Joins eggy
+[00:46:02] *** Quits eggster (Read error: Operation timed out)
+[00:47:10] *** Quits eggy (Read error: Operation timed out)
+[00:48:14] *** Joins eggster
+[00:53:33] *** Quits eggster (Quit: Got Milk? Don't ask.)
+[00:54:15] *** Joins eggster
+[02:48:49] *** Quits refs (Quit: refs)
+[03:17:55] *** Quits fgsfds (Read error: Connection reset by peer)
+[03:44:54] *** lex1 is now known as lex
+[05:05:17] *** Joins rajkosto
+[06:10:41] *** Quits rajkosto (Read error: Connection reset by peer)
+[07:32:53] *** Joins rajkosto
+[09:11:28] *** Quits rajkosto (Read error: Connection reset by peer)
+[09:27:05] <plutobot> Wiki | Page changed: Sockets services | User: Rodrigo | https://switchbrew.org/w/index.php?curid=128&diff=9686&oldid=9301
+[09:30:31] *** Joins fgsfds
+[09:49:37] *** Quits mukunda (Read error: Operation timed out)
+[15:32:09] *** Joins rajkosto
+[15:46:39] *** Joins mukunda
+[15:59:04] *** Quits ris2z (Quit: ris2z)
+[16:01:03] *** Joins ris2z
+[16:07:19] *** Quits rajkosto (Read error: Connection reset by peer)
+[16:18:46] *** Joins miigotu_
+[16:19:06] *** Quits miigotu (Ping timeout: 272 seconds)
+[16:40:47] *** Joins zini
+[17:06:32] *** Quits changoXPR ()
+[17:50:54] *** Quits |Shadow| (Read error: Operation timed out)
+[17:58:22] *** Joins chang0-
+[17:58:57] <plutobot> Wiki | Page changed: NS Services | User: yls8 | https://switchbrew.org/w/index.php?curid=89&diff=9687&oldid=9276
+[18:07:58] *** Joins |Shadow|
+[18:13:39] *** Quits panicbit (Ping timeout: 186 seconds)
+[18:38:33] *** Joins panicbit
+[18:47:35] <plutobot> Wiki | Page changed: NS Services | User: yls8 | https://switchbrew.org/w/index.php?curid=89&diff=9688&oldid=9687
+[18:51:00] <plutobot> Wiki | Page changed: Title list | User: yls8 | https://switchbrew.org/w/index.php?curid=84&diff=9689&oldid=9626
+[19:33:39] <plutobot> Wiki | Page changed: NS Services | User: yls8 | https://switchbrew.org/w/index.php?curid=89&diff=9690&oldid=9688
+[19:56:56] <plutobot> Wiki | Page changed: NS Services | User: yls8 | https://switchbrew.org/w/index.php?curid=89&diff=9691&oldid=9690
+[20:06:47] *** Joins miigotu
+[20:10:11] *** Quits miigotu_ (Read error: Operation timed out)
+[20:26:43] *** Joins averne
+[20:26:43] *** Server sets mode: +stn 
+[21:15:59] *** Joins Tcm0
+[22:15:54] *** Quits mukunda (Read error: Operation timed out)
+[22:50:09] *** Quits chang0- ()
+[23:20:32] *** Quits |Shadow| ()
+[23:21:00] *** Joins |Shadow|
