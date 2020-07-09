@@ -1,0 +1,647 @@
+[00:25:56] *** Quits |Shadow| (Read error: Operation timed out)
+[00:26:38] *** Joins |Shadow|
+[00:51:01] *** Quits Pieman (Ping timeout: 272 seconds)
+[00:51:39] *** Quits flagrama (Ping timeout: 272 seconds)
+[00:52:17] *** Quits nohit (Ping timeout: 272 seconds)
+[00:53:40] *** Quits d3m3vilur (Read error: Operation timed out)
+[01:00:28] *** Quits Tcm0 (Leaving)
+[01:01:01] *** Quits yuriks (Ping timeout: 1230 seconds)
+[01:06:16] *** Quits rjeli___ (Ping timeout: 1230 seconds)
+[01:08:20] *** Quits SCV_ (Read error: Connection timed out)
+[02:11:54] *** Quits |Shadow| ()
+[02:12:06] *** Quits ris2z (Ping timeout: 265 seconds)
+[02:12:23] *** Joins |Shadow|
+[02:15:43] *** Joins ris2z
+[02:15:44] *** Quits ris2z (Remote host closed the connection!)
+[02:16:11] *** Joins ris2z
+[02:51:49] *** Quits refs (Quit: refs)
+[02:59:37] *** Quits nullstrin (Read error: Operation timed out)
+[03:03:25] *** Joins nullstrin
+[03:35:55] *** Quits fgsfds (Read error: Connection reset by peer)
+[03:50:57] <plutobot> Wiki | Page changed: Bluetooth Driver services | User: yls8 | https://switchbrew.org/w/index.php?curid=161&diff=9698&oldid=9153
+[03:51:27] <plutobot> Wiki | Page changed: BTM services | User: yls8 | https://switchbrew.org/w/index.php?curid=306&diff=9699&oldid=9181
+[04:13:02] *** Quits oldtopman (Ping timeout: 272 seconds)
+[04:14:39] *** Joins oldtopman
+[08:02:18] *** Quits miigotu (ZNC - https://znc.in)
+[08:18:04] *** Joins miigotu
+[08:39:54] *** Quits miigotu (Quit: ZNC - https://znc.in)
+[08:40:34] *** Joins miigotu
+[09:19:39] *** Joins zombie343
+[09:32:32] *** Quits miigotu (Quit: ZNC - https://znc.in)
+[09:45:57] *** Joins miigotu
+[09:45:59] *** Quits miigotu (Remote host closed the connection)
+[09:46:27] *** Joins miigotu
+[09:57:38] *** Quits miigotu (Quit: ZNC - https://znc.in)
+[09:58:19] *** Joins miigotu
+[10:00:23] *** Quits miigotu (Client Quit)
+[10:00:57] *** Joins miigotu
+[10:02:10] *** Quits miigotu (Client Quit)
+[10:03:52] *** Joins miigotu
+[10:18:34] *** Quits miigotu (Quit: ZNC - https://znc.in)
+[10:19:10] *** Joins miigotu
+[10:44:17] *** Quits miigotu (ZNC - https://znc.in)
+[10:46:43] *** Quits Snetry (Quit: left EFNet)
+[10:47:13] *** Joins miigotu
+[10:47:27] *** Joins Snetry
+[10:53:23] *** Quits miigotu (Quit: ZNC - https://znc.in)
+[11:30:28] *** Joins fgsfds
+[13:18:02] *** Joins figgis_
+[13:25:37] *** Quits fgsfds (Read error: Operation timed out)
+[13:31:43] *** Quits Snetry (se.hub irc.efnet.nl)
+[13:31:43] *** Quits GerbilSof (se.hub irc.efnet.nl)
+[13:31:43] *** Quits refsw (se.hub irc.efnet.nl)
+[13:31:43] *** Quits theKlanc (se.hub irc.efnet.nl)
+[13:31:43] *** Quits CCFL_Man (se.hub irc.efnet.nl)
+[13:31:43] *** Quits Retr0id (se.hub irc.efnet.nl)
+[13:31:43] *** Quits lex (se.hub irc.efnet.nl)
+[13:31:43] *** Quits blasty (se.hub irc.efnet.nl)
+[13:34:58] *** Joins figgis__
+[13:35:59] *** Joins Snetry
+[13:35:59] *** Joins GerbilSof
+[13:35:59] *** Joins refsw
+[13:35:59] *** Joins theKlanc
+[13:35:59] *** Joins CCFL_Man
+[13:35:59] *** Joins Retr0id
+[13:35:59] *** Joins lex
+[13:35:59] *** Joins blasty
+[13:42:34] *** Quits figgis_ (Read error: Operation timed out)
+[14:15:00] *** Quits mukunda (Read error: Operation timed out)
+[14:28:06] *** Quits figgis__ (Leaving)
+[14:32:19] *** Quits lameboy (Quit: Astalabyebye...)
+[14:59:21] *** Joins lameboy
+[15:25:23] *** Quits Snetry (efnet.deic.eu se.hub)
+[15:25:23] *** Quits GerbilSof (efnet.deic.eu se.hub)
+[15:25:23] *** Quits refsw (efnet.deic.eu se.hub)
+[15:25:23] *** Quits theKlanc (efnet.deic.eu se.hub)
+[15:25:23] *** Quits CCFL_Man (efnet.deic.eu se.hub)
+[15:25:23] *** Quits Retr0id (efnet.deic.eu se.hub)
+[15:25:23] *** Quits lex (efnet.deic.eu se.hub)
+[15:25:23] *** Quits blasty (efnet.deic.eu se.hub)
+[15:25:23] *** Quits chang0- (efnet.deic.eu se.hub)
+[15:25:23] *** Quits Extrems (efnet.deic.eu se.hub)
+[15:25:23] *** Quits mha (efnet.deic.eu se.hub)
+[15:25:23] *** Quits usineur (efnet.deic.eu se.hub)
+[15:25:23] *** Quits capin1 (efnet.deic.eu se.hub)
+[15:25:23] *** Quits tpw_rules (efnet.deic.eu se.hub)
+[15:25:23] *** Quits AlexAltea (efnet.deic.eu se.hub)
+[15:25:23] *** Quits DeusQain (efnet.deic.eu se.hub)
+[15:25:23] *** Quits flotwig (efnet.deic.eu se.hub)
+[15:25:23] *** Quits ihaveamac (efnet.deic.eu se.hub)
+[15:25:23] *** Quits Cu3PO42 (efnet.deic.eu se.hub)
+[15:25:23] *** Quits ZeZu (efnet.deic.eu se.hub)
+[15:25:23] *** Quits datagutt (efnet.deic.eu se.hub)
+[15:25:23] *** Quits GrecKo (efnet.deic.eu se.hub)
+[15:25:23] *** Quits gruetzko- (efnet.deic.eu se.hub)
+[15:25:23] *** Quits b0nez (efnet.deic.eu se.hub)
+[15:25:23] *** Quits zombie343 (efnet.deic.eu se.hub)
+[15:25:23] *** Quits nullstrin (efnet.deic.eu se.hub)
+[15:25:23] *** Quits |Shadow| (efnet.deic.eu se.hub)
+[15:25:23] *** Quits Kyouju (efnet.deic.eu se.hub)
+[15:25:23] *** Quits foghorn2 (efnet.deic.eu se.hub)
+[15:25:23] *** Quits Behemoth_ (efnet.deic.eu se.hub)
+[15:25:23] *** Quits awordnot (efnet.deic.eu se.hub)
+[15:25:23] *** Quits endrift (efnet.deic.eu se.hub)
+[15:25:23] *** Quits j0hny5 (efnet.deic.eu se.hub)
+[15:25:24] *** Quits ris2z (efnet.deic.eu se.hub)
+[15:25:24] *** Quits giglife (efnet.deic.eu se.hub)
+[15:25:24] *** Quits yellows8 (efnet.deic.eu se.hub)
+[15:25:24] *** Quits Lightswor (efnet.deic.eu se.hub)
+[15:25:24] *** Quits Surkow (efnet.deic.eu se.hub)
+[15:25:24] *** Quits Aaerox (efnet.deic.eu se.hub)
+[15:25:24] *** Quits mtheall (efnet.deic.eu se.hub)
+[15:25:24] *** Quits ds84182 (efnet.deic.eu se.hub)
+[15:25:24] *** Quits yls8bot (efnet.deic.eu se.hub)
+[15:25:24] *** Quits TurtleP (efnet.deic.eu se.hub)
+[15:25:24] *** Quits sh0e (efnet.deic.eu se.hub)
+[15:25:24] *** Quits fincs (efnet.deic.eu se.hub)
+[15:25:24] *** Quits WntrMute (efnet.deic.eu se.hub)
+[15:25:24] *** Quits Stary (efnet.deic.eu se.hub)
+[15:25:24] *** Quits oldtopman (efnet.deic.eu se.hub)
+[15:25:24] *** Quits m4ts (efnet.deic.eu se.hub)
+[15:25:24] *** Quits karolherb (efnet.deic.eu se.hub)
+[15:25:24] *** Quits des^ (efnet.deic.eu se.hub)
+[15:25:24] *** Quits irc4 (efnet.deic.eu se.hub)
+[15:25:24] *** Quits DacoTaco (efnet.deic.eu se.hub)
+[15:25:24] *** Quits freundTec (efnet.deic.eu se.hub)
+[15:25:24] *** Quits Mimoja (efnet.deic.eu se.hub)
+[15:25:24] *** Quits madk (efnet.deic.eu se.hub)
+[15:25:24] *** Quits plutobot (efnet.deic.eu se.hub)
+[15:25:24] *** Quits zini (efnet.deic.eu se.hub)
+[15:25:24] *** Quits coriolis (efnet.deic.eu se.hub)
+[15:25:24] *** Quits nrq (efnet.deic.eu se.hub)
+[15:25:24] *** Quits hexkyz (efnet.deic.eu se.hub)
+[15:25:24] *** Quits DoozerBot (efnet.deic.eu se.hub)
+[15:25:24] *** Quits Phils3r (efnet.deic.eu se.hub)
+[15:25:24] *** Quits jn (efnet.deic.eu se.hub)
+[15:25:24] *** Quits uyjulian (efnet.deic.eu se.hub)
+[15:25:24] *** Quits mid-kid (efnet.deic.eu se.hub)
+[15:25:24] *** Quits l1quid (efnet.deic.eu se.hub)
+[15:25:24] *** Quits xx_ns (efnet.deic.eu se.hub)
+[15:25:24] *** Quits thejsa (efnet.deic.eu se.hub)
+[15:25:24] *** Quits lemmy (efnet.deic.eu se.hub)
+[15:25:24] *** Quits omlet05_ (efnet.deic.eu se.hub)
+[15:25:24] *** Quits Jdbye (efnet.deic.eu se.hub)
+[15:25:24] *** Quits cpnc0ke (efnet.deic.eu se.hub)
+[15:25:24] *** Quits balrog (efnet.deic.eu se.hub)
+[15:25:24] *** Quits dibas (efnet.deic.eu se.hub)
+[15:25:24] *** Quits Genolo (efnet.deic.eu se.hub)
+[15:25:24] *** Quits carsten1 (efnet.deic.eu se.hub)
+[15:25:24] *** Quits derrek (efnet.deic.eu se.hub)
+[15:25:24] *** Quits Summeli (efnet.deic.eu se.hub)
+[15:25:24] *** Quits klockee (efnet.deic.eu se.hub)
+[15:25:24] *** Quits TAL (efnet.deic.eu se.hub)
+[15:25:24] *** Quits Ghabry (efnet.deic.eu se.hub)
+[15:25:24] *** Quits rctgamer (efnet.deic.eu se.hub)
+[15:25:24] *** Quits hthh (efnet.deic.eu se.hub)
+[15:25:24] *** Quits Normmatt (efnet.deic.eu se.hub)
+[15:25:24] *** Quits naehrwert (efnet.deic.eu se.hub)
+[15:42:07] *** Quits lameboy (Read error: Connection reset by peer)
+[15:45:42] *** Joins lameboy
+[15:45:42] *** Joins blasty
+[15:45:42] *** Joins lex
+[15:45:42] *** Joins Retr0id
+[15:45:42] *** Joins CCFL_Man
+[15:45:42] *** Joins theKlanc
+[15:45:42] *** Joins refsw
+[15:45:42] *** Joins GerbilSof
+[15:45:42] *** Joins Snetry
+[15:45:42] *** Joins zombie343
+[15:45:42] *** Joins oldtopman
+[15:45:42] *** Joins nullstrin
+[15:45:42] *** Joins ris2z
+[15:45:42] *** Joins |Shadow|
+[15:45:42] *** Joins giglife
+[15:45:42] *** Joins foghorn2
+[15:45:42] *** Joins Behemoth_
+[15:45:42] *** Joins sh0e
+[15:45:42] *** Joins Aaerox
+[15:45:42] *** Joins awordnot
+[15:45:42] *** Joins endrift
+[15:45:42] *** Joins usineur
+[15:45:42] *** Joins mtheall
+[15:45:42] *** Joins j0hny5
+[15:45:42] *** Joins capin1
+[15:45:42] *** Joins tpw_rules
+[15:45:42] *** Joins ds84182
+[15:45:42] *** Joins mha
+[15:45:42] *** Joins Extrems
+[15:45:42] *** Joins AlexAltea
+[15:45:42] *** Joins yls8bot
+[15:45:42] *** Joins fincs
+[15:45:42] *** Joins WntrMute
+[15:45:42] *** Joins DeusQain
+[15:45:42] *** Joins flotwig
+[15:45:42] *** Joins ihaveamac
+[15:45:42] *** Joins Cu3PO42
+[15:45:42] *** Joins ZeZu
+[15:45:42] *** Joins datagutt
+[15:45:42] *** Joins GrecKo
+[15:45:42] *** Joins gruetzko-
+[15:45:42] *** Joins b0nez
+[15:45:42] *** Joins chang0-
+[15:45:42] *** Joins Surkow
+[15:45:42] *** Joins Kyouju
+[15:45:42] *** Joins Lightswor
+[15:45:42] *** se.hub sets mode: +o yls8bot
+[15:45:42] *** Joins TurtleP
+[15:45:42] *** Joins yellows8
+[15:45:42] *** Joins m4ts
+[15:45:42] *** Joins zini
+[15:45:42] *** Joins coriolis
+[15:45:42] *** Joins nrq
+[15:45:42] *** Joins hexkyz
+[15:45:42] *** Joins DoozerBot
+[15:45:42] *** Joins karolherb
+[15:45:42] *** Joins des^
+[15:45:42] *** Joins Stary
+[15:45:42] *** Joins irc4
+[15:45:42] *** Joins Phils3r
+[15:45:42] *** Joins jn
+[15:45:42] *** Joins DacoTaco
+[15:45:42] *** Joins uyjulian
+[15:45:42] *** Joins freundTec
+[15:45:42] *** Joins mid-kid
+[15:45:42] *** Joins l1quid
+[15:45:42] *** Joins Mimoja
+[15:45:42] *** Joins madk
+[15:45:42] *** Joins xx_ns
+[15:45:42] *** Joins plutobot
+[15:45:42] *** Joins thejsa
+[15:45:42] *** Joins lemmy
+[15:45:42] *** Joins omlet05_
+[15:45:42] *** Joins Jdbye
+[15:45:42] *** Joins cpnc0ke
+[15:45:42] *** Joins balrog
+[15:45:42] *** Joins dibas
+[15:45:42] *** Joins Genolo
+[15:45:42] *** Joins carsten1
+[15:45:42] *** Joins derrek
+[15:45:42] *** Joins Summeli
+[15:45:42] *** Joins klockee
+[15:45:42] *** Joins TAL
+[15:45:42] *** Joins Ghabry
+[15:45:42] *** Joins rctgamer
+[15:45:42] *** Joins hthh
+[15:45:42] *** Joins Normmatt
+[15:45:42] *** Joins naehrwert
+[15:45:42] *** se.hub sets mode: +oo yellows8 naehrwert
+[15:55:14] *** Quits ris2z (Ping timeout: 376 seconds)
+[15:58:17] *** Joins mukunda
+[15:58:26] *** Joins ris2z
+[15:59:57] *** Quits Snetry (efnet.deic.eu se.hub)
+[15:59:57] *** Quits GerbilSof (efnet.deic.eu se.hub)
+[15:59:57] *** Quits refsw (efnet.deic.eu se.hub)
+[15:59:57] *** Quits theKlanc (efnet.deic.eu se.hub)
+[15:59:57] *** Quits CCFL_Man (efnet.deic.eu se.hub)
+[15:59:57] *** Quits Retr0id (efnet.deic.eu se.hub)
+[15:59:57] *** Quits lex (efnet.deic.eu se.hub)
+[15:59:57] *** Quits blasty (efnet.deic.eu se.hub)
+[15:59:57] *** Quits chang0- (efnet.deic.eu se.hub)
+[15:59:57] *** Quits Extrems (efnet.deic.eu se.hub)
+[15:59:57] *** Quits mha (efnet.deic.eu se.hub)
+[15:59:57] *** Quits lameboy (efnet.deic.eu se.hub)
+[15:59:57] *** Quits usineur (efnet.deic.eu se.hub)
+[15:59:57] *** Quits capin1 (efnet.deic.eu se.hub)
+[15:59:57] *** Quits tpw_rules (efnet.deic.eu se.hub)
+[15:59:57] *** Quits AlexAltea (efnet.deic.eu se.hub)
+[15:59:57] *** Quits DeusQain (efnet.deic.eu se.hub)
+[15:59:57] *** Quits flotwig (efnet.deic.eu se.hub)
+[15:59:57] *** Quits ihaveamac (efnet.deic.eu se.hub)
+[15:59:57] *** Quits Cu3PO42 (efnet.deic.eu se.hub)
+[15:59:57] *** Quits ZeZu (efnet.deic.eu se.hub)
+[15:59:57] *** Quits datagutt (efnet.deic.eu se.hub)
+[15:59:57] *** Quits GrecKo (efnet.deic.eu se.hub)
+[15:59:57] *** Quits gruetzko- (efnet.deic.eu se.hub)
+[15:59:57] *** Quits b0nez (efnet.deic.eu se.hub)
+[15:59:57] *** Quits zombie343 (efnet.deic.eu se.hub)
+[15:59:57] *** Quits nullstrin (efnet.deic.eu se.hub)
+[15:59:57] *** Quits |Shadow| (efnet.deic.eu se.hub)
+[15:59:57] *** Quits Kyouju (efnet.deic.eu se.hub)
+[15:59:57] *** Quits foghorn2 (efnet.deic.eu se.hub)
+[15:59:57] *** Quits Behemoth_ (efnet.deic.eu se.hub)
+[15:59:57] *** Quits awordnot (efnet.deic.eu se.hub)
+[15:59:57] *** Quits endrift (efnet.deic.eu se.hub)
+[15:59:57] *** Quits j0hny5 (efnet.deic.eu se.hub)
+[15:59:57] *** Quits mukunda (efnet.deic.eu se.hub)
+[15:59:57] *** Quits giglife (efnet.deic.eu se.hub)
+[15:59:57] *** Quits yellows8 (efnet.deic.eu se.hub)
+[15:59:57] *** Quits Lightswor (efnet.deic.eu se.hub)
+[15:59:57] *** Quits Surkow (efnet.deic.eu se.hub)
+[15:59:57] *** Quits Aaerox (efnet.deic.eu se.hub)
+[15:59:57] *** Quits mtheall (efnet.deic.eu se.hub)
+[15:59:57] *** Quits ds84182 (efnet.deic.eu se.hub)
+[15:59:57] *** Quits yls8bot (efnet.deic.eu se.hub)
+[15:59:57] *** Quits TurtleP (efnet.deic.eu se.hub)
+[15:59:57] *** Quits sh0e (efnet.deic.eu se.hub)
+[15:59:57] *** Quits fincs (efnet.deic.eu se.hub)
+[15:59:57] *** Quits WntrMute (efnet.deic.eu se.hub)
+[15:59:57] *** Quits Stary (efnet.deic.eu se.hub)
+[15:59:57] *** Quits oldtopman (efnet.deic.eu se.hub)
+[15:59:57] *** Quits m4ts (efnet.deic.eu se.hub)
+[15:59:57] *** Quits karolherb (efnet.deic.eu se.hub)
+[15:59:57] *** Quits des^ (efnet.deic.eu se.hub)
+[15:59:57] *** Quits irc4 (efnet.deic.eu se.hub)
+[15:59:57] *** Quits DacoTaco (efnet.deic.eu se.hub)
+[15:59:57] *** Quits freundTec (efnet.deic.eu se.hub)
+[15:59:57] *** Quits Mimoja (efnet.deic.eu se.hub)
+[15:59:57] *** Quits madk (efnet.deic.eu se.hub)
+[15:59:57] *** Quits plutobot (efnet.deic.eu se.hub)
+[15:59:57] *** Quits ris2z (efnet.deic.eu se.hub)
+[15:59:57] *** Quits zini (efnet.deic.eu se.hub)
+[15:59:57] *** Quits coriolis (efnet.deic.eu se.hub)
+[15:59:57] *** Quits nrq (efnet.deic.eu se.hub)
+[15:59:58] *** Quits hexkyz (efnet.deic.eu se.hub)
+[15:59:58] *** Quits DoozerBot (efnet.deic.eu se.hub)
+[15:59:58] *** Quits Phils3r (efnet.deic.eu se.hub)
+[15:59:58] *** Quits jn (efnet.deic.eu se.hub)
+[15:59:58] *** Quits uyjulian (efnet.deic.eu se.hub)
+[15:59:58] *** Quits mid-kid (efnet.deic.eu se.hub)
+[15:59:58] *** Quits l1quid (efnet.deic.eu se.hub)
+[15:59:58] *** Quits xx_ns (efnet.deic.eu se.hub)
+[15:59:58] *** Quits thejsa (efnet.deic.eu se.hub)
+[15:59:58] *** Quits lemmy (efnet.deic.eu se.hub)
+[15:59:58] *** Quits omlet05_ (efnet.deic.eu se.hub)
+[15:59:58] *** Quits Jdbye (efnet.deic.eu se.hub)
+[15:59:58] *** Quits cpnc0ke (efnet.deic.eu se.hub)
+[15:59:58] *** Quits balrog (efnet.deic.eu se.hub)
+[15:59:58] *** Quits dibas (efnet.deic.eu se.hub)
+[15:59:58] *** Quits Genolo (efnet.deic.eu se.hub)
+[15:59:58] *** Quits carsten1 (efnet.deic.eu se.hub)
+[15:59:58] *** Quits derrek (efnet.deic.eu se.hub)
+[15:59:58] *** Quits Summeli (efnet.deic.eu se.hub)
+[15:59:58] *** Quits klockee (efnet.deic.eu se.hub)
+[15:59:58] *** Quits TAL (efnet.deic.eu se.hub)
+[15:59:58] *** Quits Ghabry (efnet.deic.eu se.hub)
+[15:59:58] *** Quits rctgamer (efnet.deic.eu se.hub)
+[15:59:58] *** Quits hthh (efnet.deic.eu se.hub)
+[15:59:58] *** Quits Normmatt (efnet.deic.eu se.hub)
+[15:59:58] *** Quits naehrwert (efnet.deic.eu se.hub)
+[16:02:38] *** Joins foghorn2
+[16:02:38] *** Joins Behemoth_
+[16:02:38] *** Joins sh0e
+[16:02:38] *** Joins Aaerox
+[16:02:38] *** Joins awordnot
+[16:02:38] *** Joins endrift
+[16:02:38] *** Joins usineur
+[16:02:38] *** Joins mtheall
+[16:02:38] *** Joins j0hny5
+[16:02:38] *** Joins capin1
+[16:02:38] *** Joins tpw_rules
+[16:02:38] *** Joins ds84182
+[16:02:38] *** Joins mha
+[16:02:38] *** Joins Extrems
+[16:02:38] *** Joins AlexAltea
+[16:02:38] *** Joins yls8bot
+[16:02:38] *** Joins fincs
+[16:02:38] *** Joins WntrMute
+[16:02:38] *** Joins DeusQain
+[16:02:38] *** Joins flotwig
+[16:02:38] *** Joins ihaveamac
+[16:02:38] *** Joins Cu3PO42
+[16:02:38] *** Joins ZeZu
+[16:02:38] *** Joins datagutt
+[16:02:38] *** Joins GrecKo
+[16:02:38] *** Joins gruetzko-
+[16:02:38] *** Joins b0nez
+[16:02:38] *** Joins chang0-
+[16:02:38] *** Joins Surkow
+[16:02:38] *** Joins Kyouju
+[16:02:38] *** Joins Lightswor
+[16:02:38] *** Joins TurtleP
+[16:02:38] *** Joins yellows8
+[16:02:38] *** Joins m4ts
+[16:02:38] *** Joins zini
+[16:02:38] *** Joins coriolis
+[16:02:38] *** Joins nrq
+[16:02:38] *** Joins hexkyz
+[16:02:38] *** Joins DoozerBot
+[16:02:38] *** Joins karolherb
+[16:02:38] *** Joins des^
+[16:02:38] *** Joins Stary
+[16:02:38] *** Joins irc4
+[16:02:38] *** Joins Phils3r
+[16:02:38] *** Joins jn
+[16:02:38] *** Joins DacoTaco
+[16:02:38] *** irc.efnet.nl sets mode: +oo yls8bot yellows8
+[16:02:38] *** Joins uyjulian
+[16:02:38] *** Joins freundTec
+[16:02:38] *** Joins mid-kid
+[16:02:38] *** Joins l1quid
+[16:02:38] *** Joins Mimoja
+[16:02:38] *** Joins madk
+[16:02:38] *** Joins xx_ns
+[16:02:38] *** Joins plutobot
+[16:02:38] *** Joins thejsa
+[16:02:38] *** Joins lemmy
+[16:02:38] *** Joins omlet05_
+[16:02:38] *** Joins Jdbye
+[16:02:38] *** Joins cpnc0ke
+[16:02:38] *** Joins balrog
+[16:02:38] *** Joins dibas
+[16:02:38] *** Joins Genolo
+[16:02:38] *** Joins carsten1
+[16:02:38] *** Joins derrek
+[16:02:38] *** Joins Summeli
+[16:02:38] *** Joins klockee
+[16:02:38] *** Joins TAL
+[16:02:38] *** Joins Ghabry
+[16:02:38] *** Joins rctgamer
+[16:02:38] *** Joins hthh
+[16:02:38] *** Joins Normmatt
+[16:02:38] *** Joins naehrwert
+[16:02:38] *** Joins giglife
+[16:02:38] *** Joins |Shadow|
+[16:02:38] *** Joins nullstrin
+[16:02:38] *** Joins oldtopman
+[16:02:38] *** Joins zombie343
+[16:02:38] *** Joins lameboy
+[16:02:38] *** Joins mukunda
+[16:02:38] *** Joins ris2z
+[16:02:38] *** Joins Snetry
+[16:02:38] *** Joins GerbilSof
+[16:02:38] *** Joins refsw
+[16:02:38] *** Joins theKlanc
+[16:02:38] *** Joins CCFL_Man
+[16:02:38] *** Joins Retr0id
+[16:02:38] *** Joins lex
+[16:02:38] *** Joins blasty
+[16:02:38] *** irc.efnet.nl sets mode: +o naehrwert
+[16:04:07] *** Quits lameboy (Read error: Connection reset by peer)
+[16:04:35] *** Joins lameboy
+[17:19:04] <plutobot> Wiki | Page changed: Bluetooth Driver services | User: yls8 | https://switchbrew.org/w/index.php?curid=161&diff=9700&oldid=9698
+[17:38:16] <plutobot> Wiki | Page changed: Bluetooth Driver services | User: yls8 | https://switchbrew.org/w/index.php?curid=161&diff=9701&oldid=9700
+[18:05:29] <plutobot> Wiki | Page changed: Bluetooth Driver services | User: yls8 | https://switchbrew.org/w/index.php?curid=161&diff=9702&oldid=9701
+[18:10:55] <plutobot> Wiki | Page changed: Bluetooth Driver services | User: yls8 | https://switchbrew.org/w/index.php?curid=161&diff=9703&oldid=9702
+[19:12:47] <plutobot> Wiki | Page changed: Bluetooth Driver services | User: yls8 | https://switchbrew.org/w/index.php?curid=161&diff=9704&oldid=9703
+[19:13:35] *** Quits CCFL_Man (Read error: Operation timed out)
+[19:15:45] *** Joins CCFL_Man
+[19:45:15] <plutobot> Wiki | Page changed: Bluetooth Driver services | User: yls8 | https://switchbrew.org/w/index.php?curid=161&diff=9705&oldid=9704
+[20:10:48] *** rctgamer is now known as rctgamer3
+[20:50:25] *** Quits Snetry (efnet.deic.eu irc.efnet.nl)
+[20:50:25] *** Quits GerbilSof (efnet.deic.eu irc.efnet.nl)
+[20:50:25] *** Quits refsw (efnet.deic.eu irc.efnet.nl)
+[20:50:25] *** Quits theKlanc (efnet.deic.eu irc.efnet.nl)
+[20:50:25] *** Quits Retr0id (efnet.deic.eu irc.efnet.nl)
+[20:50:25] *** Quits lex (efnet.deic.eu irc.efnet.nl)
+[20:50:25] *** Quits blasty (efnet.deic.eu irc.efnet.nl)
+[20:50:25] *** Quits Stary (efnet.deic.eu irc.efnet.nl)
+[20:50:25] *** Quits oldtopman (efnet.deic.eu irc.efnet.nl)
+[20:50:25] *** Quits m4ts (efnet.deic.eu irc.efnet.nl)
+[20:50:25] *** Quits karolherb (efnet.deic.eu irc.efnet.nl)
+[20:50:25] *** Quits des^ (efnet.deic.eu irc.efnet.nl)
+[20:50:25] *** Quits irc4 (efnet.deic.eu irc.efnet.nl)
+[20:50:25] *** Quits DacoTaco (efnet.deic.eu irc.efnet.nl)
+[20:50:25] *** Quits freundTec (efnet.deic.eu irc.efnet.nl)
+[20:50:25] *** Quits Mimoja (efnet.deic.eu irc.efnet.nl)
+[20:50:25] *** Quits madk (efnet.deic.eu irc.efnet.nl)
+[20:50:25] *** Quits plutobot (efnet.deic.eu irc.efnet.nl)
+[20:50:25] *** Quits CCFL_Man (efnet.deic.eu irc.efnet.nl)
+[20:50:25] *** Quits ris2z (efnet.deic.eu irc.efnet.nl)
+[20:50:25] *** Quits zini (efnet.deic.eu irc.efnet.nl)
+[20:50:25] *** Quits coriolis (efnet.deic.eu irc.efnet.nl)
+[20:50:25] *** Quits nrq (efnet.deic.eu irc.efnet.nl)
+[20:50:25] *** Quits hexkyz (efnet.deic.eu irc.efnet.nl)
+[20:50:25] *** Quits DoozerBot (efnet.deic.eu irc.efnet.nl)
+[20:50:25] *** Quits Phils3r (efnet.deic.eu irc.efnet.nl)
+[20:50:25] *** Quits jn (efnet.deic.eu irc.efnet.nl)
+[20:50:25] *** Quits uyjulian (efnet.deic.eu irc.efnet.nl)
+[20:50:25] *** Quits mid-kid (efnet.deic.eu irc.efnet.nl)
+[20:50:25] *** Quits l1quid (efnet.deic.eu irc.efnet.nl)
+[20:50:25] *** Quits xx_ns (efnet.deic.eu irc.efnet.nl)
+[20:50:25] *** Quits thejsa (efnet.deic.eu irc.efnet.nl)
+[20:50:25] *** Quits lemmy (efnet.deic.eu irc.efnet.nl)
+[20:50:25] *** Quits omlet05_ (efnet.deic.eu irc.efnet.nl)
+[20:50:25] *** Quits Jdbye (efnet.deic.eu irc.efnet.nl)
+[20:50:25] *** Quits cpnc0ke (efnet.deic.eu irc.efnet.nl)
+[20:50:25] *** Quits balrog (efnet.deic.eu irc.efnet.nl)
+[20:50:25] *** Quits dibas (efnet.deic.eu irc.efnet.nl)
+[20:50:25] *** Quits Genolo (efnet.deic.eu irc.efnet.nl)
+[20:50:25] *** Quits carsten1 (efnet.deic.eu irc.efnet.nl)
+[20:50:25] *** Quits derrek (efnet.deic.eu irc.efnet.nl)
+[20:50:25] *** Quits Summeli (efnet.deic.eu irc.efnet.nl)
+[20:50:25] *** Quits klockee (efnet.deic.eu irc.efnet.nl)
+[20:50:25] *** Quits TAL (efnet.deic.eu irc.efnet.nl)
+[20:50:25] *** Quits Ghabry (efnet.deic.eu irc.efnet.nl)
+[20:50:25] *** Quits rctgamer3 (efnet.deic.eu irc.efnet.nl)
+[20:50:25] *** Quits hthh (efnet.deic.eu irc.efnet.nl)
+[20:50:25] *** Quits Normmatt (efnet.deic.eu irc.efnet.nl)
+[20:50:26] *** Quits naehrwert (efnet.deic.eu irc.efnet.nl)
+[20:50:26] *** Quits chang0- (efnet.deic.eu irc.efnet.nl)
+[20:50:26] *** Quits Extrems (efnet.deic.eu irc.efnet.nl)
+[20:50:26] *** Quits mha (efnet.deic.eu irc.efnet.nl)
+[20:50:26] *** Quits lameboy (efnet.deic.eu irc.efnet.nl)
+[20:50:26] *** Quits usineur (efnet.deic.eu irc.efnet.nl)
+[20:50:26] *** Quits capin1 (efnet.deic.eu irc.efnet.nl)
+[20:50:26] *** Quits tpw_rules (efnet.deic.eu irc.efnet.nl)
+[20:50:26] *** Quits AlexAltea (efnet.deic.eu irc.efnet.nl)
+[20:50:26] *** Quits DeusQain (efnet.deic.eu irc.efnet.nl)
+[20:50:26] *** Quits flotwig (efnet.deic.eu irc.efnet.nl)
+[20:50:26] *** Quits ihaveamac (efnet.deic.eu irc.efnet.nl)
+[20:50:26] *** Quits Cu3PO42 (efnet.deic.eu irc.efnet.nl)
+[20:50:26] *** Quits ZeZu (efnet.deic.eu irc.efnet.nl)
+[20:50:26] *** Quits datagutt (efnet.deic.eu irc.efnet.nl)
+[20:50:26] *** Quits GrecKo (efnet.deic.eu irc.efnet.nl)
+[20:50:26] *** Quits gruetzko- (efnet.deic.eu irc.efnet.nl)
+[20:50:26] *** Quits b0nez (efnet.deic.eu irc.efnet.nl)
+[20:50:26] *** Quits zombie343 (efnet.deic.eu irc.efnet.nl)
+[20:50:26] *** Quits nullstrin (efnet.deic.eu irc.efnet.nl)
+[20:50:26] *** Quits |Shadow| (efnet.deic.eu irc.efnet.nl)
+[20:50:26] *** Quits Kyouju (efnet.deic.eu irc.efnet.nl)
+[20:50:26] *** Quits foghorn2 (efnet.deic.eu irc.efnet.nl)
+[20:50:26] *** Quits Behemoth_ (efnet.deic.eu irc.efnet.nl)
+[20:50:26] *** Quits awordnot (efnet.deic.eu irc.efnet.nl)
+[20:50:26] *** Quits endrift (efnet.deic.eu irc.efnet.nl)
+[20:50:26] *** Quits j0hny5 (efnet.deic.eu irc.efnet.nl)
+[20:50:26] *** Quits mukunda (efnet.deic.eu irc.efnet.nl)
+[20:50:26] *** Quits giglife (efnet.deic.eu irc.efnet.nl)
+[20:50:26] *** Quits yellows8 (efnet.deic.eu irc.efnet.nl)
+[20:50:26] *** Quits Lightswor (efnet.deic.eu irc.efnet.nl)
+[20:50:26] *** Quits Surkow (efnet.deic.eu irc.efnet.nl)
+[20:50:26] *** Quits Aaerox (efnet.deic.eu irc.efnet.nl)
+[20:50:26] *** Quits mtheall (efnet.deic.eu irc.efnet.nl)
+[20:50:26] *** Quits ds84182 (efnet.deic.eu irc.efnet.nl)
+[20:50:26] *** Quits yls8bot (efnet.deic.eu irc.efnet.nl)
+[20:50:26] *** Quits TurtleP (efnet.deic.eu irc.efnet.nl)
+[20:50:26] *** Quits sh0e (efnet.deic.eu irc.efnet.nl)
+[20:50:26] *** Quits fincs (efnet.deic.eu irc.efnet.nl)
+[20:50:26] *** Quits WntrMute (efnet.deic.eu irc.efnet.nl)
+[20:54:56] *** Joins CCFL_Man
+[20:54:56] *** Joins lameboy
+[20:54:56] *** Joins foghorn2
+[20:54:56] *** Joins Behemoth_
+[20:54:56] *** Joins sh0e
+[20:54:56] *** Joins Aaerox
+[20:54:56] *** Joins awordnot
+[20:54:56] *** Joins endrift
+[20:54:56] *** Joins usineur
+[20:54:56] *** Joins mtheall
+[20:54:56] *** Joins j0hny5
+[20:54:56] *** Joins capin1
+[20:54:56] *** Joins tpw_rules
+[20:54:56] *** Joins ds84182
+[20:54:56] *** Joins mha
+[20:54:56] *** Joins Extrems
+[20:54:56] *** Joins AlexAltea
+[20:54:56] *** Joins yls8bot
+[20:54:56] *** Joins fincs
+[20:54:56] *** Joins WntrMute
+[20:54:56] *** Joins DeusQain
+[20:54:56] *** Joins flotwig
+[20:54:56] *** Joins ihaveamac
+[20:54:56] *** Joins Cu3PO42
+[20:54:56] *** Joins ZeZu
+[20:54:56] *** Joins datagutt
+[20:54:56] *** Joins GrecKo
+[20:54:56] *** Joins gruetzko-
+[20:54:56] *** Joins b0nez
+[20:54:56] *** Joins chang0-
+[20:54:56] *** Joins Surkow
+[20:54:56] *** Joins Kyouju
+[20:54:56] *** Joins Lightswor
+[20:54:56] *** Joins TurtleP
+[20:54:56] *** Joins yellows8
+[20:54:56] *** Joins m4ts
+[20:54:56] *** Joins zini
+[20:54:56] *** Joins coriolis
+[20:54:56] *** Joins nrq
+[20:54:56] *** Joins hexkyz
+[20:54:56] *** Joins DoozerBot
+[20:54:56] *** Joins karolherb
+[20:54:56] *** Joins des^
+[20:54:56] *** Joins Stary
+[20:54:56] *** Joins irc4
+[20:54:56] *** Joins Phils3r
+[20:54:56] *** irc.efnet.nl sets mode: +oo yls8bot yellows8
+[20:54:56] *** Joins jn
+[20:54:56] *** Joins DacoTaco
+[20:54:56] *** Joins uyjulian
+[20:54:56] *** Joins freundTec
+[20:54:56] *** Joins mid-kid
+[20:54:56] *** Joins l1quid
+[20:54:56] *** Joins Mimoja
+[20:54:56] *** Joins madk
+[20:54:56] *** Joins xx_ns
+[20:54:56] *** Joins plutobot
+[20:54:56] *** Joins thejsa
+[20:54:56] *** Joins lemmy
+[20:54:56] *** Joins omlet05_
+[20:54:56] *** Joins Jdbye
+[20:54:56] *** Joins cpnc0ke
+[20:54:56] *** Joins balrog
+[20:54:56] *** Joins dibas
+[20:54:56] *** Joins Genolo
+[20:54:56] *** Joins carsten1
+[20:54:56] *** Joins derrek
+[20:54:56] *** Joins Summeli
+[20:54:56] *** Joins klockee
+[20:54:56] *** Joins TAL
+[20:54:56] *** Joins Ghabry
+[20:54:56] *** Joins rctgamer3
+[20:54:56] *** Joins hthh
+[20:54:56] *** Joins Normmatt
+[20:54:56] *** Joins naehrwert
+[20:54:56] *** Joins giglife
+[20:54:56] *** Joins |Shadow|
+[20:54:56] *** Joins nullstrin
+[20:54:56] *** Joins oldtopman
+[20:54:56] *** Joins zombie343
+[20:54:56] *** Joins mukunda
+[20:54:56] *** Joins ris2z
+[20:54:56] *** Joins Snetry
+[20:54:56] *** Joins GerbilSof
+[20:54:56] *** Joins refsw
+[20:54:56] *** Joins theKlanc
+[20:54:56] *** Joins Retr0id
+[20:54:56] *** Joins lex
+[20:54:56] *** Joins blasty
+[20:54:56] *** irc.efnet.nl sets mode: +o naehrwert
+[21:06:06] <plutobot> Wiki | Page changed: Bluetooth Driver services | User: yls8 | https://switchbrew.org/w/index.php?curid=161&diff=9706&oldid=9705
+[21:13:35] <plutobot> Wiki | Page changed: Settings services | User: yls8 | https://switchbrew.org/w/index.php?curid=110&diff=9707&oldid=9388
+[21:20:00] *** Joins refs
+[21:22:05] <plutobot> Wiki | Page changed: Bluetooth Driver services | User: yls8 | https://switchbrew.org/w/index.php?curid=161&diff=9708&oldid=9706
+[21:23:16] <plutobot> Wiki | Page changed: Bluetooth Driver services | User: yls8 | https://switchbrew.org/w/index.php?curid=161&diff=9709&oldid=9708
+[21:30:15] *** Joins fgsfds
+[21:30:18] *** Joins nohit
+[21:35:17] *** Joins flagrama
+[21:44:02] *** Joins rjeli___
+[21:48:21] *** Joins Pieman
+[21:49:04] *** Quits mukunda (Read error: Operation timed out)
+[21:49:38] *** Joins SCV_
+[21:59:08] *** Joins CCFL_Man_
+[22:05:41] *** Quits CCFL_Man (Ping timeout: 745 seconds)
+[22:09:43] *** Joins CCFL_Man
+[22:10:32] *** Quits CCFL_Man_ (Read error: Operation timed out)
+[22:15:57] *** Joins d3m3vilur
+[22:20:31] *** Quits TAL (Quit: ZNC - http://znc.in)
+[22:20:57] *** Joins KuKzz
+[22:22:08] *** Joins yuriks
+[23:05:17] *** Quits lameboy (Remote host closed the connection)
+[23:05:19] *** Joins zini-
+[23:05:55] *** Quits Phils3r (Quit: ZNC - https://znc.in)
+[23:05:58] *** Quits zini (Write error: Connection reset by peer)
+[23:05:58] *** Joins Phils3r
+[23:05:59] *** Quits uyjulian (Write error: Connection reset by peer)
+[23:06:01] *** Joins uyjulian
+[23:44:49] *** Joins CCFL_Man_
+[23:47:26] *** Quits CCFL_Man (Read error: Operation timed out)
+[23:50:44] *** Joins mukunda

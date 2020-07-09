@@ -1,0 +1,223 @@
+[00:08:19] <plutobot> Wiki | Page changed: Bluetooth Driver services | User: yls8 | https://switchbrew.org/w/index.php?curid=161&diff=9710&oldid=9709
+[00:58:11] *** Quits CCFL_Man_ (Ping timeout: 272 seconds)
+[01:04:42] *** Joins CCFL_Man
+[01:11:37] <plutobot> Wiki | Page changed: Bluetooth Driver services | User: yls8 | https://switchbrew.org/w/index.php?curid=161&diff=9711&oldid=9710
+[01:47:18] *** Joins lameboy
+[01:50:52] <plutobot> GitHub | New PR: hbl update js... | User: SciresM | https://github.com/switchbrew/nx-hbloader/pull/30
+[01:50:54] <plutobot> GitHub | New PR: npdmtool gene... | User: SciresM | https://github.com/switchbrew/switch-tools/pull/29
+[02:13:27] <plutobot> Wiki | Page changed: NPDM | User: SciresM | https://switchbrew.org/w/index.php?curid=141&diff=9712&oldid=9411
+[02:14:27] <plutobot> GitHub | New commit | User: Michael Scire | https://github.com/switchbrew/switch-tools/commit/f1ffee8e1d
+[02:14:27] <plutobot> GitHub | New commit | User: Michael Scire | https://github.com/switchbrew/switch-tools/commit/2c7bedf37b
+[02:16:12] <plutobot> GitHub | New commit | User: Dave Murphy | https://github.com/switchbrew/switch-tools/commit/b3a257b530
+[02:19:13] <plutobot> Wiki | Page changed: Bluetooth Driver services | User: yls8 | https://switchbrew.org/w/index.php?curid=161&diff=9713&oldid=9711
+[02:21:11] *** Quits ris2z (Ping timeout: 745 seconds)
+[02:26:29] *** Joins ris2z
+[02:28:52] *** Quits foghorn2 (Read error: Connection reset by peer)
+[02:29:49] *** Joins foghorn2
+[02:40:06] *** Quits foghorn2 (Read error: Connection reset by peer)
+[02:47:17] *** Joins foghorn2
+[02:50:57] <plutobot> GitHub | New commit | User: fincs | https://github.com/switchbrew/nx-hbloader/commit/946ac4ede6
+[02:50:57] <plutobot> GitHub | New commit | User: Michael Scire | https://github.com/switchbrew/nx-hbloader/commit/4d63750a44
+[02:54:41] *** Quits refs (Quit: refs)
+[03:11:16] <plutobot> Wiki | Page changed: Bluetooth Driver services | User: yls8 | https://switchbrew.org/w/index.php?curid=161&diff=9714&oldid=9713
+[03:27:19] *** Joins Aaerox_
+[03:29:59] *** Quits Aaerox (Read error: Operation timed out)
+[04:24:29] *** Quits fgsfds (Read error: Connection reset by peer)
+[05:00:45] *** Quits chang0- (Read error: Operation timed out)
+[06:44:08] *** Joins chang0-
+[07:46:44] <plutobot> Wiki | Page changed: Bluetooth Driver services | User: yls8 | https://switchbrew.org/w/index.php?curid=161&diff=9715&oldid=9714
+[07:56:43] *** Quits averne (quit)
+[07:57:34] *** Joins averne_
+[07:57:34] *** Server sets mode: +stn 
+[08:01:01] *** Quits averne (Read error: Operation timed out)
+[08:01:48] *** Quits chang0- (hub.efnet.us irc.Prison.NET)
+[08:02:18] *** Quits eggy (Read error: Operation timed out)
+[08:02:32] *** Joins eggster
+[08:03:00] *** Quits Maylay (Read error: Operation timed out)
+[08:03:22] *** Joins Maylay
+[08:18:27] *** Joins chang0-
+[08:27:03] *** Joins mukunda_
+[08:27:21] *** Quits eggster (Read error: Operation timed out)
+[08:27:30] *** Quits giglife (Read error: Operation timed out)
+[08:27:53] *** Quits |Shadow| (Read error: Operation timed out)
+[08:28:07] *** Joins eggster
+[08:28:12] *** Joins giglife
+[08:28:23] *** Quits yls8bot (Read error: Operation timed out)
+[08:28:25] *** Quits mtheall (Write error: Broken pipe)
+[08:29:01] *** Quits ds84182 (Read error: Operation timed out)
+[08:29:02] *** Quits Lightswor (Read error: Operation timed out)
+[08:29:08] *** Joins ds84182
+[08:30:09] *** Joins |Shadow|
+[08:31:11] *** Joins mtheall
+[08:32:16] *** Quits yellows8 (Read error: Operation timed out)
+[08:32:18] *** Quits mukunda (Read error: Operation timed out)
+[08:32:21] *** Quits Surkow (Read error: Operation timed out)
+[08:34:34] *** Quits Aaerox_ (Read error: Operation timed out)
+[08:35:51] *** Quits mukunda_ (Ping timeout: 509 seconds)
+[08:35:51] *** Quits sh0e (Ping timeout: 311 seconds)
+[08:36:26] *** Joins sh0e
+[08:37:13] *** Quits mtheall (Ping timeout: 298 seconds)
+[08:37:14] *** Quits fincs (Ping timeout: 298 seconds)
+[08:39:05] *** Joins mukunda
+[08:41:42] *** Joins mtheall
+[08:42:33] *** Joins Surkow
+[08:46:28] *** Joins yls8bot
+[08:46:38] *** Joins yellows8
+[08:46:49] *** Joins fincs
+[08:46:50] *** Joins Lightswor
+[08:46:52] *** Joins Aaerox
+[09:29:10] *** Quits mukunda (Ping timeout: 496 seconds)
+[10:14:45] *** Joins jn_
+[10:15:02] *** Joins thejsa_
+[10:16:37] *** Joins mid-kid1
+[10:18:27] *** Joins Phils3r_
+[10:18:56] *** Quits carsten1 (Ping timeout: 745 seconds)
+[10:19:24] *** Joins Genolol
+[10:19:32] *** Quits Phils3r (Ping timeout: 615 seconds)
+[10:19:32] *** Quits coriolis (Ping timeout: 615 seconds)
+[10:19:32] *** Quits lemmy (Ping timeout: 615 seconds)
+[10:20:06] *** Quits jn (Ping timeout: 615 seconds)
+[10:20:36] *** Joins carsten1
+[10:20:41] *** Quits SCV_ (Ping timeout: 1230 seconds)
+[10:21:17] *** Quits Summeli (Ping timeout: 745 seconds)
+[10:21:51] *** Quits rjeli___ (Ping timeout: 1230 seconds)
+[10:21:53] *** Quits mid-kid (Ping timeout: 745 seconds)
+[10:21:53] *** Quits Genolo (Ping timeout: 745 seconds)
+[10:21:54] *** Quits derrek (Ping timeout: 745 seconds)
+[10:21:55] *** Genolol is now known as Genolo
+[10:22:27] *** Quits thejsa (Ping timeout: 745 seconds)
+[10:22:53] *** Joins derrek
+[10:25:54] *** Quits mid-kid1 (Read error: Connection timed out)
+[10:26:10] *** Joins Tcm0
+[10:26:29] *** Joins mid-kid1
+[10:26:49] *** Joins lemmy
+[10:27:26] *** Joins coriolis
+[10:28:16] *** Quits yuriks (Ping timeout: 1230 seconds)
+[10:49:19] *** Quits Surkow (hub.efnet.us irc.Prison.NET)
+[10:49:19] *** Quits chang0- (hub.efnet.us irc.Prison.NET)
+[10:49:37] *** Joins Surkow_
+[10:57:55] *** Joins yuriks
+[10:58:17] *** Quits yuriks (Read error: Connection reset by peer)
+[11:07:20] *** Joins rjeli___
+[11:10:34] *** Joins lameboy2
+[11:10:39] *** Joins yuriks
+[11:14:33] *** Quits lameboy (Read error: Operation timed out)
+[11:14:37] *** lameboy2 is now known as lameboy
+[11:17:35] *** Quits yuriks (Read error: Connection reset by peer)
+[11:23:16] *** Joins yuriks
+[11:26:06] *** Quits |Shadow| ()
+[11:27:11] *** Joins |Shadow|
+[11:28:22] *** Quits yuriks (Read error: Connection reset by peer)
+[11:29:30] *** Joins SCV_
+[11:34:17] *** Joins yuriks
+[11:38:57] *** Quits yuriks (Read error: Connection reset by peer)
+[11:42:00] *** Joins chang0-
+[11:42:01] *** Quits SCV_ (Read error: Connection reset by peer)
+[11:42:01] *** Quits rjeli___ (Read error: Connection reset by peer)
+[11:44:11] *** Joins yuriks
+[11:44:42] *** Quits yuriks (Read error: Connection reset by peer)
+[12:04:53] *** Joins yuriks
+[12:14:58] *** Joins yuriks_
+[12:26:06] *** Quits yuriks (Ping timeout: 1230 seconds)
+[12:26:06] *** yuriks_ is now known as yuriks
+[12:58:14] *** Joins mukunda
+[13:18:11] *** Joins miigotu
+[13:39:39] *** Quits miigotu (Quit: ZNC - https://znc.in)
+[13:41:15] *** Joins miigotu
+[13:50:39] *** Quits miigotu (Quit: ZNC - https://znc.in)
+[13:51:23] *** Joins miigotu
+[13:57:07] *** Quits miigotu (Quit: ZNC - https://znc.in)
+[13:58:09] *** Joins miigotu
+[14:07:42] *** Quits miigotu (Quit: ZNC - https://znc.in)
+[14:08:33] *** Joins miigotu
+[14:18:26] *** Quits miigotu (Quit: ZNC - https://znc.in)
+[14:32:46] *** Joins miigotu
+[14:48:04] *** Joins fgsfds
+[14:48:45] *** Quits miigotu (Quit: ZNC - https://znc.in)
+[14:50:37] *** Joins miigotu
+[15:00:22] *** Quits miigotu (ZNC - https://znc.in)
+[15:13:15] *** Joins miigotu
+[15:24:36] *** Quits yuriks (Ping timeout: 1230 seconds)
+[16:58:03] *** Joins SCV_
+[17:06:06] *** Quits SCV_ (Read error: Connection reset by peer)
+[17:36:33] *** Joins SCV_
+[17:36:58] *** Quits SCV_ (Read error: Connection reset by peer)
+[17:49:28] *** Joins SCV_
+[17:49:36] *** Quits SCV_ (Read error: Connection reset by peer)
+[18:02:22] *** Joins SCV_
+[18:09:24] *** Quits SCV_ (Read error: Connection reset by peer)
+[18:17:04] *** Joins |Shadow|_
+[18:19:26] *** Quits |Shadow| (Read error: Operation timed out)
+[18:39:55] *** Joins SCV_
+[18:40:28] <plutobot> Wiki | Page changed: Bluetooth Driver services | User: yls8 | https://switchbrew.org/w/index.php?curid=161&diff=9716&oldid=9715
+[18:47:12] *** Joins SCV__
+[18:47:34] *** Quits SCV__ (Read error: Connection reset by peer)
+[18:50:27] *** Quits datagutt (Read error: Operation timed out)
+[18:56:56] *** Quits Genolo (Ping timeout: 745 seconds)
+[18:57:17] *** Joins Genolo
+[18:58:33] *** Joins datagutt
+[19:00:04] *** Joins SCV__
+[19:01:01] *** Quits SCV_ (Ping timeout: 1230 seconds)
+[19:01:01] *** SCV__ is now known as SCV_
+[19:18:57] *** Surkow_ is now known as Surkow
+[19:52:57] *** Quits SCV_ (Read error: Connection reset by peer)
+[20:13:04] *** Joins SCV_
+[20:30:29] *** Quits SCV_ (Read error: Connection timed out)
+[20:35:41] *** Joins SCV_
+[21:08:22] *** Quits mukunda (Ping timeout: 496 seconds)
+[21:35:48] *** Joins refs
+[21:44:37] *** Joins des^8
+[21:45:13] *** Quits madk (Ping timeout: 272 seconds)
+[21:46:29] *** Quits Maylay (Ping timeout: 272 seconds)
+[21:46:29] *** Quits oldtopman (Ping timeout: 272 seconds)
+[21:46:29] *** Quits des^ (Ping timeout: 272 seconds)
+[21:46:29] *** Quits irc4 (Ping timeout: 272 seconds)
+[21:46:55] *** Joins irc4
+[21:47:07] *** Quits datagutt (Ping timeout: 272 seconds)
+[21:47:07] *** Quits DacoTaco (Ping timeout: 272 seconds)
+[21:47:45] *** Quits plutobot (Ping timeout: 272 seconds)
+[21:48:23] *** Quits zini- (Ping timeout: 272 seconds)
+[21:48:23] *** Quits Pieman (Ping timeout: 272 seconds)
+[21:48:23] *** Quits karolherb (Ping timeout: 272 seconds)
+[21:48:42] *** Joins zini
+[21:48:57] *** Joins Maylay
+[21:49:01] *** Quits Mimoja (Ping timeout: 272 seconds)
+[21:49:25] *** Joins datagutt
+[21:49:39] *** Quits des^8 (Ping timeout: 272 seconds)
+[21:49:39] *** Quits flagrama (Ping timeout: 272 seconds)
+[21:49:39] *** Quits m4ts (Ping timeout: 272 seconds)
+[21:50:17] *** Quits refs (Ping timeout: 272 seconds)
+[21:50:17] *** Quits nohit (Ping timeout: 272 seconds)
+[21:50:17] *** Quits freundTec (Ping timeout: 272 seconds)
+[21:53:14] *** Quits chang0- ()
+[21:55:43] *** Joins freundTec
+[21:56:02] *** Joins karolherb
+[21:56:02] *** Quits karolherb (Client Quit)
+[21:56:35] *** Joins nohit
+[21:57:17] *** Joins Pieman
+[21:57:31] *** Joins flagrama
+[22:01:48] *** Joins oldtopman
+[22:06:32] *** Joins chang0-
+[22:06:38] *** Quits SCV_ (Read error: Connection reset by peer)
+[22:10:45] *** Joins refs
+[22:42:23] *** Joins KuKzz_
+[22:45:25] *** Quits KuKzz (Read error: Operation timed out)
+[22:53:29] *** Joins m4ts
+[22:54:08] *** Joins plutobot
+[22:54:20] *** Joins DacoTaco
+[22:54:50] *** Joins Mimoja
+[22:55:02] *** Joins madk
+[22:55:02] *** Joins des^
+[23:01:01] *** Joins SCV_
+[23:10:53] *** Quits yls8bot (Read error: Operation timed out)
+[23:13:22] *** Quits Lightswor (Read error: Operation timed out)
+[23:13:42] *** Quits Surkow (Read error: Operation timed out)
+[23:14:26] *** Quits yellows8 (Read error: Operation timed out)
+[23:15:35] *** Quits Aaerox (Read error: Operation timed out)
+[23:20:33] *** |Shadow|_ is now known as |Shadow|
+[23:23:02] <plutobot> Wiki | Page changed: Bluetooth Driver services | User: yls8 | https://switchbrew.org/w/index.php?curid=161&diff=9718&oldid=9717
+[23:23:54] *** Joins Surkow
+[23:28:58] *** Joins Lightswor
+[23:29:04] *** Joins yellows8
+[23:29:05] *** Joins yls8bot
+[23:29:09] *** Joins Aaerox
