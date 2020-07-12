@@ -1,0 +1,44 @@
+[00:06:04] *** Joins poopycode
+[00:10:39] <poopycode> Hello, i wrote some toy debugger in the shape of a kernel module. When pumping debug events i can observe events as expected (attach/new_thread etc...) yet it won't show a hardware breakpoint. What am i doing wrong?
+[00:12:35] <poopycode> (hw_bp_syscall does return 0. Also calling it with the same arguments using a twili-gdb patched to that effect does work as intended, ie: catching the damn bp) 
+[00:14:33] <poopycode> I read "https://switchbrew.org/wiki/SVC#Exception handling" multiple times but i'm somehow stupid.
+[01:02:53] *** eggster is now known as eggy
+[01:26:24] *** Quits |Shadow| ()
+[01:31:00] *** Joins |Shadow|
+[01:36:33] *** Quits poopycode (Remote host closed the connection)
+[01:53:15] *** Joins poopycode
+[02:29:25] *** Quits poopycode (Remote host closed the connection)
+[02:30:47] *** Joins phigcloud
+[02:48:06] *** Quits rajkosto (Quit: Leaving)
+[05:02:33] *** Quits fgsfds (Read error: Connection reset by peer)
+[07:07:09] *** Quits lameboy (Read error: Operation timed out)
+[07:09:46] *** Joins lameboy
+[07:24:01] *** Quits Surkow (hub.efnet.us irc.Prison.NET)
+[07:24:01] *** Quits oldtopman (hub.efnet.us irc.Prison.NET)
+[07:42:11] *** Joins |Shadow|_
+[07:45:52] *** Quits |Shadow| (Read error: Operation timed out)
+[07:50:29] *** Quits GerbilSof (Quit: Windows must now restart because the Remote Procedure Call (RPC) service terminated unexpectedly.)
+[07:51:59] *** |Shadow|_ is now known as |Shadow|
+[08:02:03] *** Joins GerbilSof
+[08:03:10] *** Quits |Shadow| (Read error: Operation timed out)
+[08:03:36] *** Joins |Shadow|
+[08:31:21] *** Quits ris2z (Ping timeout: 492 seconds)
+[08:40:45] *** Joins ris2z
+[10:46:51] *** Joins Surkow
+[10:46:51] *** Joins oldtopman
+[10:50:21] *** Quits mukunda (Ping timeout: 745 seconds)
+[11:37:34] *** Quits ris2z (Ping timeout: 376 seconds)
+[11:48:59] *** Joins ris2z
+[16:03:34] *** Joins fgsfds
+[17:28:00] *** Joins refs
+[17:51:39] *** Joins mukunda
+[17:57:28] *** Quits GerbilSof (Quit: Windows must now restart because the Remote Procedure Call (RPC) service terminated unexpectedly.)
+[17:57:57] *** Joins GerbilSof
+[18:03:26] <plutobot> Wiki | Page changed: Gamecard Format | User: Thomhack50 | https://switchbrew.org/w/index.php?curid=169&diff=9728&oldid=8591
+[20:18:10] *** Quits mukunda (Read error: Operation timed out)
+[21:16:02] *** Quits ihaveamac (Quit: fail)
+[21:22:19] *** Quits des^ (Read error: Connection reset by peer)
+[21:22:47] *** Joins des^
+[22:28:58] <plutobot> Wiki | Page changed: Bluetooth Driver services | User: yls8 | https://switchbrew.org/w/index.php?curid=161&diff=9729&oldid=9727
+[22:36:57] *** Joins l1quid
+[23:40:45] <plutobot> Wiki | Page changed: Bluetooth Driver services | User: yls8 | https://switchbrew.org/w/index.php?curid=161&diff=9730&oldid=9729

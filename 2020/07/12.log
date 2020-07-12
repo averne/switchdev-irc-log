@@ -1,0 +1,109 @@
+[00:01:32] *** Joins ihaveamac
+[00:09:53] *** Joins mukunda
+[01:46:12] <plutobot> Wiki | Page changed: System Settings | User: Behemoth | https://switchbrew.org/w/index.php?curid=102&diff=9731&oldid=9693
+[01:46:33] <plutobot> Wiki | Page changed: BCAT services | User: Behemoth | https://switchbrew.org/w/index.php?curid=108&diff=9732&oldid=9157
+[02:01:31] *** Quits nullstrin (Read error: Operation timed out)
+[02:05:15] *** Joins nullstrin
+[02:08:14] *** Quits nullstrin (Read error: Operation timed out)
+[02:11:35] *** Joins nullstrin
+[04:06:28] *** Quits refs (Quit: refs)
+[04:34:32] *** Quits fgsfds (Read error: Connection reset by peer)
+[05:57:46] *** Quits mukunda (Ping timeout: 745 seconds)
+[09:09:54] *** Quits phigcloud (Quit: Connection closed for inactivity)
+[09:58:38] *** Joins mukunda
+[10:05:04] *** Quits foghorn2 (Read error: Operation timed out)
+[11:34:58] *** Joins Tcm0
+[12:13:25] *** Joins lameboy2
+[12:15:11] *** Quits lameboy (Ping timeout: 265 seconds)
+[12:15:11] *** lameboy2 is now known as lameboy
+[12:59:47] *** Joins rajkosto
+[13:15:50] *** Quits Tcm0 (Ping timeout: 622 seconds)
+[13:18:17] *** Joins lameboy2
+[13:19:57] *** Quits lameboy (Ping timeout: 265 seconds)
+[13:20:51] *** lameboy2 is now known as lameboy
+[13:24:25] *** Joins dibas_
+[13:24:25] *** Quits dibas (Read error: Connection reset by peer)
+[13:24:28] *** dibas_ is now known as dibas
+[14:13:33] *** Joins Tcm0
+[14:20:30] *** Joins lameboy2
+[14:22:47] *** Quits lameboy (Ping timeout: 265 seconds)
+[14:23:06] *** lameboy2 is now known as lameboy
+[14:53:18] *** Quits lameboy ()
+[14:54:07] *** Joins lameboy
+[14:54:21] *** Quits lameboy (Client Quit)
+[14:59:46] *** Joins lameboy
+[15:09:38] *** Joins lameboy2
+[15:28:31] *** Joins fgsfds
+[16:32:12] *** Quits lameboy2 (Excess Flood)
+[16:32:12] *** Quits lameboy (Write error: Broken pipe)
+[16:32:12] *** Quits thejsa_ (Write error: Broken pipe)
+[16:32:12] *** Quits lemmy (Write error: Broken pipe)
+[16:32:15] *** Joins lemmu
+[16:32:35] *** Joins lameboy
+[16:32:41] *** Joins thejsa
+[16:45:58] *** Joins refs
+[17:00:24] *** Joins poopycode
+[17:03:15] <poopycode> hi, any idea why exceptions emanating from hardware breakpoints don't show up when attached to a process and calling svcGetDebugEvent()?
+[17:06:46] *** Quits nullstrin (Read error: Operation timed out)
+[17:08:52] <poopycode> doing the same thing with "twili" (after patching it to add hw bp support) does catch the BP as expected. Meanwhile my own kernel module sets things up just as twili does but no luck.
+[17:10:32] *** Joins nullstrin
+[17:36:26] *** Quits lameboy (Quit: Astalabyebye...)
+[17:37:04] *** Joins lameboy
+[18:47:15] *** Joins zini-
+[18:47:15] *** Quits zini (Read error: Connection reset by peer)
+[19:43:06] *** Quits GerbilSof (Quit: Windows must now restart because the Remote Procedure Call (RPC) service terminated unexpectedly.)
+[19:49:17] *** Quits poopycode (Remote host closed the connection)
+[20:10:49] *** Quits des^ (Read error: Connection reset by peer)
+[20:13:19] *** Joins des^
+[20:26:32] *** Quits des^ (Quit: Ping timeout (120 seconds))
+[20:27:00] *** Joins des^
+[20:35:15] <DoozerBot> PR-#493: add news service wrapper, building targets: 02lib
+[20:35:19] <plutobot> GitHub | New PR: add news serv... | User: HookedBehemoth | https://github.com/switchbrew/libnx/pull/493
+[20:39:26] <DoozerBot> 02lib: 03 v3.3.0.18 Build OK - https://doozer.io/build/4gga7cecwq
+[20:44:24] <DoozerBot> PR-#493: add news service wrapper, building targets: 02lib
+[20:48:16] <DoozerBot> 02lib: 03 v3.3.0.20 Build OK - https://doozer.io/build/nz110fd2qj
+[21:12:07] <DoozerBot> PR-#493: add news service wrapper, building targets: 02lib
+[21:16:03] <DoozerBot> 02lib: 03 v3.3.0.21 Build OK - https://doozer.io/build/mlxy7gjp4i
+[21:25:07] *** Joins GerbilSof
+[22:14:31] *** Joins cmd
+[22:21:10] *** Joins poopycode
+[22:23:35] *** Joins foghorn2
+[22:35:27] *** Quits rajkosto (Ping timeout: 255 seconds)
+[23:04:17] *** Quits endrift (Read error: Operation timed out)
+[23:05:21] *** Quits awordnot (Read error: Operation timed out)
+[23:05:22] *** Quits ds84182 (Read error: Operation timed out)
+[23:05:28] *** Joins ds84182
+[23:05:37] *** Quits nullstrin (Read error: Operation timed out)
+[23:05:53] *** Quits GerbilSof (Read error: Operation timed out)
+[23:05:59] *** Joins `cmd
+[23:06:06] *** Quits zombie343 (Read error: Operation timed out)
+[23:06:30] *** Quits miigotu (Read error: Operation timed out)
+[23:06:37] *** Quits l1quid (Read error: Operation timed out)
+[23:06:43] *** Joins l1quid
+[23:06:44] *** Quits l1quid (Remote host closed the connection!)
+[23:06:49] *** Joins l1quid
+[23:06:55] *** Joins zombie343
+[23:07:02] *** Joins figgis_
+[23:07:14] *** Quits ris2z (Read error: Operation timed out)
+[23:07:16] *** Quits j0hny5 (Read error: Operation timed out)
+[23:07:24] *** Joins ris2z
+[23:07:32] *** Quits Kyouju (Read error: Operation timed out)
+[23:07:37] *** Joins Kyouju
+[23:09:45] *** Quits cmd (Read error: Operation timed out)
+[23:10:17] *** Joins giglife_
+[23:10:20] *** Quits Behemoth_ (Read error: Operation timed out)
+[23:10:36] *** Joins endrift
+[23:10:41] *** Joins nullstrin
+[23:11:05] *** Joins Behemoth_
+[23:11:15] *** Quits giglife (Read error: Connection reset by peer)
+[23:11:16] *** giglife_ is now known as giglife
+[23:11:23] *** Joins j0hny5
+[23:11:23] *** Quits fgsfds (Read error: Operation timed out)
+[23:11:26] *** Joins GerbilSof
+[23:11:36] *** Joins awordnot
+[23:12:22] *** Joins miigotu
+[23:14:52] *** Quits |Shadow| (Read error: Connection reset by peer)
+[23:15:08] *** Joins |Shadow|
+[23:16:24] *** Joins phigcloud
+[23:20:04] *** `cmd is now known as cmd
+[23:38:29] *** phigcloud is now known as phigan
