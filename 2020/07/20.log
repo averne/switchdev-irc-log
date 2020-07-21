@@ -1,0 +1,33 @@
+[00:15:29] *** Quits: Stary (~Stary@thonk.9net.org) (Quit: ZNC - http://znc.in)
+[00:30:08] *** Joins: Stary (~Stary@thonk.9net.org)
+[04:28:44] *** Quits: refs (~refs@p200300dd873b25006d259d6f2bdec580.dip0.t-ipconnect.de) (Quit: refs)
+[04:48:43] *** Quits: fgsfds (~figgis@93.123.144.171) (Read error: Connection reset by peer)
+[05:03:57] *** Quits: nullstrin (~nullstrin@cermak.nullstring.io) (Read error: Operation timed out)
+[05:07:42] *** Joins: nullstrin (~nullstrin@cermak.nullstring.io)
+[06:14:48] *** Quits: averne (~averne@176-179-35-51.abo.bbox.fr) (quit)
+[06:16:10] *** Joins: averne_ (~averne@176-179-35-51.abo.bbox.fr)
+[06:16:10] *** Server sets mode: +stn 
+[06:20:03] *** Quits: averne (~averne@176-179-35-51.abo.bbox.fr) (Read error: Operation timed out)
+[08:01:25] *** Quits: averne_ (~averne@176-179-35-51.abo.bbox.fr) (quit)
+[08:03:11] *** Joins: averne (~averne@176-179-35-51.abo.bbox.fr)
+[08:03:11] *** Server sets mode: +stn 
+[08:06:39] *** Quits: averne_ (~averne@176-179-35-51.abo.bbox.fr) (Read error: Operation timed out)
+[08:11:01] *** Quits: mukunda (~mukunda@adsl-074-188-211-074.sip.asm.bellsouth.net) (Ping timeout: 745 seconds)
+[08:59:10] *** Joins: lameboy2 (~lameboy@202-47-121-182.cust.dcsi.net.au)
+[09:06:11] *** Quits: lameboy (~lameboy@202-47-121-182.cust.dcsi.net.au) (Read error: Operation timed out)
+[09:06:12] *** lameboy2 is now known as lameboy
+[13:15:09] *** Joins: mukunda (~mukunda@adsl-074-188-211-074.sip.asm.bellsouth.net)
+[14:56:35] *** Joins: lameboy2 (~lameboy@202-47-121-182.cust.dcsi.net.au)
+[14:59:33] *** Quits: lameboy (~lameboy@202-47-121-182.cust.dcsi.net.au) (Read error: Operation timed out)
+[14:59:38] *** lameboy2 is now known as lameboy
+[16:28:04] *** Joins: fgsfds (~figgis@93.123.144.171)
+[21:33:21] *** Joins: refs (~refs@p200300dd870e4000f4d319f85304f4c1.dip0.t-ipconnect.de)
+[21:38:33] *** Joins: leo60228 (~leo60228@098-121-248-025.res.spectrum.com)
+[21:39:06] <leo60228> Could someone with more experience with libnx internals look at this PR? https://github.com/rust-lang/rust/pull/74567
+[22:03:51] <endrift> now I wish I knew Rust
+[22:03:58] <endrift> (wait, I usually wish I knew Rust)
+[22:04:36] <endrift> also: thanks for basing the Docker image off of the upstream image instead of trying to build your own. It gets frustrating when they don't match.
+[22:54:56] *** Quits: karolherb (~kherbst@2a02:8308:b0be:6900:482c:9537:40:83ba) (Quit: Konversation terminated!)
+[22:59:08] *** Joins: karolherb (~kherbst@2a02:8308:b0be:6900:482c:9537:40:83ba)
+[23:38:13] <plutobot> Wiki | Page changed: Homebrew Applications | User: Vgmoose | https://switchbrew.org/w/index.php?curid=293&diff=9788&oldid=9429
+[23:41:37] <plutobot> Wiki | New page: User:Vgmoose | User: Vgmoose | https://switchbrew.org/w/index.php?curid=416
