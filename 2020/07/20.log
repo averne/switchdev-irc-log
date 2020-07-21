@@ -1,0 +1,33 @@
+[00:15:29] *** Quits Stary (Quit: ZNC - http://znc.in)
+[00:30:08] *** Joins Stary
+[04:28:44] *** Quits refs (Quit: refs)
+[04:48:43] *** Quits fgsfds (Read error: Connection reset by peer)
+[05:03:57] *** Quits nullstrin (Read error: Operation timed out)
+[05:07:42] *** Joins nullstrin
+[06:14:48] *** Quits averne (quit)
+[06:16:10] *** Joins averne_
+[06:16:10] *** Server sets mode: +stn 
+[06:20:03] *** Quits averne (Read error: Operation timed out)
+[08:01:25] *** Quits averne_ (quit)
+[08:03:11] *** Joins averne
+[08:03:11] *** Server sets mode: +stn 
+[08:06:39] *** Quits averne_ (Read error: Operation timed out)
+[08:11:01] *** Quits mukunda (Ping timeout: 745 seconds)
+[08:59:10] *** Joins lameboy2
+[09:06:11] *** Quits lameboy (Read error: Operation timed out)
+[09:06:12] *** lameboy2 is now known as lameboy
+[13:15:09] *** Joins mukunda
+[14:56:35] *** Joins lameboy2
+[14:59:33] *** Quits lameboy (Read error: Operation timed out)
+[14:59:38] *** lameboy2 is now known as lameboy
+[16:28:04] *** Joins fgsfds
+[21:33:21] *** Joins refs
+[21:38:33] *** Joins leo60228
+[21:39:06] <leo60228> Could someone with more experience with libnx internals look at this PR? https://github.com/rust-lang/rust/pull/74567
+[22:03:51] <endrift> now I wish I knew Rust
+[22:03:58] <endrift> (wait, I usually wish I knew Rust)
+[22:04:36] <endrift> also: thanks for basing the Docker image off of the upstream image instead of trying to build your own. It gets frustrating when they don't match.
+[22:54:56] *** Quits karolherb (Quit: Konversation terminated!)
+[22:59:08] *** Joins karolherb
+[23:38:13] <plutobot> Wiki | Page changed: Homebrew Applications | User: Vgmoose | https://switchbrew.org/w/index.php?curid=293&diff=9788&oldid=9429
+[23:41:37] <plutobot> Wiki | New page: User:Vgmoose | User: Vgmoose | https://switchbrew.org/w/index.php?curid=416

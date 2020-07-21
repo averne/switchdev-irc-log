@@ -1,0 +1,154 @@
+[00:06:08] *** Joins TheLat
+[00:13:09] <TheLat> Is this an OK place to ask for help with compiling with msys2?
+[01:21:20] *** Quits TheLat (Ping timeout: 252 seconds)
+[01:54:28] <leo60228> just saw https://devkitpro.org/wiki/Trademarks, who should I ask about using aarch64-unknown-switch-devkita64 as a target triple in rustc?
+[01:58:43] <leo60228> that says to ask dave murphy who I think is WntrMute so
+[01:59:49] <endrift> yes, it is
+[02:20:30] <plutobot> Wiki | Page changed: NPNS services | User: Behemoth | https://switchbrew.org/w/index.php?curid=327&diff=9790&oldid=9179
+[02:22:01] <plutobot> Wiki | Page changed: NPNS services | User: Behemoth | https://switchbrew.org/w/index.php?curid=327&diff=9791&oldid=9790
+[02:36:07] *** Quits refs (Quit: refs)
+[02:48:23] <plutobot> Wiki | Page changed: NPNS services | User: Behemoth | https://switchbrew.org/w/index.php?curid=327&diff=9792&oldid=9791
+[02:48:44] *** Quits fgsfds (Read error: Connection reset by peer)
+[02:51:06] <plutobot> Wiki | Page changed: NPNS services | User: Behemoth | https://switchbrew.org/w/index.php?curid=327&diff=9793&oldid=9792
+[03:02:50] <plutobot> Wiki | Page changed: NPNS services | User: Behemoth | https://switchbrew.org/w/index.php?curid=327&diff=9794&oldid=9793
+[03:58:24] <WntrMute> heh
+[04:01:13] <WntrMute> leo60228, that's not a valid target triple is it?
+[04:02:46] <WntrMute> how do these things work with rust? Wouldn't you be better using standard aarch64-unknown-elf triple?
+[06:38:13] *** Quits GerbilSof (Quit: Windows must now restart because the Remote Procedure Call (RPC) service terminated unexpectedly.)
+[06:54:06] *** Joins GerbilSof
+[08:11:30] *** Quits giglife (Read error: Operation timed out)
+[08:14:05] *** Joins giglife
+[09:21:09] *** Quits averne (quit)
+[09:23:48] *** Joins averne
+[09:23:48] *** Server sets mode: +stn 
+[10:15:39] *** Quits usineur (hub.efnet.us irc.colosolutions.net)
+[10:15:39] *** Quits Cu3PO42 (hub.efnet.us irc.colosolutions.net)
+[10:15:39] *** Quits capin2 (hub.efnet.us irc.colosolutions.net)
+[10:15:39] *** Quits miigotu (hub.efnet.us irc.colosolutions.net)
+[10:15:39] *** Quits Behemoth_ (hub.efnet.us irc.colosolutions.net)
+[10:15:39] *** Quits ds84182 (hub.efnet.us irc.colosolutions.net)
+[10:15:39] *** Quits fincs (hub.efnet.us irc.colosolutions.net)
+[10:15:39] *** Quits datagutt (hub.efnet.us irc.colosolutions.net)
+[10:15:39] *** Quits mtheall (hub.efnet.us irc.colosolutions.net)
+[10:15:39] *** Quits TurtleP (hub.efnet.us irc.colosolutions.net)
+[10:15:39] *** Quits WntrMute (hub.efnet.us irc.colosolutions.net)
+[10:25:09] *** Joins usineur
+[10:25:09] *** Joins Cu3PO42
+[10:25:09] *** Joins capin2
+[10:25:09] *** Joins miigotu
+[10:25:09] *** Joins Behemoth_
+[10:25:09] *** Joins ds84182
+[10:25:09] *** Joins fincs
+[10:25:09] *** Joins datagutt
+[10:25:09] *** Joins mtheall
+[10:25:09] *** Joins TurtleP
+[10:25:09] *** Joins WntrMute
+[10:33:05] *** Quits usineur (hub.efnet.us irc.colosolutions.net)
+[10:33:05] *** Quits Cu3PO42 (hub.efnet.us irc.colosolutions.net)
+[10:33:05] *** Quits capin2 (hub.efnet.us irc.colosolutions.net)
+[10:33:05] *** Quits miigotu (hub.efnet.us irc.colosolutions.net)
+[10:33:05] *** Quits Behemoth_ (hub.efnet.us irc.colosolutions.net)
+[10:33:05] *** Quits ds84182 (hub.efnet.us irc.colosolutions.net)
+[10:33:05] *** Quits fincs (hub.efnet.us irc.colosolutions.net)
+[10:33:05] *** Quits datagutt (hub.efnet.us irc.colosolutions.net)
+[10:33:05] *** Quits mtheall (hub.efnet.us irc.colosolutions.net)
+[10:33:05] *** Quits TurtleP (hub.efnet.us irc.colosolutions.net)
+[10:33:05] *** Quits WntrMute (hub.efnet.us irc.colosolutions.net)
+[10:33:51] *** Joins usineur
+[10:33:51] *** Joins Cu3PO42
+[10:33:51] *** Joins capin2
+[10:33:51] *** Joins miigotu
+[10:33:51] *** Joins Behemoth_
+[10:33:51] *** Joins ds84182
+[10:33:51] *** Joins fincs
+[10:33:51] *** Joins datagutt
+[10:33:51] *** Joins mtheall
+[10:33:51] *** Joins TurtleP
+[10:33:51] *** Joins WntrMute
+[12:36:21] *** Quits averne (quit)
+[12:37:11] *** Joins averne
+[12:37:11] *** Server sets mode: +stn 
+[12:54:21] *** Quits averne (quit)
+[12:55:17] *** Joins averne
+[12:55:17] *** Server sets mode: +stn 
+[13:17:04] <leo60228> WntrMute: sorry, just woke up
+[13:17:18] <leo60228> rust has its own target triples that map to LLVM ones
+[13:19:00] <leo60228> like, the definition of `i686-unknown-uefi` has `llvm_target: "i686-unknown-windows-gnu"`
+[13:20:57] <leo60228> using aarch64-unknown-switch-devkita64 lets me distinguish in the standard library between devkita64, bare-metal arm (aarch64-unknown-none), and the official sdk (someone managed to RE enough to port rust to it for game modding, they're planning on upstreaming it soon i think)
+[13:21:39] <leo60228> that last one would use aarch64-unknown-switch-nnsdk, and the standard library could do #[cfg(target_os = "switch")], #[cfg(target_env = "devkita64")], and #[cfg(target_env = "nnsdk")] to distinguish them
+[13:21:48] <leo60228> (with #[cfg(x)] being kinda like C #ifdef x)
+[13:24:49] *** Quits averne (quit)
+[13:26:43] *** Joins averne
+[13:26:43] *** Server sets mode: +stn 
+[13:26:55] <leo60228> oh to clarify the sdk target is based on reversing the sdk nso in games
+[13:26:58] <leo60228> not the leaked one
+[13:40:42] <leo60228> rust uses zulip for development discussion, there's some discussion on naming of homebrew triples at https://rust-lang.zulipchat.com/#narrow/stream/122651-general/topic/homebrew.20target.20bikeshedding
+[15:08:42] *** Quits GerbilSof (Quit: Windows must now restart because the Remote Procedure Call (RPC) service terminated unexpectedly.)
+[15:11:45] *** Joins GerbilSof
+[15:18:41] <WntrMute> leo60228, baremetal is aarch64-none-elf
+[15:19:41] <WntrMute> unknown is usually used for linux, i.e. aarch64-unknown-linux-gnu 
+[15:23:20] <WntrMute> if you're aliasing things I think I'd tend to go for aarch64-switch-libnx & aarch64-switch-nnsdk
+[15:24:20] <WntrMute> or actually, to future proof for nutjobs wanting to put their own OS on a switch, go for horizon instead of switch
+[15:25:22] <WntrMute> i.e. aarch64-horizon-libnx & aarch64-horizon-nnsdk
+[15:27:36] *** Quits ris2z (Ping timeout: 745 seconds)
+[15:28:58] *** Joins ris2z
+[15:43:20] <leo60228> WntrMute: Rust uses different triples than gcc for some targets, baremetal aarch64 is aarch64-unknown-none with Rust
+[15:43:32] <WntrMute> ew
+[15:43:39] <leo60228> Rust also requires to always specify the vendor, unlike some other compilers which make it optional
+[15:44:40] <leo60228> there were some worries about a C&D from Nintendo if aarch64-nintendo-switch-... was used, so we ended up deciding to use aarch64-unknown-switch-...
+[15:46:33] <leo60228> I actually *did* use aarch64-(unknown-)horizon-libnx initially, but it was decided that Horizon could be ambiguous between the 3DS and Switch (why have #[cfg(all(target_os = "horizon", target_arch = "aarch64"))] everywhere when you could just use #[cfg(target_os = "switch")]
+[15:47:14] <leo60228> see https://forge.rust-lang.org/release/platform-support.html for a list of every target supported by upstream Rust
+[15:47:15] <WntrMute> Nin don't really like anything that touches their official tools/libs being public tbh. 
+[15:47:39] <WntrMute> not that I'd let it worry you until they come knocking
+[15:48:56] <WntrMute> you going for tier 3 atm?
+[15:48:59] <leo60228> yeah
+[15:49:29] <leo60228> I have implemented CI support, but I haven't enabled it (main reason I added it was to make builds more reproducable)
+[15:50:16] <leo60228> the most comparable target currently supported is mipsel-sony-psp, which is tier 3
+[15:51:33] <leo60228> a GBA target was just merged a few days ago so it isn't in that list yet
+[15:51:36] <WntrMute> aarch64-devkitpro-switch might make more sense then I guess
+[15:51:50] <leo60228> it was initially thumbv4t-nintendo-gba but it turned out there wasn't anything GBA specific about it so it was renamed to thumbv4t-none-eabi
+[15:51:56] <WntrMute> jesus, what can you do with rust on a GBA?
+[15:52:30] <leo60228> same thing you could do with C on a GBA, really :P
+[15:52:39] <WntrMute> gba can run arm fwiw, it's just shit on the 16bit cart bus
+[15:53:03] <leo60228> LLVM uses thumbvNt for "primarily thumb but also supports ARM"
+[15:53:08] <leo60228> not sure *why* but rust decided to copy that
+[15:54:24] <WntrMute> I don't really know enough about rust and I've never managed to summon the motivation to learn, sadly
+[15:55:28] <WntrMute> the lack of mmio support seems like it would be a massive disadvantage on a GBA
+[15:55:31] *** Joins fgsfds
+[15:56:28] <leo60228> rust does support mmio
+[15:57:10] <leo60228> the most common way to handle it is technically UB, but the compiler doesn't utilize it and there's a new language feature coming pretty soon that'll make it non-UB
+[15:57:34] <leo60228> there are ways to handle it that aren't UB, they're just a little more inconvenient
+[15:58:13] <leo60228> (currently, from a language lawyer perspective, getting a pointer to a field of a struct counts as doing a non-volatile read of the entire struct)
+[15:58:27] <leo60228> (the compiler doesn't treat it that way, and there's new syntax that explicitly does not do that)
+[15:58:56] <leo60228> (if you use pointers to u8/whatever instead of pointers to a struct there isn't a problem at all)
+[16:03:06] <leo60228> WntrMute: fwiw, on the zulip topic i linked, one of the rust devs said that the target_env (devkita64 in aarch64-unknown-switch-devkita64) should refer to what non-Rust code the target would link to
+[16:03:33] <leo60228> while for stuff like x86_64-unknown-linux-gnu it's the libc, I think based on that it'd make sense to use devkita64 as the env here
+[16:03:45] <WntrMute> that would be libnx in our case I would guess
+[16:04:14] <WntrMute> devkitA64 is the toolchain - i.e. our customised gcc
+[16:04:46] <leo60228> well, isn't the newlib fork part of devkitA64?
+[16:04:54] <leo60228> i suppose it does have a mutual dependency with libnx, though
+[16:05:44] <leo60228> i could see the argument that devkita64 implies that the rust toolchain is part of devkita64 (though i don't think anybody is worried that x86_64-unknown-windows-msvc implies that it's a part of msvc)
+[16:06:03] <WntrMute> linux-gnu is a bit more than libc :P
+[16:06:18] <leo60228> well, the only other linux-xxx target rust supports is linux-musl
+[16:06:25] <leo60228> so in the case of rust it KIND OF is? idk
+[16:06:45] <leo60228> (also, i've asked the developer of the sdk target, and he prefers aarch64-unknown-switch-whatever)
+[16:08:23] <leo60228> anyway, based on what i can tell, both rust and devkitpro people are happy with aarch64-unknown-switch-something, right?
+[16:08:28] <WntrMute> linux-musl is just differentiating on libc i.e. base is glibc or musl
+[16:10:02] <leo60228> if that's the case, should that something be devkita64 or libnx?
+[16:10:02] <leo60228> i've already upstreamed a smaller patch using -devkita64, but i could change that pretty easily
+[16:10:02] <WntrMute> sure I think if you go with nnsdk then it probably makes more sense to go with libnx
+[16:10:02] <WntrMute> heh, as he up arrows to edit, forgetting this isn't discord
+[19:53:44] <endrift> Does anyone know why the Official SDK Function Namespace is nn anyway
+[19:53:59] <endrift> nintendo * 2
+[21:13:15] *** Joins refs
+[21:22:16] *** Quits phigcloud (Ping timeout: 1230 seconds)
+[21:23:27] *** Quits Summeli (Ping timeout: 745 seconds)
+[21:24:02] *** Quits SCV_ (Ping timeout: 1230 seconds)
+[21:25:45] *** Joins SCV_
+[21:26:25] *** Quits SCV_ (Read error: Connection reset by peer)
+[21:30:32] *** Quits rjeli___ (Read error: Connection timed out)
+[21:46:38] *** Joins phigcloud
+[21:51:54] *** Quits phigcloud (Read error: Connection reset by peer)
+[22:03:50] *** Joins phigcloud
+[22:07:38] *** Joins SCV_
+[22:10:28] *** Joins rjeli___
