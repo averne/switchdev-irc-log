@@ -1,0 +1,90 @@
+[00:49:40] *** Quits oreo639 (Read error: Operation timed out)
+[00:57:56] *** Joins oreo639
+[00:58:26] *** Joins Generic
+[00:59:58] <Generic> slowly things from the SPIR-V specification and mesa maxwell compiler come through to my brain
+[02:15:16] *** Quits refs (Quit: refs)
+[02:19:56] *** Quits oreo639 (Ping timeout: 492 seconds)
+[02:37:43] *** Joins oreo639
+[03:01:34] *** Quits Generic (Quit: Generic)
+[03:08:10] *** Quits oreo639 (Remote host closed the connection)
+[05:11:45] *** Quits fgsfds (Read error: Connection reset by peer)
+[05:23:11] *** Quits ris2z (Ping timeout: 265 seconds)
+[05:30:14] *** Joins ris2z
+[05:52:39] *** Joins cpncok3
+[05:55:51] *** Quits cpnc0ke (Ping timeout: 745 seconds)
+[06:18:07] *** Quits mukunda (Read error: Operation timed out)
+[07:07:22] *** Joins cpnc0ke
+[07:08:21] *** Quits cpncok3 (Ping timeout: 492 seconds)
+[08:27:21] *** Quits endrift (Read error: Operation timed out)
+[08:27:23] *** Quits nullstrin (Read error: Operation timed out)
+[08:28:16] *** Quits tpw_rules (Read error: Operation timed out)
+[08:28:33] *** Joins tpw_rules
+[08:28:59] *** Quits awordnot (Read error: Operation timed out)
+[08:30:32] *** Quits |Shadow| (Read error: Operation timed out)
+[08:33:48] *** Quits j0hny5 (Ping timeout: 622 seconds)
+[08:35:58] *** Joins awordnot
+[08:37:01] *** Joins j0hny5
+[08:37:25] *** Joins |Shadow|
+[08:37:35] *** Joins nullstrin
+[08:51:38] *** Quits yls8bot (Read error: Operation timed out)
+[08:51:59] *** Quits eggster (Read error: Operation timed out)
+[08:52:06] *** Quits DeusQain (Read error: Operation timed out)
+[08:52:13] *** Joins eggster
+[08:53:34] *** Quits Lightswor (Read error: Operation timed out)
+[08:55:11] *** Quits Surkow (Read error: Operation timed out)
+[08:55:11] *** Quits yellows8 (Read error: Operation timed out)
+[08:55:58] *** Quits Aaerox (Read error: Operation timed out)
+[08:55:59] *** Quits Kyouju (Read error: Operation timed out)
+[08:57:52] *** Quits cpnc0ke (Read error: Operation timed out)
+[08:58:06] *** Joins cpnc0ke
+[08:58:31] *** Quits madk (Ping timeout: 272 seconds)
+[08:58:47] *** Joins endrift
+[08:59:09] *** Quits Mimoja (Ping timeout: 272 seconds)
+[08:59:09] *** Quits b0nez (Ping timeout: 272 seconds)
+[08:59:09] *** Quits zombie343 (Ping timeout: 272 seconds)
+[08:59:09] *** Quits m4ts (Ping timeout: 272 seconds)
+[08:59:15] *** Joins Kyouju
+[08:59:47] *** Quits oldtopman (Ping timeout: 272 seconds)
+[08:59:47] *** Quits zini- (Ping timeout: 272 seconds)
+[08:59:47] *** Quits Maylay (Ping timeout: 272 seconds)
+[08:59:47] *** Quits DacoTaco (Ping timeout: 272 seconds)
+[08:59:47] *** Quits plutobot (Ping timeout: 272 seconds)
+[09:00:15] *** Snetry is now known as Sentry
+[09:00:39] *** Joins zini
+[09:02:42] *** Joins Maylay
+[09:03:35] *** Joins zombie343
+[09:05:13] *** Joins DeusQain
+[09:05:23] *** Joins Surkow
+[09:06:01] *** Joins b0nez
+[09:11:03] *** Joins Lightswor
+[09:11:16] *** Joins Aaerox
+[09:14:33] *** Joins yls8bot
+[09:14:48] *** Joins oldtopman
+[09:16:45] *** Joins yellows8
+[09:40:38] *** Joins m4ts
+[09:41:03] *** Joins plutobot
+[09:41:28] *** Joins DacoTaco
+[09:41:51] *** Joins Mimoja
+[09:42:16] *** Joins madk
+[11:53:45] *** Quits ihaveamac (Remote host closed the connection)
+[11:58:02] *** Joins ihaveamac
+[12:00:22] *** Joins mukunda
+[12:35:30] *** Quits ris2z (Ping timeout: 260 seconds)
+[12:42:00] *** Joins ris2z
+[13:24:27] <plutobot> Wiki | Page changed: NPNS services | User: Behemoth | https://switchbrew.org/w/index.php?curid=327&diff=9804&oldid=9801
+[14:04:14] <plutobot> Wiki | Page changed: NPNS services | User: Behemoth | https://switchbrew.org/w/index.php?curid=327&diff=9805&oldid=9804
+[15:06:24] *** Joins lameboy2
+[15:13:36] *** Quits lameboy (Read error: Operation timed out)
+[15:13:36] *** lameboy2 is now known as lameboy
+[16:13:40] *** Quits GerbilSof (Windows must now restart because the Remote Procedure Call (RPC) service terminated unexpectedly.)
+[16:49:05] *** Joins fgsfds
+[16:59:02] *** Joins GerbilSof
+[19:00:22] *** Quits ris2z (Ping timeout: 496 seconds)
+[19:02:03] *** Joins ris2z
+[21:38:35] *** Joins refs
+[22:05:47] *** Quits ds84182 (Read error: Operation timed out)
+[23:14:58] *** Quits ris2z (Ping timeout: 376 seconds)
+[23:26:43] *** Joins ris2z
+[23:57:20] *** Quits phigcloud (Read error: Connection reset by peer)
+[23:57:33] *** Joins phigcloud
+[23:57:40] *** Joins ds84182
