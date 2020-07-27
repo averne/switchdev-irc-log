@@ -1,0 +1,59 @@
+[00:25:54] *** Joins m4ts
+[00:26:26] *** Joins plutobot
+[00:26:27] *** Joins Mimoja
+[00:26:40] *** Joins madk
+[00:27:10] *** Joins DacoTaco
+[01:02:27] <plutobot> Wiki | Page changed: 10.0.0 | User: SciresM | https://switchbrew.org/w/index.php?curid=403&diff=9808&oldid=9431
+[01:09:04] <plutobot> Wiki | Page changed: Thread Local Storage | User: SciresM | https://switchbrew.org/w/index.php?curid=202&diff=9809&oldid=6976
+[01:11:39] *** Quits changO- (Read error: Connection reset by peer)
+[03:04:59] *** Joins changO-
+[03:11:16] <plutobot> Wiki | Page changed: NPNS services | User: Behemoth | https://switchbrew.org/w/index.php?curid=327&diff=9810&oldid=9805
+[04:20:41] *** Quits ris2z_ (Ping timeout: 745 seconds)
+[04:21:21] *** Joins ris2z
+[05:11:16] *** Quits fgsfds (Read error: Connection reset by peer)
+[05:35:36] *** Quits ris2z (Ping timeout: 272 seconds)
+[05:40:55] *** Joins ris2z
+[05:58:16] *** Quits GerbilSof (Quit: Windows must now restart because the Remote Procedure Call (RPC) service terminated unexpectedly.)
+[06:11:25] *** Joins GerbilSof
+[07:21:23] *** Quits ds84182 (Read error: Operation timed out)
+[07:22:43] *** Quits yls8bot (Read error: Operation timed out)
+[07:22:49] *** Quits Lightswor (Read error: Operation timed out)
+[07:23:38] *** Joins ds84182
+[07:25:52] *** Quits Aaerox (Read error: Operation timed out)
+[07:26:48] *** Quits yellows8 (Read error: Operation timed out)
+[07:39:50] *** Joins Aaerox
+[07:40:28] *** Joins Lightswor
+[07:41:10] *** Joins yellows8
+[07:42:26] *** Joins yls8bot
+[08:38:03] *** Quits GerbilSof (Windows must now restart because the Remote Procedure Call (RPC) service terminated unexpectedly.)
+[08:48:32] *** Joins GerbilSof
+[14:07:08] *** Quits changO- (Read error: Operation timed out)
+[14:19:39] *** Joins changO-
+[14:21:25] *** Quits mukunda (Read error: Operation timed out)
+[15:17:31] *** Joins fgsfds
+[16:59:00] *** Quits omlet05_ (Quit: http://quassel-irc.org - Chat comfortably. Anywhere.)
+[17:05:06] *** Joins omlet05
+[17:15:31] <plutobot> Wiki | Page changed: Bluetooth Driver services | User: yls8 | https://switchbrew.org/w/index.php?curid=161&diff=9811&oldid=9806
+[17:56:40] *** Joins refs
+[18:27:04] <plutobot> GitHub | New commit | User: fincs | https://github.com/switchbrew/libnx/commit/1b95c09a27
+[18:27:05] <DoozerBot> fincs pushed to master: switch.ld: update init_array/fini_array handling for latest devkitA64 "switch.ld: update init_array/fini_array handling for latest devkitA64" [071 file modified], building targets: 02lib
+[18:31:40] <DoozerBot> 02lib: 03 v3.3.0.18 Build OK - https://doozer.io/build/9dbcmlnaty
+[19:01:51] *** Joins mukunda
+[19:27:48] *** Quits plutobot (Ping timeout: 272 seconds)
+[19:28:26] *** Quits DacoTaco (Ping timeout: 272 seconds)
+[19:28:27] *** Quits madk (Ping timeout: 272 seconds)
+[19:29:05] *** Quits Mimoja (Ping timeout: 272 seconds)
+[19:29:05] *** Quits m4ts (Ping timeout: 272 seconds)
+[19:53:19] *** Quits ris2z (Ping timeout: 246 seconds)
+[19:59:00] *** Joins ris2z
+[20:08:33] *** Quits ris2z (Ping timeout: 492 seconds)
+[20:12:24] *** Joins ris2z
+[20:30:43] *** Joins m4ts
+[20:30:59] *** Joins plutobot
+[20:31:09] *** Joins Mimoja
+[20:31:13] *** Joins DacoTaco
+[20:31:34] *** Joins madk
+[22:23:45] *** Quits |Shadow| (Read error: Connection reset by peer)
+[22:29:50] *** Joins |Shadow|
+[23:18:36] *** Joins karolherb
+[23:28:51] *** Quits karolherb (Quit: Konversation terminated!)
