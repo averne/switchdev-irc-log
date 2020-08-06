@@ -1,0 +1,83 @@
+[00:24:24] *** Quits GerbilSof (Quit: Windows must now restart because the Remote Procedure Call (RPC) service terminated unexpectedly.)
+[01:04:08] *** Joins rajkosto
+[01:15:30] <plutobot> Wiki | Page changed: BTM services | User: yls8 | https://switchbrew.org/w/index.php?curid=306&diff=9853&oldid=9850
+[01:26:26] *** Quits rajkosto (Read error: Connection reset by peer)
+[02:11:26] *** Joins mukunda
+[02:35:43] *** Quits refs (Quit: refs)
+[06:11:48] <plutobot> Wiki | Page changed: BTM services | User: yls8 | https://switchbrew.org/w/index.php?curid=306&diff=9854&oldid=9853
+[08:42:19] *** Quits mukunda (Read error: Operation timed out)
+[10:13:51] *** Quits ris2z (Quit: bye)
+[10:14:39] *** Joins ris2z
+[11:04:43] *** Joins rctgamer
+[11:08:00] *** Joins zini-
+[11:08:23] *** Joins nrq_
+[11:08:33] *** Joins mid-kid1
+[11:08:51] *** Joins derrek_
+[11:10:21] *** Quits tpw_rules (Ping timeout: 745 seconds)
+[11:10:36] *** Joins tpw_rules
+[11:12:41] *** Quits Yario (Ping timeout: 745 seconds)
+[11:12:42] *** Quits hexkyz (Ping timeout: 745 seconds)
+[11:13:51] *** Joins AlxAltea
+[11:14:27] *** Quits derrek (Ping timeout: 745 seconds)
+[11:14:27] *** Quits rctgamer3 (Ping timeout: 745 seconds)
+[11:14:27] *** Quits Jdbye (Ping timeout: 745 seconds)
+[11:14:27] *** derrek_ is now known as derrek
+[11:15:02] *** Quits zini (Ping timeout: 745 seconds)
+[11:15:02] *** Quits hthh_ (Ping timeout: 745 seconds)
+[11:15:02] *** Quits MasterGK (Ping timeout: 745 seconds)
+[11:15:02] *** Quits uyjulian (Ping timeout: 745 seconds)
+[11:15:03] *** Quits coriolis (Ping timeout: 745 seconds)
+[11:15:03] *** Quits mid-kid (Ping timeout: 745 seconds)
+[11:15:03] *** Quits nrq (Ping timeout: 745 seconds)
+[11:15:03] *** Quits klockee (Ping timeout: 745 seconds)
+[11:15:03] *** Quits Normmatt (Ping timeout: 745 seconds)
+[11:15:36] *** Quits ris2z (Ping timeout: 745 seconds)
+[11:15:37] *** Quits dibas (Ping timeout: 745 seconds)
+[11:15:37] *** Quits Phils3r (Ping timeout: 745 seconds)
+[11:15:37] *** Quits AlexAltea (Ping timeout: 745 seconds)
+[11:15:37] *** Quits gruetzkop (Ping timeout: 745 seconds)
+[11:15:48] *** Joins Jdbye
+[11:20:07] *** Joins coriolis
+[11:23:04] *** Joins Ghabry
+[11:23:34] *** Joins ris2z
+[11:23:36] *** Joins hexkyz
+[11:23:43] *** Joins hthh
+[11:23:54] *** Joins Yario
+[11:24:09] *** Joins gruetzkop
+[11:24:11] *** Joins uyjulian
+[11:24:14] *** Joins dibas
+[11:24:19] *** Joins klock
+[11:25:14] *** Quits Yario (Read error: Connection timed out)
+[11:25:35] *** Joins Yario
+[11:26:49] *** Joins Normmatt
+[11:27:12] *** Joins Phils3r
+[12:11:49] *** Quits fgsfds (Ping timeout: 622 seconds)
+[12:52:26] *** Quits Yario (Ping timeout: 745 seconds)
+[12:52:40] *** Joins Yario
+[13:02:59] *** Quits miigotu (Read error: Operation timed out)
+[13:54:58] *** Joins miigotu
+[14:33:04] *** Quits miigotu (Read error: Operation timed out)
+[15:15:43] *** rctgamer is now known as rctgamer3
+[15:19:12] *** Joins mukunda
+[15:29:49] *** Quits CCFL_Man (Read error: Operation timed out)
+[15:33:02] *** Joins CCFL_Man
+[16:42:15] *** Quits ris2z (Quit: bye)
+[16:42:58] *** Joins ris2z
+[18:09:33] *** Joins changO-
+[18:32:31] *** Quits Yario (Ping timeout: 745 seconds)
+[19:37:40] <DoozerBot> fincs pushed to master: add news service wrapper (#493) "add news service wrapper (#493)" [032 files added07, 1 file modified], building targets: 02lib
+[19:37:45] <plutobot> GitHub | New commit | User: HookedBehemoth | https://github.com/switchbrew/libnx/commit/9a1e3aeb47
+[19:37:52] *** Joins fgsfds
+[19:40:03] *** Joins figgis_
+[19:41:38] *** yls8bot sets mode: +o fincs
+[19:41:38] *** yls8bot sets mode: +o WntrMute
+[19:42:03] <DoozerBot> 02lib: 03 v3.3.0.19 Build OK - https://doozer.io/build/o79souktlf
+[19:56:25] *** Quits figgis_ (Leaving)
+[21:02:54] *** Joins refs
+[22:29:32] *** Quits cpnc0ke (Ping timeout: 492 seconds)
+[22:34:06] *** Joins cpnc0ke
+[22:45:27] *** Joins guardianl
+[22:59:00] *** Joins Yario
+[23:31:11] *** Quits Yario (Ping timeout: 745 seconds)
+[23:45:03] *** Joins Yario
+[23:55:23] *** Quits Yario (Quit: Quit)
