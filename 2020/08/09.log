@@ -1,0 +1,69 @@
+[00:01:43] *** Joins: DacoTaco (~DacoTaco@178-119-112-131.access.telenet.be)
+[01:23:51] *** Joins: TheLat (webchat@c-98-207-138-185.hsd1.ca.comcast.net)
+[01:24:00] <TheLat> Hello!
+[01:24:39] <TheLat> Can I bother someone for help with compiling https://github.com/switchbrew/switch-examples/tree/master/audio/sdl2-audio with MSYS2?
+[01:24:52] <TheLat> I'm a horrible noob.
+[01:27:14] <TheLat> I resolved the #include <immintrin.h> error and have updated the path variable so that it pulls in the SDL headers correctly.
+[01:27:55] <TheLat> But I'm getting this error on running make:
+[01:28:02] <TheLat> Package SDL2_mixer was not found in the pkg-config search path. Perhaps you should add the directory containing `SDL2_mixer.pc' to the PKG_CONFIG_PATH environment variable No package 'SDL2_mixer' found
+[01:30:27] <TheLat> "echo $PKG_CONFIG_PATH" outputs "/mingw64/lib/pkgconfig:/usr/lib/pkgconfig:/usr/share/pkgconfig:/lib/pkgconfig" the first part of which does contain SDL2_mixer.pc
+[01:32:34] <TheLat> This still produces a .nro, but that crashes on running on my Switch, presumable from the lack of SDL2_mixer.pc, but I am a noob, so I'm not sure.
+[01:33:18] <TheLat> https://github.com/switchbrew/switch-examples/tree/master/graphics/opengl/textured_cube compiles and runs for me just fine.
+[03:42:47] *** Joins: miigotu_ (~miigotu@custip-162-217-53-192.esvabroadband.net)
+[03:44:01] *** Quits: miigotu_ (~miigotu@custip-162-217-53-192.esvabroadband.net) (Client Quit)
+[03:44:07] *** Quits: miigotu (~miigotu@custip-162-217-53-192.esvabroadband.net) (Read error: Operation timed out)
+[03:47:45] *** Joins: miigotu (~miigotu@custip-162-217-53-192.esvabroadband.net)
+[03:54:35] *** Quits: refs (~refs@p200300dd872ea2009cf75eadbbe04d7c.dip0.t-ipconnect.de) (Quit: refs)
+[04:13:09] <TheLat> :(
+[05:59:19] *** Quits: endrift (~endrift@endrift.com) (Read error: Operation timed out)
+[06:00:32] *** Quits: tpw_rules (~tpw_rules@li1059-135.members.linode.com) (Read error: Operation timed out)
+[06:00:39] *** Quits: nullstrin (~nullstrin@cermak.nullstring.io) (Read error: Operation timed out)
+[06:00:40] *** Quits: eggster (~eggster@irchighway.eggy.cc) (Write error: Broken pipe)
+[06:00:40] *** Quits: miigotu (~miigotu@custip-162-217-53-192.esvabroadband.net) (Write error: Broken pipe)
+[06:00:49] *** Joins: tpw_rules (~tpw_rules@li1059-135.members.linode.com)
+[06:00:55] *** Joins: eggster (~eggster@irchighway.eggy.cc)
+[06:01:10] *** Quits: awordnot (~awordnot@c-73-74-223-132.hsd1.il.comcast.net) (Read error: Operation timed out)
+[06:01:30] *** Joins: endrift (~endrift@endrift.com)
+[06:01:47] *** Quits: j0hny5 (j0hny5@94.75.242.8) (Read error: Operation timed out)
+[06:02:02] *** Joins: awordnot (~awordnot@c-73-74-223-132.hsd1.il.comcast.net)
+[06:02:29] *** Joins: j0hny5 (j0hny5@94.75.242.8)
+[06:05:43] *** Joins: nullstrin (~nullstrin@cermak.nullstring.io)
+[06:06:45] *** Joins: miigotu (~miigotu@custip-162-217-53-192.esvabroadband.net)
+[08:10:13] *** Quits: GerbilSof (~GerbilSof@pool-108-24-138-55.cmdnnj.fios.verizon.net) (Quit: Windows must now restart because the Remote Procedure Call (RPC) service terminated unexpectedly.)
+[08:15:27] <|Shadow|> haha
+[08:15:45] <|Shadow|> TheLat
+[08:23:50] *** Joins: GerbilSof (~GerbilSof@pool-108-24-138-55.cmdnnj.fios.verizon.net)
+[11:06:22] *** Quits: mukunda (~mukunda@adsl-074-188-211-074.sip.asm.bellsouth.net) (Ping timeout: 745 seconds)
+[13:01:16] *** Quits: KuKzz (KuKzz@95.143.216.177) (Ping timeout: 745 seconds)
+[13:42:01] *** Joins: refs (~refs@p200300dd873f2a008143592b84769d47.dip0.t-ipconnect.de)
+[13:52:09] <carsten1> TheLat: can you pastebin the compilation log?
+[14:02:21] <WntrMute> TheLat, Undo whatever it is you mean by "<TheLat> I resolved the #include <immintrin.h> error and have updated the path variable so that it pulls in the SDL headers correctly."
+[14:03:22] <WntrMute> then, from msys2 shell run `pacman -S pkg-config switch-pkg-config`
+[14:04:37] <WntrMute> sorry, just switch-pkg-config, you already have msys2 pkg-config installed
+[14:05:51] <WntrMute> pacman -S switch-sdl2-libs might help too
+[14:35:53] *** Joins: |Shadow|_ (~Shadow1@ip68-12-213-93.ok.ok.cox.net)
+[14:39:59] *** Quits: |Shadow| (~Shadow1@ip68-12-213-93.ok.ok.cox.net) (Read error: Operation timed out)
+[14:40:05] *** |Shadow|_ is now known as |Shadow|
+[14:49:21] *** Quits: |Shadow| (~Shadow1@ip68-12-213-93.ok.ok.cox.net) (Read error: Operation timed out)
+[14:49:31] *** Joins: |Shadow| (~Shadow1@ip68-12-213-93.ok.ok.cox.net)
+[14:59:38] *** Quits: zini (~zini@88-113-145-208.elisa-laajakaista.fi) (Quit: -->)
+[15:01:31] *** Joins: zini (~zini@88-113-145-208.elisa-laajakaista.fi)
+[15:25:34] *** Joins: |Shadow|_ (~Shadow1@ip68-12-213-93.ok.ok.cox.net)
+[15:30:19] *** Quits: |Shadow| (~Shadow1@ip68-12-213-93.ok.ok.cox.net) (Read error: Operation timed out)
+[15:40:04] *** |Shadow|_ is now known as |Shadow|
+[15:40:12] *** Joins: TAL (~TAL@defiant.tlercher.de)
+[16:34:02] *** Joins: |Shadow|_ (~Shadow1@ip68-12-213-93.ok.ok.cox.net)
+[16:36:21] *** Quits: |Shadow| (~Shadow1@ip68-12-213-93.ok.ok.cox.net) (Read error: Operation timed out)
+[17:45:05] *** Joins: mukunda (~mukunda@adsl-074-188-211-074.sip.asm.bellsouth.net)
+[18:32:04] *** Joins: KuKzz (KuKzz@95.143.216.177)
+[18:40:08] *** Quits: DacoTaco (~DacoTaco@178-119-112-131.access.telenet.be) (Ping timeout: 272 seconds)
+[18:51:27] *** Joins: DacoTaco (~DacoTaco@178-119-112-131.access.telenet.be)
+[19:39:35] *** Joins: fgsfds (~figgis@93.123.144.171)
+[21:00:20] *** Joins: kakama (~kakama@heelys.club)
+[23:11:50] *** |Shadow|_ is now known as |Shadow|
+[23:25:54] <TheLat> @WntrMute, I get "error: target not found" on everything except pkg-config
+[23:27:19] <TheLat> I have reinstalled to be sure.
+[23:29:04] <TheLat> "make -B --debug" outputs this:  https://pastebin.com/M6Y2iHwU
+[23:31:24] <TheLat> Googling indicated that #include <immintrin.h> is unneeded and that I can just comment it out, so I did and I got this:  https://pastebin.com/F4TrpUwX
+[23:42:18] *** Quits: karolherb (~kherbst@2a02:8308:b0be:6900:482c:9537:40:83ba) (Remote host closed the connection)
+[23:42:58] *** Joins: karolherb (~kherbst@2a02:8308:b0be:6900:482c:9537:40:83ba)
