@@ -1,0 +1,55 @@
+[02:34:43] *** Quits refs (Quit: refs)
+[02:40:33] <TheLat> "PKG_CONFIG_PATH=/opt/devkitpro/msys2/mingw64/lib/pkgconfig:/usr/lib/pkgconfig:/usr/share/pkgconfig:/lib/pkgconfig" doesn't help and an ls in /opt/devkitpro/msys2/mingw64/lib/pkgconfig shows that SDL2_mixer.pc is in that folder.
+[07:58:59] *** Quits DacoTaco (Ping timeout: 272 seconds)
+[10:03:57] *** Quits oldtopman (hub.efnet.us irc.Prison.NET)
+[10:09:35] *** Joins lansiir
+[10:18:38] *** Quits GerbilSof (Quit: Windows must now restart because the Remote Procedure Call (RPC) service terminated unexpectedly.)
+[11:06:51] *** Quits zini (Ping timeout: 745 seconds)
+[12:11:32] *** Quits fgsfds (Read error: Connection reset by peer)
+[12:17:15] *** Joins eggy
+[12:18:00] *** Quits lansiir (Ping timeout: 272 seconds)
+[12:18:39] *** Quits eggster (Ping timeout: 272 seconds)
+[12:18:39] *** Quits CCFL_Man (Ping timeout: 272 seconds)
+[12:18:39] *** Quits hordak (Ping timeout: 272 seconds)
+[12:18:51] *** Joins hordak
+[12:19:17] *** Quits AlexAltea (Ping timeout: 272 seconds)
+[12:19:55] *** Joins CCFL_Man
+[12:22:27] *** Joins derk0pf
+[12:22:28] *** Quits derk0pf (Connection closed)
+[12:26:50] *** Quits awordnot (Read error: Operation timed out)
+[12:27:39] *** Quits endrift (Read error: Operation timed out)
+[12:27:54] *** Joins awordnot
+[12:27:58] *** Joins endrift
+[12:28:30] *** Quits j0hny5 (Read error: Operation timed out)
+[12:29:01] *** Quits |Shadow| (Read error: Operation timed out)
+[12:29:32] *** Joins j0hny5
+[12:30:07] *** Joins |Shadow|
+[12:33:10] *** Joins oldtopman
+[13:01:19] *** Joins plutobot
+[13:01:23] *** Joins Mimoja
+[13:03:36] *** Joins AlexAltea
+[13:52:06] *** Quits mukunda (Ping timeout: 610 seconds)
+[17:52:12] *** Joins DacoTaco
+[17:57:23] *** Joins GerbilSof
+[19:43:37] *** Joins mukunda
+[20:11:41] <plutobot> Wiki | Page changed: TSEC | User: Hexkyz | https://switchbrew.org/w/index.php?curid=199&diff=9885&oldid=9882
+[20:28:33] *** Quits b0nez (Read error: Operation timed out)
+[20:45:02] *** Joins foghorn2
+[20:47:22] *** Quits foghorn3 (Ping timeout: 265 seconds)
+[20:50:18] *** Joins foghorn3
+[20:51:17] *** Quits foghorn3 (Read error: Connection reset by peer)
+[20:51:43] *** Quits lemmu (Ping timeout: 265 seconds)
+[20:52:54] *** Joins foghorn3
+[20:53:10] *** Quits foghorn2 (Ping timeout: 265 seconds)
+[20:53:19] *** Quits miigotu (Quit: ZNC - https://znc.in)
+[20:53:44] *** Joins mukunda_
+[20:55:49] *** Joins lemmy
+[20:58:13] *** Quits mukunda (Read error: Operation timed out)
+[20:58:50] *** Joins miigotu
+[21:00:17] *** Joins refs
+[21:15:55] *** Quits miigotu (Read error: Operation timed out)
+[21:20:35] *** Joins b0nez
+[21:52:51] *** Joins miigotu
+[21:55:05] *** Quits GerbilSof (Read error: Connection reset by peer)
+[21:56:31] *** Joins GerbilSof
+[23:50:31] *** Joins zini

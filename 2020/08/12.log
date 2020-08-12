@@ -1,0 +1,50 @@
+[00:41:13] *** Joins fgsfds
+[02:40:20] *** Quits refs (Quit: refs)
+[03:00:54] *** Quits eggy (Read error: Operation timed out)
+[03:03:32] *** Joins eggster
+[04:19:32] *** Quits fgsfds (Read error: Connection reset by peer)
+[05:23:52] *** Quits lameboy (Ping timeout: 246 seconds)
+[06:22:06] <plutobot> Wiki | Page changed: Bluetooth Driver services | User: yls8 | https://switchbrew.org/w/index.php?curid=161&diff=9886&oldid=9884
+[06:47:30] *** Joins lameboy
+[07:10:50] *** Quits awordnot (Read error: Connection reset by peer)
+[07:11:26] *** Joins awordnot
+[07:12:36] *** Quits derrek (Ping timeout: 745 seconds)
+[07:36:59] *** Joins derrek
+[09:32:35] <plutobot> Wiki | Page changed: Gamecard Format | User: Thomhack50 | https://switchbrew.org/w/index.php?curid=169&diff=9887&oldid=9728
+[09:57:21] *** Quits mukunda_ (Ping timeout: 492 seconds)
+[11:09:09] *** Quits TAL (Ping timeout: 265 seconds)
+[11:09:44] *** Joins TAL
+[12:59:28] *** Joins |Shadow|_
+[13:03:42] *** Quits |Shadow| (Read error: Operation timed out)
+[13:45:52] *** |Shadow|_ is now known as |Shadow|
+[15:32:33] *** Joins Nexrem
+[15:34:59] <Nexrem> Hey, I'm getting some weirdness with C++11 detached threading with libnx. I remember some discussion a while ago about all that but I dont remeber much. The switch doesnt support detached threads does it?
+[16:02:01] <yellows8> no
+[16:06:09] *** Joins mukunda
+[16:12:50] *** Quits |Shadow| (Read error: Connection reset by peer)
+[16:18:16] *** Joins |Shadow|
+[16:38:37] *** Quits |Shadow| (Read error: Operation timed out)
+[16:39:56] *** Joins |Shadow|
+[16:42:15] *** Quits eggster (Read error: Operation timed out)
+[16:43:50] *** Joins eggster
+[17:15:11] *** Quits |Shadow| (Read error: Connection reset by peer)
+[17:17:14] *** Joins |Shadow|
+[19:45:55] *** Quits Nexrem (Read error: Operation timed out)
+[20:08:49] *** Joins Nexrem
+[20:12:22] *** Quits averne_ (quit)
+[20:12:41] *** Joins averne
+[20:12:41] *** Server sets mode: +stn 
+[20:18:09] *** Joins fgsfds
+[20:18:50] *** Joins plutoo_
+[20:26:02] *** Quits plutoo (se.hub irc.nordunet.se)
+[20:26:02] *** Quits averne_ (se.hub irc.nordunet.se)
+[20:26:02] *** Quits phigcloud (se.hub irc.nordunet.se)
+[20:28:51] *** Quits fincs (Ping timeout: 265 seconds)
+[20:29:33] *** Joins fincs
+[20:29:33] *** WntrMute sets mode: +o fincs
+[21:40:44] *** Joins refs
+[22:01:46] *** Joins des^
+[22:27:42] *** Quits Nexrem (Leaving)
+[23:24:22] *** Joins phigcloud
+[23:32:15] *** Quits |Shadow| ()
+[23:46:02] *** Joins |Shadow|

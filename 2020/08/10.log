@@ -1,0 +1,37 @@
+[00:26:47] *** Quits GerbilSof (Read error: No route to host)
+[00:27:20] *** Joins GerbilSof
+[00:34:23] *** Quits Surkow (Quit: Bye bye - Laptop goes to sleep - NOP NOP NOP)
+[00:36:52] *** Joins Surkow
+[00:38:37] *** Quits Surkow (Remote host closed the connection)
+[00:42:27] *** Joins Surkow
+[04:36:22] *** Quits refs (Quit: refs)
+[10:39:35] *** Joins cpncok3
+[10:40:10] *** Quits sh0e- (Quit: Bye.)
+[10:45:37] *** Quits cpnc0ke (Read error: Operation timed out)
+[10:48:11] *** Quits KuKzz (Ping timeout: 265 seconds)
+[10:58:02] *** Quits mukunda (Ping timeout: 610 seconds)
+[10:58:59] *** Joins sh0e
+[11:09:24] *** Joins omlet05_
+[11:10:50] *** Quits omlet05 (Read error: Connection reset by peer)
+[12:41:54] *** Quits |Shadow| ()
+[12:53:25] *** Joins KuKzz
+[12:58:40] *** Joins |Shadow|
+[14:26:48] *** Joins mukunda
+[14:29:38] <WntrMute> TheLat, googling is unlikely to tell you anything useful tbh
+[14:30:47] <WntrMute> Your problem is @Package SDL2_mixer was not found in the pkg-config search path@
+[14:31:15] <WntrMute> meh, keyboard has changed mapping on me again :P
+[14:31:48] <WntrMute> anyway, that's the *only* relevant error. *Everything* else stems from that
+[15:24:08] *** Quits fgsfds (Read error: Connection reset by peer)
+[17:11:07] <TheLat> How do I fix the pkg-config search path?
+[17:30:40] *** Joins KuKzz_
+[17:30:46] *** Quits KuKzz (Ping timeout: 496 seconds)
+[17:46:07] *** Joins Retr0id
+[18:41:17] *** Quits nullstrin (Read error: Operation timed out)
+[18:45:03] *** Joins nullstrin
+[20:49:20] *** Joins fgsfds
+[21:16:46] *** Quits GerbilSof (Ping timeout: 272 seconds)
+[21:30:12] *** Joins refs
+[21:36:11] *** Joins GerbilSof
+[23:06:44] *** Joins changO-
+[23:46:31] *** Quits changO- (Read error: Connection reset by peer)
+[23:51:04] *** Joins changO-
