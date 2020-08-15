@@ -1,0 +1,65 @@
+[02:36:11] *** Quits refs (Quit: refs)
+[03:07:40] *** Quits TheLat (Ping timeout: 253 seconds)
+[03:12:09] *** Quits fgsfds (Read error: Connection reset by peer)
+[04:20:40] *** Joins fgsfds
+[05:01:04] *** Quits lameboy (Read error: Connection reset by peer)
+[05:02:33] *** Joins lameboy
+[05:18:46] *** Quits lameboy (Remote host closed the connection)
+[05:38:56] *** Joins lameboy
+[10:14:08] *** Quits mukunda (Read error: Operation timed out)
+[13:00:17] *** Quits fgsfds (Read error: Connection reset by peer)
+[14:04:36] *** Joins fgsfds
+[14:31:19] *** Joins mukunda
+[15:08:35] *** Quits foghorn3 (Leaving)
+[15:21:43] *** Joins foghorn2
+[16:21:29] *** Quits lameboy (Read error: Operation timed out)
+[17:26:25] *** Joins lameboy
+[18:54:56] <plutobot> Wiki | Page changed: NV services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=88&diff=9888&oldid=9298
+[18:58:51] <plutobot> Wiki | Page changed: NV services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=88&diff=9889&oldid=9888
+[19:03:57] <plutobot> Wiki | Page changed: NV services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=88&diff=9890&oldid=9889
+[19:29:36] *** Joins TheLat
+[19:30:59] <TheLat> If anyone was curious, the compile error with the sdl audio example was because the make file was using "$(PREFIX)pkg-config --cflags SDL2_mixer" to generate parameters instead of "$(pkg-config --cflags SDL2_mixer)"
+[19:57:36] <TheLat> I'm still getting the crash at startup error, but this is the output of "make -B --debug" now:  https://pastebin.com/ELagkrwx
+[19:57:44] <TheLat> And I could use some help.
+[20:00:51] <Stary> $(PREFIX)pkg-config -> aarch64-none-elf-pkg-config is a wrapper around system pkg-config that sets the right search path for portlibs and the correct cflags/ldflags/etc
+[20:01:14] <Stary> the "warning: cannot find entry symbol _start; defaulting to 0000000000000040" is due to libnx not being linked -> crt not existing -> obviously not able to work
+[20:01:51] <Stary> examples have been tested to compile out of the box with the right packages installed, you shouldn't have to hack up the makefiles to build them
+[20:02:54] <TheLat> Should I just reinstall the whole thing from scratch?
+[20:03:10] *** Joins mukunda_
+[20:04:21] *** Quits mukunda (Read error: Operation timed out)
+[20:10:36] <WntrMute> TheLat, how did you install this in the first place?
+[20:12:43] <WntrMute> reinstalling everything from scratch may well be in order since you fiddled with things that shouldn't be fiddled with but it would be useful to know how you started off
+[20:14:02] <WntrMute> I don't really understand how you get "<TheLat> @WntrMute, I get "error: target not found" on everything except pkg-config" unless you're running pacman from an msys2 install that hasn't been set up with devkitPro repositories
+[20:18:57] <TheLat> Linked to devkitpro from https://switchbrew.org/wiki/Main_Page
+[21:18:53] <TheLat> OK, freshly reinstalled and now I'm getting this error when I try to make anything: "Makefile:10: /opt/devkitpro/libnx/switch_rules: No such file or directory make: *** No rule to make target '/opt/devkitpro/libnx/switch_rules'.  Stop."
+[21:19:21] <TheLat> cd into /opt/devkitpro and there's most of the contents of where I installed devkitPro, but not libnx
+[21:20:27] <TheLat> Note, freshly installed from here:  https://github.com/devkitPro/installer/releases
+[21:21:06] <TheLat> Completely uninstalled msys2 and devkitpro for this reinstall.
+[21:24:15] <Stary> make sure to install the switch-dev group if you didn't select it in the installer
+[21:24:24] <Stary> in msys you can just do pacman -S switch-dev or so
+[21:26:08] <TheLat> https://pastebin.com/m5eCcHh9
+[21:28:22] *** Joins refs
+[21:32:20] *** Joins TheLat_
+[21:32:35] *** Quits TheLat (Ping timeout: 252 seconds)
+[21:35:36] <Stary> ugh, this is msys breakage - see https://www.msys2.org/news/#2020-06-29-new-packagers for details on how to update the msys keyring manually
+[21:36:31] <TheLat_> Thank you!
+[21:42:47] <Stary> huh, i don't get that issue installing on windows - maybe you have some stuff cached
+[21:44:04] <WntrMute> Um, most likely culprit is still having an old copy of msys-2.10.0.7z
+[21:49:08] *** Quits Surkow (Quit: Bye bye - Laptop goes to sleep - NOP NOP NOP)
+[21:50:33] *** Quits mukunda_ (Read error: Operation timed out)
+[21:51:01] *** Joins Surkow
+[21:55:12] *** Joins lameboy2
+[21:58:13] *** Joins TAL_
+[21:59:56] <WntrMute> TheLat_, if you're getting that keys error then you have the wrong msys2. Try this https://github.com/devkitPro/installer/issues/27#issuecomment-671178643
+[22:04:08] *** Joins Stary_
+[22:04:14] *** Quits lameboy (Ping timeout: 265 seconds)
+[22:04:14] *** Quits TAL (Ping timeout: 265 seconds)
+[22:04:15] *** lameboy2 is now known as lameboy
+[22:04:19] *** Quits Stary (Ping timeout: 265 seconds)
+[22:07:18] *** TAL_ is now known as TAL
+[22:27:15] <TheLat_> https://www.msys2.org/news/#2020-06-29-new-packagers appears to have resolved the problem.  Installing a bunch of stuff now.
+[22:29:48] *** Joins mukunda
+[22:31:49] *** Quits Sentry (Quit: left EFNet)
+[22:33:04] *** Joins Snetry
+[23:09:54] <TheLat_> Resolved.  I had to run "pacman -S switch-sdl2 switch-sdl2_mixer"
+[23:19:55] <TheLat_> Thank you everyone.  I'm going to go make a donation.

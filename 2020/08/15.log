@@ -1,0 +1,86 @@
+[00:02:56] *** Quits GerbilSof (Quit: Windows must now restart because the Remote Procedure Call (RPC) service terminated unexpectedly.)
+[00:40:27] *** Joins GerbilSof
+[00:56:02] *** Joins TheLat
+[00:56:32] <TheLat> What's the convention for sharing things you've built?
+[01:23:14] <yellows8> github-release with nro, if you mean releases
+[01:50:07] *** Joins refs
+[04:03:25] *** Quits refs (Quit: refs)
+[04:14:27] *** Quits nullstrin (Read error: Operation timed out)
+[04:18:15] *** Joins nullstrin
+[04:27:32] *** Quits kakama (Read error: Connection reset by peer)
+[04:29:03] *** Joins kakama
+[04:32:02] *** Quits kakama (Read error: Connection reset by peer)
+[04:37:18] *** Joins kakama
+[04:40:01] *** Quits kakama (Read error: Connection reset by peer)
+[04:43:01] *** Quits averne_ (quit)
+[04:43:18] *** Joins averne
+[04:43:18] *** Server sets mode: +stn 
+[04:43:27] *** Quits KuKzz (Ping timeout: 272 seconds)
+[04:43:27] *** Quits Stary_ (Ping timeout: 272 seconds)
+[04:43:31] *** Joins KuKzz
+[04:43:50] *** Joins eggster
+[04:44:05] *** Quits eggy (Ping timeout: 272 seconds)
+[04:44:05] *** Quits averne_ (Ping timeout: 272 seconds)
+[04:44:05] *** Quits des^ (Ping timeout: 272 seconds)
+[04:44:05] *** Quits zini (Ping timeout: 272 seconds)
+[04:44:05] *** Quits Mimoja (Ping timeout: 272 seconds)
+[04:44:05] *** Quits plutobot (Ping timeout: 272 seconds)
+[04:45:34] *** Joins kakama
+[04:49:01] *** Quits kakama (Read error: Connection reset by peer)
+[04:49:57] *** Quits d3m3vilur (Read error: Connection reset by peer)
+[04:50:18] *** Joins d3m3vilur
+[04:51:24] *** Joins zini
+[04:52:59] *** Quits SCV_ (Read error: Connection reset by peer)
+[04:54:50] *** Joins kakama
+[04:58:00] *** Quits d3m3vilur (Read error: Connection reset by peer)
+[04:58:01] *** Quits kakama (Read error: Connection reset by peer)
+[05:01:45] *** Joins rajkosto
+[05:04:05] *** Joins kakama
+[05:07:01] *** Quits kakama (Read error: Connection reset by peer)
+[05:12:06] *** Quits rjeli___ (Read error: Connection reset by peer)
+[05:12:24] *** Joins kakama
+[05:12:56] *** Joins rjeli___
+[05:13:27] *** Quits averne (quit)
+[05:13:44] *** Joins averne
+[05:13:44] *** Server sets mode: +stn 
+[05:14:46] *** Quits lex1 (Read error: Operation timed out)
+[05:14:48] *** Quits Sentry- (Read error: Operation timed out)
+[05:16:13] *** Quits Retr0id (Read error: Connection reset by peer)
+[05:16:23] *** Joins Retr0id
+[05:16:47] *** Joins lex1
+[05:16:49] *** Quits rjeli___ (Read error: Connection reset by peer)
+[05:17:41] *** Quits kakama (Read error: Connection reset by peer)
+[05:18:29] *** Joins Snetry
+[05:23:40] *** Joins kakama
+[05:26:41] *** Quits kakama (Read error: Connection reset by peer)
+[05:29:17] *** Quits Retr0id (Read error: Connection reset by peer)
+[05:29:19] *** Joins Retr0id
+[05:30:39] *** Joins d3m3vilur
+[05:31:57] *** Joins kakama
+[05:40:33] *** Joins plutobot
+[05:40:45] *** Joins des^
+[05:40:53] *** Joins DacoTaco
+[05:41:05] *** Joins Mimoja
+[05:41:34] *** Joins Stary
+[05:42:13] *** Joins SCV_
+[05:45:00] *** Quits rajkosto (Read error: Connection reset by peer)
+[05:47:44] *** Joins rjeli___
+[06:36:49] *** Quits fgsfds (Read error: Connection reset by peer)
+[06:41:50] *** Quits changO- (Quit: http://www.twitter.com/changoland/)
+[06:44:40] *** Joins changO-
+[07:53:37] *** Quits miigotu (ZNC - https://znc.in)
+[07:55:37] *** Joins miigotu
+[08:54:08] *** Quits mukunda (Read error: Operation timed out)
+[14:34:36] *** Joins Sentry-
+[14:35:56] *** Quits Snetry (Read error: Operation timed out)
+[14:56:33] *** Joins fgsfds
+[15:45:24] *** Joins mukunda
+[16:58:34] *** Quits karolherb (Remote host closed the connection)
+[16:59:23] *** Joins karolherb
+[17:37:33] *** Joins refs
+[18:05:04] *** Quits lameboy (Read error: Connection reset by peer)
+[18:05:20] *** Joins lameboy
+[18:42:42] *** Quits Maylay (Read error: Operation timed out)
+[19:02:07] *** Joins Maylay
+[21:35:23] *** Quits oldtopman (Read error: Operation timed out)
+[21:51:53] *** Joins oldtopman
