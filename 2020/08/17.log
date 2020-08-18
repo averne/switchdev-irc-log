@@ -1,0 +1,177 @@
+[00:21:33] <plutobot> Wiki | Page changed: Bluetooth Driver services | User: yls8 | https://switchbrew.org/w/index.php?curid=161&diff=9894&oldid=9892
+[00:23:04] *** Joins miigotu_
+[00:27:03] *** Quits miigotu (Read error: Operation timed out)
+[00:30:03] <plutobot> Wiki | Page changed: BTM services | User: yls8 | https://switchbrew.org/w/index.php?curid=306&diff=9895&oldid=9881
+[00:42:18] *** Quits capin2 (Read error: Operation timed out)
+[00:42:28] *** Joins capin2
+[00:43:35] *** Quits nrq (Read error: Operation timed out)
+[00:43:48] *** Joins nrq
+[00:43:53] *** Quits datagutt (Read error: Operation timed out)
+[00:43:59] *** Joins cpnc0ke
+[00:44:12] *** Quits ds84183 (Read error: Operation timed out)
+[00:44:20] *** Quits TurtleP (Ping timeout: 260 seconds)
+[00:44:26] *** Joins TurtleP
+[00:44:34] *** Joins ds84182
+[00:44:48] *** Quits Jdbye (Ping timeout: 260 seconds)
+[00:45:16] *** Quits fincs (Ping timeout: 260 seconds)
+[00:45:25] *** Quits WntrMute (Read error: Operation timed out)
+[00:46:12] *** Quits AlexAltea (Ping timeout: 260 seconds)
+[00:46:40] *** Quits Cu3PO42 (Ping timeout: 260 seconds)
+[00:46:40] *** Quits Behemoth_ (Ping timeout: 260 seconds)
+[00:47:08] *** Quits cpncok3 (Ping timeout: 492 seconds)
+[00:48:12] *** Joins datagutt
+[00:54:31] *** Joins AlexAltea
+[00:55:16] *** Joins Behemoth
+[01:02:06] *** Joins Jdbye
+[01:12:37] *** Joins Cu3PO42
+[01:44:16] *** Joins fincs
+[02:14:34] *** Quits lex1 (Read error: Operation timed out)
+[02:15:54] *** Quits Sentry- (Read error: Operation timed out)
+[02:15:59] *** Quits klanc (Read error: Operation timed out)
+[02:16:15] *** Quits d3m3vilur (Read error: Operation timed out)
+[02:19:56] *** Joins foghorn2
+[02:20:38] *** Quits Retr0id (Read error: Operation timed out)
+[02:23:08] *** Quits blasty (Read error: Connection reset by peer)
+[02:23:13] *** Joins d3m3vilur
+[02:23:55] *** Joins lex1
+[02:23:56] *** Joins klanc
+[02:30:53] *** Quits klanc (Read error: Operation timed out)
+[02:32:11] *** Quits d3m3vilur (Read error: Operation timed out)
+[02:33:30] *** Quits lex1 (Read error: Operation timed out)
+[02:36:39] *** Joins d3m3vilur
+[02:37:28] *** Joins klanc
+[02:37:33] *** Quits phigcloud (se.hub irc.nordunet.se)
+[02:49:58] *** Joins lex1
+[02:51:43] *** Joins blasty
+[02:53:53] *** Joins Snetry
+[02:59:36] *** Joins Sentry-
+[02:59:36] *** Quits Snetry (Read error: Connection reset by peer)
+[03:07:21] *** Quits d3m3vilur (Ping timeout: 857 seconds)
+[03:07:55] *** Joins d3m3vilur
+[03:08:40] *** Joins nullstri1
+[03:08:41] *** Quits nullstrin (Read error: Operation timed out)
+[03:10:05] *** Joins |Shadow|_
+[03:10:45] *** Quits |Shadow| (Read error: Operation timed out)
+[03:14:19] *** Quits miigotu_ (Read error: Operation timed out)
+[03:14:53] *** Quits awordnot (Read error: Operation timed out)
+[03:15:19] *** Joins figgis_
+[03:15:39] *** Quits nullstri1 (Read error: Operation timed out)
+[03:17:32] *** Quits omlet05_ (Read error: Operation timed out)
+[03:17:48] *** Joins omlet05
+[03:18:15] *** Quits |Shadow|_ (Read error: Operation timed out)
+[03:18:23] *** Quits endrift (Read error: Operation timed out)
+[03:18:33] *** Quits CCFL_Man (Read error: Operation timed out)
+[03:18:42] *** Joins CCFL_Man
+[03:18:43] *** Quits j0hny5 (Read error: Operation timed out)
+[03:19:08] *** Joins miigotu
+[03:20:21] *** Quits fgsfds (Read error: Operation timed out)
+[03:24:42] *** Joins j0hny5
+[03:25:05] *** Joins awordnot
+[03:25:56] *** Joins nullstrin
+[03:29:36] *** Joins |Shadow|
+[03:30:55] *** Joins endrift
+[03:33:22] *** Joins phigcloud
+[04:32:23] *** Quits refs (Quit: refs)
+[04:35:11] *** Quits figgis_ (Read error: Connection reset by peer)
+[06:19:16] *** Quits nullstrin (Read error: Operation timed out)
+[06:23:31] *** Joins nullstrin
+[06:25:26] *** Quits endrift (Read error: Operation timed out)
+[06:25:43] *** Joins endrift
+[06:29:22] *** Joins anewuser
+[06:30:52] *** Joins anewuser_
+[06:36:22] *** Quits anewuser (Ping timeout: 376 seconds)
+[07:16:23] *** Quits d3m3vilur (Read error: Connection reset by peer)
+[07:16:27] *** Joins d3m3vilur
+[07:25:21] *** Quits plutobot (Ping timeout: 272 seconds)
+[07:25:59] *** Quits des^ (Ping timeout: 272 seconds)
+[07:26:37] *** Quits Mimoja (Ping timeout: 272 seconds)
+[07:26:37] *** Quits DacoTaco (Ping timeout: 272 seconds)
+[07:41:13] *** Joins fincs_
+[07:43:19] *** Quits fincs (se.hub irc.underworld.no)
+[07:43:19] *** Quits usineur (se.hub irc.underworld.no)
+[07:43:19] *** Quits Stary (se.hub irc.underworld.no)
+[07:43:19] *** Quits lemmy (se.hub irc.underworld.no)
+[07:49:18] *** Joins usineur
+[07:49:18] *** Joins Stary
+[07:49:18] *** Joins lemmy
+[07:58:42] *** fincs_ is now known as fincs
+[08:07:43] *** Joins plutobot
+[08:07:51] *** Joins des^
+[08:07:55] *** Joins Mimoja
+[08:08:39] *** Joins DacoTaco
+[08:12:51] *** Quits plutobot (Ping timeout: 272 seconds)
+[08:13:29] *** Quits DacoTaco (Ping timeout: 272 seconds)
+[08:14:45] *** Quits Mimoja (Ping timeout: 272 seconds)
+[08:14:45] *** Quits des^ (Ping timeout: 272 seconds)
+[08:56:01] *** Joins plutobot
+[08:56:40] *** Joins des^
+[08:56:55] *** Joins Mimoja
+[08:59:07] *** Joins DacoTaco
+[09:01:33] *** Quits mukunda (Read error: Operation timed out)
+[09:06:03] *** Quits plutobot (Ping timeout: 272 seconds)
+[09:06:41] *** Quits DacoTaco (Ping timeout: 272 seconds)
+[09:07:19] *** Quits Mimoja (Ping timeout: 272 seconds)
+[09:07:19] *** Quits des^ (Ping timeout: 272 seconds)
+[09:49:46] *** Joins plutobot
+[09:49:53] *** Joins Mimoja
+[09:50:38] *** Joins DacoTaco
+[09:51:14] *** Joins des^
+[09:56:05] *** Quits DacoTaco (Ping timeout: 272 seconds)
+[09:56:43] *** Quits des^ (Ping timeout: 272 seconds)
+[09:57:21] *** Quits Mimoja (Ping timeout: 272 seconds)
+[09:57:21] *** Quits plutobot (Ping timeout: 272 seconds)
+[10:11:27] *** Quits karolherb (Quit: Konversation terminated!)
+[10:15:11] *** Joins karolherb
+[10:15:46] *** Quits karolherb (Client Quit)
+[10:16:57] *** Joins karolherb
+[10:38:44] *** Joins DacoTaco
+[10:38:45] *** Joins plutobot
+[10:38:50] *** Joins des^
+[10:39:20] *** Joins Mimoja
+[10:57:31] *** Quits plutobot (Ping timeout: 272 seconds)
+[10:57:31] *** Quits DacoTaco (Ping timeout: 272 seconds)
+[10:58:47] *** Quits Mimoja (Ping timeout: 272 seconds)
+[10:58:47] *** Quits des^ (Ping timeout: 272 seconds)
+[11:40:13] *** Joins plutobot
+[11:40:33] *** Joins DacoTaco
+[11:40:35] *** Joins des^
+[11:40:45] *** Joins Mimoja
+[11:52:30] *** Quits lemmy (Quit: Bye)
+[11:53:44] *** Joins lemmy
+[12:08:14] *** Quits anewuser_ (Quit: Leaving)
+[12:46:51] *** Joins fgsfds
+[12:49:47] *** Quits blasty (Read error: Operation timed out)
+[12:57:00] *** Quits Sentry- (Read error: Connection reset by peer)
+[12:58:28] *** Joins Snetry
+[13:03:48] *** Joins blasty
+[13:05:10] *** Quits d3m3vilur (Read error: Operation timed out)
+[13:05:41] *** Joins d3m3vilur
+[14:32:51] *** Joins mukunda
+[18:02:29] *** Quits karolherb (Ping timeout: 272 seconds)
+[18:26:48] <plutobot> Wiki | Page changed: BTM services | User: yls8 | https://switchbrew.org/w/index.php?curid=306&diff=9896&oldid=9895
+[18:45:00] <plutobot> Wiki | Page changed: Bluetooth Driver services | User: yls8 | https://switchbrew.org/w/index.php?curid=161&diff=9897&oldid=9894
+[19:00:49] <plutobot> Wiki | Page changed: Joy-Con | User: Hexkyz | https://switchbrew.org/w/index.php?curid=55&diff=9898&oldid=8951
+[19:45:12] <plutobot> Wiki | Page changed: Joy-Con Firmware | User: Hexkyz | https://switchbrew.org/w/index.php?curid=268&diff=9899&oldid=3166
+[19:49:31] *** Quits DacoTaco (Ping timeout: 272 seconds)
+[19:50:09] *** Quits Mimoja (Ping timeout: 272 seconds)
+[19:50:09] *** Quits des^ (Ping timeout: 272 seconds)
+[19:50:09] *** Quits plutobot (Ping timeout: 272 seconds)
+[19:53:31] <DoozerBot> PR-#495: Bluetooth, building targets: 02lib
+[20:00:59] <DoozerBot> 02lib: 03 v3.3.0.46 Build OK - https://doozer.io/build/jfshw1sdof
+[20:31:32] *** Joins plutobot
+[20:31:35] *** Joins DacoTaco
+[20:31:57] *** Joins des^
+[20:32:24] *** Joins Mimoja
+[20:37:39] *** Quits plutobot (Ping timeout: 272 seconds)
+[20:39:33] *** Quits Mimoja (Ping timeout: 272 seconds)
+[20:39:33] *** Quits des^ (Ping timeout: 272 seconds)
+[20:39:33] *** Quits DacoTaco (Ping timeout: 272 seconds)
+[20:48:53] <DoozerBot> PR-#495: Bluetooth, building targets: 02lib
+[20:52:51] <DoozerBot> 02lib: 03 v3.3.0.47 Build OK - https://doozer.io/build/pipit0uw58
+[21:20:22] *** Joins plutobot
+[21:20:24] *** Joins Mimoja
+[21:21:34] *** Joins DacoTaco
+[21:24:04] *** Joins des^
+[21:45:09] *** Joins refs
+[23:32:27] *** Joins neonsea
+[23:32:27] *** Quits xx_ns (Read error: Connection reset by peer)
