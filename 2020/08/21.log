@@ -1,0 +1,203 @@
+[00:00:25] *** Joins: oldtopman (~oldtopman@75-166-213-138.hlrn.qwest.net)
+[00:12:32] *** Quits: Galaxy| (~galaxy@174-083-197-034.res.spectrum.com) (Ping timeout: 745 seconds)
+[00:15:02] *** Joins: Galaxy| (~galaxy@174-083-197-034.res.spectrum.com)
+[00:39:01] <DoozerBot> yellows8 pushed to master: btdrv: Updated BtdrvBleScanResult. "Added initial bluetooth support." [034 files added07, 1 file modified]
+[00:39:02] <DoozerBot> yellows8 pushed to master: btdrv: Updated BtdrvBleScanResult. "btdrv: Use InitializeBluetoothDriver during init." [071 file modified]
+[00:39:03] <DoozerBot> yellows8 pushed to master: btdrv: Updated BtdrvBleScanResult. "btdrv: Added cmds:" [073 files modified]
+[00:39:04] <DoozerBot> yellows8 pushed to master: btdrv: Updated BtdrvBleScanResult. "btdrv: Added HidReportEventInfo support." [072 files modified]
+[00:39:05] <DoozerBot> yellows8 pushed to master: btdrv: Updated BtdrvBleScanResult. "btdrv: Added more cmds and the required enum:" [072 files modified]
+[00:39:06] <DoozerBot> yellows8 pushed to master: btdrv: Updated BtdrvBleScanResult. "btdrvGetLeEventInfo -> btdrvGetLeHidEventInfo" [073 files modified]
+[00:39:07] <DoozerBot> yellows8 pushed to master: btdrv: Updated BtdrvBleScanResult. "btdrv: Added btdrvGetEventInfo/btdrvGetHidEventInfo, etc." [072 files modified]
+[00:39:08] <DoozerBot> yellows8 pushed to master: btdrv: Updated BtdrvBleScanResult. "btdrv: Added cmds:" [072 files modified]
+[00:39:09] <DoozerBot> yellows8 pushed to master: btdrv: Updated BtdrvBleScanResult. "btdrv: Updated the BtdrvBleAdvertisePacketData struct." [071 file modified]
+[00:39:10] <DoozerBot> yellows8 pushed to master: btdrv: Updated BtdrvBleScanResult. "btdrv: Added btdrvTriggerConnection." [072 files modified]
+[00:39:11] <DoozerBot> yellows8 pushed to master: btdrv: Updated BtdrvBleScanResult. "btdrv: Fixed btdrvGetHidReport IPC, updated docs, and added an enum." [072 files modified]
+[00:39:12] <DoozerBot> yellows8 pushed to master: btdrv: Updated BtdrvBleScanResult. "Added btmu and added btdrv structs." [032 files added07, 2 files modified]
+[00:39:13] <DoozerBot> yellows8 pushed to master: btdrv: Updated BtdrvBleScanResult. "btdrv/btmu: Various improvements." [073 files modified]
+[00:39:14] <DoozerBot> yellows8 pushed to master: btdrv: Updated BtdrvBleScanResult. "btdrv/btmu: Updated structs." [072 files modified]
+[00:39:15] <DoozerBot> yellows8 pushed to master: btdrv: Updated BtdrvBleScanResult. "btmu: Updated docs." [071 file modified]
+[00:39:16] <DoozerBot> yellows8 pushed to master: btdrv: Updated BtdrvBleScanResult. "Added btmsys." [032 files added07, 1 file modified]
+[00:39:17] <DoozerBot> yellows8 pushed to master: btdrv: Updated BtdrvBleScanResult. "btmu: g_btdrvIBtmUserCore -> g_btmuIBtmUserCore" [071 file modified]
+[00:39:18] <DoozerBot> yellows8 pushed to master: btdrv: Updated BtdrvBleScanResult. "btmu/btdrv: Use bool flag where needed and updated docs." [073 files modified]
+[00:39:19] <DoozerBot> yellows8 pushed to master: btdrv: Updated BtdrvBleScanResult. "Added btm, moved btmu structs into btm, and updated docs." [032 files added07, 3 files modified]
+[00:39:20] <DoozerBot> yellows8 pushed to master: btdrv: Updated BtdrvBleScanResult. "btm: Added more cmds." [072 files modified]
+[00:39:21] <DoozerBot> yellows8 pushed to master: btdrv: Updated BtdrvBleScanResult. "btm: Added the aruid cmds." [072 files modified]
+[00:39:22] <DoozerBot> yellows8 pushed to master: btdrv: Updated BtdrvBleScanResult. "btdrv: Added support for pre-4.0.0, etc." [072 files modified]
+[00:39:23] <DoozerBot> yellows8 pushed to master: btdrv: Updated BtdrvBleScanResult. "btdrv: Added the remaining cmds, various fixes, and added a types .h." [031 file added07, 4 files modified]
+[00:39:24] <DoozerBot> yellows8 pushed to master: btdrv: Updated BtdrvBleScanResult. "set: Use BtdrvAddress." [071 file modified]
+[00:39:25] <DoozerBot> yellows8 pushed to master: btdrv: Updated BtdrvBleScanResult. "btdrv/btm: Updated/added various structs." [074 files modified]
+[00:39:26] <DoozerBot> yellows8 pushed to master: btdrv: Updated BtdrvBleScanResult. "Added btdev." [032 files added07, 1 file modified]
+[00:39:27] <DoozerBot> yellows8 pushed to master: btdrv: Updated BtdrvBleScanResult. "bluetooth: Updated params, improved docs, etc." [0711 files modified]
+[00:39:28] <DoozerBot> yellows8 pushed to master: btdrv: Updated BtdrvBleScanResult. "btdrv: Use const for btdrvWriteHidData/btdrvSetHidReport." [072 files modified]
+[00:39:29] <DoozerBot> yellows8 pushed to master: btdrv: Updated BtdrvBleScanResult. "btdrv: Updated param order." [072 files modified]
+[00:39:30] <DoozerBot> yellows8 pushed to master: btdrv: Updated BtdrvBleScanResult. "btdrv: Updated BtdrvBleScanResult." [071 file modified], building targets: 02lib
+[00:43:03] <DoozerBot> 02lib: 03 v3.3.0.50 Build OK - https://doozer.io/build/zzomy8r6xj
+[01:00:28] *** Joins: plutobot (~plutobot@188.166.26.149)
+[01:00:38] *** Joins: DacoTaco (~DacoTaco@178-119-112-131.access.telenet.be)
+[01:01:18] *** Joins: Mimoja (~Mimoja@mail.mimoja.de)
+[01:06:32] *** Quits: usineur (~matthieu@ferb.fr) (Ping timeout: 265 seconds)
+[01:16:29] *** Quits: Behemoth_ (~quassel@vmd39331.contaboserver.net) (Read error: Connection reset by peer)
+[01:17:35] *** Joins: Behemoth_ (~quassel@vmd39331.contaboserver.net)
+[01:22:30] *** Quits: CCFL_Man (~closet@c-73-64-119-64.hsd1.pa.comcast.net) (Read error: Connection reset by peer)
+[01:22:30] *** Joins: CCFL_Man_ (9616323544@c-73-64-119-64.hsd1.pa.comcast.net)
+[01:22:30] *** Quits: miigotu_ (~miigotu@custip-162-217-53-192.esvabroadband.net) (Ping timeout: 610 seconds)
+[01:25:01] *** Quits: Maylay (~gren@108-198-59-230.lightspeed.miamfl.sbcglobal.net) (Ping timeout: 610 seconds)
+[01:25:44] *** Joins: miigotu (~miigotu@custip-162-217-53-192.esvabroadband.net)
+[01:29:35] *** Quits: nrq (~nrq@ns340910.ip-37-59-40.eu) (Read error: Connection reset by peer)
+[01:29:35] *** Joins: nrq_ (~nrq@ns340910.ip-37-59-40.eu)
+[01:31:13] *** Quits: plutoo (~plutoo@139.59.44.183) (Ping timeout: 610 seconds)
+[01:34:04] *** Joins: plutoo (~plutoo@139.59.44.183)
+[01:34:04] *** Joins: Maylay (~gren@108-198-59-230.lightspeed.miamfl.sbcglobal.net)
+[01:42:31] *** Quits: averne (~averne@176-179-35-51.abo.bbox.fr) (quit)
+[01:43:55] *** Joins: averne_ (~averne@176-179-35-51.abo.bbox.fr)
+[01:43:55] *** Server sets mode: +stn 
+[01:49:49] *** Quits: averne (~averne@176-179-35-51.abo.bbox.fr) (Ping timeout: 610 seconds)
+[01:53:00] *** Quits: flagrama (flagrama@id-145621.stonehaven.irccloud.com) (Ping timeout: 272 seconds)
+[02:02:03] *** Joins: flagrama (flagrama@id-145621.stonehaven.irccloud.com)
+[02:29:44] *** Quits: refs (~refs@p200300dd87189f00aceda66b1b497a45.dip0.t-ipconnect.de) (Quit: refs)
+[02:41:09] *** CCFL_Man_ is now known as CCFL_Man
+[03:09:49] *** Quits: fgsfds (~figgis@93.123.144.171) (Read error: Connection reset by peer)
+[03:16:20] <plutobot> Wiki | Page changed: Settings services | User: yls8 | https://switchbrew.org/w/index.php?curid=110&diff=9915&oldid=9783
+[03:52:16] *** Quits: eggster (~eggster@irchighway.eggy.cc) (Read error: Operation timed out)
+[03:53:35] *** Joins: lameboy2 (~lameboy@202-47-121-182.cust.dcsi.net.au)
+[03:53:44] *** Joins: eggster (~eggster@irchighway.eggy.cc)
+[03:55:10] *** Joins: GrecKo_ (~grecko@static.9.103.4.46.clients.your-server.de)
+[04:05:32] *** Quits: lameboy (~lameboy@202-47-121-182.cust.dcsi.net.au) (se.hub irc.du.se)
+[04:05:32] *** Quits: GrecKo (~grecko@static.9.103.4.46.clients.your-server.de) (se.hub irc.du.se)
+[04:19:43] <plutobot> Wiki | Page changed: Settings services | User: yls8 | https://switchbrew.org/w/index.php?curid=110&diff=9916&oldid=9915
+[04:20:50] *** lameboy2 is now known as lameboy
+[04:42:37] *** Joins: KuKzz (KuKzz@95.143.216.177)
+[04:44:53] *** Joins: plutoo_ (~plutoo@139.59.44.183)
+[04:45:59] *** Quits: zombie343 (zombie343@pool-74-108-60-233.nycmny.fios.verizon.net) (Ping timeout: 265 seconds)
+[04:47:43] *** Joins: zombie343 (zombie343@pool-74-108-60-233.nycmny.fios.verizon.net)
+[04:49:53] *** Joins: nrq (~nrq@ns340910.ip-37-59-40.eu)
+[04:52:02] *** Quits: plutoo (~plutoo@139.59.44.183) (Ping timeout: 265 seconds)
+[04:52:02] *** Quits: KuKzz_ (KuKzz@95.143.216.177) (Ping timeout: 265 seconds)
+[04:57:03] *** Quits: nrq_ (~nrq@ns340910.ip-37-59-40.eu) (se.hub irc.underworld.no)
+[04:57:03] *** Quits: Stary (~Stary@thonk.9net.org) (se.hub irc.underworld.no)
+[05:08:08] *** Joins: Stary_ (~Stary@thonk.9net.org)
+[05:20:37] <DoozerBot> yellows8 pushed to master: set: Updated for [10.1.0+], added more cmds, use struct for nickname. "set: Updated for [10.1.0+], added more cmds, use struct for nickname." [072 files modified], building targets: 02lib
+[05:20:37] <plutobot> GitHub | New commit | User: yellows | https://github.com/switchbrew/libnx/commit/ac8ac4919e
+[05:24:09] <DoozerBot> 02lib: 03 v3.3.0.51 Build OK - https://doozer.io/build/rtr8mvs78n
+[06:08:13] *** Quits: nullstrin (~nullstrin@cermak.nullstring.io) (Read error: Operation timed out)
+[06:11:58] *** Joins: nullstrin (~nullstrin@cermak.nullstring.io)
+[07:07:51] *** Quits: mukunda (~mukunda@adsl-074-188-210-099.sip.asm.bellsouth.net) (Read error: Operation timed out)
+[08:38:43] <plutobot> Wiki | Page changed: Homebrew Applications | User: Vanilla | https://switchbrew.org/w/index.php?curid=293&diff=9917&oldid=9911
+[11:02:38] *** Quits: CCFL_Man (9616323544@c-73-64-119-64.hsd1.pa.comcast.net) (Read error: Operation timed out)
+[11:02:54] *** Joins: CCFL_Man (c81da66c29@c-73-64-119-64.hsd1.pa.comcast.net)
+[11:08:01] *** Joins: CCFL_Man_ (7a7677c057@c-73-64-119-64.hsd1.pa.comcast.net)
+[11:09:15] *** Quits: CCFL_Man (c81da66c29@c-73-64-119-64.hsd1.pa.comcast.net) (Ping timeout: 265 seconds)
+[11:26:59] *** Joins: lameboy2 (~lameboy@202-47-121-182.cust.dcsi.net.au)
+[11:34:31] *** Quits: lameboy (~lameboy@202-47-121-182.cust.dcsi.net.au) (Read error: Operation timed out)
+[11:34:31] *** lameboy2 is now known as lameboy
+[11:37:00] *** Quits: KuKzz (KuKzz@95.143.216.177) (Read error: Connection reset by peer)
+[11:37:06] *** Joins: KuKzz (KuKzz@95.143.216.177)
+[12:03:38] <plutobot> GitHub | New PR: npdmtool add ... | User: SciresM | https://github.com/switchbrew/switch-tools/pull/31
+[12:09:38] <plutobot> Wiki | Page changed: NPDM | User: SciresM | https://switchbrew.org/w/index.php?curid=141&diff=9918&oldid=9712
+[12:56:30] *** Quits: eggster (~eggster@irchighway.eggy.cc) (Read error: Operation timed out)
+[12:59:01] *** Joins: eggster (~eggster@irchighway.eggy.cc)
+[13:50:55] *** Joins: fgsfds (~figgis@93.123.144.171)
+[14:16:53] *** Joins: WntrMute (~wntrmute@bnc.devkitpro.org)
+[14:16:53] *** fincs sets mode: +o WntrMute
+[14:51:38] *** Joins: mukunda (~mukunda@adsl-074-188-210-099.sip.asm.bellsouth.net)
+[15:21:04] *** Joins: eggy (~eggster@irchighway.eggy.cc)
+[15:21:30] *** Quits: plutoo_ (~plutoo@139.59.44.183) (Ping timeout: 610 seconds)
+[15:21:35] *** Joins: plutoo (~plutoo@139.59.44.183)
+[15:22:58] *** Quits: eggster (~eggster@irchighway.eggy.cc) (Read error: Operation timed out)
+[15:25:12] *** Quits: GerbilSof (~GerbilSof@pool-108-24-138-55.cmdnnj.fios.verizon.net) (Read error: Operation timed out)
+[15:33:59] *** Joins: GerbilSof (~GerbilSof@pool-108-24-138-55.cmdnnj.fios.verizon.net)
+[16:00:49] *** Joins: foghorn2 (~meh@2600:1700:8af0:a950:c945:eee3:dd63:f6c5)
+[16:11:32] *** Quits: thejsa_ (~eva@lana.core.fs3d.net) (Ping timeout: 745 seconds)
+[16:11:36] *** Joins: thejsa (~eva@lana.core.fs3d.net)
+[16:21:22] *** Joins: refsw (~refsw@80.150.130.51)
+[16:21:47] *** Joins: lameboy2 (~lameboy@202-47-121-182.cust.dcsi.net.au)
+[16:27:53] *** Joins: omlet05_ (~quassel@omlet.ovh)
+[16:27:54] *** Quits: omlet05 (~quassel@omlet.ovh) (Read error: Connection reset by peer)
+[16:31:57] *** Quits: refsw3 (~refsw@80.150.130.51) (Ping timeout: 745 seconds)
+[16:32:32] *** Quits: lameboy (~lameboy@202-47-121-182.cust.dcsi.net.au) (Ping timeout: 745 seconds)
+[16:33:13] *** Joins: lameboy (~lameboy@202-47-121-182.cust.dcsi.net.au)
+[16:33:43] *** Quits: oldtopman (~oldtopman@75-166-213-138.hlrn.qwest.net) (Read error: Operation timed out)
+[16:35:53] *** Joins: oldtopman (~oldtopman@75-166-213-138.hlrn.qwest.net)
+[16:36:01] *** Quits: lameboy2 (~lameboy@202-47-121-182.cust.dcsi.net.au) (Ping timeout: 745 seconds)
+[16:48:32] *** Quits: oldtopman (~oldtopman@75-166-213-138.hlrn.qwest.net) (Ping timeout: 272 seconds)
+[16:48:57] *** Quits: yellows8 (~yellows8@adiza.nexticom.net) (Read error: Operation timed out)
+[16:49:01] *** Joins: yellows8 (~yellows8@adiza.nexticom.net)
+[16:49:01] *** WntrMute sets mode: +o yellows8
+[16:49:33] *** Joins: oldtopman (~oldtopman@75-166-213-138.hlrn.qwest.net)
+[16:50:51] *** Joins: figgis_ (~figgis@93.123.144.171)
+[16:51:37] *** Quits: nullstrin (~nullstrin@cermak.nullstring.io) (Read error: Operation timed out)
+[16:51:44] *** Quits: Kyouju (~Kyouju@ks3311808.kimsufi.com) (Read error: Operation timed out)
+[16:51:49] *** Joins: Kyouju (~Kyouju@ks3311808.kimsufi.com)
+[16:53:42] *** Quits: miigotu (~miigotu@custip-162-217-53-192.esvabroadband.net) (Read error: Operation timed out)
+[16:54:56] *** Quits: awordnot (~awordnot@c-73-74-223-132.hsd1.il.comcast.net) (Read error: Operation timed out)
+[16:55:01] *** Quits: endrift (~endrift@endrift.com) (Read error: Operation timed out)
+[16:55:06] *** Joins: changoXPR (~Changolan@ip72-194-70-236.oc.oc.cox.net)
+[16:55:56] *** Joins: figgis__ (~figgis@93.123.144.171)
+[16:56:21] *** Quits: fgsfds (~figgis@93.123.144.171) (Read error: Operation timed out)
+[16:58:31] *** Joins: plutoo_ (~plutoo@139.59.44.183)
+[16:58:34] *** Quits: changO- (~Changolan@ip72-194-70-236.oc.oc.cox.net) (Read error: Operation timed out)
+[16:58:34] *** changoXPR is now known as changO-
+[16:58:45] *** Quits: plutoo (~plutoo@139.59.44.183) (Ping timeout: 265 seconds)
+[16:59:23] *** Quits: figgis_ (~figgis@93.123.144.171) (Ping timeout: 265 seconds)
+[17:02:24] *** Joins: awordnot (~awordnot@c-73-74-223-132.hsd1.il.comcast.net)
+[17:02:29] *** Joins: nullstrin (~nullstrin@cermak.nullstring.io)
+[17:02:57] *** Joins: endrift (~endrift@endrift.com)
+[17:03:28] *** Quits: |Shadow| (~Shadow1@ip68-12-213-93.ok.ok.cox.net) (Read error: Operation timed out)
+[17:03:47] *** Joins: miigotu (~miigotu@custip-162-217-53-192.esvabroadband.net)
+[17:05:06] *** Joins: |Shadow| (~Shadow1@ip68-12-213-93.ok.ok.cox.net)
+[17:06:55] *** Quits: CCFL_Man_ (7a7677c057@c-73-64-119-64.hsd1.pa.comcast.net) (se.hub irc.underworld.no)
+[17:09:50] *** Joins: CCFL_Man (445d6c6c85@c-73-64-119-64.hsd1.pa.comcast.net)
+[17:15:34] *** Quits: capin4 (~capin@209.182.233.136) (Read error: Operation timed out)
+[17:15:46] *** Joins: capin4 (~capin@209.182.233.136)
+[17:16:10] *** Joins: refsw` (~refsw@80.150.130.51)
+[17:16:54] *** Quits: refsw (~refsw@80.150.130.51) (Read error: Operation timed out)
+[17:17:38] *** Quits: changO- (~Changolan@ip72-194-70-236.oc.oc.cox.net) (Read error: Operation timed out)
+[17:18:00] *** Joins: changO- (~Changolan@ip72-194-70-236.oc.oc.cox.net)
+[17:20:06] *** Quits: lex1 (lex@yuuh.pw) (Read error: Operation timed out)
+[17:21:10] *** Quits: Retr0id (~Retr0id@185.122.57.169) (Read error: Operation timed out)
+[17:21:40] *** Quits: KuKzz (KuKzz@95.143.216.177) (Read error: Operation timed out)
+[17:22:05] *** Joins: KuKzz (~KuKzz@95.143.216.177)
+[17:25:12] *** Joins: lex1 (lex@yuuh.pw)
+[17:25:13] *** Quits: Snetry (~sentry@dslb-088-078-076-165.088.078.pools.vodafone-ip.de) (Read error: Connection reset by peer)
+[17:25:19] *** Joins: Snetry (~sentry@dslb-088-078-076-165.088.078.pools.vodafone-ip.de)
+[17:25:23] *** Joins: Retr0id (~Retr0id@185.122.57.169)
+[17:26:02] *** Quits: blasty (~blasty@haxx.in) (Read error: Connection reset by peer)
+[17:29:06] *** Joins: blasty (~blasty@haxx.in)
+[18:24:29] *** Joins: dibas_ (~dibas@wild.uberspace.de)
+[18:24:29] *** Quits: dibas (~dibas@wild.uberspace.de) (Read error: Connection reset by peer)
+[18:24:32] *** dibas_ is now known as dibas
+[19:12:07] *** Quits: Extrems (~gamecube@expert.extremscorner.org) (Excess Flood)
+[19:12:11] *** Joins: Extrems (gamecube@expert.extremscorner.org)
+[19:24:57] <plutobot> Wiki | Page changed: Audio services | User: yls8 | https://switchbrew.org/w/index.php?curid=264&diff=9919&oldid=9167
+[19:32:53] <plutobot> GitHub | New commit | User: yellows | https://github.com/switchbrew/libnx/commit/cccef0c525
+[19:32:53] <DoozerBot> yellows8 pushed to master: audout: Properly pass the aruid in audoutOpenAudioOut, fixes #197. "audout: Properly pass the aruid in audoutOpenAudioOut, fixes #197." [071 file modified], building targets: 02lib
+[19:36:58] <DoozerBot> 02lib: 03 v3.3.0.52 Build OK - https://doozer.io/build/vzsr3h27em
+[20:22:10] <plutobot> GitHub | New commit | User: Michael Scire | https://github.com/switchbrew/switch-tools/commit/980dbbfe4c
+[20:48:06] *** Quits: derk0pf (~derk0pf@p5b2e5408.dip0.t-ipconnect.de) (Ping timeout: 744 seconds)
+[21:31:21] *** Quits: phigcloud (uid13896@id-13896.tooting.irccloud.com) (Ping timeout: 258 seconds)
+[21:44:45] *** Joins: phigcloud (uid13896@id-13896.tooting.irccloud.com)
+[22:05:02] *** Joins: figgis_ (~figgis@93.123.144.171)
+[22:05:12] *** Quits: figgis__ (~figgis@93.123.144.171) (Remote host closed the connection)
+[22:16:07] *** Joins: figgis__ (~figgis@93.123.144.171)
+[22:19:05] *** Joins: rajkosto (~rajkosto@cable-178-149-122-96.dynamic.sbb.rs)
+[22:21:27] *** Joins: refsw2 (~refsw@80.150.130.51)
+[22:22:27] *** Quits: Retr0id (~Retr0id@185.122.57.169) (Read error: Operation timed out)
+[22:22:55] *** Quits: figgis_ (~figgis@93.123.144.171) (Read error: Operation timed out)
+[22:22:56] *** Quits: refsw` (~refsw@80.150.130.51) (Ping timeout: 272 seconds)
+[22:25:23] *** Quits: blasty (~blasty@haxx.in) (Remote host closed the connection)
+[22:27:21] *** Quits: Snetry (~sentry@dslb-088-078-076-165.088.078.pools.vodafone-ip.de) (Read error: Operation timed out)
+[22:28:33] *** Quits: klanc (~klanc@2a00:6d40:40:58a3::1) (Read error: Operation timed out)
+[22:29:34] *** Joins: Snetry (~sentry@dslb-088-078-076-165.088.078.pools.vodafone-ip.de)
+[22:29:42] *** Joins: klanc (~klanc@2a00:6d40:40:58a3::1)
+[22:29:59] *** Joins: Retr0id (~Retr0id@185.122.57.169)
+[22:33:50] *** Quits: Mimoja (~Mimoja@mail.mimoja.de) (Read error: Connection reset by peer)
+[22:34:17] *** Joins: Mimoja (~Mimoja@mail.mimoja.de)
+[22:34:20] *** Quits: flagrama (flagrama@id-145621.stonehaven.irccloud.com) (Ping timeout: 272 seconds)
+[22:34:21] *** Quits: averne_ (~averne@176-179-35-51.abo.bbox.fr) (quit)
+[22:34:36] *** Joins: averne (~averne@176-179-35-51.abo.bbox.fr)
+[22:34:36] *** Server sets mode: +stn 
+[22:35:46] *** Joins: flagrama (flagrama@stonehaven.irccloud.com)
+[22:36:10] *** Joins: Pieman (sid188464@brockwell.irccloud.com)
+[22:36:53] *** Quits: karolherb (~kherbst@2a02:8308:b0be:6900:482c:9537:40:83ba) (Ping timeout: 272 seconds)
+[23:41:55] *** Joins: karolherb (~kherbst@2a02:8308:b0be:6900:482c:9537:40:83ba)
+[23:45:56] *** Joins: des^ (~des@ip1f10817f.dynamic.kabel-deutschland.de)

@@ -1,0 +1,57 @@
+[00:24:08] *** Quits: fgsfds (~figgis@93.123.144.171) (Read error: Connection reset by peer)
+[00:54:18] *** Joins: flagrama (flagrama@id-145621.stonehaven.irccloud.com)
+[02:16:52] *** Joins: TheLat (webchat@c-98-207-138-185.hsd1.ca.comcast.net)
+[02:17:08] *** Quits: eggster (~eggster@irchighway.eggy.cc) (Read error: Operation timed out)
+[02:17:23] <TheLat> Is it possible to do OpenGL coding for the Switch with glBegin(GL_QUADS); and the like?
+[02:18:08] <TheLat> Code samples and the errors I'm getting at compile time are indicating that it is not, but I just want to check
+[02:18:33] *** Joins: eggster (~eggster@irchighway.eggy.cc)
+[02:43:16] <endrift> I don't think GL_QUADS exists in anything other than 1.x
+[02:43:23] *** Joins: mukunda_ (~mukunda@adsl-074-188-202-180.sip.asm.bellsouth.net)
+[02:44:29] <endrift> it's not in GLES 1.1, and I'm pretty sure it's not in 2.0 or GL 3.0
+[02:45:29] <endrift> ah it's in GL 2.x and below, and that's it
+[02:45:38] <endrift> anyway don't use it
+[02:49:32] *** Quits: mukunda (~mukunda@adsl-074-188-209-190.sip.asm.bellsouth.net) (Ping timeout: 745 seconds)
+[02:53:21] <TheLat> :(
+[02:54:35] <TheLat> OK, I started this project in 2016.  What should I be using instead?
+[02:54:58] <TheLat> It's OpenGL-based and draws a few hundred arbitrary quads per frame.
+[03:53:35] *** Quits: |Shadow| (~Shadow1@ip68-12-213-93.ok.ok.cox.net) ()
+[03:59:15] *** Joins: |Shadow| (~Shadow1@ip68-12-213-93.ok.ok.cox.net)
+[04:28:33] *** Quits: changO- (~Changolan@ip72-194-70-236.oc.oc.cox.net) (Read error: Connection reset by peer)
+[04:30:54] *** Joins: changO- (~Changolan@ip72-194-70-236.oc.oc.cox.net)
+[07:17:51] *** Quits: mukunda_ (~mukunda@adsl-074-188-202-180.sip.asm.bellsouth.net) (Ping timeout: 745 seconds)
+[07:58:49] *** Quits: TheLat (webchat@c-98-207-138-185.hsd1.ca.comcast.net) (Ping timeout: 252 seconds)
+[08:15:48] *** Quits: |Shadow| (~Shadow1@ip68-12-213-93.ok.ok.cox.net) ()
+[08:22:18] *** Joins: |Shadow| (~Shadow1@ip68-12-213-93.ok.ok.cox.net)
+[08:34:47] *** Quits: DacoTaco (~DacoTaco@178-119-112-131.access.telenet.be) (Ping timeout: 272 seconds)
+[09:01:52] *** Joins: DacoTaco (~DacoTaco@178-119-112-131.access.telenet.be)
+[09:35:28] *** Quits: miigotu (~miigotu@custip-162-217-53-192.esvabroadband.net) (Read error: Operation timed out)
+[09:36:32] *** Joins: miigotu (~miigotu@custip-162-217-53-192.esvabroadband.net)
+[10:16:36] *** Quits: omlet05 (~quassel@omlet.ovh) (Quit: http://quassel-irc.org - Chat comfortably. Anywhere.)
+[10:40:12] *** Joins: omlet05 (~quassel@omlet.ovh)
+[10:48:40] *** Joins: miigotu_ (~miigotu@custip-162-217-53-192.esvabroadband.net)
+[10:50:00] *** Quits: miigotu (~miigotu@custip-162-217-53-192.esvabroadband.net) (Read error: Operation timed out)
+[10:58:33] *** Quits: plutobot (~plutobot@188.166.26.149) (Ping timeout: 272 seconds)
+[10:59:11] *** Quits: DacoTaco (~DacoTaco@178-119-112-131.access.telenet.be) (Ping timeout: 272 seconds)
+[10:59:11] *** Joins: fgsfds (~figgis@93.123.144.171)
+[10:59:49] *** Quits: Mimoja (~Mimoja@mail.mimoja.de) (Ping timeout: 272 seconds)
+[11:06:36] *** Joins: derk0pf (~derk0pf@p5b2e5408.dip0.t-ipconnect.de)
+[11:39:52] *** Joins: Mimoja (~Mimoja@mail.mimoja.de)
+[11:39:57] *** Joins: plutobot (~plutobot@188.166.26.149)
+[11:40:16] *** Joins: DacoTaco (~DacoTaco@178-119-112-131.access.telenet.be)
+[12:16:57] *** Joins: mukunda (~mukunda@adsl-074-188-202-180.sip.asm.bellsouth.net)
+[17:41:25] *** Quits: nullstrin (~nullstrin@cermak.nullstring.io) (Read error: Operation timed out)
+[17:45:09] *** Joins: nullstrin (~nullstrin@cermak.nullstring.io)
+[17:45:57] <plutobot> Wiki | Page changed: NV services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=88&diff=9904&oldid=9890
+[18:15:32] <plutobot> Wiki | Page changed: Bus services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=152&diff=9905&oldid=9225
+[18:20:08] <plutobot> Wiki | Page changed: Bus services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=152&diff=9906&oldid=9905
+[18:23:52] <plutobot> Wiki | Page changed: Bus services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=152&diff=9907&oldid=9906
+[18:41:18] *** Joins: TheLat (webchat@c-98-207-138-185.hsd1.ca.comcast.net)
+[18:48:00] <plutobot> Wiki | Page changed: Bus services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=152&diff=9908&oldid=9907
+[19:36:17] *** Quits: GerbilSof (~GerbilSof@pool-108-24-138-55.cmdnnj.fios.verizon.net) (Quit: Windows must now restart because the Remote Procedure Call (RPC) service terminated unexpectedly.)
+[20:09:09] *** Joins: GerbilSof (~GerbilSof@pool-108-24-138-55.cmdnnj.fios.verizon.net)
+[21:16:05] *** Joins: refs (~refs@p200300dd8718dd0009b0480569ad981c.dip0.t-ipconnect.de)
+[22:12:06] <plutobot> Wiki | Page changed: TSEC Firmware | User: Vale | https://switchbrew.org/w/index.php?curid=365&diff=9909&oldid=7068
+[22:44:31] *** Joins: mukunda_ (~mukunda@adsl-074-188-210-099.sip.asm.bellsouth.net)
+[22:51:17] *** Quits: mukunda (~mukunda@adsl-074-188-202-180.sip.asm.bellsouth.net) (Read error: Operation timed out)
+[23:08:21] <plutobot> Wiki | Page changed: TSEC Firmware | User: Vale | https://switchbrew.org/w/index.php?curid=365&diff=9910&oldid=9909
+[23:16:17] *** Quits: derk0pf (~derk0pf@p5b2e5408.dip0.t-ipconnect.de) (Read error: Operation timed out)
