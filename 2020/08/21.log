@@ -1,0 +1,203 @@
+[00:00:25] *** Joins oldtopman
+[00:12:32] *** Quits Galaxy| (Ping timeout: 745 seconds)
+[00:15:02] *** Joins Galaxy|
+[00:39:01] <DoozerBot> yellows8 pushed to master: btdrv: Updated BtdrvBleScanResult. "Added initial bluetooth support." [034 files added07, 1 file modified]
+[00:39:02] <DoozerBot> yellows8 pushed to master: btdrv: Updated BtdrvBleScanResult. "btdrv: Use InitializeBluetoothDriver during init." [071 file modified]
+[00:39:03] <DoozerBot> yellows8 pushed to master: btdrv: Updated BtdrvBleScanResult. "btdrv: Added cmds:" [073 files modified]
+[00:39:04] <DoozerBot> yellows8 pushed to master: btdrv: Updated BtdrvBleScanResult. "btdrv: Added HidReportEventInfo support." [072 files modified]
+[00:39:05] <DoozerBot> yellows8 pushed to master: btdrv: Updated BtdrvBleScanResult. "btdrv: Added more cmds and the required enum:" [072 files modified]
+[00:39:06] <DoozerBot> yellows8 pushed to master: btdrv: Updated BtdrvBleScanResult. "btdrvGetLeEventInfo -> btdrvGetLeHidEventInfo" [073 files modified]
+[00:39:07] <DoozerBot> yellows8 pushed to master: btdrv: Updated BtdrvBleScanResult. "btdrv: Added btdrvGetEventInfo/btdrvGetHidEventInfo, etc." [072 files modified]
+[00:39:08] <DoozerBot> yellows8 pushed to master: btdrv: Updated BtdrvBleScanResult. "btdrv: Added cmds:" [072 files modified]
+[00:39:09] <DoozerBot> yellows8 pushed to master: btdrv: Updated BtdrvBleScanResult. "btdrv: Updated the BtdrvBleAdvertisePacketData struct." [071 file modified]
+[00:39:10] <DoozerBot> yellows8 pushed to master: btdrv: Updated BtdrvBleScanResult. "btdrv: Added btdrvTriggerConnection." [072 files modified]
+[00:39:11] <DoozerBot> yellows8 pushed to master: btdrv: Updated BtdrvBleScanResult. "btdrv: Fixed btdrvGetHidReport IPC, updated docs, and added an enum." [072 files modified]
+[00:39:12] <DoozerBot> yellows8 pushed to master: btdrv: Updated BtdrvBleScanResult. "Added btmu and added btdrv structs." [032 files added07, 2 files modified]
+[00:39:13] <DoozerBot> yellows8 pushed to master: btdrv: Updated BtdrvBleScanResult. "btdrv/btmu: Various improvements." [073 files modified]
+[00:39:14] <DoozerBot> yellows8 pushed to master: btdrv: Updated BtdrvBleScanResult. "btdrv/btmu: Updated structs." [072 files modified]
+[00:39:15] <DoozerBot> yellows8 pushed to master: btdrv: Updated BtdrvBleScanResult. "btmu: Updated docs." [071 file modified]
+[00:39:16] <DoozerBot> yellows8 pushed to master: btdrv: Updated BtdrvBleScanResult. "Added btmsys." [032 files added07, 1 file modified]
+[00:39:17] <DoozerBot> yellows8 pushed to master: btdrv: Updated BtdrvBleScanResult. "btmu: g_btdrvIBtmUserCore -> g_btmuIBtmUserCore" [071 file modified]
+[00:39:18] <DoozerBot> yellows8 pushed to master: btdrv: Updated BtdrvBleScanResult. "btmu/btdrv: Use bool flag where needed and updated docs." [073 files modified]
+[00:39:19] <DoozerBot> yellows8 pushed to master: btdrv: Updated BtdrvBleScanResult. "Added btm, moved btmu structs into btm, and updated docs." [032 files added07, 3 files modified]
+[00:39:20] <DoozerBot> yellows8 pushed to master: btdrv: Updated BtdrvBleScanResult. "btm: Added more cmds." [072 files modified]
+[00:39:21] <DoozerBot> yellows8 pushed to master: btdrv: Updated BtdrvBleScanResult. "btm: Added the aruid cmds." [072 files modified]
+[00:39:22] <DoozerBot> yellows8 pushed to master: btdrv: Updated BtdrvBleScanResult. "btdrv: Added support for pre-4.0.0, etc." [072 files modified]
+[00:39:23] <DoozerBot> yellows8 pushed to master: btdrv: Updated BtdrvBleScanResult. "btdrv: Added the remaining cmds, various fixes, and added a types .h." [031 file added07, 4 files modified]
+[00:39:24] <DoozerBot> yellows8 pushed to master: btdrv: Updated BtdrvBleScanResult. "set: Use BtdrvAddress." [071 file modified]
+[00:39:25] <DoozerBot> yellows8 pushed to master: btdrv: Updated BtdrvBleScanResult. "btdrv/btm: Updated/added various structs." [074 files modified]
+[00:39:26] <DoozerBot> yellows8 pushed to master: btdrv: Updated BtdrvBleScanResult. "Added btdev." [032 files added07, 1 file modified]
+[00:39:27] <DoozerBot> yellows8 pushed to master: btdrv: Updated BtdrvBleScanResult. "bluetooth: Updated params, improved docs, etc." [0711 files modified]
+[00:39:28] <DoozerBot> yellows8 pushed to master: btdrv: Updated BtdrvBleScanResult. "btdrv: Use const for btdrvWriteHidData/btdrvSetHidReport." [072 files modified]
+[00:39:29] <DoozerBot> yellows8 pushed to master: btdrv: Updated BtdrvBleScanResult. "btdrv: Updated param order." [072 files modified]
+[00:39:30] <DoozerBot> yellows8 pushed to master: btdrv: Updated BtdrvBleScanResult. "btdrv: Updated BtdrvBleScanResult." [071 file modified], building targets: 02lib
+[00:43:03] <DoozerBot> 02lib: 03 v3.3.0.50 Build OK - https://doozer.io/build/zzomy8r6xj
+[01:00:28] *** Joins plutobot
+[01:00:38] *** Joins DacoTaco
+[01:01:18] *** Joins Mimoja
+[01:06:32] *** Quits usineur (Ping timeout: 265 seconds)
+[01:16:29] *** Quits Behemoth_ (Read error: Connection reset by peer)
+[01:17:35] *** Joins Behemoth_
+[01:22:30] *** Quits CCFL_Man (Read error: Connection reset by peer)
+[01:22:30] *** Joins CCFL_Man_
+[01:22:30] *** Quits miigotu_ (Ping timeout: 610 seconds)
+[01:25:01] *** Quits Maylay (Ping timeout: 610 seconds)
+[01:25:44] *** Joins miigotu
+[01:29:35] *** Quits nrq (Read error: Connection reset by peer)
+[01:29:35] *** Joins nrq_
+[01:31:13] *** Quits plutoo (Ping timeout: 610 seconds)
+[01:34:04] *** Joins plutoo
+[01:34:04] *** Joins Maylay
+[01:42:31] *** Quits averne (quit)
+[01:43:55] *** Joins averne_
+[01:43:55] *** Server sets mode: +stn 
+[01:49:49] *** Quits averne (Ping timeout: 610 seconds)
+[01:53:00] *** Quits flagrama (Ping timeout: 272 seconds)
+[02:02:03] *** Joins flagrama
+[02:29:44] *** Quits refs (Quit: refs)
+[02:41:09] *** CCFL_Man_ is now known as CCFL_Man
+[03:09:49] *** Quits fgsfds (Read error: Connection reset by peer)
+[03:16:20] <plutobot> Wiki | Page changed: Settings services | User: yls8 | https://switchbrew.org/w/index.php?curid=110&diff=9915&oldid=9783
+[03:52:16] *** Quits eggster (Read error: Operation timed out)
+[03:53:35] *** Joins lameboy2
+[03:53:44] *** Joins eggster
+[03:55:10] *** Joins GrecKo_
+[04:05:32] *** Quits lameboy (se.hub irc.du.se)
+[04:05:32] *** Quits GrecKo (se.hub irc.du.se)
+[04:19:43] <plutobot> Wiki | Page changed: Settings services | User: yls8 | https://switchbrew.org/w/index.php?curid=110&diff=9916&oldid=9915
+[04:20:50] *** lameboy2 is now known as lameboy
+[04:42:37] *** Joins KuKzz
+[04:44:53] *** Joins plutoo_
+[04:45:59] *** Quits zombie343 (Ping timeout: 265 seconds)
+[04:47:43] *** Joins zombie343
+[04:49:53] *** Joins nrq
+[04:52:02] *** Quits plutoo (Ping timeout: 265 seconds)
+[04:52:02] *** Quits KuKzz_ (Ping timeout: 265 seconds)
+[04:57:03] *** Quits nrq_ (se.hub irc.underworld.no)
+[04:57:03] *** Quits Stary (se.hub irc.underworld.no)
+[05:08:08] *** Joins Stary_
+[05:20:37] <DoozerBot> yellows8 pushed to master: set: Updated for [10.1.0+], added more cmds, use struct for nickname. "set: Updated for [10.1.0+], added more cmds, use struct for nickname." [072 files modified], building targets: 02lib
+[05:20:37] <plutobot> GitHub | New commit | User: yellows | https://github.com/switchbrew/libnx/commit/ac8ac4919e
+[05:24:09] <DoozerBot> 02lib: 03 v3.3.0.51 Build OK - https://doozer.io/build/rtr8mvs78n
+[06:08:13] *** Quits nullstrin (Read error: Operation timed out)
+[06:11:58] *** Joins nullstrin
+[07:07:51] *** Quits mukunda (Read error: Operation timed out)
+[08:38:43] <plutobot> Wiki | Page changed: Homebrew Applications | User: Vanilla | https://switchbrew.org/w/index.php?curid=293&diff=9917&oldid=9911
+[11:02:38] *** Quits CCFL_Man (Read error: Operation timed out)
+[11:02:54] *** Joins CCFL_Man
+[11:08:01] *** Joins CCFL_Man_
+[11:09:15] *** Quits CCFL_Man (Ping timeout: 265 seconds)
+[11:26:59] *** Joins lameboy2
+[11:34:31] *** Quits lameboy (Read error: Operation timed out)
+[11:34:31] *** lameboy2 is now known as lameboy
+[11:37:00] *** Quits KuKzz (Read error: Connection reset by peer)
+[11:37:06] *** Joins KuKzz
+[12:03:38] <plutobot> GitHub | New PR: npdmtool add ... | User: SciresM | https://github.com/switchbrew/switch-tools/pull/31
+[12:09:38] <plutobot> Wiki | Page changed: NPDM | User: SciresM | https://switchbrew.org/w/index.php?curid=141&diff=9918&oldid=9712
+[12:56:30] *** Quits eggster (Read error: Operation timed out)
+[12:59:01] *** Joins eggster
+[13:50:55] *** Joins fgsfds
+[14:16:53] *** Joins WntrMute
+[14:16:53] *** fincs sets mode: +o WntrMute
+[14:51:38] *** Joins mukunda
+[15:21:04] *** Joins eggy
+[15:21:30] *** Quits plutoo_ (Ping timeout: 610 seconds)
+[15:21:35] *** Joins plutoo
+[15:22:58] *** Quits eggster (Read error: Operation timed out)
+[15:25:12] *** Quits GerbilSof (Read error: Operation timed out)
+[15:33:59] *** Joins GerbilSof
+[16:00:49] *** Joins foghorn2
+[16:11:32] *** Quits thejsa_ (Ping timeout: 745 seconds)
+[16:11:36] *** Joins thejsa
+[16:21:22] *** Joins refsw
+[16:21:47] *** Joins lameboy2
+[16:27:53] *** Joins omlet05_
+[16:27:54] *** Quits omlet05 (Read error: Connection reset by peer)
+[16:31:57] *** Quits refsw3 (Ping timeout: 745 seconds)
+[16:32:32] *** Quits lameboy (Ping timeout: 745 seconds)
+[16:33:13] *** Joins lameboy
+[16:33:43] *** Quits oldtopman (Read error: Operation timed out)
+[16:35:53] *** Joins oldtopman
+[16:36:01] *** Quits lameboy2 (Ping timeout: 745 seconds)
+[16:48:32] *** Quits oldtopman (Ping timeout: 272 seconds)
+[16:48:57] *** Quits yellows8 (Read error: Operation timed out)
+[16:49:01] *** Joins yellows8
+[16:49:01] *** WntrMute sets mode: +o yellows8
+[16:49:33] *** Joins oldtopman
+[16:50:51] *** Joins figgis_
+[16:51:37] *** Quits nullstrin (Read error: Operation timed out)
+[16:51:44] *** Quits Kyouju (Read error: Operation timed out)
+[16:51:49] *** Joins Kyouju
+[16:53:42] *** Quits miigotu (Read error: Operation timed out)
+[16:54:56] *** Quits awordnot (Read error: Operation timed out)
+[16:55:01] *** Quits endrift (Read error: Operation timed out)
+[16:55:06] *** Joins changoXPR
+[16:55:56] *** Joins figgis__
+[16:56:21] *** Quits fgsfds (Read error: Operation timed out)
+[16:58:31] *** Joins plutoo_
+[16:58:34] *** Quits changO- (Read error: Operation timed out)
+[16:58:34] *** changoXPR is now known as changO-
+[16:58:45] *** Quits plutoo (Ping timeout: 265 seconds)
+[16:59:23] *** Quits figgis_ (Ping timeout: 265 seconds)
+[17:02:24] *** Joins awordnot
+[17:02:29] *** Joins nullstrin
+[17:02:57] *** Joins endrift
+[17:03:28] *** Quits |Shadow| (Read error: Operation timed out)
+[17:03:47] *** Joins miigotu
+[17:05:06] *** Joins |Shadow|
+[17:06:55] *** Quits CCFL_Man_ (se.hub irc.underworld.no)
+[17:09:50] *** Joins CCFL_Man
+[17:15:34] *** Quits capin4 (Read error: Operation timed out)
+[17:15:46] *** Joins capin4
+[17:16:10] *** Joins refsw`
+[17:16:54] *** Quits refsw (Read error: Operation timed out)
+[17:17:38] *** Quits changO- (Read error: Operation timed out)
+[17:18:00] *** Joins changO-
+[17:20:06] *** Quits lex1 (Read error: Operation timed out)
+[17:21:10] *** Quits Retr0id (Read error: Operation timed out)
+[17:21:40] *** Quits KuKzz (Read error: Operation timed out)
+[17:22:05] *** Joins KuKzz
+[17:25:12] *** Joins lex1
+[17:25:13] *** Quits Snetry (Read error: Connection reset by peer)
+[17:25:19] *** Joins Snetry
+[17:25:23] *** Joins Retr0id
+[17:26:02] *** Quits blasty (Read error: Connection reset by peer)
+[17:29:06] *** Joins blasty
+[18:24:29] *** Joins dibas_
+[18:24:29] *** Quits dibas (Read error: Connection reset by peer)
+[18:24:32] *** dibas_ is now known as dibas
+[19:12:07] *** Quits Extrems (Excess Flood)
+[19:12:11] *** Joins Extrems
+[19:24:57] <plutobot> Wiki | Page changed: Audio services | User: yls8 | https://switchbrew.org/w/index.php?curid=264&diff=9919&oldid=9167
+[19:32:53] <plutobot> GitHub | New commit | User: yellows | https://github.com/switchbrew/libnx/commit/cccef0c525
+[19:32:53] <DoozerBot> yellows8 pushed to master: audout: Properly pass the aruid in audoutOpenAudioOut, fixes #197. "audout: Properly pass the aruid in audoutOpenAudioOut, fixes #197." [071 file modified], building targets: 02lib
+[19:36:58] <DoozerBot> 02lib: 03 v3.3.0.52 Build OK - https://doozer.io/build/vzsr3h27em
+[20:22:10] <plutobot> GitHub | New commit | User: Michael Scire | https://github.com/switchbrew/switch-tools/commit/980dbbfe4c
+[20:48:06] *** Quits derk0pf (Ping timeout: 744 seconds)
+[21:31:21] *** Quits phigcloud (Ping timeout: 258 seconds)
+[21:44:45] *** Joins phigcloud
+[22:05:02] *** Joins figgis_
+[22:05:12] *** Quits figgis__ (Remote host closed the connection)
+[22:16:07] *** Joins figgis__
+[22:19:05] *** Joins rajkosto
+[22:21:27] *** Joins refsw2
+[22:22:27] *** Quits Retr0id (Read error: Operation timed out)
+[22:22:55] *** Quits figgis_ (Read error: Operation timed out)
+[22:22:56] *** Quits refsw` (Ping timeout: 272 seconds)
+[22:25:23] *** Quits blasty (Remote host closed the connection)
+[22:27:21] *** Quits Snetry (Read error: Operation timed out)
+[22:28:33] *** Quits klanc (Read error: Operation timed out)
+[22:29:34] *** Joins Snetry
+[22:29:42] *** Joins klanc
+[22:29:59] *** Joins Retr0id
+[22:33:50] *** Quits Mimoja (Read error: Connection reset by peer)
+[22:34:17] *** Joins Mimoja
+[22:34:20] *** Quits flagrama (Ping timeout: 272 seconds)
+[22:34:21] *** Quits averne_ (quit)
+[22:34:36] *** Joins averne
+[22:34:36] *** Server sets mode: +stn 
+[22:35:46] *** Joins flagrama
+[22:36:10] *** Joins Pieman
+[22:36:53] *** Quits karolherb (Ping timeout: 272 seconds)
+[23:41:55] *** Joins karolherb
+[23:45:56] *** Joins des^
