@@ -1,0 +1,146 @@
+[00:21:44] *** Quits karolherb (Ping timeout: 272 seconds)
+[00:26:30] *** Joins fgsfds
+[01:00:09] <plutobot> Wiki | Page changed: BTM services | User: yls8 | https://switchbrew.org/w/index.php?curid=306&diff=9930&oldid=9927
+[01:04:22] <DoozerBot> yellows8 pushed to master: btm: Updated BtmDevicePropertyList. "btm: Updated BtmDevicePropertyList." [071 file modified], building targets: 02lib
+[01:06:42] <plutobot> GitHub | New commit | User: yellows | https://github.com/switchbrew/libnx/commit/9febf780b1
+[01:09:06] <DoozerBot> 02lib: 03 v3.3.0.54 Build OK - https://doozer.io/build/s0z0s391tw
+[01:11:04] <DoozerBot> yellows8 pushed to master: btm: Update the right struct, BtmDeviceInfoList. "btm: Update the right struct, BtmDeviceInfoList." [071 file modified], building targets: 02lib
+[01:11:04] <plutobot> GitHub | New commit | User: yellows | https://github.com/switchbrew/libnx/commit/625616bd44
+[01:18:42] *** Joins mukunda
+[01:21:05] *** Joins mukunda_
+[01:27:24] <DoozerBot> 02lib: 03 v3.3.0.55 Build OK - https://doozer.io/build/iydzmvypoz
+[01:31:36] *** Quits mukunda (Ping timeout: 745 seconds)
+[02:17:28] *** Quits zombie343 (Read error: Operation timed out)
+[02:17:32] *** Quits awordnot (Read error: Operation timed out)
+[02:17:49] *** Joins zombie343
+[02:17:51] *** Quits endrift (Read error: Operation timed out)
+[02:18:43] *** Quits nullstrin (Read error: Operation timed out)
+[02:19:17] *** Joins nullstrin
+[02:19:34] *** Quits j0hny5 (Read error: Operation timed out)
+[02:20:13] *** Joins endrift
+[02:20:21] *** Joins figgis_
+[02:20:26] *** Joins j0hny5
+[02:21:59] *** Quits refs (Quit: refs)
+[02:22:03] *** Joins awordnot
+[02:23:26] *** Quits fgsfds (Read error: Operation timed out)
+[03:01:50] *** Quits |Shadow| ()
+[03:07:07] *** Joins |Shadow|
+[03:58:52] *** Quits lemmy (Remote host closed the connection)
+[05:15:41] *** Joins changoXPR
+[05:22:29] <plutobot> Wiki | Page changed: PSC services | User: yls8 | https://switchbrew.org/w/index.php?curid=271&diff=9931&oldid=9814
+[05:24:39] *** Quits changO- (Read error: Operation timed out)
+[05:24:48] *** changoXPR is now known as changO-
+[05:43:34] <plutobot> Wiki | Page changed: 10.0.0 | User: yls8 | https://switchbrew.org/w/index.php?curid=403&diff=9932&oldid=9852
+[06:57:04] *** Quits |Shadow| ()
+[07:02:10] *** Joins |Shadow|
+[07:13:36] *** Quits GerbilSof (Quit: Windows must now restart because the Remote Procedure Call (RPC) service terminated unexpectedly.)
+[07:20:13] *** Quits mukunda_ (Ping timeout: 265 seconds)
+[07:37:26] *** Joins GerbilSof
+[07:43:17] *** Quits figgis_ (Read error: Connection reset by peer)
+[09:53:01] *** Quits ris2z (Quit: bye)
+[09:56:16] *** Joins ris2z
+[09:56:16] *** Quits ris2z (Client Quit)
+[10:11:01] *** Joins ris2z
+[10:11:04] *** Quits ris2z (Excess Flood)
+[10:14:34] *** Joins ris2z
+[11:15:31] *** Quits GerbilSof (se.hub ircd.choopa.net)
+[11:15:31] *** Quits Surkow (se.hub ircd.choopa.net)
+[11:15:31] *** Quits Galaxy| (se.hub ircd.choopa.net)
+[11:15:31] *** Quits sh0e (se.hub ircd.choopa.net)
+[11:15:31] *** Quits ds84182 (se.hub ircd.choopa.net)
+[11:15:31] *** Quits Cu3PO42 (se.hub ircd.choopa.net)
+[11:15:31] *** Quits omlet05_ (se.hub ircd.choopa.net)
+[11:15:31] *** Quits Behemoth_ (se.hub ircd.choopa.net)
+[11:15:31] *** Quits WntrMute (se.hub ircd.choopa.net)
+[11:15:31] *** Quits fincs (se.hub ircd.choopa.net)
+[11:15:31] *** Quits Extrems (se.hub ircd.choopa.net)
+[11:15:31] *** Quits mha (se.hub ircd.choopa.net)
+[11:15:31] *** Quits cpncok3 (se.hub ircd.choopa.net)
+[11:15:31] *** Quits yls8bot (se.hub ircd.choopa.net)
+[11:15:31] *** Quits Kyouju (se.hub ircd.choopa.net)
+[11:15:31] *** Quits Lightswor (se.hub ircd.choopa.net)
+[11:15:31] *** Quits yellows8 (se.hub ircd.choopa.net)
+[11:15:31] *** Quits Aaerox (se.hub ircd.choopa.net)
+[11:15:31] *** Quits lameboy (se.hub ircd.choopa.net)
+[11:15:31] *** Quits DeusQain (se.hub ircd.choopa.net)
+[11:15:31] *** Quits capin4 (se.hub ircd.choopa.net)
+[11:15:31] *** Quits GrecKo (se.hub ircd.choopa.net)
+[11:15:31] *** Quits ihaveamac (se.hub ircd.choopa.net)
+[11:15:31] *** Quits |Shadow| (se.hub ircd.choopa.net)
+[11:15:31] *** Quits awordnot (se.hub ircd.choopa.net)
+[11:15:31] *** Quits endrift (se.hub ircd.choopa.net)
+[11:15:31] *** Quits j0hny5 (se.hub ircd.choopa.net)
+[11:15:31] *** Quits nullstrin (se.hub ircd.choopa.net)
+[11:19:10] *** Joins GerbilSof
+[11:19:10] *** Joins |Shadow|
+[11:19:10] *** Joins awordnot
+[11:19:10] *** Joins j0hny5
+[11:19:10] *** Joins endrift
+[11:19:10] *** Joins nullstrin
+[11:19:10] *** Joins Galaxy|
+[11:19:10] *** Joins cpncok3
+[11:19:10] *** Joins lameboy
+[11:19:10] *** Joins yls8bot
+[11:19:10] *** Joins Kyouju
+[11:19:10] *** Joins yellows8
+[11:19:10] *** Joins Lightswor
+[11:19:10] *** Joins Aaerox
+[11:19:10] *** Joins Surkow
+[11:19:10] *** Joins DeusQain
+[11:19:10] *** Joins sh0e
+[11:19:10] *** Joins capin4
+[11:19:10] *** Joins ds84182
+[11:19:10] *** Joins GrecKo
+[11:19:10] *** Joins Cu3PO42
+[11:19:10] *** Joins ihaveamac
+[11:19:10] *** Joins Extrems
+[11:19:10] *** Joins omlet05_
+[11:19:10] *** Joins fincs
+[11:19:10] *** Joins WntrMute
+[11:19:10] *** ny.us.hub sets mode: +oooo yls8bot yellows8 fincs WntrMute
+[11:19:10] *** Joins mha
+[11:19:10] *** Joins Behemoth_
+[11:20:22] *** Quits blasty_ (se.hub irc.efnet.nl)
+[11:20:22] *** Quits Snetry (se.hub irc.efnet.nl)
+[11:20:22] *** Quits d3m3vilur (se.hub irc.efnet.nl)
+[11:20:22] *** Quits Retr0id (se.hub irc.efnet.nl)
+[11:20:22] *** Quits lex1 (se.hub irc.efnet.nl)
+[11:20:22] *** Quits klanc (se.hub irc.efnet.nl)
+[11:20:22] *** Quits changO- (se.hub irc.efnet.nl)
+[11:20:22] *** Quits zombie343 (se.hub irc.efnet.nl)
+[11:20:22] *** Quits mtheall (se.hub irc.efnet.nl)
+[11:20:22] *** Quits foghorn3 (se.hub irc.efnet.nl)
+[11:20:22] *** Quits thejsa (se.hub irc.efnet.nl)
+[11:24:41] *** Quits dibas (Quit: Leaving...)
+[11:24:53] *** Joins dibas
+[11:42:43] *** Joins changO-
+[11:42:44] *** Joins zombie343
+[11:42:44] *** Joins blasty_
+[11:42:44] *** Joins mtheall
+[11:42:44] *** Joins d3m3vilur
+[11:42:44] *** Joins Retr0id
+[11:42:44] *** Joins klanc
+[11:42:44] *** Joins foghorn3
+[11:42:44] *** Joins thejsa
+[11:43:01] *** Joins lex1
+[11:43:19] *** Joins Snetry
+[14:05:07] *** Quits refsw2 (Read error: Connection reset by peer)
+[14:05:41] *** Joins refsw2
+[14:53:23] *** Joins KuKzz_
+[14:54:24] *** Joins datagutt_
+[14:58:34] *** Joins lemmu
+[14:59:08] *** Joins plutoo_
+[14:59:29] *** Quits datagutt (Ping timeout: 265 seconds)
+[14:59:30] *** datagutt_ is now known as datagutt
+[15:03:11] *** Quits KuKzz (se.hub irc.underworld.no)
+[15:03:11] *** Quits plutoo (se.hub irc.underworld.no)
+[15:03:11] *** Quits m4ts (se.hub irc.underworld.no)
+[15:11:50] *** Joins Maylay_
+[19:45:59] <plutobot> Wiki | Page changed: TSEC | User: Hexkyz | https://switchbrew.org/w/index.php?curid=199&diff=9933&oldid=9928
+[19:52:57] <plutobot> Wiki | Page changed: TSEC | User: Hexkyz | https://switchbrew.org/w/index.php?curid=199&diff=9934&oldid=9933
+[21:30:35] *** Quits GerbilSof (hub.efnet.us irc.Prison.NET)
+[21:30:35] *** Quits Surkow (hub.efnet.us irc.Prison.NET)
+[21:41:53] *** Joins refs
+[21:51:39] *** Joins GerbilSof
+[21:51:40] *** Joins Surkow
+[22:53:03] *** Joins fgsfds
