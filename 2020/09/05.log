@@ -1,0 +1,54 @@
+[01:24:22] *** Joins: refs (~refs@p200300dd871610000d4ad357461a66c3.dip0.t-ipconnect.de)
+[03:01:13] <CCFL_Man> the romfs nca contained in an update is encrypted with the title key of the base?
+[03:26:15] <CCFL_Man> needed to pass --basefake
+[04:06:59] *** Quits: refs (~refs@p200300dd871610000d4ad357461a66c3.dip0.t-ipconnect.de) (Quit: refs)
+[04:07:30] *** Quits: nullstrin (~nullstrin@cermak.nullstring.io) (Read error: Operation timed out)
+[04:11:16] *** Joins: nullstrin (~nullstrin@cermak.nullstring.io)
+[04:17:41] *** Joins: lameboy2 (~lameboy@202-47-121-182.cust.dcsi.net.au)
+[04:20:02] *** Quits: lameboy (~lameboy@202-47-121-182.cust.dcsi.net.au) (Ping timeout: 265 seconds)
+[04:20:02] *** Quits: datagutt (~datagutt@mail.guac.live) (Ping timeout: 265 seconds)
+[04:20:07] *** lameboy2 is now known as lameboy
+[04:20:16] *** Joins: datagutt (~datagutt@mail.guac.live)
+[04:20:32] *** Quits: nrq (~nrq@ns340910.ip-37-59-40.eu) (Ping timeout: 265 seconds)
+[04:20:38] *** Joins: nrq_ (~nrq@ns340910.ip-37-59-40.eu)
+[04:21:29] *** Quits: mtheall (~mtheall@mtheall.com) (Ping timeout: 265 seconds)
+[04:21:31] *** Joins: mtheall (~mtheall@mtheall.com)
+[04:22:03] *** Joins: hordak_ (hordak@cautio.us)
+[04:22:17] *** Joins: omlet05_ (~quassel@omlet.ovh)
+[04:23:14] *** Quits: omlet05 (~quassel@91.121.209.104) (Ping timeout: 265 seconds)
+[04:23:15] *** Quits: TAL (~TAL@defiant.tlercher.de) (Ping timeout: 265 seconds)
+[04:23:25] *** Quits: hordak (hordak@208.99.89.129) (Ping timeout: 265 seconds)
+[04:23:25] *** hordak_ is now known as hordak
+[04:24:03] *** Joins: TAL (~TAL@defiant.tlercher.de)
+[04:54:21] *** Joins: mats (~mats@176.125.235.106)
+[04:56:46] *** Quits: phigcloud (uid13896@2001:67c:2f08:4::3648) (Ping timeout: 265 seconds)
+[04:56:58] *** Joins: phigcloud (uid13896@2001:67c:2f08:4::3648)
+[05:21:09] *** Quits: GerbilSof (~GerbilSof@pool-108-24-138-55.cmdnnj.fios.verizon.net) (Windows must now restart because the Remote Procedure Call (RPC) service terminated unexpectedly.)
+[05:28:16] *** Joins: GerbilSof (~GerbilSof@pool-108-24-138-55.cmdnnj.fios.verizon.net)
+[06:06:49] *** Quits: fgsfds (~figgis@93.123.144.171) (Read error: Connection reset by peer)
+[06:19:30] *** Quits: changO- (~Changolan@ip72-194-70-236.oc.oc.cox.net) (ircd.choopa.net irc.mzima.net)
+[06:19:30] *** Quits: Cu3PO42 (~Cu3PO42@159.69.208.45) (ircd.choopa.net irc.mzima.net)
+[06:19:30] *** Quits: Genolo (~fear@2a01:7e00::f03c:91ff:fe93:8d42) (ircd.choopa.net irc.mzima.net)
+[06:19:30] *** Quits: gruetzkop (~gruetzkop@bnc.dont-follow.us) (ircd.choopa.net irc.mzima.net)
+[06:19:30] *** Quits: klock (~efklock@vps1.ksociety.net) (ircd.choopa.net irc.mzima.net)
+[06:19:30] *** Quits: DeusQain (~DeusQain@mx.qainsworld.com) (ircd.choopa.net irc.mzima.net)
+[06:19:30] *** Quits: capin4 (~capin@209.182.233.136) (ircd.choopa.net irc.mzima.net)
+[06:19:30] *** Quits: ihaveamac (~ihaveamac@ianburgwin.net) (ircd.choopa.net irc.mzima.net)
+[06:30:32] *** Joins: changO- (~Changolan@ip72-194-70-236.oc.oc.cox.net)
+[06:30:32] *** Joins: Cu3PO42 (~Cu3PO42@159.69.208.45)
+[06:30:32] *** Joins: Genolo (~fear@2a01:7e00::f03c:91ff:fe93:8d42)
+[06:30:32] *** Joins: gruetzkop (~gruetzkop@bnc.dont-follow.us)
+[06:30:32] *** Joins: klock (~efklock@vps1.ksociety.net)
+[06:30:32] *** Joins: DeusQain (~DeusQain@mx.qainsworld.com)
+[06:30:32] *** Joins: capin4 (~capin@209.182.233.136)
+[06:30:32] *** Joins: ihaveamac (~ihaveamac@ianburgwin.net)
+[15:28:13] *** Joins: fgsfds (~figgis@93.123.144.171)
+[18:14:55] *** Joins: refs (~refs@p200300dd872eae000998e19bbdf739ac.dip0.t-ipconnect.de)
+[19:13:16] <plutobot> Wiki | Page changed: TSEC | User: Vale | https://switchbrew.org/w/index.php?curid=199&diff=9946&oldid=9937
+[20:13:05] <plutobot> Wiki | Page changed: TSEC | User: Vale | https://switchbrew.org/w/index.php?curid=199&diff=9947&oldid=9946
+[21:01:10] <plutobot> Wiki | Page changed: Product Information | User: Hexkyz | https://switchbrew.org/w/index.php?curid=384&diff=9948&oldid=9942
+[21:03:23] <plutobot> Wiki | Page changed: Product Information | User: Hexkyz | https://switchbrew.org/w/index.php?curid=384&diff=9949&oldid=9948
+[21:26:44] *** Quits: averne (~averne@176-179-35-51.abo.bbox.fr) (quit)
+[21:27:03] *** Joins: averne (~averne@176-179-35-51.abo.bbox.fr)
+[21:27:03] *** Server sets mode: +stn 
+[21:33:17] <plutobot> Wiki | Page changed: TSEC Firmware | User: Vale | https://switchbrew.org/w/index.php?curid=365&diff=9950&oldid=9910
