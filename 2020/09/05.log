@@ -1,0 +1,54 @@
+[01:24:22] *** Joins refs
+[03:01:13] <CCFL_Man> the romfs nca contained in an update is encrypted with the title key of the base?
+[03:26:15] <CCFL_Man> needed to pass --basefake
+[04:06:59] *** Quits refs (Quit: refs)
+[04:07:30] *** Quits nullstrin (Read error: Operation timed out)
+[04:11:16] *** Joins nullstrin
+[04:17:41] *** Joins lameboy2
+[04:20:02] *** Quits lameboy (Ping timeout: 265 seconds)
+[04:20:02] *** Quits datagutt (Ping timeout: 265 seconds)
+[04:20:07] *** lameboy2 is now known as lameboy
+[04:20:16] *** Joins datagutt
+[04:20:32] *** Quits nrq (Ping timeout: 265 seconds)
+[04:20:38] *** Joins nrq_
+[04:21:29] *** Quits mtheall (Ping timeout: 265 seconds)
+[04:21:31] *** Joins mtheall
+[04:22:03] *** Joins hordak_
+[04:22:17] *** Joins omlet05_
+[04:23:14] *** Quits omlet05 (Ping timeout: 265 seconds)
+[04:23:15] *** Quits TAL (Ping timeout: 265 seconds)
+[04:23:25] *** Quits hordak (Ping timeout: 265 seconds)
+[04:23:25] *** hordak_ is now known as hordak
+[04:24:03] *** Joins TAL
+[04:54:21] *** Joins mats
+[04:56:46] *** Quits phigcloud (Ping timeout: 265 seconds)
+[04:56:58] *** Joins phigcloud
+[05:21:09] *** Quits GerbilSof (Windows must now restart because the Remote Procedure Call (RPC) service terminated unexpectedly.)
+[05:28:16] *** Joins GerbilSof
+[06:06:49] *** Quits fgsfds (Read error: Connection reset by peer)
+[06:19:30] *** Quits changO- (ircd.choopa.net irc.mzima.net)
+[06:19:30] *** Quits Cu3PO42 (ircd.choopa.net irc.mzima.net)
+[06:19:30] *** Quits Genolo (ircd.choopa.net irc.mzima.net)
+[06:19:30] *** Quits gruetzkop (ircd.choopa.net irc.mzima.net)
+[06:19:30] *** Quits klock (ircd.choopa.net irc.mzima.net)
+[06:19:30] *** Quits DeusQain (ircd.choopa.net irc.mzima.net)
+[06:19:30] *** Quits capin4 (ircd.choopa.net irc.mzima.net)
+[06:19:30] *** Quits ihaveamac (ircd.choopa.net irc.mzima.net)
+[06:30:32] *** Joins changO-
+[06:30:32] *** Joins Cu3PO42
+[06:30:32] *** Joins Genolo
+[06:30:32] *** Joins gruetzkop
+[06:30:32] *** Joins klock
+[06:30:32] *** Joins DeusQain
+[06:30:32] *** Joins capin4
+[06:30:32] *** Joins ihaveamac
+[15:28:13] *** Joins fgsfds
+[18:14:55] *** Joins refs
+[19:13:16] <plutobot> Wiki | Page changed: TSEC | User: Vale | https://switchbrew.org/w/index.php?curid=199&diff=9946&oldid=9937
+[20:13:05] <plutobot> Wiki | Page changed: TSEC | User: Vale | https://switchbrew.org/w/index.php?curid=199&diff=9947&oldid=9946
+[21:01:10] <plutobot> Wiki | Page changed: Product Information | User: Hexkyz | https://switchbrew.org/w/index.php?curid=384&diff=9948&oldid=9942
+[21:03:23] <plutobot> Wiki | Page changed: Product Information | User: Hexkyz | https://switchbrew.org/w/index.php?curid=384&diff=9949&oldid=9948
+[21:26:44] *** Quits averne (quit)
+[21:27:03] *** Joins averne
+[21:27:03] *** Server sets mode: +stn 
+[21:33:17] <plutobot> Wiki | Page changed: TSEC Firmware | User: Vale | https://switchbrew.org/w/index.php?curid=365&diff=9950&oldid=9910

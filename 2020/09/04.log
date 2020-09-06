@@ -1,0 +1,87 @@
+[00:00:51] *** Joins karolherb
+[00:02:38] *** Joins lameboy2
+[00:04:04] *** Joins zini
+[00:05:15] *** Joins Phils3r_
+[00:05:15] *** Quits zini- (Read error: Connection reset by peer)
+[00:05:15] *** Joins neonsea
+[00:05:15] *** Quits xx_ns (Write error: Connection reset by peer)
+[00:05:15] *** Quits Phils3r (Write error: Connection reset by peer)
+[00:05:15] *** Quits rctgamer3 (Read error: Connection reset by peer)
+[00:05:15] *** Quits Ghabry (Quit: while (!sleep) sheep++;)
+[00:05:15] *** Quits uyjulian (Read error: Connection reset by peer)
+[00:05:15] *** Joins uyjulian
+[00:05:15] *** Joins rctgamer3
+[00:08:46] *** Joins Ghabry
+[00:13:07] *** Quits lameboy (Ping timeout: 745 seconds)
+[00:13:08] *** lameboy2 is now known as lameboy
+[00:32:52] *** Quits GerbilSof (Quit: Windows must now restart because the Remote Procedure Call (RPC) service terminated unexpectedly.)
+[00:37:39] *** Joins GerbilSof
+[01:56:25] *** Joins changO-
+[02:18:30] *** Quits refs (Quit: refs)
+[02:32:40] <plutobot> Wiki | Page changed: Error codes | User: KiwiBird97 | https://switchbrew.org/w/index.php?curid=82&diff=9943&oldid=9768
+[05:17:26] *** Quits yls8bot (Read error: Operation timed out)
+[05:17:29] *** Quits mtheall_ (Write error: Broken pipe)
+[05:17:41] *** Joins mtheall
+[05:19:34] *** Quits zombie343 (Read error: Operation timed out)
+[05:19:44] *** Quits Lightswor (Read error: Operation timed out)
+[05:20:21] *** Quits Maylay_ (Read error: Operation timed out)
+[05:20:51] *** Quits Aaerox (Read error: Operation timed out)
+[05:21:26] *** Quits yellows8 (Read error: Operation timed out)
+[05:21:31] *** Quits Surkow (Read error: Operation timed out)
+[05:21:40] *** Quits Kyouju (Read error: Operation timed out)
+[05:21:56] *** Joins zombie343
+[05:22:15] *** Quits freundTec (Read error: Operation timed out)
+[05:22:19] *** Joins freundTec
+[05:23:40] *** Joins Maylay
+[05:23:40] *** Quits Maylay (Read error: Connection reset by peer)
+[05:27:49] *** Joins Maylay
+[05:31:46] *** Joins Surkow
+[06:01:12] *** Joins Aaerox
+[06:01:44] *** Joins Lightswor
+[06:01:57] *** Joins Kyouju
+[06:02:29] *** Joins yls8bot
+[06:04:32] *** Joins yellows8
+[06:04:32] *** WntrMute sets mode: +o yellows8
+[06:20:52] *** Quits fgsfds (Read error: Connection reset by peer)
+[06:28:16] *** Quits Lightswor (Read error: Operation timed out)
+[06:29:35] *** Quits yls8bot (Read error: Operation timed out)
+[06:32:52] *** Quits Aaerox (Read error: Operation timed out)
+[06:33:18] *** Quits yellows8 (Read error: Operation timed out)
+[06:33:58] *** Quits Kyouju (Read error: Operation timed out)
+[06:44:46] *** Joins Lightswor
+[06:44:50] *** Joins Aaerox
+[06:45:02] *** Joins yls8bot
+[06:45:20] *** Joins Kyouju
+[06:47:22] *** Quits yls8bot (Read error: Operation timed out)
+[06:50:28] *** Quits Kyouju (Read error: Operation timed out)
+[06:51:02] *** Quits Lightswor (Read error: Operation timed out)
+[06:51:33] *** Quits Aaerox (Read error: Operation timed out)
+[07:07:09] *** Joins Kyouju
+[07:07:11] *** Joins Aaerox
+[07:07:21] *** Joins Lightswor
+[07:09:11] *** Joins yellows8
+[07:09:11] *** WntrMute sets mode: +o yellows8
+[07:10:02] *** Joins yls8bot
+[07:10:06] *** yellows8 sets mode: +o yls8bot
+[09:51:05] *** Joins miigotu_
+[09:51:31] *** Quits miigotu (Read error: Operation timed out)
+[14:06:51] *** Quits CCFL_Man (Read error: Operation timed out)
+[15:01:03] *** Joins fgsfds
+[16:14:18] *** Joins changoXPR
+[16:14:44] *** Quits changO- (Ping timeout: 260 seconds)
+[16:14:44] *** changoXPR is now known as changO-
+[16:33:15] *** Joins foghorn3
+[16:39:53] *** Quits foghorn2 (Read error: Operation timed out)
+[17:49:47] <plutobot> Wiki | Page changed: Bluetooth Driver services | User: yls8 | https://switchbrew.org/w/index.php?curid=161&diff=9944&oldid=9938
+[17:55:55] <plutobot> Wiki | Page changed: Bluetooth Driver services | User: yls8 | https://switchbrew.org/w/index.php?curid=161&diff=9945&oldid=9944
+[18:00:08] <DoozerBot> yellows8 pushed to master: btdrv: Updated docs for BtdrvBluetoothPropertyType_Unknown3. "btdrv: Updated docs for BtdrvBluetoothPropertyType_Unknown3." [071 file modified], building targets: 02lib
+[18:04:16] <DoozerBot> 02lib: 03 v3.3.0.56 Build OK - https://doozer.io/build/2rztaq14fg
+[18:12:59] <plutobot> GitHub | New commit | User: yellows | https://github.com/switchbrew/libnx/commit/ab59dfb5bb
+[18:15:49] *** Joins eggy
+[18:25:12] *** Quits eggster (Ping timeout: 745 seconds)
+[19:20:19] *** Quits averne (quit)
+[19:21:58] *** Joins averne
+[19:21:58] *** Server sets mode: +stn 
+[21:22:21] *** Joins CCFL_Man
+[21:49:05] *** Quits TurtleP (Read error: Connection reset by peer)
+[21:49:11] *** Joins TurtleP
