@@ -1,0 +1,91 @@
+[00:11:04] *** Quits: GerbilSof (~GerbilSof@pool-108-24-138-55.cmdnnj.fios.verizon.net) (Ping timeout: 265 seconds)
+[01:53:46] *** Quits: DeusQain (~DeusQain@mx.qainsworld.com) (Remote host closed the connection)
+[02:05:15] <yls8bot> https://yls8.mtheall.com/ninupdates/reports.php?date=2020-09-15_00-05-05&sys=hac 
+[02:05:24] <yls8bot> Update-details for the following hac report is now available/updated: https://yls8.mtheall.com/ninupdates/reports.php?date=2020-09-15_00-05-05&sys=hac 
+[02:12:24] <yls8bot> Sysmodule SwIPC-generation .info files for the following hac report is now available/updated: https://yls8.mtheall.com/ninupdates/reports.php?date=2020-09-15_00-05-05&sys=hac 
+[02:15:09] <plutobot> Wiki | Page changed: News | User: Yls8bot | https://switchbrew.org/w/index.php?curid=41&diff=9959&oldid=9822
+[02:15:19] <plutobot> Wiki | Page changed: FirmwareNews | User: Yls8bot | https://switchbrew.org/w/index.php?curid=43&diff=9963&oldid=9826
+[02:15:20] <plutobot> Wiki | New page: 10.2.0 | User: Yls8bot | https://switchbrew.org/w/index.php?curid=418
+[02:15:20] <plutobot> Wiki | Page changed: Template:NavboxVersions | User: Yls8bot | https://switchbrew.org/w/index.php?curid=183&diff=9961&oldid=9824
+[02:16:39] *** Joins: DeusQain (quasselcor@mx.qainsworld.com)
+[02:44:59] *** Quits: refs (~refs@p200300dd870f0600ac8f0565352397aa.dip0.t-ipconnect.de) (Quit: refs)
+[02:46:30] <CCFL_Man> 10.2.0 released. anything that might be required to support 3d all stars?
+[03:01:23] <plutobot> Wiki | Page changed: Title list | User: Zachycatgames | https://switchbrew.org/w/index.php?curid=84&diff=9964&oldid=9817
+[04:33:59] *** Quits: d3m3vilur (sid4654@id-4654.charlton.irccloud.com) (Read error: Operation timed out)
+[04:34:15] *** Joins: d3m3vilur (sid4654@id-4654.charlton.irccloud.com)
+[05:06:23] <plutobot> Wiki | Page changed: Shared Database services | User: yls8 | https://switchbrew.org/w/index.php?curid=210&diff=9965&oldid=9273
+[05:10:08] <plutobot> Wiki | Page changed: System Versions | User: yls8 | https://switchbrew.org/w/index.php?curid=105&diff=9966&oldid=9829
+[05:12:51] <plutobot> Wiki | Page changed: System Version Title | User: yls8 | https://switchbrew.org/w/index.php?curid=116&diff=9967&oldid=9828
+[05:30:52] <plutobot> Wiki | Page changed: 10.2.0 | User: yls8 | https://switchbrew.org/w/index.php?curid=418&diff=9968&oldid=9962
+[05:32:24] <plutobot> Wiki | Page changed: 10.2.0 | User: yls8 | https://switchbrew.org/w/index.php?curid=418&diff=9969&oldid=9968
+[06:03:21] *** Joins: foghorn2 (~meh@2600:1700:8af0:a950:84a1:3fe0:c102:3f56)
+[06:08:52] *** Quits: averne_ (~averne@176-179-35-51.abo.bbox.fr) (quit)
+[06:11:16] *** Joins: averne (~averne@176-179-35-51.abo.bbox.fr)
+[06:12:31] *** Server sets mode: +stn 
+[06:57:50] *** Quits: fgsfds (~figgis@93.123.144.171) (Read error: Connection reset by peer)
+[07:52:53] *** Joins: GerbilSof (~GerbilSof@pool-108-24-138-55.cmdnnj.fios.verizon.net)
+[11:21:44] *** Quits: DoozerBot (~DoozerBot@89.7.232.35.bc.googleusercontent.com) (Remote host closed the connection)
+[13:14:03] *** Quits: uyjulian (~uyjulian@69-110-38-205.lightspeed.lbcktx.sbcglobal.net) (Quit: ZNC - http://znc.in)
+[13:14:30] *** Joins: uyjulian (~uyjulian@69-110-38-205.lightspeed.lbcktx.sbcglobal.net)
+[14:15:01] *** Joins: flotwig (~flotwig@136.55.47.176)
+[15:13:34] *** Joins: changoXPR (~Changolan@ip72-194-70-236.oc.oc.cox.net)
+[15:15:28] *** Joins: TAL (~TAL@defiant.tlercher.de)
+[15:16:52] *** Quits: phigcloud (uid13896@2001:67c:2f08:4::3648) (Ping timeout: 265 seconds)
+[15:16:52] *** Quits: Stary (~Stary@thonk.9net.org) (Ping timeout: 265 seconds)
+[15:16:52] *** Quits: TAL_ (~TAL@defiant.tlercher.de) (Ping timeout: 265 seconds)
+[15:16:52] *** Quits: changO- (~Changolan@ip72-194-70-236.oc.oc.cox.net) (Ping timeout: 265 seconds)
+[15:16:52] *** Quits: mats (~mats@176.125.235.106) (Ping timeout: 265 seconds)
+[15:16:52] *** changoXPR is now known as changO-
+[15:17:00] *** Joins: mats (~mats@176.125.235.106)
+[15:17:02] *** Joins: phigcloud (uid13896@192.184.10.9)
+[15:18:03] *** Joins: Stary (~Stary@thonk.9net.org)
+[16:00:19] *** Quits: mats (~mats@176.125.235.106) (se.hub irc.underworld.no)
+[16:00:27] *** Quits: phigcloud (uid13896@192.184.10.9) (se.hub irc.underworld.no)
+[16:08:17] *** Joins: mats (~mats@s176125235106.blix.com)
+[16:08:24] *** Joins: phigcloud (uid13896@192.184.10.9)
+[16:10:28] *** Joins: changoXPR (~Changolan@ip72-194-70-236.oc.oc.cox.net)
+[16:12:23] *** Quits: changO- (~Changolan@ip72-194-70-236.oc.oc.cox.net) (Ping timeout: 272 seconds)
+[16:12:23] *** Quits: DacoTaco (~DacoTaco@178-119-112-131.access.telenet.be) (Ping timeout: 272 seconds)
+[16:12:23] *** changoXPR is now known as changO-
+[16:13:01] *** Quits: plutobot (~plutobot@188.166.26.149) (Ping timeout: 272 seconds)
+[16:13:39] *** Quits: GerbilSof (~GerbilSof@pool-108-24-138-55.cmdnnj.fios.verizon.net) (Ping timeout: 272 seconds)
+[16:14:01] *** Joins: GerbilSof (~GerbilSof@pool-108-24-138-55.cmdnnj.fios.verizon.net)
+[16:14:17] *** Quits: Stary (~Stary@thonk.9net.org) (Ping timeout: 272 seconds)
+[16:14:17] *** Quits: oldtopman (~oldtopman@97-118-95-21.hlrn.qwest.net) (Ping timeout: 272 seconds)
+[16:15:35] *** Joins: Stary (~Stary@thonk.9net.org)
+[16:29:15] *** Joins: oldtopman (~oldtopman@97-118-95-21.hlrn.qwest.net)
+[16:59:14] *** Quits: oldtopman (~oldtopman@97-118-95-21.hlrn.qwest.net) (hub.efnet.us irc.Prison.NET)
+[17:16:31] *** Joins: plutobot (~plutobot@188.166.26.149)
+[17:18:07] *** Joins: DacoTaco (~DacoTaco@178-119-112-131.access.telenet.be)
+[17:26:53] *** Joins: fgsfds (~figgis@93.123.144.171)
+[17:36:20] *** Joins: m4tsa (~mats@s17612523596.blix.com)
+[17:37:58] *** Quits: mats (~mats@s176125235106.blix.com) (Ping timeout: 265 seconds)
+[18:32:41] <plutobot> Wiki | Page changed: Shared Database services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=210&diff=9970&oldid=9965
+[18:58:08] *** Joins: derk0pf (~derk0pf@24.121.113.82.net.de.o2.com)
+[18:58:51] <plutobot> Wiki | Page changed: Filesystem services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=87&diff=9971&oldid=9807
+[20:18:18] *** Quits: derk0pf (~derk0pf@24.121.113.82.net.de.o2.com) (Read error: Connection reset by peer)
+[20:48:40] *** Joins: omlet05_ (~quassel@omlet.ovh)
+[20:48:40] *** Quits: omlet05 (~quassel@omlet.ovh) (Read error: Connection reset by peer)
+[20:50:01] *** Quits: tpw_rules (~tpw_rules@li1059-135.members.linode.com) (Read error: Operation timed out)
+[20:50:06] *** Quits: b0nez (b0nez@162.248.221.94) (Read error: Operation timed out)
+[20:50:10] *** Quits: fincs (~fincs@bnc.devkitpro.org) (Read error: Operation timed out)
+[20:50:16] *** Joins: tpw_rules (~tpw_rules@li1059-135.members.linode.com)
+[20:50:18] *** Joins: fincs (~fincs@bnc.devkitpro.org)
+[20:50:20] *** yls8bot sets mode: +o fincs
+[20:50:27] *** Quits: zombie343 (zombie343@pool-74-108-60-233.nycmny.fios.verizon.net) (Read error: Operation timed out)
+[20:50:36] *** Joins: zombie343 (zombie343@74.108.60.233)
+[20:50:41] *** Quits: WntrMute (~wntrmute@bnc.devkitpro.org) (Read error: Operation timed out)
+[20:51:05] *** Quits: AlexAltea (~alexaltea@phi.nz) (Ping timeout: 260 seconds)
+[20:51:19] *** Quits: Jdbye (~furry4lif@me.jdbye.com) (Read error: Operation timed out)
+[20:51:33] *** Joins: oldtopman (~oldtopman@97-118-95-21.hlrn.qwest.net)
+[20:52:00] *** Joins: balrog_ (~balrog@pool-98-115-168-15.phlapa.fios.verizon.net)
+[20:52:52] *** Joins: b0nez (b0nez@162.248.221.94)
+[20:53:02] *** Joins: WntrMute (~wntrmute@bnc.devkitpro.org)
+[20:53:02] *** fincs sets mode: +o WntrMute
+[20:56:13] *** Quits: balrog (~balrog@pool-98-115-168-15.phlapa.fios.verizon.net) (Ping timeout: 492 seconds)
+[20:56:14] *** balrog_ is now known as balrog
+[20:58:20] *** Joins: refs (~refs@p200300dd871780007c34a9984ba4f15e.dip0.t-ipconnect.de)
+[20:59:31] *** Joins: AlexAltea (~alexaltea@62.210.122.193)
+[21:07:39] *** Joins: Jdbye (~furry4lif@me.jdbye.com)
+[23:02:31] *** Quits: nullstrin (~nullstrin@cermak.nullstring.io) (Read error: Operation timed out)
+[23:06:18] *** Joins: nullstrin (~nullstrin@cermak.nullstring.io)
