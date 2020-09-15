@@ -1,0 +1,54 @@
+[00:49:03] *** Joins miigotu
+[00:53:56] <DoozerBot> yellows8 pushed to master: Added uart. "Added uart." [032 files added07, 1 file modified], building targets: 02lib
+[00:53:58] <plutobot> GitHub | New commit | User: yellows | https://github.com/switchbrew/libnx/commit/f01fb21da5
+[00:54:25] *** Joins rajkosto
+[00:57:52] <DoozerBot> 02lib: 03 v3.3.0.57 Build OK - https://doozer.io/build/k4511kwgy1
+[01:44:00] *** Quits phigcloud (Quit: Connection closed for inactivity)
+[01:50:42] *** Joins phigcloud
+[03:12:24] *** Quits nullstrin (Read error: Operation timed out)
+[03:16:11] *** Joins nullstrin
+[03:43:16] *** Joins lansiir
+[03:53:31] *** Quits plutobot (Ping timeout: 272 seconds)
+[03:54:09] *** Quits DacoTaco (Ping timeout: 272 seconds)
+[03:54:47] *** Quits lansiir (Ping timeout: 272 seconds)
+[03:55:25] *** Quits ris2z (Ping timeout: 272 seconds)
+[04:10:03] *** Joins oldtopman
+[04:37:33] *** Joins ris2z
+[04:37:54] *** Joins plutobot
+[04:37:54] *** Joins DacoTaco
+[05:38:32] *** Quits rajkosto (Read error: Connection reset by peer)
+[05:56:48] *** Quits fgsfds (Read error: Connection reset by peer)
+[08:01:24] *** Quits nullstrin (Read error: Operation timed out)
+[08:05:11] *** Joins nullstrin
+[08:40:55] *** Quits endrift (Read error: Operation timed out)
+[08:41:19] *** Quits b0nez (Read error: Operation timed out)
+[08:41:31] *** Joins b0nez
+[08:48:12] *** Joins endrift
+[12:40:16] *** Quits d3m3vilur (Read error: Operation timed out)
+[12:40:43] *** Joins d3m3vilur
+[13:04:59] *** Quits oldtopman (Read error: Operation timed out)
+[13:09:20] *** Joins oldtopman
+[13:33:20] *** Joins refs
+[16:35:19] *** Joins fgsfds
+[17:28:42] *** Quits lameboy (Read error: Connection reset by peer)
+[17:31:02] *** Joins lameboy
+[18:25:33] *** eggy is now known as eggster
+[21:05:51] *** Quits plutobot (Ping timeout: 272 seconds)
+[21:07:10] *** Quits ris2z (Ping timeout: 272 seconds)
+[21:07:45] *** Quits oldtopman (Ping timeout: 272 seconds)
+[21:07:45] *** Quits DacoTaco (Ping timeout: 272 seconds)
+[21:23:30] *** Joins oldtopman
+[21:42:31] *** Quits averne_ (quit)
+[21:54:55] *** Joins averne
+[21:54:55] *** Server sets mode: +stn 
+[21:56:07] *** Quits hordak (Ping timeout: 610 seconds)
+[21:56:07] *** hordak_ is now known as hordak
+[21:56:35] *** Joins Maylay
+[22:00:05] *** Joins ris2z
+[22:10:14] *** Joins plutobot
+[22:10:29] *** Joins DacoTaco
+[22:34:51] *** Quits oldtopman (Read error: Operation timed out)
+[22:38:32] *** Joins oldtopman
+[23:28:50] *** Quits Galaxy| (Quit: Quit.)
+[23:54:32] *** Quits GerbilSof (Windows must now restart because the Remote Procedure Call (RPC) service terminated unexpectedly.)
+[23:57:25] *** Joins Galaxy|

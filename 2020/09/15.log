@@ -1,0 +1,91 @@
+[00:11:04] *** Quits GerbilSof (Ping timeout: 265 seconds)
+[01:53:46] *** Quits DeusQain (Remote host closed the connection)
+[02:05:15] <yls8bot> https://yls8.mtheall.com/ninupdates/reports.php?date=2020-09-15_00-05-05&sys=hac 
+[02:05:24] <yls8bot> Update-details for the following hac report is now available/updated: https://yls8.mtheall.com/ninupdates/reports.php?date=2020-09-15_00-05-05&sys=hac 
+[02:12:24] <yls8bot> Sysmodule SwIPC-generation .info files for the following hac report is now available/updated: https://yls8.mtheall.com/ninupdates/reports.php?date=2020-09-15_00-05-05&sys=hac 
+[02:15:09] <plutobot> Wiki | Page changed: News | User: Yls8bot | https://switchbrew.org/w/index.php?curid=41&diff=9959&oldid=9822
+[02:15:19] <plutobot> Wiki | Page changed: FirmwareNews | User: Yls8bot | https://switchbrew.org/w/index.php?curid=43&diff=9963&oldid=9826
+[02:15:20] <plutobot> Wiki | New page: 10.2.0 | User: Yls8bot | https://switchbrew.org/w/index.php?curid=418
+[02:15:20] <plutobot> Wiki | Page changed: Template:NavboxVersions | User: Yls8bot | https://switchbrew.org/w/index.php?curid=183&diff=9961&oldid=9824
+[02:16:39] *** Joins DeusQain
+[02:44:59] *** Quits refs (Quit: refs)
+[02:46:30] <CCFL_Man> 10.2.0 released. anything that might be required to support 3d all stars?
+[03:01:23] <plutobot> Wiki | Page changed: Title list | User: Zachycatgames | https://switchbrew.org/w/index.php?curid=84&diff=9964&oldid=9817
+[04:33:59] *** Quits d3m3vilur (Read error: Operation timed out)
+[04:34:15] *** Joins d3m3vilur
+[05:06:23] <plutobot> Wiki | Page changed: Shared Database services | User: yls8 | https://switchbrew.org/w/index.php?curid=210&diff=9965&oldid=9273
+[05:10:08] <plutobot> Wiki | Page changed: System Versions | User: yls8 | https://switchbrew.org/w/index.php?curid=105&diff=9966&oldid=9829
+[05:12:51] <plutobot> Wiki | Page changed: System Version Title | User: yls8 | https://switchbrew.org/w/index.php?curid=116&diff=9967&oldid=9828
+[05:30:52] <plutobot> Wiki | Page changed: 10.2.0 | User: yls8 | https://switchbrew.org/w/index.php?curid=418&diff=9968&oldid=9962
+[05:32:24] <plutobot> Wiki | Page changed: 10.2.0 | User: yls8 | https://switchbrew.org/w/index.php?curid=418&diff=9969&oldid=9968
+[06:03:21] *** Joins foghorn2
+[06:08:52] *** Quits averne_ (quit)
+[06:11:16] *** Joins averne
+[06:12:31] *** Server sets mode: +stn 
+[06:57:50] *** Quits fgsfds (Read error: Connection reset by peer)
+[07:52:53] *** Joins GerbilSof
+[11:21:44] *** Quits DoozerBot (Remote host closed the connection)
+[13:14:03] *** Quits uyjulian (Quit: ZNC - http://znc.in)
+[13:14:30] *** Joins uyjulian
+[14:15:01] *** Joins flotwig
+[15:13:34] *** Joins changoXPR
+[15:15:28] *** Joins TAL
+[15:16:52] *** Quits phigcloud (Ping timeout: 265 seconds)
+[15:16:52] *** Quits Stary (Ping timeout: 265 seconds)
+[15:16:52] *** Quits TAL_ (Ping timeout: 265 seconds)
+[15:16:52] *** Quits changO- (Ping timeout: 265 seconds)
+[15:16:52] *** Quits mats (Ping timeout: 265 seconds)
+[15:16:52] *** changoXPR is now known as changO-
+[15:17:00] *** Joins mats
+[15:17:02] *** Joins phigcloud
+[15:18:03] *** Joins Stary
+[16:00:19] *** Quits mats (se.hub irc.underworld.no)
+[16:00:27] *** Quits phigcloud (se.hub irc.underworld.no)
+[16:08:17] *** Joins mats
+[16:08:24] *** Joins phigcloud
+[16:10:28] *** Joins changoXPR
+[16:12:23] *** Quits changO- (Ping timeout: 272 seconds)
+[16:12:23] *** Quits DacoTaco (Ping timeout: 272 seconds)
+[16:12:23] *** changoXPR is now known as changO-
+[16:13:01] *** Quits plutobot (Ping timeout: 272 seconds)
+[16:13:39] *** Quits GerbilSof (Ping timeout: 272 seconds)
+[16:14:01] *** Joins GerbilSof
+[16:14:17] *** Quits Stary (Ping timeout: 272 seconds)
+[16:14:17] *** Quits oldtopman (Ping timeout: 272 seconds)
+[16:15:35] *** Joins Stary
+[16:29:15] *** Joins oldtopman
+[16:59:14] *** Quits oldtopman (hub.efnet.us irc.Prison.NET)
+[17:16:31] *** Joins plutobot
+[17:18:07] *** Joins DacoTaco
+[17:26:53] *** Joins fgsfds
+[17:36:20] *** Joins m4tsa
+[17:37:58] *** Quits mats (Ping timeout: 265 seconds)
+[18:32:41] <plutobot> Wiki | Page changed: Shared Database services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=210&diff=9970&oldid=9965
+[18:58:08] *** Joins derk0pf
+[18:58:51] <plutobot> Wiki | Page changed: Filesystem services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=87&diff=9971&oldid=9807
+[20:18:18] *** Quits derk0pf (Read error: Connection reset by peer)
+[20:48:40] *** Joins omlet05_
+[20:48:40] *** Quits omlet05 (Read error: Connection reset by peer)
+[20:50:01] *** Quits tpw_rules (Read error: Operation timed out)
+[20:50:06] *** Quits b0nez (Read error: Operation timed out)
+[20:50:10] *** Quits fincs (Read error: Operation timed out)
+[20:50:16] *** Joins tpw_rules
+[20:50:18] *** Joins fincs
+[20:50:20] *** yls8bot sets mode: +o fincs
+[20:50:27] *** Quits zombie343 (Read error: Operation timed out)
+[20:50:36] *** Joins zombie343
+[20:50:41] *** Quits WntrMute (Read error: Operation timed out)
+[20:51:05] *** Quits AlexAltea (Ping timeout: 260 seconds)
+[20:51:19] *** Quits Jdbye (Read error: Operation timed out)
+[20:51:33] *** Joins oldtopman
+[20:52:00] *** Joins balrog_
+[20:52:52] *** Joins b0nez
+[20:53:02] *** Joins WntrMute
+[20:53:02] *** fincs sets mode: +o WntrMute
+[20:56:13] *** Quits balrog (Ping timeout: 492 seconds)
+[20:56:14] *** balrog_ is now known as balrog
+[20:58:20] *** Joins refs
+[20:59:31] *** Joins AlexAltea
+[21:07:39] *** Joins Jdbye
+[23:02:31] *** Quits nullstrin (Read error: Operation timed out)
+[23:06:18] *** Joins nullstrin

@@ -1,0 +1,82 @@
+[00:00:19] *** Joins figgis_
+[00:01:12] *** Quits miigotu (Read error: Operation timed out)
+[00:01:39] *** Quits nullstrin (Read error: Operation timed out)
+[00:01:53] *** Quits endrift (Read error: Operation timed out)
+[00:02:15] *** Quits awordnot (Read error: Operation timed out)
+[00:02:28] *** Joins endrift
+[00:02:34] *** Joins hordak_
+[00:02:35] *** Joins miigotu
+[00:03:13] *** Joins awordnot
+[00:03:28] *** Joins TAL_
+[00:03:53] *** Quits |Shadow| (Read error: Operation timed out)
+[00:05:02] *** Joins |Shadow|
+[00:05:25] *** Quits hordak (Read error: Operation timed out)
+[00:05:25] *** hordak_ is now known as hordak
+[00:06:43] *** Joins nullstrin
+[00:08:04] *** Quits fgsfds (Read error: Operation timed out)
+[00:08:10] *** Joins MasterGK
+[00:10:33] *** Joins sh0e-
+[00:11:25] *** Joins Jbdye
+[00:11:32] *** Quits Ghabry (Ping timeout: 745 seconds)
+[00:12:07] *** Quits sh0e (Ping timeout: 745 seconds)
+[00:12:07] *** Quits dibas (Ping timeout: 745 seconds)
+[00:12:08] *** Quits coriolis (Ping timeout: 745 seconds)
+[00:12:08] *** Quits nrq_ (Ping timeout: 745 seconds)
+[00:12:08] *** Quits Jdbye (Ping timeout: 745 seconds)
+[00:12:09] *** Jbdye is now known as Jdbye
+[00:12:46] *** Quits hthh (Ping timeout: 745 seconds)
+[00:13:17] *** Quits TAL (Ping timeout: 745 seconds)
+[00:15:45] *** Joins nrq
+[00:17:28] *** Joins coriolis
+[00:18:52] *** Joins GerbilSof
+[01:03:01] *** Quits oldtopman (Quit: *poof*)
+[01:03:24] *** Joins oldtopman
+[02:14:59] *** Joins dibas
+[02:16:35] *** Joins hthh
+[02:22:00] *** Joins TheLat
+[02:22:40] <TheLat> Is there a standard way for doing high-precision timers on the Switch?  I found this, but I would like to do this correctly:
+[02:22:55] <TheLat> u64 elapsed = armGetSystemTick() - s_startTicks;
+[02:23:00] <TheLat> return (elapsed * 625 / 12) / 1000000000.0;
+[02:23:11] <TheLat> This appears to work correctly.
+[04:21:56] *** Quits refs (Quit: refs)
+[04:41:51] *** Quits TheLat (Ping timeout: 252 seconds)
+[04:47:38] <endrift> er
+[04:47:42] <endrift> he's gone now but
+[04:47:58] <endrift> it would probably be better to simplify that by doing return elapsed / 19200000.0;
+[04:48:09] <endrift> you won't lose precision as badly that way
+[04:48:31] <endrift> what is that value, anyway? 19.2 MHz?
+[04:48:36] <endrift> Is that some base clock?
+[05:02:00] *** Quits figgis_ (Read error: Connection reset by peer)
+[05:41:20] *** Quits GerbilSof (Windows must now restart because the Remote Procedure Call (RPC) service terminated unexpectedly.)
+[05:41:49] *** Joins GerbilSof
+[06:15:21] *** Joins TheLat
+[07:10:27] *** Quits TheLat (Ping timeout: 252 seconds)
+[08:24:58] *** Quits averne (quit)
+[08:25:17] *** Joins averne_
+[08:25:17] *** Quits averne (Read error: Connection reset by peer)
+[08:25:17] *** Server sets mode: +stn 
+[08:26:36] *** Quits klanc (Read error: Operation timed out)
+[08:28:39] *** Quits blasty (Read error: Connection reset by peer)
+[08:29:31] *** Quits d3m3vilur (Read error: Operation timed out)
+[08:55:26] *** Joins d3m3vilur
+[08:58:34] *** Joins blasty
+[09:17:30] *** Quits lex1 (Read error: Connection reset by peer)
+[09:17:35] *** Joins lex2
+[09:17:39] *** lex2 is now known as lex1
+[09:31:36] *** Quits blasty (Read error: Connection reset by peer)
+[09:34:41] *** Quits lex1 (Read error: Operation timed out)
+[09:51:08] *** Quits d3m3vilur (Read error: Connection reset by peer)
+[09:55:22] *** Joins d3m3vilur
+[09:59:17] *** Joins blasty
+[10:01:50] *** Joins lex1
+[11:43:56] *** Joins foghorn3
+[11:45:35] *** Joins flagrama
+[11:46:11] *** Quits nohit (Ping timeout: 272 seconds)
+[11:46:15] *** Joins nohit
+[11:50:21] *** Quits foghorn2 (Read error: Operation timed out)
+[17:33:19] *** Joins GerbilS2
+[17:33:19] *** Quits GerbilSof (Read error: Connection reset by peer)
+[18:22:22] *** Joins fgsfds
+[21:36:29] *** Joins refs
+[22:03:09] *** Quits GerbilS2 (Quit: Windows must now restart because the Remote Procedure Call (RPC) service terminated unexpectedly.)
+[22:05:44] *** Joins GerbilSof
