@@ -1,0 +1,99 @@
+[00:15:52] *** Joins TheLat
+[00:16:18] <TheLat> Is there any advice for debugging an OpenGL program that you're trying to port to the Switch?
+[00:22:13] *** Quits GerbilSof (Ping timeout: 492 seconds)
+[00:30:52] *** Joins GerbilSof
+[00:33:52] <uyjulian> try debugging it on Linux first. RenderDoc works there
+[00:38:27] * TheLat looks up some stuff
+[00:38:42] <TheLat> I am a Windows guy, but I have already ported this to OSX.
+[01:17:01] *** Quits nullstrin (Read error: Operation timed out)
+[01:20:46] *** Joins nullstrin
+[02:10:37] *** Joins GrecKo
+[02:14:07] *** Quits GrecKo (Client Quit)
+[02:22:38] *** Quits refs (Quit: refs)
+[02:26:54] *** Joins GrecKo
+[02:53:03] *** Quits TheLat (Ping timeout: 252 seconds)
+[03:34:39] *** Quits miigotu (Quit: ZNC - https://znc.in)
+[03:36:52] *** Joins miigotu
+[04:08:11] *** Joins changO-
+[04:27:50] *** Quits averne (quit)
+[04:29:38] *** Joins averne
+[04:29:38] *** Server sets mode: +stn 
+[07:17:59] *** Quits ihaveamac (ny.us.hub ircd.choopa.net)
+[07:17:59] *** Quits Cu3PO42 (ny.us.hub ircd.choopa.net)
+[07:17:59] *** Quits Genolo (ny.us.hub ircd.choopa.net)
+[07:17:59] *** Quits gruetzkop (ny.us.hub ircd.choopa.net)
+[07:17:59] *** Quits klock (ny.us.hub ircd.choopa.net)
+[07:17:59] *** Quits capin4 (ny.us.hub ircd.choopa.net)
+[07:17:59] *** Quits changO- (ny.us.hub ircd.choopa.net)
+[07:17:59] *** Quits Surkow (ny.us.hub ircd.choopa.net)
+[07:17:59] *** Quits giglife (ny.us.hub ircd.choopa.net)
+[07:17:59] *** Quits sh0e- (ny.us.hub ircd.choopa.net)
+[07:17:59] *** Quits Maylay (ny.us.hub ircd.choopa.net)
+[07:17:59] *** Quits eggster (ny.us.hub ircd.choopa.net)
+[07:17:59] *** Quits freundTec (ny.us.hub ircd.choopa.net)
+[07:17:59] *** Quits mtheall (ny.us.hub ircd.choopa.net)
+[07:17:59] *** Quits datagutt (ny.us.hub ircd.choopa.net)
+[07:17:59] *** Quits TurtleP (ny.us.hub ircd.choopa.net)
+[07:17:59] *** Quits yls8bot (ny.us.hub ircd.choopa.net)
+[07:17:59] *** Quits yellows8 (ny.us.hub ircd.choopa.net)
+[07:17:59] *** Quits Lightswor (ny.us.hub ircd.choopa.net)
+[07:17:59] *** Quits Aaerox (ny.us.hub ircd.choopa.net)
+[07:17:59] *** Quits Kyouju (ny.us.hub ircd.choopa.net)
+[07:17:59] *** Quits nullstrin (ny.us.hub ircd.choopa.net)
+[07:17:59] *** Quits fgsfds (ny.us.hub ircd.choopa.net)
+[07:17:59] *** Quits awordnot (ny.us.hub ircd.choopa.net)
+[07:17:59] *** Quits |Shadow| (ny.us.hub ircd.choopa.net)
+[07:17:59] *** Quits endrift (ny.us.hub ircd.choopa.net)
+[07:17:59] *** Quits j0hny5 (ny.us.hub ircd.choopa.net)
+[07:17:59] *** Quits tpw_rules (ny.us.hub ircd.choopa.net)
+[07:17:59] *** Quits hordak (ny.us.hub ircd.choopa.net)
+[07:18:57] *** Joins changO-
+[07:18:57] *** Joins nullstrin
+[07:18:57] *** Joins Surkow
+[07:18:57] *** Joins ihaveamac
+[07:18:57] *** Joins fgsfds
+[07:18:57] *** Joins awordnot
+[07:18:57] *** Joins |Shadow|
+[07:18:57] *** Joins endrift
+[07:18:57] *** Joins j0hny5
+[07:18:57] *** Joins giglife
+[07:18:57] *** Joins tpw_rules
+[07:18:57] *** Joins sh0e-
+[07:18:57] *** Joins hordak
+[07:18:57] *** Joins Maylay
+[07:18:57] *** Joins eggster
+[07:18:57] *** Joins freundTec
+[07:18:57] *** Joins capin4
+[07:18:57] *** Joins klock
+[07:18:57] *** Joins gruetzkop
+[07:18:57] *** Joins Genolo
+[07:18:57] *** Joins Cu3PO42
+[07:18:57] *** Joins mtheall
+[07:18:57] *** Joins datagutt
+[07:18:57] *** Joins TurtleP
+[07:18:57] *** Joins Lightswor
+[07:18:58] *** Joins Aaerox
+[07:18:58] *** Joins Kyouju
+[07:18:58] *** Joins yls8bot
+[07:18:58] *** Joins yellows8
+[07:18:58] *** ircd.choopa.net sets mode: +oo yls8bot yellows8
+[07:18:59] *** yls8bot sets mode: +o WntrMute
+[07:19:03] *** yls8bot sets mode: +o fincs
+[08:08:48] *** Quits changO- (Read error: Operation timed out)
+[08:14:51] *** Joins changO-
+[08:20:37] *** Quits naehrwert (Ping timeout: 745 seconds)
+[08:21:16] *** Joins naehrwert
+[09:45:27] *** Quits fgsfds (Read error: Connection reset by peer)
+[16:44:51] *** Joins fgsfds
+[17:38:30] *** Joins rajkosto
+[18:02:47] *** Quits changO- (Ping timeout: 745 seconds)
+[20:40:58] *** Quits karolherb (Quit: Konversation terminated!)
+[20:43:22] *** Joins karolherb
+[20:55:30] *** Joins refs
+[21:04:58] *** Quits carsten1 (Remote host closed the connection)
+[21:05:13] *** Quits derrek (Quit: This should have not happened.)
+[22:53:37] *** Quits rajkosto (Read error: Connection reset by peer)
+[23:01:42] *** Quits karolherb (Ping timeout: 272 seconds)
+[23:42:14] <plutobot> GitHub | New PR: Support autom... | User: SciresM | https://github.com/switchbrew/nx-hbloader/pull/32
+[23:50:03] <plutobot> GitHub | New commit | User: Michael Scire | https://github.com/switchbrew/nx-hbloader/commit/7caa177353
+[23:54:08] *** Joins derrek
