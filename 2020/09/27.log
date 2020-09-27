@@ -1,0 +1,66 @@
+[01:04:32] *** Quits changO- (Read error: Connection reset by peer)
+[01:25:09] *** Joins changO-
+[01:25:31] *** Quits changO- (Read error: Connection reset by peer)
+[01:26:04] *** Joins changO-
+[03:44:59] *** Joins anewuser
+[04:03:27] *** Quits fgsfds (Read error: Connection reset by peer)
+[04:11:44] *** Quits anewuser (Remote host closed the connection)
+[04:47:00] *** Quits refs (Quit: refs)
+[09:38:50] *** Joins miigotu_
+[09:40:34] *** Quits miigotu (Ping timeout: 265 seconds)
+[09:46:19] *** Quits rjeli___ (Read error: Connection reset by peer)
+[09:52:11] *** Joins rjeli___
+[11:10:23] *** Joins DoozerBot
+[11:10:23] <DoozerBot> PR-#496: psm: Add more battery functions, building targets: 02lib
+[11:12:04] <DoozerBot> 02lib: 03 v3.3.0.58 Build OK - https://doozer.io/build/785ktddoib
+[11:29:16] <plutobot> GitHub | New PR: psm Add more ... | User: endrift | https://github.com/switchbrew/libnx/pull/496
+[12:10:46] *** Quits d3m3vilur (Read error: Connection reset by peer)
+[12:11:21] *** Joins d3m3vilur
+[13:23:21] *** Joins lilibox
+[13:24:50] *** Joins refs
+[13:26:37] <lilibox> are libnx related questions allowed here? anybody equivalent to fincs who is willing answer me why simplegfx sample doesn't work in 1920x1080 mode?
+[15:58:33] *** Joins refs`
+[15:59:35] *** Quits refs (Ping timeout: 272 seconds)
+[16:00:13] *** Quits plutobot (Ping timeout: 272 seconds)
+[16:00:51] *** Quits DacoTaco (Ping timeout: 272 seconds)
+[16:01:29] *** Quits Stary_ (Ping timeout: 272 seconds)
+[16:01:29] *** Quits des^ (Ping timeout: 272 seconds)
+[16:02:20] *** Joins Stary
+[16:32:44] *** Joins jason0597
+[17:08:39] *** Joins plutobot
+[17:09:09] *** Joins DacoTaco
+[17:09:21] *** Joins des^
+[17:27:55] *** Quits jason0597 (Read error: Operation timed out)
+[18:14:38] <yellows8> lilibox: "doesn't work" what
+[18:20:47] *** Joins anewuser
+[18:28:13] *** Quits anewuser (Ping timeout: 260 seconds)
+[18:39:21] *** Joins anewuser
+[18:40:03] <lilibox> i tried simplegfx example with my own picture, 1280x720 worked fine, 1920x1080 displayed just 2/3 imag correct, rest was some kind of mess
+[18:44:47] <lilibox> images format: Photoshop raw, no transparency, no header Interleaved Order, just RGB channels
+[19:04:46] *** Quits anewuser (Quit: anewuser)
+[19:15:17] *** Quits DacoTaco (Ping timeout: 272 seconds)
+[19:15:55] *** Quits des^ (Ping timeout: 272 seconds)
+[19:16:33] *** Quits plutobot (Ping timeout: 272 seconds)
+[19:17:25] <yellows8> what's the filesize of your exported image?
+[19:41:46] *** Joins jason0597
+[20:07:44] *** Quits jason0597 (Quit: Leaving)
+[20:10:30] <lilibox> 6220800B
+[20:23:59] <yellows8> dunno, must be your image somehow *shrug*
+[20:26:41] <lilibox> is it bad size?
+[20:29:32] <yellows8> no (assuming 'B' is a typo)
+[20:43:04] <lilibox> i meant B stands for Byte
+[21:05:06] <DoozerBot> PR-#496: psm: Add more battery functions, building targets: 02lib
+[21:08:34] <DoozerBot> 02lib: 03 v3.3.0.58 Build OK - https://doozer.io/build/2e2wpsrxg5
+[21:12:00] *** Joins plutobot
+[21:12:09] *** Joins DacoTaco
+[21:13:50] *** Joins des^
+[21:19:20] <lilibox> yellows8: if everything is ok at your side, could you send me your simplegfx folder, includes original image image, image.bin and .nro? i tried reexport my picture in gimp and i got same result :(
+[21:21:26] <lilibox> dunno what is wrong, at mine side move 4 slashes in main.c shouldn't be so hard :)
+[21:21:29] <plutobot> Wiki | Page changed: PTM services | User: yls8 | https://switchbrew.org/w/index.php?curid=165&diff=9977&oldid=9198
+[21:34:10] <yellows8> meh
+[21:41:07] *** Joins miigotu
+[21:41:52] *** Quits miigotu_ (Ping timeout: 265 seconds)
+[22:46:52] *** Joins changoXPR
+[22:50:26] *** Quits changO- (Read error: Operation timed out)
+[22:50:26] *** changoXPR is now known as changO-
+[23:48:19] <plutobot> Wiki | Page changed: Flash Filesystem | User: Shchmue | https://switchbrew.org/w/index.php?curid=151&diff=9978&oldid=9658
