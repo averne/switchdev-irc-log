@@ -1,0 +1,118 @@
+[00:01:51] <DoozerBot> PR-#496: psm: Add more battery functions, building targets: 02lib
+[00:05:22] <DoozerBot> 02lib: 03 v3.3.0.58 Build OK - https://doozer.io/build/rmyk7ogf53
+[00:36:40] <DoozerBot> fincs pushed to master: psm: Add more battery functions "psm: Add more battery functions" [072 files modified], building targets: 02lib
+[00:36:41] <plutobot> GitHub | New commit | User: Vicki Pfau | https://github.com/switchbrew/libnx/commit/4afec4016d
+[00:40:15] <DoozerBot> 02lib: 03 v3.3.0.58 Build OK - https://doozer.io/build/3t7qoihg09
+[00:46:55] *** Joins lilibox_
+[00:47:03] *** Quits lilibox (Read error: Connection reset by peer)
+[00:51:43] *** Quits lilibox_ (Remote host closed the connection)
+[01:07:34] *** Joins lilibox
+[01:30:53] <plutobot> GitHub | New PR: Add power exa... | User: endrift | https://github.com/switchbrew/switch-examples/pull/85
+[01:32:21] *** Joins fgsfds
+[02:27:32] *** Quits lilibox (Ping timeout: 745 seconds)
+[02:36:17] *** Quits averne (quit)
+[02:41:25] *** Joins averne
+[02:41:25] *** Server sets mode: +stn 
+[02:44:27] *** Quits averne (quit)
+[02:46:01] *** Joins averne
+[02:46:02] *** Server sets mode: +stn 
+[02:50:41] *** Quits averne (quit)
+[02:53:49] *** Joins averne
+[02:53:53] *** Server sets mode: +stn 
+[03:13:13] *** Quits averne (quit)
+[03:14:24] *** Joins averne
+[03:15:26] *** Server sets mode: +stn 
+[03:21:15] *** Quits averne (quit)
+[03:22:52] *** Joins averne
+[03:23:06] *** Server sets mode: +stn 
+[03:26:11] *** Quits averne (quit)
+[03:27:22] *** Joins averne
+[03:27:22] *** Server sets mode: +stn 
+[03:39:15] *** Quits averne (quit)
+[03:44:26] *** Joins averne
+[03:44:32] *** Server sets mode: +stn 
+[03:47:32] *** Quits averne (quit)
+[03:52:42] *** Joins averne
+[03:52:43] *** Server sets mode: +stn 
+[04:29:27] *** Quits averne (quit)
+[04:36:24] *** Joins averne
+[04:36:24] *** Server sets mode: +stn 
+[04:45:01] *** Quits refs` (Quit: refs`)
+[04:51:58] *** Quits averne (quit)
+[04:56:07] *** Joins averne
+[04:56:08] *** Server sets mode: +stn 
+[05:18:56] *** Quits fgsfds (Read error: Connection reset by peer)
+[05:24:07] *** Quits averne (quit)
+[05:29:06] *** Joins averne
+[05:29:10] *** Server sets mode: +stn 
+[05:38:35] *** Quits averne (quit)
+[05:44:47] *** Joins averne
+[05:44:51] *** Server sets mode: +stn 
+[05:54:05] *** Quits averne (quit)
+[05:55:25] *** Joins averne
+[05:55:33] *** Server sets mode: +stn 
+[06:00:53] *** Quits averne (quit)
+[06:01:44] *** Joins averne
+[06:02:09] *** Server sets mode: +stn 
+[06:15:46] *** Quits averne (quit)
+[06:16:40] *** Joins averne
+[06:19:40] *** Quits averne (quit)
+[06:20:53] *** Joins averne
+[06:21:03] *** Server sets mode: +stn 
+[06:24:14] *** Quits averne (quit)
+[06:25:20] *** Joins averne
+[06:25:30] *** Server sets mode: +stn 
+[06:30:46] *** Quits averne (quit)
+[06:34:22] *** Quits averne (quit)
+[06:35:55] *** Joins averne
+[06:35:55] *** Server sets mode: +stn 
+[06:40:42] *** Quits averne (quit)
+[06:46:13] *** Quits averne (quit)
+[06:49:38] *** Joins averne
+[06:49:38] *** Server sets mode: +stn 
+[06:56:54] *** Quits averne (quit)
+[07:02:47] *** Joins averne
+[07:03:02] *** Server sets mode: +stn 
+[07:06:03] *** Quits averne (quit)
+[07:13:39] *** Joins averne
+[07:16:39] *** Quits averne (quit)
+[07:19:09] *** Joins averne
+[07:19:09] *** Server sets mode: +stn 
+[07:26:24] *** Quits averne (quit)
+[07:32:44] *** Joins averne
+[07:32:44] *** Server sets mode: +stn 
+[08:14:03] *** Joins plutobot
+[08:14:37] *** Joins DacoTaco
+[08:18:15] *** Joins des^
+[08:56:33] *** Joins m4ts_
+[09:04:38] *** Joins m4ts
+[09:04:39] *** Quits m4ts_ (Ping timeout: 265 seconds)
+[10:33:21] *** Joins IShaDoWl
+[10:37:32] <IShaDoWl> Hi
+[10:38:35] <IShaDoWl> i have a 3.0 switch, i would like to know what is the best way to 
+[10:39:10] <IShaDoWl> have the payload chain setup with caffeine and require only one time RCM 
+[10:39:26] <IShaDoWl> is it possible to do software RCM with caffeine true ?
+[10:40:32] <IShaDoWl> also would like to keep sysnand on 3.0 OFW and do emummc not requiering more than 1 jig use
+[10:41:45] <IShaDoWl> (Not sure if this is the place to ask for mod suport, if not please feel free to pinpoint me to other channels)
+[11:28:55] *** Quits DoozerBot (Read error: Connection reset by peer)
+[11:28:59] *** Joins DoozerBot
+[11:42:47] *** Quits DoozerBot (Ping timeout: 745 seconds)
+[11:43:18] *** Joins DoozerBot
+[13:08:40] <plutobot> GitHub | New commit | User: Vicki Pfau | https://github.com/switchbrew/switch-examples/commit/9db0cfd567
+[14:52:06] *** Quits lameboy (Quit: brb)
+[15:05:58] *** Joins m4ts_
+[15:07:09] *** Quits m4ts (Ping timeout: 265 seconds)
+[15:30:04] *** Joins lameboy
+[15:56:38] *** Quits lameboy (Read error: Connection reset by peer)
+[15:56:44] *** Joins lameboy2
+[15:56:46] *** lameboy2 is now known as lameboy
+[17:48:09] *** Joins fgsfds
+[17:56:01] *** Quits miigotu (ZNC - https://znc.in)
+[18:23:14] *** Joins miigotu
+[18:45:39] *** Quits miigotu (ZNC - https://znc.in)
+[18:47:30] *** Joins miigotu
+[20:35:07] *** Joins lilibox
+[21:00:01] *** Quits refsw2 (Quit: refsw2)
+[21:18:57] *** Joins m4ts
+[21:22:13] *** Quits m4ts_ (Ping timeout: 265 seconds)
+[21:34:03] *** Joins refs
