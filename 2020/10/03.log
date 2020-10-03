@@ -1,0 +1,80 @@
+[01:40:26] *** Joins zini
+[01:45:08] *** Quits zini (Ping timeout: 272 seconds)
+[02:09:10] *** Joins refs
+[02:23:09] *** Quits plutobot (Ping timeout: 272 seconds)
+[02:24:25] *** Quits des^ (Ping timeout: 272 seconds)
+[02:24:25] *** Quits DacoTaco (Ping timeout: 272 seconds)
+[02:51:06] <CCFL_Man> i hear 3d emulated all stars uses jit sys-module in 10.0.0
+[02:52:26] <CCFL_Man> this true?
+[02:52:40] <CCFL_Man> jit sys-module only in 10?
+[03:27:32] *** Joins plutobot
+[03:28:05] *** Joins DacoTaco
+[03:33:41] *** Joins des^
+[04:09:49] *** Quits refs (Quit: refs)
+[04:23:46] *** Joins zini
+[04:32:54] <yellows8> yes, N64 in SM3DAS uses it https://switchbrew.org/wiki/JIT_services
+[04:51:57] *** Joins zini-
+[04:52:47] *** Quits zini (Ping timeout: 745 seconds)
+[05:09:22] *** Joins zini
+[05:09:53] *** Joins changO-
+[05:12:17] *** Quits changoXPR (Read error: Operation timed out)
+[05:15:32] *** Quits zini- (Ping timeout: 745 seconds)
+[05:31:52] *** Quits zini (Ping timeout: 272 seconds)
+[05:41:18] *** Joins zini
+[05:55:47] *** Quits zini (Ping timeout: 745 seconds)
+[06:55:44] *** Quits figgis_ (Read error: Connection reset by peer)
+[07:13:28] *** Joins zini
+[07:26:12] *** Quits zini (Ping timeout: 745 seconds)
+[09:35:11] *** Quits IShaDoWl ()
+[10:19:32] *** Joins IShaDoWl
+[10:51:45] *** Joins zini
+[10:56:46] *** Quits zini (Ping timeout: 272 seconds)
+[11:47:31] *** Joins zini
+[15:03:16] *** Joins fgsfds
+[15:23:18] *** Joins hordak_
+[15:23:22] *** Quits omlet05 (Read error: Operation timed out)
+[15:23:35] *** Joins foghorn2
+[15:23:39] *** Joins omlet05
+[15:24:36] *** Joins KuKzz_
+[15:25:00] *** Quits nrq (Read error: Operation timed out)
+[15:25:03] *** Quits GrecKo (Read error: Operation timed out)
+[15:25:13] *** Joins nrq
+[15:28:02] *** Quits b0nez_ (Read error: Operation timed out)
+[15:28:13] *** Joins b0nez
+[15:28:39] *** Quits zombie343 (Read error: Operation timed out)
+[15:28:55] *** Joins zombie343
+[15:29:08] *** Quits Behemoth_ (Read error: Operation timed out)
+[15:29:10] *** Quits KuKzz (Ping timeout: 610 seconds)
+[15:29:11] *** Joins Behemoth_
+[15:29:29] *** Quits hordak (Read error: Operation timed out)
+[15:29:29] *** hordak_ is now known as hordak
+[15:29:46] *** Quits foghorn3 (Read error: Operation timed out)
+[15:29:53] *** Joins GrecKo
+[15:48:03] *** Quits foghorn2 (Leaving)
+[15:57:10] *** Joins foghorn2
+[17:01:00] <plutobot> GitHub | New commit | User: Dave Murphy | https://github.com/switchbrew/switch-examples/commit/fc98393d50
+[17:07:09] *** Joins refs
+[17:41:05] <plutobot> Wiki | Page changed: JIT services | User: yls8 | https://switchbrew.org/w/index.php?curid=330&diff=9987&oldid=9986
+[17:50:46] <plutobot> Wiki | Page changed: Title list/Games | User: yls8 | https://switchbrew.org/w/index.php?curid=118&diff=9988&oldid=8399
+[18:43:37] <plutobot> Wiki | New page: Super Mario 3D All-Stars | User: yls8 | https://switchbrew.org/w/index.php?curid=419
+[19:51:25] <plutobot> Wiki | Page changed: Super Mario 3D All-Stars | User: yls8 | https://switchbrew.org/w/index.php?curid=419&diff=9990&oldid=9989
+[20:11:48] <plutobot> Wiki | Page changed: Super Mario 3D All-Stars | User: yls8 | https://switchbrew.org/w/index.php?curid=419&diff=9991&oldid=9990
+[21:26:04] <plutobot> Wiki | Page changed: Super Mario 3D All-Stars | User: yls8 | https://switchbrew.org/w/index.php?curid=419&diff=9992&oldid=9991
+[22:38:28] *** Quits averne (quit)
+[22:38:45] *** Joins averne_
+[22:38:45] *** Server sets mode: +stn 
+[22:38:52] *** Quits averne (Read error: Operation timed out)
+[22:48:22] <CCFL_Man> i was looking at the SMB35 game assets. it almost looks like a dumb client
+[22:50:07] <CCFL_Man> seems like the actual game is stored on Nintendo
+[22:50:13] <CCFL_Man> seems like the actual game is stored on Nintendo's servers
+[22:59:02] *** Joins refsw3
+[23:02:16] *** Quits d3m3vilur (Read error: Operation timed out)
+[23:02:46] *** Quits blasty (Remote host closed the connection)
+[23:08:40] *** Quits refsw2 (Read error: Operation timed out)
+[23:10:49] <CCFL_Man> can the n64 emulator and assets on 3d all stars run standalone?
+[23:11:32] <CCFL_Man> since there is an nro that doesn't use JIT
+[23:12:43] *** Quits lex1 (Read error: Operation timed out)
+[23:27:34] *** Joins lex1
+[23:38:27] <plutobot> Wiki | Page changed: Super Mario 3D All-Stars | User: yls8 | https://switchbrew.org/w/index.php?curid=419&diff=9993&oldid=9992
+[23:45:22] *** Joins blasty
+[23:49:53] *** Joins d3m3vilur

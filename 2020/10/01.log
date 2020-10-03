@@ -1,0 +1,84 @@
+[00:09:00] *** Joins Phils3r_
+[00:11:31] *** Joins TAL_
+[00:16:05] *** Quits hordak (Ping timeout: 272 seconds)
+[00:16:05] *** Quits GerbilS2 (Ping timeout: 272 seconds)
+[00:16:05] *** Quits plutobot (Ping timeout: 272 seconds)
+[00:16:43] *** Quits Stary (Ping timeout: 272 seconds)
+[00:16:52] *** Joins DeusQain_
+[00:17:38] *** Joins GerbilSof
+[00:17:49] *** Joins Stary
+[00:17:59] *** Quits DacoTaco (Ping timeout: 272 seconds)
+[00:18:08] *** Quits Phils3r (Ping timeout: 745 seconds)
+[00:18:08] *** Quits dibas (Ping timeout: 745 seconds)
+[00:18:19] *** Joins hordak
+[00:18:37] *** Quits des^ (Ping timeout: 272 seconds)
+[00:18:43] *** Quits DeusQain (Ping timeout: 745 seconds)
+[00:18:44] *** Quits TAL (Ping timeout: 745 seconds)
+[00:18:44] *** Quits hthh (Ping timeout: 745 seconds)
+[00:27:01] *** Joins CCFL_Man
+[01:28:08] *** Joins plutobot
+[01:28:42] *** Joins DacoTaco
+[01:33:15] *** Joins des^
+[01:35:07] *** Quits naehrwert (Ping timeout: 745 seconds)
+[01:35:12] *** Joins naehrwert
+[02:24:04] *** Quits refs (Quit: refs)
+[03:12:15] *** Quits blasty (Read error: Operation timed out)
+[03:12:41] *** Joins refsw`
+[03:13:18] <plutobot> Wiki | Page changed: JIT services | User: yls8 | https://switchbrew.org/w/index.php?curid=330&diff=9979&oldid=9260
+[03:14:13] *** Quits refsw (Read error: Operation timed out)
+[03:22:57] *** Joins hordak_
+[03:24:49] *** Quits d3m3vilur (Ping timeout: 1221 seconds)
+[03:25:14] *** Quits lex1 (Read error: Operation timed out)
+[03:33:30] *** Quits hordak (Read error: Operation timed out)
+[03:33:30] *** hordak_ is now known as hordak
+[03:35:04] *** Joins lex1
+[03:36:32] *** Quits IShaDoWl ()
+[03:39:48] *** Joins d3m3vilur
+[03:40:18] *** Joins blasty
+[04:20:41] *** Joins dibas
+[04:22:51] *** Joins hthh
+[04:47:51] *** Joins changO-
+[04:50:01] *** Joins rajkosto
+[05:14:22] *** Quits fgsfds (Read error: Connection reset by peer)
+[06:31:41] *** Quits GerbilSof (Quit: Windows must now restart because the Remote Procedure Call (RPC) service terminated unexpectedly.)
+[06:52:48] *** Joins GerbilSof
+[06:57:27] *** Quits |Shadow| (Read error: Operation timed out)
+[07:07:31] *** Joins foghorn3
+[07:08:51] *** Quits foghorn3 (Remote host closed the connection)
+[07:13:56] *** Quits foghorn2 (Read error: Operation timed out)
+[07:14:39] *** Joins foghorn3
+[07:14:50] *** Quits foghorn3 (Remote host closed the connection)
+[07:15:10] *** Joins foghorn3
+[07:16:06] *** Joins |Shadow|
+[07:55:20] *** TAL_ is now known as TAL
+[07:58:06] <plutobot> Wiki | Page changed: JIT services | User: yls8 | https://switchbrew.org/w/index.php?curid=330&diff=9980&oldid=9979
+[08:23:14] <plutobot> Wiki | Page changed: JIT services | User: yls8 | https://switchbrew.org/w/index.php?curid=330&diff=9981&oldid=9980
+[08:53:45] *** Quits rajkosto (Read error: Connection reset by peer)
+[09:51:16] <plutobot> Wiki | Page changed: PTM services | User: Endrift | https://switchbrew.org/w/index.php?curid=165&diff=9982&oldid=9977
+[10:31:50] *** Joins IShaDoWl
+[10:54:03] <plutobot> GitHub | New PR: Add targets p... | User: endrift | https://github.com/switchbrew/switch-examples/pull/86
+[12:50:52] *** Joins xx_ns
+[12:50:53] *** Quits neonsea (Read error: Connection reset by peer)
+[13:58:18] *** Surkow_ is now known as Surkow
+[14:07:13] *** Quits |Shadow| ()
+[14:13:40] *** Joins |Shadow|
+[16:07:47] *** Quits lameboy (Ping timeout: 186 seconds)
+[16:14:44] *** Joins fgsfds
+[17:33:41] *** Joins changoXPR
+[17:34:20] *** Quits changO- (ny.us.hub irc.Prison.NET)
+[17:35:01] *** Quits nullstrin (Read error: Operation timed out)
+[17:39:05] *** Joins nullstrin
+[17:53:42] *** Joins figgis_
+[17:55:29] *** Joins refsw2
+[17:56:55] *** Quits plutobot (Ping timeout: 272 seconds)
+[17:58:11] *** Quits refsw` (Ping timeout: 272 seconds)
+[17:58:11] *** Quits des^ (Ping timeout: 272 seconds)
+[17:58:11] *** Quits DacoTaco (Ping timeout: 272 seconds)
+[17:59:26] *** Quits fgsfds (Ping timeout: 622 seconds)
+[19:22:59] *** Joins plutobot
+[19:24:02] <plutobot> Wiki | Page changed: JIT services | User: yls8 | https://switchbrew.org/w/index.php?curid=330&diff=9984&oldid=9983
+[19:24:30] *** Joins DacoTaco
+[19:27:34] *** Joins des^
+[19:32:22] <plutobot> Wiki | Page changed: JIT services | User: yls8 | https://switchbrew.org/w/index.php?curid=330&diff=9985&oldid=9984
+[19:37:38] <plutobot> Wiki | Page changed: JIT services | User: yls8 | https://switchbrew.org/w/index.php?curid=330&diff=9986&oldid=9985
+[22:05:09] *** Joins refs
