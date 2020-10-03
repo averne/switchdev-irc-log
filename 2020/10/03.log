@@ -1,0 +1,80 @@
+[01:40:26] *** Joins: zini (~zini@88-113-145-208.elisa-laajakaista.fi)
+[01:45:08] *** Quits: zini (~zini@88-113-145-208.elisa-laajakaista.fi) (Ping timeout: 272 seconds)
+[02:09:10] *** Joins: refs (~refs@p200300dd871a75006951d94917f31701.dip0.t-ipconnect.de)
+[02:23:09] *** Quits: plutobot (~plutobot@188.166.26.149) (Ping timeout: 272 seconds)
+[02:24:25] *** Quits: des^ (~des@ip1f108006.dynamic.kabel-deutschland.de) (Ping timeout: 272 seconds)
+[02:24:25] *** Quits: DacoTaco (~DacoTaco@178-119-112-131.access.telenet.be) (Ping timeout: 272 seconds)
+[02:51:06] <CCFL_Man> i hear 3d emulated all stars uses jit sys-module in 10.0.0
+[02:52:26] <CCFL_Man> this true?
+[02:52:40] <CCFL_Man> jit sys-module only in 10?
+[03:27:32] *** Joins: plutobot (~plutobot@188.166.26.149)
+[03:28:05] *** Joins: DacoTaco (~DacoTaco@178-119-112-131.access.telenet.be)
+[03:33:41] *** Joins: des^ (~des@ip1f108006.dynamic.kabel-deutschland.de)
+[04:09:49] *** Quits: refs (~refs@p200300dd871a75006951d94917f31701.dip0.t-ipconnect.de) (Quit: refs)
+[04:23:46] *** Joins: zini (~zini@88-113-145-208.elisa-laajakaista.fi)
+[04:32:54] <yellows8> yes, N64 in SM3DAS uses it https://switchbrew.org/wiki/JIT_services
+[04:51:57] *** Joins: zini- (~zini@88-113-145-208.elisa-laajakaista.fi)
+[04:52:47] *** Quits: zini (~zini@88-113-145-208.elisa-laajakaista.fi) (Ping timeout: 745 seconds)
+[05:09:22] *** Joins: zini (~zini@88-113-145-208.elisa-laajakaista.fi)
+[05:09:53] *** Joins: changO- (~Changolan@ip70-187-147-196.oc.oc.cox.net)
+[05:12:17] *** Quits: changoXPR (~Changolan@ip70-187-147-196.oc.oc.cox.net) (Read error: Operation timed out)
+[05:15:32] *** Quits: zini- (~zini@88-113-145-208.elisa-laajakaista.fi) (Ping timeout: 745 seconds)
+[05:31:52] *** Quits: zini (~zini@88-113-145-208.elisa-laajakaista.fi) (Ping timeout: 272 seconds)
+[05:41:18] *** Joins: zini (~zini@88-113-145-208.elisa-laajakaista.fi)
+[05:55:47] *** Quits: zini (~zini@88-113-145-208.elisa-laajakaista.fi) (Ping timeout: 745 seconds)
+[06:55:44] *** Quits: figgis_ (~figgis@93.123.144.171) (Read error: Connection reset by peer)
+[07:13:28] *** Joins: zini (~zini@88-113-145-208.elisa-laajakaista.fi)
+[07:26:12] *** Quits: zini (~zini@88-113-145-208.elisa-laajakaista.fi) (Ping timeout: 745 seconds)
+[09:35:11] *** Quits: IShaDoWl (~IShaDoWl@131.red-79-150-215.dynamicip.rima-tde.net) ()
+[10:19:32] *** Joins: IShaDoWl (~IShaDoWl@131.red-79-150-215.dynamicip.rima-tde.net)
+[10:51:45] *** Joins: zini (~zini@88-113-145-208.elisa-laajakaista.fi)
+[10:56:46] *** Quits: zini (~zini@88-113-145-208.elisa-laajakaista.fi) (Ping timeout: 272 seconds)
+[11:47:31] *** Joins: zini (~zini@88-113-145-208.elisa-laajakaista.fi)
+[15:03:16] *** Joins: fgsfds (~figgis@93.123.144.171)
+[15:23:18] *** Joins: hordak_ (hordak@cautio.us)
+[15:23:22] *** Quits: omlet05 (~quassel@omlet.ovh) (Read error: Operation timed out)
+[15:23:35] *** Joins: foghorn2 (~meh@107-198-163-1.lightspeed.rcsntx.sbcglobal.net)
+[15:23:39] *** Joins: omlet05 (~quassel@omlet.ovh)
+[15:24:36] *** Joins: KuKzz_ (KuKzz@95.143.216.177)
+[15:25:00] *** Quits: nrq (~nrq@ns340910.ip-37-59-40.eu) (Read error: Operation timed out)
+[15:25:03] *** Quits: GrecKo (~grecko@static.183.157.9.5.clients.your-server.de) (Read error: Operation timed out)
+[15:25:13] *** Joins: nrq (~nrq@ns340910.ip-37-59-40.eu)
+[15:28:02] *** Quits: b0nez_ (~b0nez@162.248.221.94) (Read error: Operation timed out)
+[15:28:13] *** Joins: b0nez (b0nez@162.248.221.94)
+[15:28:39] *** Quits: zombie343 (~zombie343@pool-74-108-60-233.nycmny.fios.verizon.net) (Read error: Operation timed out)
+[15:28:55] *** Joins: zombie343 (~zombie343@pool-74-108-60-233.nycmny.fios.verizon.net)
+[15:29:08] *** Quits: Behemoth_ (~quassel@vmd39331.contaboserver.net) (Read error: Operation timed out)
+[15:29:10] *** Quits: KuKzz (~KuKzz@95.143.216.177) (Ping timeout: 610 seconds)
+[15:29:11] *** Joins: Behemoth_ (~quassel@vmd39331.contaboserver.net)
+[15:29:29] *** Quits: hordak (~hordak@cautio.us) (Read error: Operation timed out)
+[15:29:29] *** hordak_ is now known as hordak
+[15:29:46] *** Quits: foghorn3 (~meh@107-198-163-1.lightspeed.rcsntx.sbcglobal.net) (Read error: Operation timed out)
+[15:29:53] *** Joins: GrecKo (~grecko@static.183.157.9.5.clients.your-server.de)
+[15:48:03] *** Quits: foghorn2 (~meh@107-198-163-1.lightspeed.rcsntx.sbcglobal.net) (Leaving)
+[15:57:10] *** Joins: foghorn2 (~meh@107-198-163-1.lightspeed.rcsntx.sbcglobal.net)
+[17:01:00] <plutobot> GitHub | New commit | User: Dave Murphy | https://github.com/switchbrew/switch-examples/commit/fc98393d50
+[17:07:09] *** Joins: refs (~refs@p200300dd8733dc002d860fca08fb9792.dip0.t-ipconnect.de)
+[17:41:05] <plutobot> Wiki | Page changed: JIT services | User: yls8 | https://switchbrew.org/w/index.php?curid=330&diff=9987&oldid=9986
+[17:50:46] <plutobot> Wiki | Page changed: Title list/Games | User: yls8 | https://switchbrew.org/w/index.php?curid=118&diff=9988&oldid=8399
+[18:43:37] <plutobot> Wiki | New page: Super Mario 3D All-Stars | User: yls8 | https://switchbrew.org/w/index.php?curid=419
+[19:51:25] <plutobot> Wiki | Page changed: Super Mario 3D All-Stars | User: yls8 | https://switchbrew.org/w/index.php?curid=419&diff=9990&oldid=9989
+[20:11:48] <plutobot> Wiki | Page changed: Super Mario 3D All-Stars | User: yls8 | https://switchbrew.org/w/index.php?curid=419&diff=9991&oldid=9990
+[21:26:04] <plutobot> Wiki | Page changed: Super Mario 3D All-Stars | User: yls8 | https://switchbrew.org/w/index.php?curid=419&diff=9992&oldid=9991
+[22:38:28] *** Quits: averne (~averne@176-179-35-51.abo.bbox.fr) (quit)
+[22:38:45] *** Joins: averne_ (~averne@176-179-35-51.abo.bbox.fr)
+[22:38:45] *** Server sets mode: +stn 
+[22:38:52] *** Quits: averne (~averne@176-179-35-51.abo.bbox.fr) (Read error: Operation timed out)
+[22:48:22] <CCFL_Man> i was looking at the SMB35 game assets. it almost looks like a dumb client
+[22:50:07] <CCFL_Man> seems like the actual game is stored on Nintendo
+[22:50:13] <CCFL_Man> seems like the actual game is stored on Nintendo's servers
+[22:59:02] *** Joins: refsw3 (~refsw@80.150.130.51)
+[23:02:16] *** Quits: d3m3vilur (sid4654@id-4654.charlton.irccloud.com) (Read error: Operation timed out)
+[23:02:46] *** Quits: blasty (~blasty@haxx.in) (Remote host closed the connection)
+[23:08:40] *** Quits: refsw2 (~refsw@80.150.130.51) (Read error: Operation timed out)
+[23:10:49] <CCFL_Man> can the n64 emulator and assets on 3d all stars run standalone?
+[23:11:32] <CCFL_Man> since there is an nro that doesn't use JIT
+[23:12:43] *** Quits: lex1 (lex@yuuh.pw) (Read error: Operation timed out)
+[23:27:34] *** Joins: lex1 (lex@yuuh.pw)
+[23:38:27] <plutobot> Wiki | Page changed: Super Mario 3D All-Stars | User: yls8 | https://switchbrew.org/w/index.php?curid=419&diff=9993&oldid=9992
+[23:45:22] *** Joins: blasty (~blasty@haxx.in)
+[23:49:53] *** Joins: d3m3vilur (sid4654@charlton.irccloud.com)
