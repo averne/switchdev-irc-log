@@ -1,0 +1,71 @@
+[00:14:21] *** Joins zini
+[00:15:42] *** Joins plutobot
+[00:16:03] *** Joins DacoTaco
+[00:27:17] *** Quits zini (Ping timeout: 745 seconds)
+[00:31:50] *** Joins zini
+[00:36:30] *** Quits zini (Ping timeout: 272 seconds)
+[01:50:44] <plutobot> Wiki | Page changed: Super Mario 3D All-Stars | User: yls8 | https://switchbrew.org/w/index.php?curid=419&diff=10000&oldid=9999
+[02:02:02] *** Joins zini
+[02:07:04] *** Quits zini (Ping timeout: 272 seconds)
+[02:36:52] *** Joins zini
+[02:41:48] <IShaDoWl> i think i hit a bug on daybreak 
+[02:47:45] <IShaDoWl> not sure if this is the place but let me explain it
+[02:52:02] *** Quits zini (Ping timeout: 272 seconds)
+[02:54:58] <IShaDoWl> sysnand 3.0 -> pegaScape DNS/90DNS -> wifi auth -> caffeine -> AMS@latest -> emuMMC -> daybreak (applet mode) -> update to 10.2 (Fat32 only) -> Everything ok -> Reboot -> noGC kicks In (1st weird thing if you dont press ok enought very fast the switch goes to sleep) -> wake switch -> press noGC ok fast -> joycon update popup appears -> update later -> shutdown switch from emuMMC -> power 
+[02:54:59] <IShaDoWl> on switch arrive to sysnand -> in settings/system a warning appear saying an update is available.
+[02:55:16] <IShaDoWl> if i click update now it launches pegaScape
+[03:01:35] <IShaDoWl> if i go manteinance mode and click update now (to later cancel) it says 
+[03:01:35] <IShaDoWl> preparing update....
+[03:01:35] <IShaDoWl> This function is not available.
+[03:04:56] *** Quits karolherb (Remote host closed the connection)
+[03:05:24] <yellows8> that's not really daybreak related when you ran it in emummc
+[03:05:36] *** Joins karolherb
+[03:11:31] <yellows8> https://github.com/Atmosphere-NX/Atmosphere/blob/master/.github/ISSUE_TEMPLATE/config.yml#L4
+[03:41:33] <IShaDoWl> i go to reswitched discord support and scires discourage me to open a bug report on github, he thinks is user Fault or Dns fault
+[03:41:51] <IShaDoWl> i just restored my clean sysnand and the update warning keep appearing
+[03:42:14] <IShaDoWl> on a fresh cleanNand restore O.o
+[04:37:45] <plutobot> Wiki | Page changed: Super Mario 3D All-Stars | User: yls8 | https://switchbrew.org/w/index.php?curid=419&diff=10001&oldid=10000
+[04:53:37] *** Quits refs (Quit: refs)
+[05:23:36] *** Joins zini
+[05:28:28] *** Quits zini (Ping timeout: 272 seconds)
+[05:28:33] *** Joins zini
+[05:33:33] *** Quits zini (Ping timeout: 272 seconds)
+[06:07:22] *** Quits balrog (Ping timeout: 745 seconds)
+[06:25:29] *** Joins balrog
+[07:24:13] *** Quits figgis_ (Ping timeout: 622 seconds)
+[07:25:03] *** Joins zini
+[07:27:32] *** Joins fgsfds
+[07:32:15] *** Quits fgsfds (Ping timeout: 265 seconds)
+[08:24:53] *** Joins fgsfds
+[10:00:39] *** Quits gruetzkop (Quit: quit)
+[10:00:45] *** Joins gruetzkop
+[11:08:55] *** Quits Galaxy| (Ping timeout: 496 seconds)
+[11:13:02] *** Joins Galaxy|
+[12:35:36] *** Joins derk0pf
+[13:13:21] *** Quits zini (Ping timeout: 272 seconds)
+[13:13:39] *** Joins zini
+[13:14:37] *** Quits DacoTaco (Ping timeout: 272 seconds)
+[13:14:37] *** Quits plutobot (Ping timeout: 272 seconds)
+[13:38:25] *** Joins figgis_
+[13:46:12] *** Quits fgsfds (Read error: Operation timed out)
+[14:06:51] *** Quits derk0pf (se.hub irc.underworld.no)
+[14:06:51] *** Quits WntrMute (se.hub irc.underworld.no)
+[14:06:51] *** Quits fincs (se.hub irc.underworld.no)
+[14:06:51] *** Quits Stary (se.hub irc.underworld.no)
+[14:06:51] *** Quits TAL (se.hub irc.underworld.no)
+[14:06:51] *** Quits m4ts (se.hub irc.underworld.no)
+[14:10:06] *** Joins WntrDeaf
+[14:17:00] *** Joins plutobot
+[14:17:14] *** Joins DacoTaco
+[14:22:05] *** WntrDeaf is now known as WntrMute
+[14:25:11] *** Joins derk0pf
+[14:25:11] *** Joins fincs
+[14:25:11] *** Joins Stary
+[14:25:11] *** Joins m4ts
+[15:13:43] *** Joins TAL
+[19:41:35] *** Quits plutobot (Ping timeout: 272 seconds)
+[19:42:51] *** Quits DacoTaco (Ping timeout: 272 seconds)
+[19:46:51] *** Joins Tcm0
+[20:45:39] *** Joins plutobot
+[20:46:33] *** Joins DacoTaco
+[21:47:01] *** Joins refs

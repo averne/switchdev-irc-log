@@ -1,0 +1,216 @@
+[00:19:21] <DoozerBot> PR-#497: Fix event handle retrieval in spl, building targets: 02lib
+[00:20:24] <DoozerBot> fincs pushed to master: Fix event handle retrieval in spl "Fix event handle retrieval in spl" [071 file modified], building targets: 02lib
+[00:23:33] <DoozerBot> 02lib: 03 v3.3.0.59 Build OK - https://doozer.io/build/aef3hgs9b4
+[00:33:38] <plutobot> GitHub | New commit | User: averne | https://github.com/switchbrew/libnx/commit/022887ac2d
+[00:42:27] *** Quits ris2z (Ping timeout: 186 seconds)
+[00:46:35] <plutobot> Wiki | Page changed: Super Mario 3D All-Stars | User: yls8 | https://switchbrew.org/w/index.php?curid=419&diff=9994&oldid=9993
+[00:47:41] *** Joins ris2z
+[01:34:13] <yellows8> not sure what you mean by "standalone"
+[01:38:22] *** Quits zini (Ping timeout: 272 seconds)
+[01:41:19] <yellows8> or why you wouldn't want jit...
+[01:49:55] *** Joins zini
+[01:54:51] *** Quits zini (Ping timeout: 272 seconds)
+[02:14:41] *** Joins zini
+[02:19:33] *** Quits zini (Ping timeout: 272 seconds)
+[02:21:53] <CCFL_Man> yellows8: if you can run it without the full game itself
+[02:22:13] <CCFL_Man> on earlier firmware that doesn't support jit
+[02:35:15] <yellows8> .... just update?
+[02:43:41] *** Joins zini
+[02:44:48] <CCFL_Man> i was curious if the emulator can run without the game
+[02:45:48] <yellows8> ....what?
+[02:46:45] <CCFL_Man> meaning, execute the nro with associated files without 3d all stars
+[02:48:06] <yellows8> the NRO is linked with the main-codebin obviously...
+[02:48:15] <CCFL_Man> oh, i see
+[02:49:09] <yellows8> (main-codebin is the actual emulator fwiw)
+[02:51:30] <plutobot> Wiki | Page changed: Super Mario 3D All-Stars | User: yls8 | https://switchbrew.org/w/index.php?curid=419&diff=9995&oldid=9994
+[02:53:40] <yellows8> so are you just wondering, or just don't want to update?(just use emummc if the latter?)
+[02:54:41] <CCFL_Man> i don't want to update, but i was also wondering. 
+[03:00:27] <CCFL_Man> if it was possible to copy over the directory to the sd card and execute the nro
+[03:01:53] <yellows8> any reason you don't want to update, even (?) with emummc?(what's current sysver?)
+[03:04:59] <CCFL_Man> i'm using 8.0.0 on reinx. i'll have to update reinx
+[03:05:15] <CCFL_Man> but even on 10, would it run?
+[03:05:33] <yellows8> ... use AMS
+[03:05:42] *** Quits zini (Ping timeout: 745 seconds)
+[03:06:22] <CCFL_Man> did NERD use the nro to run the emulator?
+[03:07:31] <yellows8> AOT'd NRO for N64 is unused... it's never used with the ro-service
+[03:09:16] <CCFL_Man> oh, i see now
+[03:13:35] <plutobot> Wiki | Page changed: Super Mario 3D All-Stars | User: yls8 | https://switchbrew.org/w/index.php?curid=419&diff=9996&oldid=9995
+[03:14:52] <CCFL_Man> you recommend atmopsphere instead of reinx?
+[03:19:20] <yellows8> ... ofc
+[03:23:53] <CCFL_Man> i know reinx hasn't been updated by the original author, but for a while, was it better than atmosphere, then atmosphere caught up?
+[03:29:03] *** Joins zini
+[03:39:16] *** Joins [-TMN-]
+[03:45:02] *** Quits zini (Ping timeout: 272 seconds)
+[04:29:07] <yellows8> nonsense
+[04:43:20] <plutobot> Wiki | Page changed: Super Mario 3D All-Stars | User: yls8 | https://switchbrew.org/w/index.php?curid=419&diff=9997&oldid=9996
+[05:04:14] <plutobot> Wiki | Page changed: Super Mario 3D All-Stars | User: yls8 | https://switchbrew.org/w/index.php?curid=419&diff=9998&oldid=9997
+[05:06:49] *** Quits refs (Quit: refs)
+[05:31:05] <plutobot> Wiki | Page changed: Super Mario 3D All-Stars | User: yls8 | https://switchbrew.org/w/index.php?curid=419&diff=9999&oldid=9998
+[05:36:31] *** Quits Galaxy| (Quit: Quit.)
+[05:36:42] *** Joins Galaxy|
+[05:40:42] <CCFL_Man> yellows8: wow. if you recommend it, i should use it them.
+[05:40:58] <CCFL_Man> i'll read up on the documentation
+[06:01:32] *** Quits fgsfds (Read error: Connection reset by peer)
+[06:22:16] <yellows8> :)
+[06:49:02] *** Parts [-TMN-] ()
+[07:10:13] *** Quits GerbilSof (Windows must now restart because the Remote Procedure Call (RPC) service terminated unexpectedly.)
+[07:21:45] <CCFL_Man> yellows8: ny the way, excellent work on the 3d all stars page!!
+[07:23:25] <yellows8> :)
+[07:31:14] *** Joins GerbilSof
+[08:01:02] *** Joins zini
+[08:03:38] *** Joins foghorn3
+[08:05:57] *** Joins zini-
+[08:05:59] *** Quits zini (Ping timeout: 272 seconds)
+[08:10:04] *** Quits foghorn2 (Read error: Operation timed out)
+[08:10:17] *** Joins GrecKo_
+[08:10:44] *** Joins refsw
+[08:11:02] *** Quits zini- (Ping timeout: 272 seconds)
+[08:12:33] *** Joins changoXPR
+[08:12:56] *** Quits IShaDoWl (Ping timeout: 272 seconds)
+[08:12:57] *** Quits DacoTaco (Ping timeout: 272 seconds)
+[08:12:57] *** Quits plutobot (Ping timeout: 272 seconds)
+[08:13:09] *** Quits changoXPR (Read error: Connection reset by peer)
+[08:13:31] *** Joins changoXPR
+[08:13:35] *** Quits refsw3 (Ping timeout: 272 seconds)
+[08:13:35] *** Quits changO- (Ping timeout: 272 seconds)
+[08:13:45] *** changoXPR is now known as changO-
+[08:14:12] *** Quits b0nez (Ping timeout: 272 seconds)
+[08:14:13] *** Quits des^ (Ping timeout: 272 seconds)
+[08:15:38] *** Quits GrecKo (Ping timeout: 610 seconds)
+[08:15:48] *** Joins IShaDoWl
+[08:18:56] *** Joins b0nez
+[08:40:58] <IShaDoWl> nice talk over there
+[08:43:03] <IShaDoWl> ams 0.13.0 states 
+[08:43:05] <IShaDoWl> emummc was updated to include the new changes.
+[08:43:05] <IShaDoWl> emummc now uses an updated/improved/faster SDMMC driver.
+[08:43:05] <IShaDoWl> File-based emummc is now almost as fast as raw partition-based emummc.
+[08:43:36] <IShaDoWl> Is SDMMC more recomended that partition based RAWMMC ?
+[09:01:41] *** Joins zini
+[09:17:01] *** Joins plutobot
+[09:17:39] *** Joins DacoTaco
+[09:22:07] *** Joins des^
+[09:44:02] <IShaDoWl> Also, should I launch Atmosphere daybreak with Album applet mode or using app override ?
+[10:50:37] *** Quits zini (Ping timeout: 745 seconds)
+[10:52:25] *** Joins zini
+[11:04:34] *** Quits zini (Ping timeout: 272 seconds)
+[11:23:52] *** Joins KuKzz
+[11:28:33] *** Quits averne_ (quit)
+[11:30:50] *** Joins averne
+[11:30:50] *** Server sets mode: +stn 
+[11:33:59] *** Quits averne_ (se.hub irc.nordunet.se)
+[13:07:37] *** Joins zini
+[13:12:30] *** Quits zini (Ping timeout: 272 seconds)
+[13:58:02] *** Joins refs
+[13:59:24] *** Joins zini
+[14:11:52] *** Quits zini (Ping timeout: 745 seconds)
+[14:19:05] *** Joins zini
+[14:31:15] *** Joins zini-
+[14:31:42] *** Quits zini (Ping timeout: 745 seconds)
+[14:36:06] *** Quits zini- (Ping timeout: 272 seconds)
+[14:48:38] *** Joins lameboy2
+[14:55:50] *** Quits lameboy (Read error: Operation timed out)
+[14:56:30] *** Joins lameboy
+[14:57:10] *** Joins zini
+[15:01:59] *** Quits lameboy2 (Ping timeout: 744 seconds)
+[15:02:04] *** Quits zini (Ping timeout: 272 seconds)
+[17:06:02] *** Joins fgsfds
+[17:34:52] *** Joins foghorn2
+[17:35:00] *** Quits awordnot (Read error: Connection reset by peer)
+[17:35:00] *** Quits GerbilSof (Read error: Operation timed out)
+[17:35:10] *** Quits endrift (Read error: Operation timed out)
+[17:35:18] *** Joins endrift
+[17:35:41] *** Joins awordnot
+[17:35:47] *** Joins GerbilSof
+[17:35:50] *** Joins Tcm0
+[17:36:44] *** Quits |Shadow| (Read error: Operation timed out)
+[17:37:12] *** Joins |Shadow|
+[17:38:56] *** Quits IShaDoWl (Read error: Operation timed out)
+[17:39:02] *** Joins IShaDoWl
+[17:39:14] *** Quits foghorn3 (Read error: Operation timed out)
+[17:41:58] *** Quits fgsfds (Ping timeout: 622 seconds)
+[18:41:23] *** Joins hordak_
+[18:41:33] *** Quits hordak (Scheiße!)
+[18:41:33] *** Quits Galaxy| (Remote host closed the connection)
+[18:41:36] *** hordak_ is now known as hordak
+[18:42:16] *** Joins foghorn3
+[18:48:42] *** Quits foghorn2 (ny.us.hub irc.colosolutions.net)
+[18:48:42] *** Quits KuKzz (ny.us.hub irc.colosolutions.net)
+[18:48:42] *** Quits b0nez (ny.us.hub irc.colosolutions.net)
+[18:48:42] *** Quits zombie343 (ny.us.hub irc.colosolutions.net)
+[18:48:42] *** Quits oldtopman (ny.us.hub irc.colosolutions.net)
+[18:48:42] *** Quits CCFL_Man (ny.us.hub irc.colosolutions.net)
+[18:48:42] *** Quits cpnc0ke (ny.us.hub irc.colosolutions.net)
+[18:48:42] *** Quits Jdbye (ny.us.hub irc.colosolutions.net)
+[18:48:42] *** Quits balrog (ny.us.hub irc.colosolutions.net)
+[18:48:42] *** Quits AlexAltea (ny.us.hub irc.colosolutions.net)
+[18:48:42] *** Quits WntrMute (ny.us.hub irc.colosolutions.net)
+[18:48:42] *** Quits fincs (ny.us.hub irc.colosolutions.net)
+[18:48:49] *** Joins CCFL_Man_
+[18:49:03] *** Quits lameboy (Read error: Operation timed out)
+[18:49:05] *** Joins balrog_
+[18:49:14] *** Joins fincs_
+[18:49:30] *** Joins WntrDeaf
+[18:49:38] *** Joins lameboy
+[18:49:43] *** Joins Galaxy|
+[18:49:49] *** Joins cpncok3
+[18:50:29] *** Joins KuKzz_
+[18:51:22] *** Joins b0nez_
+[18:52:51] *** Joins Jbdye
+[19:05:16] *** WntrDeaf is now known as WntrMute
+[19:05:16] *** Joins zombie343
+[19:05:17] *** fincs_ is now known as fincs
+[19:05:17] *** Jbdye is now known as Jdbye
+[19:05:17] *** balrog_ is now known as balrog
+[19:05:19] *** Quits averne (quit)
+[19:05:36] *** Joins averne
+[19:05:36] *** Server sets mode: +stn 
+[19:07:55] *** Joins derk0pf
+[19:09:09] *** Joins oldtopman
+[19:14:01] *** Joins AlexAltea
+[19:24:04] *** Quits CCFL_Man_ (ircd.choopa.net irc.Prison.NET)
+[19:24:04] *** Quits IShaDoWl (ircd.choopa.net irc.Prison.NET)
+[19:29:30] *** Joins CCFL_Man_
+[19:29:30] *** Joins IShaDoWl
+[19:36:15] *** Quits averne (quit)
+[19:43:46] *** Joins averne_
+[19:43:46] *** Server sets mode: +stn 
+[19:43:50] *** Quits averne (Ping timeout: 610 seconds)
+[20:08:08] *** Joins plutobot
+[20:08:54] *** Joins DacoTaco
+[20:10:36] *** CCFL_Man_ is now known as CCFL_Man
+[20:12:34] *** Joins des^
+[20:17:02] *** Quits derk0pf (Ping timeout: 265 seconds)
+[20:20:05] *** Joins zini
+[20:30:08] *** Quits zini (Ping timeout: 272 seconds)
+[20:32:13] *** Joins changoXPR
+[20:32:50] *** Quits changoXPR (Read error: Connection reset by peer)
+[20:32:55] *** Quits changO- (Read error: Operation timed out)
+[20:33:08] *** Joins changO-
+[20:34:35] *** Joins changoXPR
+[20:39:07] <yellows8> doesn't matter, and daybreak can be used with either
+[20:41:43] *** Quits changO- (Ping timeout: 496 seconds)
+[20:41:43] *** changoXPR is now known as changO-
+[20:46:53] *** Joins derk0pf
+[20:57:17] *** Quits derk0pf (Read error: Operation timed out)
+[21:09:39] <IShaDoWl> ty yellow
+[21:33:45] *** Joins zini
+[21:48:37] *** Quits zini (Ping timeout: 745 seconds)
+[21:55:26] *** Quits IShaDoWl (Ping timeout: 260 seconds)
+[21:55:46] *** Joins IShaDoWl
+[21:57:29] *** Quits CCFL_Man (ny.us.hub irc.Prison.NET)
+[21:58:11] *** Quits DacoTaco (Ping timeout: 272 seconds)
+[21:59:27] *** Quits des^ (Ping timeout: 272 seconds)
+[21:59:27] *** Quits plutobot (Ping timeout: 272 seconds)
+[22:00:34] *** Joins CCFL_Man_
+[22:37:44] *** CCFL_Man_ is now known as CCFL_Man
+[22:39:41] *** Quits nullstrin (Read error: Operation timed out)
+[22:43:27] *** Joins nullstrin
+[22:48:17] *** Joins derk0pf
+[22:53:09] *** Quits derk0pf (Ping timeout: 265 seconds)
+[23:02:53] *** Joins plutobot
+[23:03:23] *** Joins DacoTaco
+[23:11:39] *** Quits plutobot (Ping timeout: 272 seconds)
+[23:12:17] *** Quits DacoTaco (Ping timeout: 272 seconds)
+[23:39:37] *** Joins figgis_
+[23:46:37] *** Quits Tcm0 (Read error: Operation timed out)
+[23:47:01] *** Quits fgsfds (Read error: Operation timed out)
