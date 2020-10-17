@@ -1,0 +1,48 @@
+[00:02:50] *** Quits mafcadio (Read error: Operation timed out)
+[00:06:05] *** Joins mafcadio
+[02:21:08] *** Joins rajkosto
+[03:57:39] *** Quits zombie343 (Ping timeout: 265 seconds)
+[03:58:06] *** Joins zombie343
+[03:58:30] *** Quits GerbilSof (Ping timeout: 265 seconds)
+[03:58:34] *** Joins GerbilS1
+[05:17:10] <plutobot> Wiki | Page changed: LDN services | User: yls8 | https://switchbrew.org/w/index.php?curid=109&diff=10021&oldid=10013
+[05:23:57] <plutobot> Wiki | Page changed: LDN services | User: yls8 | https://switchbrew.org/w/index.php?curid=109&diff=10022&oldid=10021
+[05:29:46] *** Quits rajkosto (Read error: Connection reset by peer)
+[05:31:05] <plutobot> Wiki | Page changed: BCAT services | User: Behemoth | https://switchbrew.org/w/index.php?curid=108&diff=10023&oldid=9732
+[05:34:39] <plutobot> Wiki | Page changed: LDN services | User: yls8 | https://switchbrew.org/w/index.php?curid=109&diff=10024&oldid=10022
+[06:35:34] *** Quits GerbilS1 (Quit: Windows must now restart because the Remote Procedure Call (RPC) service terminated unexpectedly.)
+[06:52:29] <plutobot> Wiki | Page changed: Mario Kart Live: Home Circuit | User: yls8 | https://switchbrew.org/w/index.php?curid=420&diff=10025&oldid=10020
+[06:57:25] <plutobot> Wiki | Page changed: LDN services | User: yls8 | https://switchbrew.org/w/index.php?curid=109&diff=10026&oldid=10024
+[07:08:24] *** Joins GerbilSof
+[07:28:31] <plutobot> Wiki | Page changed: LDN services | User: yls8 | https://switchbrew.org/w/index.php?curid=109&diff=10027&oldid=10026
+[07:43:48] <plutobot> Wiki | Page changed: LDN services | User: yls8 | https://switchbrew.org/w/index.php?curid=109&diff=10028&oldid=10027
+[14:30:19] *** Joins Not-Aus
+[14:59:37] *** Quits Not-Aus (Remote host closed the connection)
+[16:17:00] <plutobot> Wiki | Page changed: BCAT services | User: Behemoth | https://switchbrew.org/w/index.php?curid=108&diff=10029&oldid=10023
+[16:19:02] <plutobot> Wiki | Page changed: BCAT services | User: Behemoth | https://switchbrew.org/w/index.php?curid=108&diff=10030&oldid=10029
+[18:11:22] *** Quits coriolis (Ping timeout: 615 seconds)
+[18:20:32] *** Joins coriolis
+[20:35:54] *** Quits foghorn (Ping timeout: 265 seconds)
+[20:40:16] *** Joins foghorn
+[21:01:04] *** Quits foghorn (Quit: Leaving)
+[21:23:42] *** Quits |Shadow| (Remote host closed the connection)
+[21:29:17] *** Joins |Shadow|
+[21:29:18] *** Quits |Shadow| (Read error: Connection reset by peer)
+[21:30:37] *** Quits nullstrin (Read error: Operation timed out)
+[21:32:40] *** Joins foghorn
+[21:34:40] *** Joins nullstrin
+[21:36:50] *** Joins |Shadow|
+[21:37:25] *** Quits |Shadow| (Read error: Connection reset by peer)
+[21:57:34] *** Joins |Shadow|
+[22:36:13] *** Quits IShaDoWl (Ping timeout: 265 seconds)
+[22:36:31] *** Joins IShaDoWl
+[23:28:16] <plutobot> Wiki | Page changed: Mario Kart Live: Home Circuit | User: yls8 | https://switchbrew.org/w/index.php?curid=420&diff=10031&oldid=10025
+[23:53:31] *** Joins Generic
+[23:54:00] <Generic> hello, I'm trying to get resolution switching for docked mode with deko3d going
+[23:54:42] <Generic> my current approach is to create a 1920*1080 framebuffer
+[23:55:49] <Generic> and then using Swapchain::SetCrop with the proper resolution
+[23:56:14] <Generic> of course I also take the higher resolution into accoutn when setting the viewport/scissors
+[23:57:51] <Generic> in the end the image is weirdly zoomed in docked mode
+[23:57:59] <Generic> while everything works fine in handheld mode
+[23:59:41] <Generic> if I remove the setCrop call it works in docked mode
+[23:59:58] <Generic> but as expected in handheld mode the full hd framebuffer is drawn
