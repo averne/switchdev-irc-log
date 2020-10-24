@@ -1,0 +1,60 @@
+[00:00:11] <Generic> with only one area being drawn in
+[00:07:13] <Generic> I somehow got it working now
+[00:10:03] <Generic> that was a pretty stupid mess up in my scissor code, where the scaled scissor wasn't applied
+[00:10:56] <Generic> I also forgot nwindowSetDimensions
+[00:11:17] <Generic> which in contrast to setCrop doesn't seem to be wrapped via deko3d
+[01:12:35] <plutobot> Wiki | Page changed: Mario Kart Live: Home Circuit | User: yls8 | https://switchbrew.org/w/index.php?curid=420&diff=10032&oldid=10031
+[01:14:27] <plutobot> Wiki | Page changed: Mario Kart Live: Home Circuit | User: yls8 | https://switchbrew.org/w/index.php?curid=420&diff=10033&oldid=10032
+[01:51:40] <plutobot> Wiki | Page changed: LDN services | User: yls8 | https://switchbrew.org/w/index.php?curid=109&diff=10034&oldid=10028
+[01:59:39] <plutobot> Wiki | Page changed: BCAT services | User: Behemoth | https://switchbrew.org/w/index.php?curid=108&diff=10035&oldid=10030
+[02:00:51] <plutobot> Wiki | Page changed: LDN services | User: yls8 | https://switchbrew.org/w/index.php?curid=109&diff=10036&oldid=10034
+[02:17:13] *** Quits: Generic (~Thunderbi@2a02:8109:8b80:79d0:3cbf:1129:953:e02) (Read error: Operation timed out)
+[02:24:26] *** Joins: Generic (~Thunderbi@ip5f5aead7.dynamic.kabel-deutschland.de)
+[02:58:53] *** Quits: awordnot (~awordnot@c-71-194-7-27.hsd1.il.comcast.net) (Read error: Connection reset by peer)
+[02:59:02] *** Joins: awordnot (~awordnot@c-71-194-7-27.hsd1.il.comcast.net)
+[03:57:05] *** Quits: IShaDoWl (~IShaDoWl@131.red-79-150-215.dynamicip.rima-tde.net) ()
+[03:58:24] *** Quits: rmaw (~rmaw@163.172.57.156) (Read error: Operation timed out)
+[04:01:26] *** Quits: averne (~averne@176-179-35-51.abo.bbox.fr) (quit)
+[04:07:17] *** Joins: averne_ (~averne@176-179-35-51.abo.bbox.fr)
+[04:07:17] *** Joins: rmaw (~rmaw@163.172.57.156)
+[04:07:17] *** Quits: refsw (~refsw@80.150.130.51) (Read error: Operation timed out)
+[04:07:17] *** Quits: averne (~averne@176-179-35-51.abo.bbox.fr) (Read error: Operation timed out)
+[04:07:17] *** Server sets mode: +stn 
+[04:07:51] *** Quits: Generic1 (~Thunderbi@ip5f5aead7.dynamic.kabel-deutschland.de) (Read error: Operation timed out)
+[04:15:18] *** Joins: blasty (~blasty@haxx.in)
+[04:20:10] *** Quits: blasty (~blasty@haxx.in) (Remote host closed the connection)
+[04:20:14] *** Joins: blasty (~blasty@haxx.in)
+[04:22:52] *** Quits: Snetry (~sentry@dslb-178-001-203-104.178.001.pools.vodafone-ip.de) (Read error: Connection reset by peer)
+[04:30:55] *** Quits: blasty (~blasty@haxx.in) (Read error: Connection reset by peer)
+[04:30:55] *** Joins: blasty (~blasty@haxx.in)
+[04:30:56] *** Joins: Snetry (~sentry@dslb-178-001-203-104.178.001.pools.vodafone-ip.de)
+[04:38:31] *** Joins: Sentry- (~sentry@dslb-178-001-203-104.178.001.pools.vodafone-ip.de)
+[04:38:31] *** Quits: Snetry (~sentry@dslb-178-001-203-104.178.001.pools.vodafone-ip.de) (Read error: Connection reset by peer)
+[06:05:32] *** Joins: miigotu (~miigotu@custip-162-217-53-192.esvabroadband.net)
+[06:49:51] <plutobot> Wiki | Page changed: LDN services | User: yls8 | https://switchbrew.org/w/index.php?curid=109&diff=10037&oldid=10036
+[08:26:18] *** Joins: miigotu_ (~miigotu@custip-162-217-53-192.esvabroadband.net)
+[08:27:13] *** Joins: GrecKo (~grecko@static.183.157.9.5.clients.your-server.de)
+[08:28:03] *** Quits: GrecKo_ (~grecko@static.183.157.9.5.clients.your-server.de) (Read error: Operation timed out)
+[08:31:10] *** Quits: lameboy (~lameboy@202-47-121-182.cust.dcsi.net.au) (Read error: Operation timed out)
+[08:31:28] *** Quits: miigotu (~miigotu@custip-162-217-53-192.esvabroadband.net) (Read error: Operation timed out)
+[08:31:56] *** Joins: lameboy (~lameboy@202-47-121-182.cust.dcsi.net.au)
+[09:13:12] *** Joins: miigotu (~miigotu@custip-162-217-53-192.esvabroadband.net)
+[09:14:32] *** Quits: miigotu_ (~miigotu@custip-162-217-53-192.esvabroadband.net) (Read error: Operation timed out)
+[09:23:13] *** Joins: miigotu_ (~miigotu@custip-162-217-53-192.esvabroadband.net)
+[09:23:53] *** Quits: miigotu (~miigotu@custip-162-217-53-192.esvabroadband.net) (Ping timeout: 265 seconds)
+[09:57:39] *** Quits: ris2z (~2ri@static.200.38.9.176.clients.your-server.de) (Ping timeout: 186 seconds)
+[10:02:29] *** Joins: ris2z (~2ri@static.200.38.9.176.clients.your-server.de)
+[10:34:56] *** Joins: m4ts- (~mats@s176125235116.blix.com)
+[10:37:50] *** Quits: m4ts_ (~mats@s176125235106.blix.com) (Ping timeout: 265 seconds)
+[12:09:33] *** averne_ is now known as averne
+[13:10:19] *** Joins: refs (~refs@p200300dd874228003c76fd4746620623.dip0.t-ipconnect.de)
+[13:36:14] *** Quits: lameboy (~lameboy@202-47-121-182.cust.dcsi.net.au) (Ping timeout: 258 seconds)
+[13:37:01] *** Joins: lameboy (~lameboy@202-47-121-182.cust.dcsi.net.au)
+[18:07:13] <plutobot> Wiki | Page changed: BCAT services | User: Behemoth | https://switchbrew.org/w/index.php?curid=108&diff=10038&oldid=10035
+[18:41:35] *** Joins: Snetry (~sentry@dslb-178-001-118-022.178.001.pools.vodafone-ip.de)
+[18:41:35] *** Quits: Sentry- (~sentry@dslb-178-001-203-104.178.001.pools.vodafone-ip.de) (Read error: Operation timed out)
+[18:49:35] *** Joins: Sentry- (~sentry@dslb-094-220-215-236.094.220.pools.vodafone-ip.de)
+[18:50:55] *** Quits: Snetry (~sentry@dslb-178-001-118-022.178.001.pools.vodafone-ip.de) (Read error: Connection refused)
+[19:46:48] <plutobot> Wiki | Page changed: LDN services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=109&diff=10039&oldid=10037
+[19:49:11] <plutobot> Wiki | Page changed: LDN services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=109&diff=10040&oldid=10039
+[23:07:53] *** Quits: Extrems (gamecube@expert.extremscorner.org) (Ping timeout: 492 seconds)
