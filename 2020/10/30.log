@@ -1,0 +1,59 @@
+[00:23:22] <DoozerBot> PR-#500: Low level enhancements (incl. light events & revamped ASLR), building targets: 02lib
+[00:27:34] <DoozerBot> 02lib: 03 v3.3.0.73 Build OK - https://doozer.io/build/q9ife4m25l
+[02:45:21] *** Quits: refs (~refs@p200300dd87195b002c4ad813850d8faa.dip0.t-ipconnect.de) (Quit: refs)
+[04:23:20] *** Quits: des^ (~des@ip1f108006.dynamic.kabel-deutschland.de) (Ping timeout: 272 seconds)
+[04:23:37] *** Joins: des^ (~des@ip1f107a96.dynamic.kabel-deutschland.de)
+[08:22:38] *** Quits: fgsfds (~figgis@93.123.144.171) (Read error: Connection reset by peer)
+[09:17:57] *** Joins: CCFL_Man_ (527e0910e4@c-73-64-119-64.hsd1.pa.comcast.net)
+[09:21:43] *** Quits: CCFL_Man (1fe69e2bea@c-73-64-119-64.hsd1.pa.comcast.net) (Read error: Operation timed out)
+[11:44:49] *** Joins: rajkosto (~rajkosto@cable-178-149-112-48.dynamic.sbb.rs)
+[12:24:29] *** Quits: rajkosto (~rajkosto@cable-178-149-112-48.dynamic.sbb.rs) (Read error: Connection reset by peer)
+[13:20:03] <plutobot> Wiki | Page changed: Product Information | User: Thomhack50 | https://switchbrew.org/w/index.php?curid=384&diff=10124&oldid=10111
+[13:43:04] *** Quits: karolherb (~kherbst@2a02:8308:b088:c000:2bdf:b7aa:eede:d65f) (Quit: Konversation terminated!)
+[13:45:40] *** Joins: karolherb (~kherbst@2a02:8308:b088:c000:2bdf:b7aa:eede:d65f)
+[14:21:27] *** Joins: rajkosto (~rajkosto@cable-178-149-112-48.dynamic.sbb.rs)
+[14:25:31] *** Quits: rajkosto (~rajkosto@cable-178-149-112-48.dynamic.sbb.rs) (Read error: Connection reset by peer)
+[14:42:22] *** Quits: lameboy (~lameboy@202-47-121-182.cust.dcsi.net.au) (Ping timeout: 745 seconds)
+[14:42:54] *** Joins: lameboy (~lameboy@202-47-121-182.cust.dcsi.net.au)
+[15:01:02] *** Quits: zini (~zini@88-113-145-208.elisa-laajakaista.fi) (Ping timeout: 745 seconds)
+[15:02:24] *** Joins: zini (~zini@88-113-145-208.elisa-laajakaista.fi)
+[15:09:20] <plutobot> Wiki | Page changed: Product Information | User: Hiccup | https://switchbrew.org/w/index.php?curid=384&diff=10125&oldid=10124
+[15:16:49] <plutobot> Wiki | Page changed: Product Information | User: Hiccup | https://switchbrew.org/w/index.php?curid=384&diff=10126&oldid=10125
+[16:11:49] <DoozerBot> PR-#500: Low level enhancements (incl. light events & revamped ASLR), building targets: 02lib
+[16:16:00] <DoozerBot> 02lib: 03 v3.3.0.75 Build OK - https://doozer.io/build/ynm8kecz6y
+[16:35:10] *** Quits: nullstrin (~nullstrin@cermak.nullstring.io) (Read error: Operation timed out)
+[16:38:55] *** Joins: nullstrin (~nullstrin@cermak.nullstring.io)
+[16:46:44] <plutobot> Wiki | Page changed: Error codes | User: Ac K | https://switchbrew.org/w/index.php?curid=82&diff=10127&oldid=10002
+[17:07:38] <plutobot> Wiki | Page changed: Product Information | User: Hiccup | https://switchbrew.org/w/index.php?curid=384&diff=10128&oldid=10126
+[17:09:10] <plutobot> Wiki | New page: Talk:CNMT | User: Hiccup | https://switchbrew.org/w/index.php?curid=421
+[17:09:20] <plutobot> Wiki | Page changed: Talk:CNMT | User: Hiccup | https://switchbrew.org/w/index.php?curid=421&diff=10131&oldid=10130
+[17:09:20] <plutobot> Wiki | Page changed: Talk:CNMT | User: Hiccup | https://switchbrew.org/w/index.php?curid=421&diff=10130&oldid=10129
+[18:08:51] <plutobot> Wiki | Page changed: Product Information | User: Hexkyz | https://switchbrew.org/w/index.php?curid=384&diff=10132&oldid=10128
+[18:57:52] *** Joins: fgsfds (~figgis@93.123.144.171)
+[19:09:33] <plutobot> Wiki | Page changed: NV services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=88&diff=10133&oldid=9904
+[19:55:53] *** Quits: CCFL_Man_ (527e0910e4@c-73-64-119-64.hsd1.pa.comcast.net) (hub.efnet.us irc.colosolutions.net)
+[19:55:53] *** Quits: Jdbye (~furry4lif@me.jdbye.com) (hub.efnet.us irc.colosolutions.net)
+[19:55:53] *** Quits: oldtopman (~oldtopman@70-59-21-92.hlrn.qwest.net) (hub.efnet.us irc.colosolutions.net)
+[19:55:53] *** Quits: sh0e (~sh0e@node1.eisenkopf.info) (hub.efnet.us irc.colosolutions.net)
+[19:55:53] *** Quits: Behemoth (~quassel@vmd39331.contaboserver.net) (hub.efnet.us irc.colosolutions.net)
+[19:55:53] *** Quits: cpnc0ke (~ice@92-48-84-85.static.as29550.net) (hub.efnet.us irc.colosolutions.net)
+[19:55:53] *** Quits: fincs (~fincs@bnc.devkitpro.org) (hub.efnet.us irc.colosolutions.net)
+[19:55:53] *** Quits: WntrMute (~wntrmute@bnc.devkitpro.org) (hub.efnet.us irc.colosolutions.net)
+[19:56:07] *** Joins: CCFL_Man (b35da351b3@c-73-64-119-64.hsd1.pa.comcast.net)
+[19:58:39] *** Joins: Jdbye (~furry4lif@me.jdbye.com)
+[19:58:39] *** Joins: oldtopman (~oldtopman@70-59-21-92.hlrn.qwest.net)
+[19:58:39] *** Joins: sh0e (~sh0e@node1.eisenkopf.info)
+[19:58:39] *** Joins: Behemoth (~quassel@vmd39331.contaboserver.net)
+[19:58:39] *** Joins: cpnc0ke (~ice@92-48-84-85.static.as29550.net)
+[19:58:39] *** Joins: fincs (~fincs@bnc.devkitpro.org)
+[19:58:39] *** Joins: WntrMute (~wntrmute@bnc.devkitpro.org)
+[19:58:44] *** yls8bot sets mode: +o fincs
+[19:58:54] *** yls8bot sets mode: +o WntrMute
+[21:48:11] *** Quits: rmaw (~rmaw@163.172.57.156) (Read error: Operation timed out)
+[21:51:52] *** Quits: d3m3vilur (sid4654@id-4654.charlton.irccloud.com) (Read error: Operation timed out)
+[21:51:57] *** Quits: Snetry (~sentry@dslb-092-072-098-051.092.072.pools.vodafone-ip.de) (Read error: Connection reset by peer)
+[21:51:59] *** Joins: Sentry- (~sentry@dslb-092-072-098-051.092.072.pools.vodafone-ip.de)
+[21:52:01] *** Joins: refsw (~refsw@80.150.130.51)
+[21:52:04] *** Joins: d3m3vilur (sid4654@id-4654.charlton.irccloud.com)
+[21:54:08] *** Quits: refsw3 (~refsw@80.150.130.51) (Read error: Operation timed out)
+[22:00:33] *** Joins: rmaw (~rmaw@163.172.57.156)
