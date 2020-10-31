@@ -1,0 +1,98 @@
+[00:02:54] *** Joins balrog
+[00:08:19] *** Joins GrecKo_
+[00:08:46] *** Joins omlet05_
+[00:15:18] *** Quits Jdbye (Ping timeout: 745 seconds)
+[00:15:54] *** Quits hthh (Ping timeout: 745 seconds)
+[00:16:28] *** Quits ave_ (Ping timeout: 745 seconds)
+[00:16:28] *** Quits derrek (Ping timeout: 745 seconds)
+[00:16:28] *** Quits GrecKo (Ping timeout: 745 seconds)
+[00:16:29] *** Quits coriolis (Ping timeout: 745 seconds)
+[00:16:29] *** Quits omlet05 (Ping timeout: 745 seconds)
+[00:16:30] *** Quits gruetzkop (Ping timeout: 745 seconds)
+[00:16:31] *** Quits dibas (Ping timeout: 745 seconds)
+[00:17:23] *** Joins Jdbye
+[00:21:39] *** Joins coriolis
+[00:22:57] *** Joins gruetzkop
+[00:40:53] <plutobot> Wiki | Page changed: Super Mario 3D All-Stars | User: yls8 | https://switchbrew.org/w/index.php?curid=419&diff=10114&oldid=10011
+[00:45:38] *** Quits karolherb (Quit: Konversation terminated!)
+[01:11:46] *** Quits averne (quit)
+[01:46:26] *** Joins averne
+[01:46:27] *** Server sets mode: +stn 
+[02:23:09] *** Quits karolherb (Quit: Konversation terminated!)
+[02:23:58] *** Quits fgsfds (Read error: Connection reset by peer)
+[02:44:46] *** Quits refs (Quit: refs)
+[02:51:43] *** Joins karolherb
+[03:00:03] *** Quits nohit (Read error: Connection reset by peer)
+[03:01:52] *** Joins nohit
+[03:06:30] *** Quits karolherb (Ping timeout: 272 seconds)
+[03:17:44] *** Joins lemmu
+[03:17:46] *** Quits lemmy (Read error: Connection reset by peer)
+[03:18:53] *** Quits thejsa (Read error: Operation timed out)
+[03:18:57] *** Joins thejsa
+[03:22:00] *** Quits phigcloud (Ping timeout: 610 seconds)
+[03:23:15] *** Joins anewuser
+[03:24:44] *** Joins anewuser_
+[03:25:08] *** Joins phigcloud
+[03:25:26] *** Quits anewuser_ (Remote host closed the connection)
+[03:26:28] *** Joins anewuser_
+[03:29:50] *** Quits anewuser (Ping timeout: 376 seconds)
+[03:32:30] *** Joins karolherb
+[03:41:24] *** Quits anewuser_ (Remote host closed the connection)
+[03:42:18] *** Joins anewuser
+[03:47:35] *** Joins dibas
+[03:49:47] *** Joins derrek
+[03:50:07] *** Joins hthh
+[05:17:27] *** Quits anewuser (Remote host closed the connection)
+[05:18:00] *** Joins anewuser
+[06:46:58] *** Quits anewuser (Quit: Leaving)
+[07:07:39] <plutobot> Wiki | Page changed: Super Mario 3D All-Stars | User: yls8 | https://switchbrew.org/w/index.php?curid=419&diff=10117&oldid=10116
+[08:21:57] *** Quits DacoTaco (Quit: ZNC 1.6.5+deb1 - http://znc.in)
+[08:32:12] *** Joins DacoTaco
+[09:14:28] *** Quits phigcloud (irc.efnet.nl efnet.deic.eu)
+[10:19:06] *** Quits lameboy (Read error: Connection reset by peer)
+[10:19:52] *** Joins lameboy
+[10:20:21] *** Joins foghorn3
+[10:24:02] *** Quits foghorn2 (Ping timeout: 265 seconds)
+[12:37:04] *** Quits IShaDoWl ()
+[13:16:59] *** Joins phigcloud
+[14:13:16] <plutobot> GitHub | New PR: Low level enh... | User: fincs | https://github.com/switchbrew/libnx/pull/500
+[14:13:24] <DoozerBot> PR-#500: Low level enhancements (incl. light events & revamped ASLR), building targets: 02lib
+[14:17:37] <DoozerBot> 02lib: 03 v3.3.0.71 Build OK - https://doozer.io/build/dbxm2jmsl3
+[14:20:22] <plutobot> GitHub | New PR: Miscellaneous... | User: fincs | https://github.com/switchbrew/nx-hbloader/pull/34
+[16:54:00] <DoozerBot> PR-#500: Low level enhancements (incl. light events & revamped ASLR), building targets: 02lib
+[16:58:34] <DoozerBot> 02lib: 03 v3.3.0.72 Build OK - https://doozer.io/build/qej09uonxr
+[17:06:32] *** Joins fgsfds
+[17:13:59] *** Quits lameboy (Read error: Operation timed out)
+[17:14:08] *** Joins lameboy
+[17:28:23] <plutobot> Wiki | Page changed: Super Mario 3D All-Stars | User: yls8 | https://switchbrew.org/w/index.php?curid=419&diff=10118&oldid=10117
+[18:13:04] <plutobot> Wiki | Page changed: Super Mario 3D All-Stars | User: yls8 | https://switchbrew.org/w/index.php?curid=419&diff=10119&oldid=10118
+[18:31:46] <plutobot> Wiki | Page changed: Super Mario 3D All-Stars | User: yls8 | https://switchbrew.org/w/index.php?curid=419&diff=10120&oldid=10119
+[19:06:07] *** Quits balrog (Bye)
+[19:07:43] *** Joins balrog
+[19:09:39] *** Quits lameboy (Read error: Connection reset by peer)
+[19:37:35] *** Joins lameboy
+[20:34:43] *** Quits Phils3r_ (Quit: ZNC - https://znc.in)
+[20:34:48] *** Quits rctgamer3 (Quit: Meh.)
+[20:36:49] *** Joins Phils3r
+[20:37:02] *** Joins rctgamer3
+[20:37:13] *** Quits CCFL_Man (Remote host closed the connection)
+[20:37:17] *** Joins CCFL_Man
+[20:58:15] <plutobot> Wiki | Page changed: Super Mario 3D All-Stars | User: yls8 | https://switchbrew.org/w/index.php?curid=419&diff=10121&oldid=10120
+[21:27:39] *** Quits GerbilSof (Ping timeout: 265 seconds)
+[21:31:39] *** Joins GerbilSof
+[21:32:05] *** Joins refs
+[22:01:10] <plutobot> Wiki | Page changed: Super Mario 3D All-Stars | User: yls8 | https://switchbrew.org/w/index.php?curid=419&diff=10122&oldid=10121
+[22:21:03] <plutobot> Wiki | Page changed: Super Mario 3D All-Stars | User: yls8 | https://switchbrew.org/w/index.php?curid=419&diff=10123&oldid=10122
+[22:54:19] *** Joins capin
+[22:54:24] *** Quits capin (Client Quit)
+[22:55:19] *** Joins capin
+[23:04:03] *** Joins anewuser
+[23:04:53] *** Quits anewuser (Read error: Connection reset by peer)
+[23:05:43] *** Joins anewuser
+[23:14:56] *** Quits anewuser (Remote host closed the connection)
+[23:16:31] *** Joins anewuser
+[23:24:02] *** Quits anewuser (Ping timeout: 376 seconds)
+[23:24:03] <DoozerBot> PR-#500: Low level enhancements (incl. light events & revamped ASLR), building targets: 02lib
+[23:27:25] <DoozerBot> PR-#500: Low level enhancements (incl. light events & revamped ASLR), building targets: 02lib
+[23:27:26] <DoozerBot> 02lib: 08 v3.3.0.73 Cancelled - https://doozer.io/build/kfej9ajmp7
+[23:30:38] <DoozerBot> 02lib: 03 v3.3.0.72 Build OK - https://doozer.io/build/xa57d0gk4u

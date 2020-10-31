@@ -1,0 +1,64 @@
+[00:13:54] *** Quits nullstrin (Read error: Operation timed out)
+[00:17:39] *** Joins nullstrin
+[02:07:40] *** Quits |Shadow| (Read error: Operation timed out)
+[03:21:03] *** Joins |Shadow|
+[03:51:07] *** Quits flagrama (Read error: Connection reset by peer)
+[03:53:15] *** Joins flagrama
+[04:00:19] <plutobot> Wiki | Page changed: Super Mario 3D All-Stars | User: yls8 | https://switchbrew.org/w/index.php?curid=419&diff=10134&oldid=10123
+[05:16:05] <Behemoth> Is there anything that needs to be done before calling nifmIsAnyInternetRequestAccepted? Wanted to use some ns command and that always failed since the command internally returns 0 so 0x2a810 gets returned by libnx. The ns call works fine w/o.
+[07:23:43] *** Quits endrift (Read error: Operation timed out)
+[07:23:51] *** Joins endrift
+[07:24:22] *** Quits WntrMute (Read error: Operation timed out)
+[07:24:30] *** Joins WntrMute
+[07:24:30] *** fincs sets mode: +o WntrMute
+[07:37:25] *** Joins |Shadow|_
+[07:42:53] *** Quits |Shadow| (Read error: Operation timed out)
+[07:43:26] *** Quits fgsfds (Read error: Connection reset by peer)
+[07:54:34] *** Joins |Shadow|
+[07:59:17] *** Quits |Shadow|_ (Read error: Operation timed out)
+[08:03:05] *** Joins |Shadow|_
+[08:05:15] *** Quits |Shadow| (Read error: Operation timed out)
+[08:42:31] *** |Shadow|_ is now known as |Shadow|
+[09:43:56] *** Quits lameboy (Read error: Operation timed out)
+[09:44:12] *** Joins lameboy
+[14:07:37] <DoozerBot> PR-#500: Low level enhancements (incl. light events & revamped ASLR), building targets: 02lib
+[14:12:11] <DoozerBot> 02lib: 03 v3.3.0.76 Build OK - https://doozer.io/build/5irubtpj5d
+[15:40:51] *** Joins IShaDoWl
+[16:04:14] *** Joins rajkosto
+[17:29:07] *** Joins fgsfds
+[17:32:07] *** Quits rajkosto (Read error: Connection reset by peer)
+[17:49:00] <plutobot> Wiki | Page changed: Error codes | User: Hexkyz | https://switchbrew.org/w/index.php?curid=82&diff=10135&oldid=10127
+[17:49:51] <plutobot> Wiki | Page changed: Error codes | User: Hexkyz | https://switchbrew.org/w/index.php?curid=82&diff=10136&oldid=10135
+[18:03:42] *** Quits karolherb (Ping timeout: 272 seconds)
+[18:09:44] <plutobot> Wiki | Page changed: PCV services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=126&diff=10137&oldid=9170
+[18:14:20] <plutobot> Wiki | Page changed: PCV services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=126&diff=10138&oldid=10137
+[18:50:50] <plutobot> GitHub | New PR: Added French ... | User: MehdiKhelfi | https://github.com/switchbrew/nx-hbmenu/pull/127
+[18:53:06] <plutobot> GitHub | New commit | User: Mehdi Khelfi | https://github.com/switchbrew/nx-hbmenu/commit/df09e9ed1b
+[18:55:52] <DoozerBot> 02lib: 03Build OK - https://doozer.io/build/5irubtpj5d
+[18:55:54] <plutobot> GitHub | New commit | User: fincs | https://github.com/switchbrew/libnx/commit/091f88915d
+[18:55:54] <plutobot> GitHub | New commit | User: fincs | https://github.com/switchbrew/libnx/commit/22a3efcbe1
+[18:55:54] <plutobot> GitHub | New commit | User: fincs | https://github.com/switchbrew/libnx/commit/8310f438ca
+[18:56:56] *** Joins mukunda
+[19:25:46] <plutobot> GitHub | New commit | User: fincs | https://github.com/switchbrew/switch-examples/commit/f252e65ebd
+[19:25:46] <plutobot> GitHub | New commit | User: fincs | https://github.com/switchbrew/switch-examples/commit/847bb129e9
+[20:07:41] *** Joins derk0pf
+[20:33:40] *** Joins Snetry
+[20:36:26] *** Quits Sentry- (Read error: Connection refused)
+[20:44:40] *** Joins ave_
+[20:54:12] *** Joins Sentry-
+[20:55:31] *** Quits Snetry (Read error: Connection refused)
+[21:05:49] *** Quits Sentry- (Quit: left EFNet)
+[22:26:58] *** Quits ave_ (Remote host closed the connection)
+[22:30:11] *** Joins ave_
+[22:30:24] *** Quits ave_ (Client Quit)
+[22:30:48] *** Joins ave_
+[22:39:11] *** Joins anewuser
+[23:08:49] <yellows8> Behemoth: dunno, not sure if it's related to having domains blocked
+[23:16:31] *** Quits derk0pf (Read error: Operation timed out)
+[23:35:21] <plutobot> Wiki | Page changed: Super Mario 3D All-Stars | User: yls8 | https://switchbrew.org/w/index.php?curid=419&diff=10139&oldid=10134
+[23:50:21] <Behemoth> You mean sth like 90dns blocking? Don't have that enabled.
+[23:50:21] <Behemoth> Wrote a smoll program that updates all switch games since official software only updates the 10 last played ones.
+[23:50:21] <Behemoth> It uses a shim of nsRequestUpdateApplication2 now w/o the nifm request.
+[23:56:14] *** Joins derk0pf
+[23:57:22] *** Quits anewuser (Remote host closed the connection)
+[23:58:17] *** Joins anewuser

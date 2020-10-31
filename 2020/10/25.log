@@ -1,0 +1,50 @@
+[00:39:14] *** Quits derk0pf (Read error: Connection reset by peer)
+[00:49:32] <plutobot> Wiki | Page changed: LDN services | User: yls8 | https://switchbrew.org/w/index.php?curid=109&diff=10101&oldid=10100
+[01:16:20] *** Joins derk0pf
+[01:27:42] *** Quits derk0pf (Read error: Connection reset by peer)
+[02:11:15] <plutobot> Wiki | Page changed: LDN services | User: yls8 | https://switchbrew.org/w/index.php?curid=109&diff=10102&oldid=10101
+[02:12:32] *** Quits ave_ (Quit: Ping timeout (120 seconds))
+[02:13:03] *** Joins ave_
+[02:22:28] *** Joins derk0pf
+[02:22:28] *** Quits derk0pf (Read error: Connection reset by peer)
+[04:24:04] *** Joins derk0pf
+[04:38:33] *** Quits derk0pf (Read error: Connection reset by peer)
+[04:58:22] *** Quits refs (Quit: refs)
+[05:07:58] <plutobot> Wiki | Page changed: LDN services | User: yls8 | https://switchbrew.org/w/index.php?curid=109&diff=10103&oldid=10102
+[05:38:53] <plutobot> Wiki | Page changed: LDN services | User: yls8 | https://switchbrew.org/w/index.php?curid=109&diff=10104&oldid=10103
+[08:01:51] *** Quits fgsfds (Read error: Connection reset by peer)
+[09:41:45] *** Joins derk0pf
+[10:38:46] *** Quits derk0pf (Read error: Connection reset by peer)
+[10:57:56] *** Joins derk0pf
+[11:35:33] *** Quits des^ (Quit: Ping timeout (120 seconds))
+[11:45:35] *** Joins des^
+[11:51:00] *** Quits derk0pf (Ping timeout: 610 seconds)
+[12:13:09] *** Joins refs
+[12:26:47] *** Joins derk0pf
+[12:55:30] *** Quits derk0pf (Read error: Operation timed out)
+[14:01:37] *** Joins derk0pf
+[15:48:19] *** Quits ris2z (Ping timeout: 186 seconds)
+[15:51:06] *** Joins ris2z
+[16:05:19] *** Joins usineur
+[16:11:59] <usineur> hi, do mesa/nouveau support anti-aliasing on Switch ?
+[16:12:04] *** Joins fgsfds
+[16:44:55] *** Joins m4ts_
+[16:46:57] *** Quits m4ts- (Ping timeout: 265 seconds)
+[16:54:00] *** Joins m4ts-
+[16:55:33] *** Joins m4ts|
+[16:57:06] *** Quits m4ts_ (Ping timeout: 383 seconds)
+[16:58:33] *** Quits m4ts- (Ping timeout: 265 seconds)
+[18:14:14] <plutobot> Wiki | Page changed: LDN services | User: yls8 | https://switchbrew.org/w/index.php?curid=109&diff=10105&oldid=10104
+[19:00:58] <plutobot> GitHub | New commit | User: yellows | https://github.com/switchbrew/libnx/commit/8a31abeea7
+[19:01:02] <DoozerBot> yellows8 pushed to master: Added lp2p. "Added lp2p." [032 files added07, 1 file modified], building targets: 02lib
+[19:01:39] *** Quits changO- (Read error: Connection reset by peer)
+[19:04:38] <DoozerBot> 02lib: 03 v3.3.0.60 Build OK - https://doozer.io/build/wd73h9pmwv
+[19:22:56] *** Quits derk0pf (Ping timeout: 272 seconds)
+[19:49:01] *** Joins derk0pf
+[19:57:51] *** Quits derk0pf (Ping timeout: 501 seconds)
+[20:05:38] *** Joins derk0pf
+[20:30:21] *** Quits GerbilSof (Quit: Windows must now restart because the Remote Procedure Call (RPC) service terminated unexpectedly.)
+[20:32:27] *** Joins GerbilSof
+[22:22:46] *** Quits GerbilSof (Quit: Windows must now restart because the Remote Procedure Call (RPC) service terminated unexpectedly.)
+[22:23:14] *** Joins GerbilSof
+[23:45:43] *** Joins changO-

@@ -1,0 +1,59 @@
+[00:23:22] <DoozerBot> PR-#500: Low level enhancements (incl. light events & revamped ASLR), building targets: 02lib
+[00:27:34] <DoozerBot> 02lib: 03 v3.3.0.73 Build OK - https://doozer.io/build/q9ife4m25l
+[02:45:21] *** Quits refs (Quit: refs)
+[04:23:20] *** Quits des^ (Ping timeout: 272 seconds)
+[04:23:37] *** Joins des^
+[08:22:38] *** Quits fgsfds (Read error: Connection reset by peer)
+[09:17:57] *** Joins CCFL_Man_
+[09:21:43] *** Quits CCFL_Man (Read error: Operation timed out)
+[11:44:49] *** Joins rajkosto
+[12:24:29] *** Quits rajkosto (Read error: Connection reset by peer)
+[13:20:03] <plutobot> Wiki | Page changed: Product Information | User: Thomhack50 | https://switchbrew.org/w/index.php?curid=384&diff=10124&oldid=10111
+[13:43:04] *** Quits karolherb (Quit: Konversation terminated!)
+[13:45:40] *** Joins karolherb
+[14:21:27] *** Joins rajkosto
+[14:25:31] *** Quits rajkosto (Read error: Connection reset by peer)
+[14:42:22] *** Quits lameboy (Ping timeout: 745 seconds)
+[14:42:54] *** Joins lameboy
+[15:01:02] *** Quits zini (Ping timeout: 745 seconds)
+[15:02:24] *** Joins zini
+[15:09:20] <plutobot> Wiki | Page changed: Product Information | User: Hiccup | https://switchbrew.org/w/index.php?curid=384&diff=10125&oldid=10124
+[15:16:49] <plutobot> Wiki | Page changed: Product Information | User: Hiccup | https://switchbrew.org/w/index.php?curid=384&diff=10126&oldid=10125
+[16:11:49] <DoozerBot> PR-#500: Low level enhancements (incl. light events & revamped ASLR), building targets: 02lib
+[16:16:00] <DoozerBot> 02lib: 03 v3.3.0.75 Build OK - https://doozer.io/build/ynm8kecz6y
+[16:35:10] *** Quits nullstrin (Read error: Operation timed out)
+[16:38:55] *** Joins nullstrin
+[16:46:44] <plutobot> Wiki | Page changed: Error codes | User: Ac K | https://switchbrew.org/w/index.php?curid=82&diff=10127&oldid=10002
+[17:07:38] <plutobot> Wiki | Page changed: Product Information | User: Hiccup | https://switchbrew.org/w/index.php?curid=384&diff=10128&oldid=10126
+[17:09:10] <plutobot> Wiki | New page: Talk:CNMT | User: Hiccup | https://switchbrew.org/w/index.php?curid=421
+[17:09:20] <plutobot> Wiki | Page changed: Talk:CNMT | User: Hiccup | https://switchbrew.org/w/index.php?curid=421&diff=10131&oldid=10130
+[17:09:20] <plutobot> Wiki | Page changed: Talk:CNMT | User: Hiccup | https://switchbrew.org/w/index.php?curid=421&diff=10130&oldid=10129
+[18:08:51] <plutobot> Wiki | Page changed: Product Information | User: Hexkyz | https://switchbrew.org/w/index.php?curid=384&diff=10132&oldid=10128
+[18:57:52] *** Joins fgsfds
+[19:09:33] <plutobot> Wiki | Page changed: NV services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=88&diff=10133&oldid=9904
+[19:55:53] *** Quits CCFL_Man_ (hub.efnet.us irc.colosolutions.net)
+[19:55:53] *** Quits Jdbye (hub.efnet.us irc.colosolutions.net)
+[19:55:53] *** Quits oldtopman (hub.efnet.us irc.colosolutions.net)
+[19:55:53] *** Quits sh0e (hub.efnet.us irc.colosolutions.net)
+[19:55:53] *** Quits Behemoth (hub.efnet.us irc.colosolutions.net)
+[19:55:53] *** Quits cpnc0ke (hub.efnet.us irc.colosolutions.net)
+[19:55:53] *** Quits fincs (hub.efnet.us irc.colosolutions.net)
+[19:55:53] *** Quits WntrMute (hub.efnet.us irc.colosolutions.net)
+[19:56:07] *** Joins CCFL_Man
+[19:58:39] *** Joins Jdbye
+[19:58:39] *** Joins oldtopman
+[19:58:39] *** Joins sh0e
+[19:58:39] *** Joins Behemoth
+[19:58:39] *** Joins cpnc0ke
+[19:58:39] *** Joins fincs
+[19:58:39] *** Joins WntrMute
+[19:58:44] *** yls8bot sets mode: +o fincs
+[19:58:54] *** yls8bot sets mode: +o WntrMute
+[21:48:11] *** Quits rmaw (Read error: Operation timed out)
+[21:51:52] *** Quits d3m3vilur (Read error: Operation timed out)
+[21:51:57] *** Quits Snetry (Read error: Connection reset by peer)
+[21:51:59] *** Joins Sentry-
+[21:52:01] *** Joins refsw
+[21:52:04] *** Joins d3m3vilur
+[21:54:08] *** Quits refsw3 (Read error: Operation timed out)
+[22:00:33] *** Joins rmaw

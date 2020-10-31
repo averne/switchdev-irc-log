@@ -1,0 +1,57 @@
+[00:15:02] *** Quits Phils3r_ (Quit: ZNC - https://znc.in)
+[00:15:11] *** Joins Phils3r
+[00:28:22] <plutobot> Wiki | Page changed: LDN services | User: yls8 | https://switchbrew.org/w/index.php?curid=109&diff=10106&oldid=10105
+[00:46:02] <plutobot> Wiki | Page changed: LDN services | User: yls8 | https://switchbrew.org/w/index.php?curid=109&diff=10107&oldid=10106
+[00:55:41] <plutobot> GitHub | New commit | User: yellows | https://github.com/switchbrew/libnx/commit/8718c145f6
+[00:55:45] <DoozerBot> yellows8 pushed to master: lp2p: Updated docs. "lp2p: Updated docs." [071 file modified], building targets: 02lib
+[00:59:24] <DoozerBot> 02lib: 03 v3.3.0.61 Build OK - https://doozer.io/build/b567z1v0cd
+[04:46:49] *** Quits refs (Quit: refs)
+[06:26:27] *** Quits phigcloud (Quit: Connection closed for inactivity)
+[07:03:18] *** Quits thejsa (Remote host closed the connection)
+[07:03:35] *** Joins thejsa
+[07:03:42] *** Joins phigcloud
+[08:05:17] *** Quits fgsfds (Read error: Connection reset by peer)
+[08:11:55] *** Quits derk0pf (Read error: Operation timed out)
+[10:04:39] *** Joins derk0pf
+[11:30:57] <DoozerBot> PR-#498: gpio: implement majority of the service, building targets: 02lib
+[11:34:38] <DoozerBot> 02lib: 03 v3.3.0.62 Build OK - https://doozer.io/build/h6mu2bqsak
+[11:36:38] *** Quits derk0pf (Read error: Operation timed out)
+[11:47:43] <plutobot> GitHub | New PR: gpio implemen... | User: SciresM | https://github.com/switchbrew/libnx/pull/498
+[11:48:15] <plutobot> GitHub | New commit | User: Michael Scire | https://github.com/switchbrew/libnx/commit/0ff42ee69e
+[11:48:20] <DoozerBot> fincs pushed to master: gpio: implement majority of the service "gpio: implement majority of the service" [072 files modified], building targets: 02lib
+[11:50:17] <DoozerBot> PR-#499: gpio: loosen sysver restriction on OpenSession, building targets: 02lib
+[11:50:22] <plutobot> GitHub | New PR: gpio loosen s... | User: SciresM | https://github.com/switchbrew/libnx/pull/499
+[11:53:43] <DoozerBot> 02lib: 03 v3.3.0.62 Build OK - https://doozer.io/build/f4ahg0h5d0
+[11:55:01] <DoozerBot> 02lib: 03 v3.3.0.63 Build OK - https://doozer.io/build/8s5rg3t13o
+[11:55:08] <DoozerBot> fincs pushed to master: gpio: loosen sysver restriction on OpenSession "gpio: loosen sysver restriction on OpenSession" [071 file modified], building targets: 02lib
+[11:55:08] <plutobot> GitHub | New commit | User: Michael Scire | https://github.com/switchbrew/libnx/commit/dee3a7a241
+[11:58:18] <DoozerBot> 02lib: 03 v3.3.0.63 Build OK - https://doozer.io/build/orx1elg72o
+[11:58:58] *** Joins derk0pf
+[13:16:32] *** Joins derk0pf_
+[13:16:32] *** Quits derk0pf (Read error: Connection reset by peer)
+[13:22:53] *** Quits derk0pf_ (Remote host closed the connection)
+[13:36:45] *** Quits giglife (Read error: Operation timed out)
+[13:37:21] *** Joins giglife
+[14:25:35] *** Quits giglife (Read error: Connection reset by peer)
+[14:25:42] *** Joins giglife
+[15:31:52] *** Quits derrek (Quit: This should have not happened.)
+[15:35:07] *** Joins derrek
+[15:40:27] *** Joins fgsfds
+[15:53:31] *** Quits GerbilSof (Quit: Windows must now restart because the Remote Procedure Call (RPC) service terminated unexpectedly.)
+[15:58:19] *** Joins GerbilSof
+[17:06:36] <plutobot> Wiki | Page changed: LDN services | User: yls8 | https://switchbrew.org/w/index.php?curid=109&diff=10108&oldid=10107
+[18:09:32] <plutobot> Wiki | Page changed: Bus services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=152&diff=10109&oldid=10099
+[18:24:15] <plutobot> Wiki | Page changed: JIT services | User: yls8 | https://switchbrew.org/w/index.php?curid=330&diff=10110&oldid=10010
+[20:15:46] *** Joins Codename
+[20:15:48] *** Joins guest7558
+[20:16:36] <Codename> are switches currently shipping on a vulnerable sw version?
+[20:42:00] *** Quits oldtopman (Read error: Operation timed out)
+[20:44:53] *** Quits guest7558 ()
+[20:59:47] *** Joins oldtopman
+[21:31:21] <yellows8> that needs <=4.x if using sw-only-hax, so no
+[21:36:56] *** Joins refs
+[21:51:55] <Codename> are modchip hax still doable on current HW?
+[21:52:09] <Codename> i am not afraid of a soldering iron
+[21:54:52] <yellows8> that modchip is not supported in this channel
+[22:09:53] <plutobot> Wiki | Page changed: Product Information | User: Thomhack50 | https://switchbrew.org/w/index.php?curid=384&diff=10111&oldid=9952
+[22:25:06] *** Quits Codename (Ping timeout: 252 seconds)
