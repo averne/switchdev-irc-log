@@ -1,0 +1,131 @@
+[00:59:55] *** Joins anewuser_
+[00:59:56] <yellows8> maybe check what qlaunch does with nifm *shrug*
+[01:00:17] *** Quits anewuser_ (Read error: Connection reset by peer)
+[01:00:46] *** Joins anewuser_
+[01:01:41] <Behemoth> did you test the ns cmds before commiting to libnx?
+[01:02:46] *** Quits anewuser (Ping timeout: 376 seconds)
+[01:02:57] <Behemoth> I wish Nintendo wouldn't have used shared pointers for their ipc interfaces. It's such a pain to to find calls.
+[01:05:07] <yellows8> iirc it may have thrown that same error here (was a good while ago)... but my system has domains blocked (and banned) anyway heh
+[01:05:32] <Behemoth> heh
+[01:07:36] *** Quits GerbilSof (Quit: Windows must now restart because the Remote Procedure Call (RPC) service terminated unexpectedly.)
+[01:11:46] <yellows8> "... find calls" are you using this or similar btw? https://github.com/hthh/switch-reversing/tree/master/pattern
+[01:14:09] <Behemoth> yes
+[01:14:17] <Behemoth> but ns stuff isn't in nnSdk
+[01:14:33] <Behemoth> at least it never matches >.<
+[01:15:03] <yellows8> meant nifm
+[01:15:52] <Behemoth> yeah that works
+[01:15:55] <Behemoth> I'll give it a try
+[01:15:57] <Behemoth> thank
+[01:16:00] <Behemoth> thanks*
+[01:16:47] <yellows8> :)
+[01:42:41] <Behemoth> Ok I got it to work.
+[01:42:41] <Behemoth> Had to submit a NifmRequest first.
+[01:42:41] <Behemoth> Wacky how this interface is detached from nifm::IsAnyInternetRequestAccepted
+[01:54:08] *** Quits flagrama (Read error: Connection reset by peer)
+[01:55:13] *** Quits anewuser_ (Remote host closed the connection)
+[01:55:45] *** Joins anewuser
+[01:56:05] *** Joins flagrama
+[02:25:32] <yellows8> :)
+[02:48:18] *** Quits DoozerBot (Remote host closed the connection)
+[03:16:46] *** Quits anewuser (Read error: Connection reset by peer)
+[03:17:44] *** Joins anewuser
+[03:18:01] *** Quits anewuser (Remote host closed the connection)
+[03:20:07] *** Joins anewuser
+[03:20:40] *** Quits anewuser (Client Quit)
+[03:46:41] <plutobot> Wiki | Page changed: Super Mario 3D All-Stars | User: yls8 | https://switchbrew.org/w/index.php?curid=419&diff=10140&oldid=10139
+[05:42:10] *** Quits |Shadow| (Read error: Connection reset by peer)
+[05:53:00] *** Joins |Shadow|
+[06:52:43] *** Quits derk0pf (Read error: Operation timed out)
+[07:16:50] *** Joins derk0pf
+[07:35:48] *** Joins GerbilSof
+[08:03:54] *** Quits mukunda (Ping timeout: 265 seconds)
+[09:01:38] *** Quits fgsfds (Read error: Connection reset by peer)
+[09:09:30] *** Joins Tcm0
+[09:27:52] *** Quits derk0pf (Ping timeout: 745 seconds)
+[09:41:07] *** Quits IShaDoWl ()
+[11:51:21] <plutobot> GitHub | New PR: Add virtmemFi... | User: DCNick | https://github.com/switchbrew/libnx/pull/501
+[12:05:14] *** Joins derk0pf
+[12:15:28] *** Joins derk0pf_
+[12:17:10] *** Quits derk0pf (Ping timeout: 265 seconds)
+[13:14:30] *** Joins zini-
+[13:15:03] *** Joins Phils3r_
+[13:15:03] *** Quits Phils3r (Read error: Connection reset by peer)
+[13:15:13] *** Quits derrek (Read error: Connection reset by peer)
+[13:15:13] *** Quits thejsa (Write error: Connection reset by peer)
+[13:15:19] *** Quits MasterGK (Read error: Connection reset by peer)
+[13:15:19] *** Quits rctgamer3 (Read error: Connection reset by peer)
+[13:15:35] *** Joins uyjulian_
+[13:15:39] *** Joins derrek
+[13:15:39] *** Joins rctgamer3
+[13:15:39] *** Joins SCV__
+[13:15:48] *** Joins ave_8
+[13:16:06] *** Joins thejsa
+[13:16:23] *** Quits SCV__ (Read error: Connection reset by peer)
+[13:16:29] *** Joins dibas_
+[13:17:20] *** Joins rjeli____
+[13:17:55] *** Joins SCV__
+[13:19:01] *** Joins Ghabry
+[13:19:55] *** Quits SCV__ (Read error: Connection reset by peer)
+[13:19:55] *** Quits rjeli____ (Read error: Connection reset by peer)
+[13:22:45] *** Joins SCV__
+[13:23:32] *** Quits ave_ (Ping timeout: 745 seconds)
+[13:23:33] *** ave_8 is now known as ave_
+[13:24:08] *** Quits dibas (Ping timeout: 745 seconds)
+[13:24:08] *** dibas_ is now known as dibas
+[13:25:18] *** Quits SCV_ (Ping timeout: 1222 seconds)
+[13:25:19] *** Quits uyjulian (Ping timeout: 745 seconds)
+[13:25:19] *** Joins rjeli____
+[13:25:19] *** SCV__ is now known as SCV_
+[13:25:19] *** Quits SCV_ (Write error: Connection reset by peer)
+[13:25:19] *** Quits rjeli____ (Write error: Connection reset by peer)
+[13:25:19] *** uyjulian_ is now known as uyjulian
+[13:27:38] *** Quits zini (Ping timeout: 745 seconds)
+[13:28:33] *** Joins SCV__
+[13:28:48] *** Quits hexkyz (Ping timeout: 745 seconds)
+[13:29:23] *** Quits phigcloud (Ping timeout: 1230 seconds)
+[13:29:37] *** Joins hexkyz
+[13:29:40] *** Quits foghorn3 (Ping timeout: 265 seconds)
+[13:31:45] *** Joins refs
+[13:32:15] *** Quits rjeli___ (Read error: Connection timed out)
+[13:33:47] *** Joins phigcloud
+[13:35:00] *** Joins rjeli____
+[13:50:26] *** Joins foghorn
+[13:54:11] *** Joins refsw`
+[13:55:31] *** Quits rmaw (Read error: Operation timed out)
+[13:55:31] *** Quits blasty (Read error: Operation timed out)
+[13:56:33] *** Quits refsw (Read error: Operation timed out)
+[14:00:20] *** Quits phigcloud (Read error: Connection reset by peer)
+[14:01:06] *** Quits d3m3vilur (Read error: Operation timed out)
+[14:01:45] *** Joins phigcloud
+[14:03:05] <plutobot> Wiki | Page changed: Glue services | User: Behemoth | https://switchbrew.org/w/index.php?curid=166&diff=10141&oldid=9383
+[14:06:23] *** Quits GerbilSof (Read error: Operation timed out)
+[14:07:56] *** Joins GerbilSof
+[14:12:54] *** Joins |OMEGA|
+[14:12:57] *** Quits lex1 (Read error: Operation timed out)
+[14:13:50] *** Quits |OMEGA| (Client Quit)
+[14:54:45] *** Joins d3m3vilur
+[14:58:20] *** Joins rmaw
+[14:58:26] *** Joins blasty
+[15:01:12] *** Joins mukunda
+[15:01:36] *** Joins lex1
+[15:03:27] *** Quits derk0pf_ (Read error: Connection reset by peer)
+[15:35:58] *** Joins derk0pf
+[15:52:48] *** Joins Snetry
+[15:56:40] *** Quits Snetry (Read error: Operation timed out)
+[16:00:53] *** Joins Snetry
+[16:08:11] *** Joins Sentry-
+[16:12:37] *** Quits Snetry (Read error: Connection refused)
+[16:58:40] <plutobot> Wiki | Page changed: Bus services | User: SciresM | https://switchbrew.org/w/index.php?curid=152&diff=10142&oldid=10109
+[16:59:01] <plutobot> Wiki | Page changed: Bus services | User: SciresM | https://switchbrew.org/w/index.php?curid=152&diff=10143&oldid=10142
+[17:04:17] <plutobot> Wiki | Page changed: Bus services | User: SciresM | https://switchbrew.org/w/index.php?curid=152&diff=10144&oldid=10143
+[17:07:31] <plutobot> Wiki | Page changed: Bus services | User: SciresM | https://switchbrew.org/w/index.php?curid=152&diff=10145&oldid=10144
+[17:29:24] *** Quits lameboy (Quit: Astalabyebye...)
+[17:30:18] *** Joins lameboy
+[17:31:47] *** Joins fgsfds
+[19:38:05] *** Quits rctgamer3 (Quit: Meh.)
+[19:43:59] *** Joins rctgamer3
+[22:22:29] *** Quits derk0pf (Read error: Operation timed out)
+[22:59:27] *** Joins derk0pf
+[23:50:18] *** Quits Tcm0 (Leaving)
+[23:51:12] *** Quits phigcloud (Ping timeout: 1230 seconds)
+[23:58:00] *** Joins phigcloud

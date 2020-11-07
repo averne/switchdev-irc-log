@@ -1,0 +1,485 @@
+[01:13:48] *** Quits mafcadio2 (Read error: Operation timed out)
+[01:36:31] *** Quits DacoTaco (Ping timeout: 272 seconds)
+[01:36:31] *** Quits Pieman (Ping timeout: 272 seconds)
+[01:36:31] *** Joins hordak_
+[01:36:31] *** Quits GerbilSof (Ping timeout: 272 seconds)
+[01:36:31] *** Joins GerbilSof
+[01:36:31] *** Quits refs (Ping timeout: 272 seconds)
+[01:36:31] *** Quits Stary (Ping timeout: 272 seconds)
+[01:36:31] *** Quits hordak (Ping timeout: 272 seconds)
+[01:36:31] *** Quits zini- (Ping timeout: 272 seconds)
+[01:36:31] *** Quits des^ (Ping timeout: 272 seconds)
+[01:36:31] *** Quits averne (quit)
+[01:36:48] *** Joins averne
+[01:36:48] *** Server sets mode: +stn 
+[01:37:09] *** Quits phigcloud (Ping timeout: 272 seconds)
+[01:37:46] *** Quits flagrama (Ping timeout: 272 seconds)
+[01:38:17] *** Joins Maylay
+[01:38:27] *** Joins zombie343
+[01:38:59] *** Joins Stary
+[01:39:01] *** Joins zini
+[01:39:02] *** Quits nohit (Ping timeout: 272 seconds)
+[01:39:15] *** Joins Normmatt
+[01:41:59] *** Joins nohit
+[01:43:23] *** Joins phigcloud
+[01:44:32] *** Joins flagrama
+[01:47:47] *** Joins refs
+[02:33:28] *** Quits d3m3vilur (Read error: Connection reset by peer)
+[02:33:34] *** Joins d3m3vilur
+[02:40:22] *** Joins plutobot
+[02:41:52] *** Joins DacoTaco
+[02:43:12] *** Quits Normmatt (se.hub efnet.port80.se)
+[02:43:12] *** Quits zini (se.hub efnet.port80.se)
+[02:43:12] *** Quits Phils3r (se.hub efnet.port80.se)
+[02:43:12] *** Quits rctgamer3 (se.hub efnet.port80.se)
+[02:43:12] *** Quits refsw` (se.hub efnet.port80.se)
+[02:43:12] *** Quits rjeli____ (se.hub efnet.port80.se)
+[02:43:12] *** Quits hexkyz (se.hub efnet.port80.se)
+[02:43:12] *** Quits SCV__ (se.hub efnet.port80.se)
+[02:43:12] *** Quits dibas (se.hub efnet.port80.se)
+[02:43:12] *** Quits ave_ (se.hub efnet.port80.se)
+[02:43:12] *** Quits derrek (se.hub efnet.port80.se)
+[02:43:12] *** Quits uyjulian (se.hub efnet.port80.se)
+[02:43:13] *** Quits hthh (se.hub efnet.port80.se)
+[02:43:13] *** Quits coriolis (se.hub efnet.port80.se)
+[02:43:13] *** Quits naehrwert (se.hub efnet.port80.se)
+[02:43:13] *** Quits klock (se.hub efnet.port80.se)
+[02:43:13] *** Quits Genolo (se.hub efnet.port80.se)
+[02:43:13] *** Quits mid-kid (se.hub efnet.port80.se)
+[02:43:13] *** Quits Summeli (se.hub efnet.port80.se)
+[02:43:57] *** Joins des^
+[02:46:18] *** Joins Normmatt
+[02:46:18] *** Joins zini
+[02:46:18] *** Joins Phils3r
+[02:46:18] *** Joins rctgamer3
+[02:46:18] *** Joins refsw`
+[02:46:18] *** Joins rjeli____
+[02:46:18] *** Joins hexkyz
+[02:46:18] *** Joins SCV__
+[02:46:18] *** Joins dibas
+[02:46:18] *** Joins ave_
+[02:46:18] *** Joins derrek
+[02:46:18] *** Joins uyjulian
+[02:46:18] *** Joins hthh
+[02:46:18] *** Joins coriolis
+[02:46:18] *** Joins naehrwert
+[02:46:18] *** Joins klock
+[02:46:18] *** Joins Genolo
+[02:46:18] *** Joins mid-kid
+[02:46:18] *** Joins Summeli
+[02:48:16] *** Quits refs (Quit: refs)
+[02:54:57] *** Quits Normmatt (ny.us.hub efnet.port80.se)
+[02:54:57] *** Quits zini (ny.us.hub efnet.port80.se)
+[02:54:57] *** Quits Phils3r (ny.us.hub efnet.port80.se)
+[02:54:57] *** Quits rctgamer3 (ny.us.hub efnet.port80.se)
+[02:54:57] *** Quits refsw` (ny.us.hub efnet.port80.se)
+[02:54:57] *** Quits rjeli____ (ny.us.hub efnet.port80.se)
+[02:54:57] *** Quits hexkyz (ny.us.hub efnet.port80.se)
+[02:54:57] *** Quits SCV__ (ny.us.hub efnet.port80.se)
+[02:54:57] *** Quits dibas (ny.us.hub efnet.port80.se)
+[02:54:57] *** Quits ave_ (ny.us.hub efnet.port80.se)
+[02:54:57] *** Quits derrek (ny.us.hub efnet.port80.se)
+[02:54:57] *** Quits uyjulian (ny.us.hub efnet.port80.se)
+[02:54:57] *** Quits hthh (ny.us.hub efnet.port80.se)
+[02:54:57] *** Quits coriolis (ny.us.hub efnet.port80.se)
+[02:54:57] *** Quits naehrwert (ny.us.hub efnet.port80.se)
+[02:54:57] *** Quits klock (ny.us.hub efnet.port80.se)
+[02:54:57] *** Quits Genolo (ny.us.hub efnet.port80.se)
+[02:54:57] *** Quits mid-kid (ny.us.hub efnet.port80.se)
+[02:54:57] *** Quits Summeli (ny.us.hub efnet.port80.se)
+[02:56:27] *** Joins Normmatt
+[02:56:28] *** Joins zini
+[02:56:28] *** Joins Phils3r
+[02:56:28] *** Joins rctgamer3
+[02:56:28] *** Joins refsw`
+[02:56:28] *** Joins rjeli____
+[02:56:28] *** Joins hexkyz
+[02:56:28] *** Joins SCV__
+[02:56:28] *** Joins dibas
+[02:56:28] *** Joins ave_
+[02:56:28] *** Joins derrek
+[02:56:28] *** Joins uyjulian
+[02:56:28] *** Joins hthh
+[02:56:28] *** Joins coriolis
+[02:56:28] *** Joins naehrwert
+[02:56:28] *** Joins klock
+[02:56:28] *** Joins Genolo
+[02:56:28] *** Joins mid-kid
+[02:56:28] *** Joins Summeli
+[03:02:56] *** Quits Normmatt (se.hub efnet.port80.se)
+[03:02:56] *** Quits zini (se.hub efnet.port80.se)
+[03:02:56] *** Quits Phils3r (se.hub efnet.port80.se)
+[03:02:56] *** Quits rctgamer3 (se.hub efnet.port80.se)
+[03:02:56] *** Quits refsw` (se.hub efnet.port80.se)
+[03:02:56] *** Quits rjeli____ (se.hub efnet.port80.se)
+[03:02:56] *** Quits hexkyz (se.hub efnet.port80.se)
+[03:02:56] *** Quits SCV__ (se.hub efnet.port80.se)
+[03:02:56] *** Quits dibas (se.hub efnet.port80.se)
+[03:02:56] *** Quits ave_ (se.hub efnet.port80.se)
+[03:02:56] *** Quits derrek (se.hub efnet.port80.se)
+[03:02:56] *** Quits uyjulian (se.hub efnet.port80.se)
+[03:02:56] *** Quits hthh (se.hub efnet.port80.se)
+[03:02:56] *** Quits coriolis (se.hub efnet.port80.se)
+[03:02:56] *** Quits naehrwert (se.hub efnet.port80.se)
+[03:02:56] *** Quits klock (se.hub efnet.port80.se)
+[03:02:56] *** Quits Genolo (se.hub efnet.port80.se)
+[03:02:56] *** Quits mid-kid (se.hub efnet.port80.se)
+[03:02:56] *** Quits Summeli (se.hub efnet.port80.se)
+[03:07:59] *** Joins Pieman
+[03:10:00] *** Joins Normmatt
+[03:10:00] *** Joins zini
+[03:10:00] *** Joins Phils3r
+[03:10:00] *** Joins rctgamer3
+[03:10:00] *** Joins refsw`
+[03:10:00] *** Joins rjeli____
+[03:10:00] *** Joins hexkyz
+[03:10:00] *** Joins SCV__
+[03:10:00] *** Joins dibas
+[03:10:00] *** Joins ave_
+[03:10:00] *** Joins derrek
+[03:10:00] *** Joins uyjulian
+[03:10:00] *** Joins hthh
+[03:10:00] *** Joins coriolis
+[03:10:00] *** Joins naehrwert
+[03:10:00] *** Joins klock
+[03:10:00] *** Joins Genolo
+[03:10:00] *** Joins mid-kid
+[03:10:00] *** Joins Summeli
+[03:22:17] *** Quits Normmatt (se.hub efnet.port80.se)
+[03:22:17] *** Quits zini (se.hub efnet.port80.se)
+[03:22:17] *** Quits Phils3r (se.hub efnet.port80.se)
+[03:22:17] *** Quits rctgamer3 (se.hub efnet.port80.se)
+[03:22:17] *** Quits refsw` (se.hub efnet.port80.se)
+[03:22:17] *** Quits rjeli____ (se.hub efnet.port80.se)
+[03:22:17] *** Quits hexkyz (se.hub efnet.port80.se)
+[03:22:17] *** Quits SCV__ (se.hub efnet.port80.se)
+[03:22:17] *** Quits dibas (se.hub efnet.port80.se)
+[03:22:18] *** Quits ave_ (se.hub efnet.port80.se)
+[03:22:18] *** Quits derrek (se.hub efnet.port80.se)
+[03:22:18] *** Quits uyjulian (se.hub efnet.port80.se)
+[03:22:18] *** Quits hthh (se.hub efnet.port80.se)
+[03:22:18] *** Quits coriolis (se.hub efnet.port80.se)
+[03:22:18] *** Quits naehrwert (se.hub efnet.port80.se)
+[03:22:18] *** Quits klock (se.hub efnet.port80.se)
+[03:22:18] *** Quits Genolo (se.hub efnet.port80.se)
+[03:22:18] *** Quits mid-kid (se.hub efnet.port80.se)
+[03:22:18] *** Quits Summeli (se.hub efnet.port80.se)
+[03:34:55] *** Joins Normmatt
+[03:34:55] *** Joins zini
+[03:34:55] *** Joins Phils3r
+[03:34:55] *** Joins rctgamer3
+[03:34:55] *** Joins refsw`
+[03:34:55] *** Joins rjeli____
+[03:34:55] *** Joins hexkyz
+[03:34:55] *** Joins SCV__
+[03:34:55] *** Joins dibas
+[03:34:55] *** Joins ave_
+[03:34:55] *** Joins derrek
+[03:34:55] *** Joins uyjulian
+[03:34:55] *** Joins hthh
+[03:34:55] *** Joins coriolis
+[03:34:55] *** Joins naehrwert
+[03:34:55] *** Joins klock
+[03:34:55] *** Joins Genolo
+[03:34:55] *** Joins mid-kid
+[03:34:55] *** Joins Summeli
+[03:48:30] *** Quits Normmatt (se.hub efnet.port80.se)
+[03:48:30] *** Quits zini (se.hub efnet.port80.se)
+[03:48:30] *** Quits Phils3r (se.hub efnet.port80.se)
+[03:48:30] *** Quits rctgamer3 (se.hub efnet.port80.se)
+[03:48:30] *** Quits refsw` (se.hub efnet.port80.se)
+[03:48:30] *** Quits rjeli____ (se.hub efnet.port80.se)
+[03:48:30] *** Quits hexkyz (se.hub efnet.port80.se)
+[03:48:30] *** Quits SCV__ (se.hub efnet.port80.se)
+[03:48:30] *** Quits dibas (se.hub efnet.port80.se)
+[03:48:30] *** Quits ave_ (se.hub efnet.port80.se)
+[03:48:30] *** Quits derrek (se.hub efnet.port80.se)
+[03:48:30] *** Quits uyjulian (se.hub efnet.port80.se)
+[03:48:30] *** Quits hthh (se.hub efnet.port80.se)
+[03:48:30] *** Quits coriolis (se.hub efnet.port80.se)
+[03:48:30] *** Quits naehrwert (se.hub efnet.port80.se)
+[03:48:30] *** Quits klock (se.hub efnet.port80.se)
+[03:48:30] *** Quits Genolo (se.hub efnet.port80.se)
+[03:48:30] *** Quits mid-kid (se.hub efnet.port80.se)
+[03:48:30] *** Quits Summeli (se.hub efnet.port80.se)
+[03:53:59] *** Joins Normmatt
+[03:53:59] *** Joins zini
+[03:53:59] *** Joins Phils3r
+[03:53:59] *** Joins rctgamer3
+[03:53:59] *** Joins refsw`
+[03:53:59] *** Joins rjeli____
+[03:53:59] *** Joins hexkyz
+[03:53:59] *** Joins SCV__
+[03:53:59] *** Joins dibas
+[03:53:59] *** Joins ave_
+[03:53:59] *** Joins derrek
+[03:53:59] *** Joins uyjulian
+[03:53:59] *** Joins hthh
+[03:53:59] *** Joins coriolis
+[03:53:59] *** Joins naehrwert
+[03:53:59] *** Joins klock
+[03:53:59] *** Joins Genolo
+[03:53:59] *** Joins mid-kid
+[03:53:59] *** Joins Summeli
+[04:03:50] *** Quits Normmatt (se.hub efnet.port80.se)
+[04:03:50] *** Quits zini (se.hub efnet.port80.se)
+[04:03:50] *** Quits Phils3r (se.hub efnet.port80.se)
+[04:03:50] *** Quits rctgamer3 (se.hub efnet.port80.se)
+[04:03:50] *** Quits refsw` (se.hub efnet.port80.se)
+[04:03:50] *** Quits rjeli____ (se.hub efnet.port80.se)
+[04:03:50] *** Quits hexkyz (se.hub efnet.port80.se)
+[04:03:50] *** Quits SCV__ (se.hub efnet.port80.se)
+[04:03:50] *** Quits dibas (se.hub efnet.port80.se)
+[04:03:50] *** Quits ave_ (se.hub efnet.port80.se)
+[04:03:50] *** Quits derrek (se.hub efnet.port80.se)
+[04:03:50] *** Quits uyjulian (se.hub efnet.port80.se)
+[04:03:50] *** Quits hthh (se.hub efnet.port80.se)
+[04:03:50] *** Quits coriolis (se.hub efnet.port80.se)
+[04:03:50] *** Quits naehrwert (se.hub efnet.port80.se)
+[04:03:50] *** Quits klock (se.hub efnet.port80.se)
+[04:03:50] *** Quits Genolo (se.hub efnet.port80.se)
+[04:03:50] *** Quits mid-kid (se.hub efnet.port80.se)
+[04:03:50] *** Quits Summeli (se.hub efnet.port80.se)
+[04:20:07] *** Joins Normmatt
+[04:20:07] *** Joins zini
+[04:20:07] *** Joins Phils3r
+[04:20:07] *** Joins rctgamer3
+[04:20:07] *** Joins refsw`
+[04:20:07] *** Joins rjeli____
+[04:20:07] *** Joins hexkyz
+[04:20:07] *** Joins SCV__
+[04:20:07] *** Joins dibas
+[04:20:07] *** Joins ave_
+[04:20:07] *** Joins derrek
+[04:20:07] *** Joins uyjulian
+[04:20:07] *** Joins hthh
+[04:20:07] *** Joins coriolis
+[04:20:07] *** Joins naehrwert
+[04:20:07] *** Joins klock
+[04:20:07] *** Joins Genolo
+[04:20:07] *** Joins mid-kid
+[04:20:07] *** Joins Summeli
+[05:10:13] *** Quits Normmatt (se.hub efnet.port80.se)
+[05:10:13] *** Quits zini (se.hub efnet.port80.se)
+[05:10:13] *** Quits Phils3r (se.hub efnet.port80.se)
+[05:10:13] *** Quits rctgamer3 (se.hub efnet.port80.se)
+[05:10:13] *** Quits refsw` (se.hub efnet.port80.se)
+[05:10:13] *** Quits rjeli____ (se.hub efnet.port80.se)
+[05:10:13] *** Quits hexkyz (se.hub efnet.port80.se)
+[05:10:13] *** Quits SCV__ (se.hub efnet.port80.se)
+[05:10:13] *** Quits dibas (se.hub efnet.port80.se)
+[05:10:13] *** Quits ave_ (se.hub efnet.port80.se)
+[05:10:13] *** Quits derrek (se.hub efnet.port80.se)
+[05:10:13] *** Quits uyjulian (se.hub efnet.port80.se)
+[05:10:13] *** Quits hthh (se.hub efnet.port80.se)
+[05:10:13] *** Quits coriolis (se.hub efnet.port80.se)
+[05:10:13] *** Quits naehrwert (se.hub efnet.port80.se)
+[05:10:13] *** Quits klock (se.hub efnet.port80.se)
+[05:10:13] *** Quits Genolo (se.hub efnet.port80.se)
+[05:10:13] *** Quits mid-kid (se.hub efnet.port80.se)
+[05:10:13] *** Quits Summeli (se.hub efnet.port80.se)
+[05:11:27] *** Joins Normmatt
+[05:11:27] *** Joins zini
+[05:11:27] *** Joins Phils3r
+[05:11:27] *** Joins rctgamer3
+[05:11:27] *** Joins refsw`
+[05:11:27] *** Joins rjeli____
+[05:11:27] *** Joins hexkyz
+[05:11:27] *** Joins SCV__
+[05:11:27] *** Joins dibas
+[05:11:27] *** Joins ave_
+[05:11:27] *** Joins derrek
+[05:11:27] *** Joins uyjulian
+[05:11:27] *** Joins hthh
+[05:11:27] *** Joins coriolis
+[05:11:27] *** Joins naehrwert
+[05:11:27] *** Joins klock
+[05:11:27] *** Joins Genolo
+[05:11:27] *** Joins mid-kid
+[05:11:27] *** Joins Summeli
+[05:42:28] *** Quits phigcloud (Quit: Updating details, brb)
+[05:43:57] *** Joins phigcloud
+[06:26:37] *** Quits Normmatt (se.hub efnet.port80.se)
+[06:26:37] *** Quits zini (se.hub efnet.port80.se)
+[06:26:37] *** Quits Phils3r (se.hub efnet.port80.se)
+[06:26:37] *** Quits rctgamer3 (se.hub efnet.port80.se)
+[06:26:37] *** Quits refsw` (se.hub efnet.port80.se)
+[06:26:37] *** Quits rjeli____ (se.hub efnet.port80.se)
+[06:26:37] *** Quits hexkyz (se.hub efnet.port80.se)
+[06:26:37] *** Quits SCV__ (se.hub efnet.port80.se)
+[06:26:37] *** Quits dibas (se.hub efnet.port80.se)
+[06:26:37] *** Quits ave_ (se.hub efnet.port80.se)
+[06:26:37] *** Quits derrek (se.hub efnet.port80.se)
+[06:26:37] *** Quits uyjulian (se.hub efnet.port80.se)
+[06:26:37] *** Quits hthh (se.hub efnet.port80.se)
+[06:26:37] *** Quits coriolis (se.hub efnet.port80.se)
+[06:26:37] *** Quits naehrwert (se.hub efnet.port80.se)
+[06:26:37] *** Quits klock (se.hub efnet.port80.se)
+[06:26:38] *** Quits Genolo (se.hub efnet.port80.se)
+[06:26:38] *** Quits mid-kid (se.hub efnet.port80.se)
+[06:26:38] *** Quits Summeli (se.hub efnet.port80.se)
+[06:29:43] *** Joins Normmatt
+[06:29:43] *** Joins zini
+[06:29:43] *** Joins Phils3r
+[06:29:43] *** Joins rctgamer3
+[06:29:43] *** Joins refsw`
+[06:29:43] *** Joins rjeli____
+[06:29:43] *** Joins hexkyz
+[06:29:43] *** Joins SCV__
+[06:29:43] *** Joins dibas
+[06:29:43] *** Joins ave_
+[06:29:43] *** Joins derrek
+[06:29:43] *** Joins uyjulian
+[06:29:43] *** Joins hthh
+[06:29:43] *** Joins coriolis
+[06:29:43] *** Joins naehrwert
+[06:29:43] *** Joins klock
+[06:29:43] *** Joins Genolo
+[06:29:43] *** Joins mid-kid
+[06:29:43] *** Joins Summeli
+[06:53:54] *** Quits Normmatt (se.hub efnet.port80.se)
+[06:53:55] *** Quits zini (se.hub efnet.port80.se)
+[06:53:55] *** Quits Phils3r (se.hub efnet.port80.se)
+[06:53:55] *** Quits rctgamer3 (se.hub efnet.port80.se)
+[06:53:55] *** Quits refsw` (se.hub efnet.port80.se)
+[06:53:55] *** Quits rjeli____ (se.hub efnet.port80.se)
+[06:53:55] *** Quits hexkyz (se.hub efnet.port80.se)
+[06:53:55] *** Quits SCV__ (se.hub efnet.port80.se)
+[06:53:55] *** Quits dibas (se.hub efnet.port80.se)
+[06:53:55] *** Quits ave_ (se.hub efnet.port80.se)
+[06:53:55] *** Quits derrek (se.hub efnet.port80.se)
+[06:53:55] *** Quits uyjulian (se.hub efnet.port80.se)
+[06:53:55] *** Quits hthh (se.hub efnet.port80.se)
+[06:53:55] *** Quits coriolis (se.hub efnet.port80.se)
+[06:53:55] *** Quits naehrwert (se.hub efnet.port80.se)
+[06:53:55] *** Quits klock (se.hub efnet.port80.se)
+[06:53:55] *** Quits Genolo (se.hub efnet.port80.se)
+[06:53:55] *** Quits mid-kid (se.hub efnet.port80.se)
+[06:53:55] *** Quits Summeli (se.hub efnet.port80.se)
+[07:10:04] *** Joins Normmatt
+[07:10:04] *** Joins zini
+[07:10:04] *** Joins Phils3r
+[07:10:04] *** Joins rctgamer3
+[07:10:04] *** Joins refsw`
+[07:10:04] *** Joins rjeli____
+[07:10:04] *** Joins hexkyz
+[07:10:04] *** Joins SCV__
+[07:10:04] *** Joins dibas
+[07:10:04] *** Joins ave_
+[07:10:04] *** Joins derrek
+[07:10:04] *** Joins uyjulian
+[07:10:04] *** Joins hthh
+[07:10:04] *** Joins coriolis
+[07:10:04] *** Joins naehrwert
+[07:10:04] *** Joins klock
+[07:10:04] *** Joins Genolo
+[07:10:04] *** Joins mid-kid
+[07:10:04] *** Joins Summeli
+[07:12:38] *** Quits Galaxy| (Quit: Quit.)
+[07:22:16] *** Joins Galaxy|
+[07:27:46] *** Quits Normmatt (se.hub efnet.port80.se)
+[07:27:46] *** Quits zini (se.hub efnet.port80.se)
+[07:27:46] *** Quits Phils3r (se.hub efnet.port80.se)
+[07:27:46] *** Quits rctgamer3 (se.hub efnet.port80.se)
+[07:27:46] *** Quits refsw` (se.hub efnet.port80.se)
+[07:27:46] *** Quits rjeli____ (se.hub efnet.port80.se)
+[07:27:46] *** Quits hexkyz (se.hub efnet.port80.se)
+[07:27:46] *** Quits SCV__ (se.hub efnet.port80.se)
+[07:27:46] *** Quits dibas (se.hub efnet.port80.se)
+[07:27:46] *** Quits ave_ (se.hub efnet.port80.se)
+[07:27:46] *** Quits derrek (se.hub efnet.port80.se)
+[07:27:46] *** Quits uyjulian (se.hub efnet.port80.se)
+[07:27:46] *** Quits hthh (se.hub efnet.port80.se)
+[07:27:46] *** Quits coriolis (se.hub efnet.port80.se)
+[07:27:46] *** Quits naehrwert (se.hub efnet.port80.se)
+[07:27:46] *** Quits klock (se.hub efnet.port80.se)
+[07:27:46] *** Quits Genolo (se.hub efnet.port80.se)
+[07:27:46] *** Quits mid-kid (se.hub efnet.port80.se)
+[07:27:46] *** Quits Summeli (se.hub efnet.port80.se)
+[07:29:59] *** Joins Normmatt
+[07:29:59] *** Joins zini
+[07:29:59] *** Joins Phils3r
+[07:29:59] *** Joins rctgamer3
+[07:29:59] *** Joins refsw`
+[07:29:59] *** Joins rjeli____
+[07:29:59] *** Joins hexkyz
+[07:29:59] *** Joins SCV__
+[07:29:59] *** Joins dibas
+[07:29:59] *** Joins ave_
+[07:29:59] *** Joins derrek
+[07:29:59] *** Joins uyjulian
+[07:29:59] *** Joins hthh
+[07:29:59] *** Joins coriolis
+[07:29:59] *** Joins naehrwert
+[07:29:59] *** Joins klock
+[07:29:59] *** Joins Genolo
+[07:29:59] *** Joins mid-kid
+[07:29:59] *** Joins Summeli
+[07:38:00] *** Joins TAL
+[07:51:47] *** Quits Normmatt (se.hub efnet.port80.se)
+[07:51:47] *** Quits zini (se.hub efnet.port80.se)
+[07:51:47] *** Quits Phils3r (se.hub efnet.port80.se)
+[07:51:47] *** Quits rctgamer3 (se.hub efnet.port80.se)
+[07:51:47] *** Quits refsw` (se.hub efnet.port80.se)
+[07:51:47] *** Quits rjeli____ (se.hub efnet.port80.se)
+[07:51:47] *** Quits hexkyz (se.hub efnet.port80.se)
+[07:51:47] *** Quits SCV__ (se.hub efnet.port80.se)
+[07:51:47] *** Quits dibas (se.hub efnet.port80.se)
+[07:51:47] *** Quits ave_ (se.hub efnet.port80.se)
+[07:51:48] *** Quits derrek (se.hub efnet.port80.se)
+[07:51:48] *** Quits uyjulian (se.hub efnet.port80.se)
+[07:51:48] *** Quits hthh (se.hub efnet.port80.se)
+[07:51:48] *** Quits coriolis (se.hub efnet.port80.se)
+[07:51:48] *** Quits naehrwert (se.hub efnet.port80.se)
+[07:51:48] *** Quits klock (se.hub efnet.port80.se)
+[07:51:48] *** Quits Genolo (se.hub efnet.port80.se)
+[07:51:48] *** Quits mid-kid (se.hub efnet.port80.se)
+[07:51:48] *** Quits Summeli (se.hub efnet.port80.se)
+[08:14:54] *** lex1 is now known as lex
+[08:16:05] *** Quits lameboy (Quit: brb)
+[08:19:32] *** Quits lex (Killed (se.hub (Nick collision (new))))
+[08:19:45] *** Joins Normmatt
+[08:19:45] *** Joins zini
+[08:19:45] *** Joins Phils3r
+[08:19:45] *** Joins rctgamer3
+[08:19:45] *** Joins refsw`
+[08:19:45] *** Joins rjeli____
+[08:19:45] *** Joins hexkyz
+[08:19:45] *** Joins SCV__
+[08:19:45] *** Joins dibas
+[08:19:45] *** Joins ave_
+[08:19:45] *** Joins derrek
+[08:19:45] *** Joins uyjulian
+[08:19:45] *** Joins hthh
+[08:19:45] *** Joins coriolis
+[08:19:45] *** Joins naehrwert
+[08:19:45] *** Joins klock
+[08:19:45] *** Joins Genolo
+[08:19:45] *** Joins mid-kid
+[08:19:45] *** Joins Summeli
+[08:19:51] *** Joins lex1
+[08:30:20] *** Joins lameboy
+[09:06:53] *** Joins fgsfds
+[09:14:45] *** Joins mafcadio2
+[11:38:39] *** Quits fgsfds (Read error: Connection reset by peer)
+[12:33:16] *** Quits DacoTaco (Ping timeout: 272 seconds)
+[12:37:14] *** Joins DacoTaco
+[16:00:24] *** Joins fgsfds
+[17:24:36] *** Joins Sentry-
+[17:25:08] *** Quits Snetry (Read error: Operation timed out)
+[17:32:43] *** Joins Snetry
+[17:37:13] *** Quits Sentry- (Read error: Operation timed out)
+[18:21:19] *** Quits lameboy (Remote host closed the connection)
+[18:21:31] *** Joins lameboy
+[20:03:32] *** Quits balrog (Ping timeout: 622 seconds)
+[20:03:32] *** Quits rmaw (Read error: Connection reset by peer)
+[20:10:34] *** Quits Snetry (Read error: Connection reset by peer)
+[20:15:58] *** Joins hordak_
+[20:18:51] *** Quits phigcloud (Read error: Connection reset by peer)
+[20:19:55] *** Joins balrog
+[20:20:56] *** Joins phigcloud
+[20:22:22] *** Joins Snetry
+[20:23:59] *** Joins rmaw
+[20:29:32] *** Quits hordak (Read error: Operation timed out)
+[20:29:32] *** hordak_ is now known as hordak
+[20:52:28] <plutobot> Wiki | Page changed: NS Services | User: Behemoth | https://switchbrew.org/w/index.php?curid=89&diff=10149&oldid=9903
