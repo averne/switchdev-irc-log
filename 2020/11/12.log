@@ -1,0 +1,34 @@
+[02:21:34] *** Quits refs (Quit: refs)
+[03:11:08] *** Quits rajkosto (Read error: Connection reset by peer)
+[03:55:08] *** Quits ihaveamac (Quit: fail)
+[04:34:29] *** Quits fgsfds (Read error: Connection reset by peer)
+[08:23:56] *** Quits IShaDoWl ()
+[09:16:14] *** Quits rctgamer3 (Quit: Meh.)
+[09:16:17] *** Quits Phils3r (Write error: Broken pipe)
+[09:16:26] *** Joins rctgamer3
+[09:16:37] *** Joins Phils3r
+[14:31:08] *** Quits fincs (Read error: Operation timed out)
+[14:32:52] *** Quits WntrMute (Read error: Operation timed out)
+[14:35:31] *** nrq_ is now known as nrq
+[14:35:55] *** Quits TurtleP_ (Read error: Operation timed out)
+[14:53:30] *** Joins TurtleP
+[14:56:17] *** Joins WntrMute
+[14:56:28] *** yls8bot sets mode: +o WntrMute
+[14:56:30] *** Joins fincs
+[14:56:31] *** WntrMute sets mode: +o fincs
+[15:12:19] *** Quits |Shadow| ()
+[15:17:14] *** Joins rajkosto
+[15:30:48] *** Joins |Shadow|
+[16:04:43] *** Joins fgsfds
+[20:35:43] *** Joins m4ts-
+[20:36:44] *** Quits m4ts_ (Ping timeout: 265 seconds)
+[21:27:25] *** Quits GerbilSof (Remote host closed the connection)
+[21:29:35] *** Joins GerbilSof
+[21:57:27] *** Joins refs
+[22:05:53] *** Joins eggy
+[22:06:03] *** Quits eggster (Read error: Connection reset by peer)
+[22:40:41] *** Joins DoozerBot
+[22:40:42] <DoozerBot> fincs pushed to master: Add service wrappers for ins:r and ins:s (#502) "Add service wrappers for ins:r and ins:s (#502)" [032 files added07, 1 file modified], building targets: 02lib
+[22:56:00] <DoozerBot> 02lib: 03 v3.3.0.77 Build OK - https://doozer.io/build/lr7erp96np
+[23:04:24] *** Quits zini- (Ping timeout: 272 seconds)
+[23:50:39] *** Joins zini

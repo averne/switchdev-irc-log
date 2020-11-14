@@ -1,0 +1,97 @@
+[00:28:26] <plutobot> GitHub | New commit | User: averne | https://github.com/switchbrew/libnx/commit/2fdae0db52
+[00:43:38] *** Quits averne (quit)
+[00:43:53] *** Joins averne
+[00:43:53] *** Server sets mode: +stn 
+[01:38:17] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[01:38:30] *** Joins rjeli____
+[02:56:27] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[02:56:40] *** Joins rjeli____
+[03:46:07] *** Quits figgis_ (Quit: Leaving)
+[05:04:24] *** Quits refs (Quit: refs)
+[05:32:50] *** Quits nullstrin (Read error: Operation timed out)
+[05:36:35] *** Joins nullstrin
+[07:43:18] *** Joins IShaDoWl
+[08:26:35] *** Quits IShaDoWl ()
+[08:26:52] *** Joins IShaDoWl
+[08:33:47] *** Quits IShaDoWl ()
+[08:34:04] *** Joins IShaDoWl
+[08:34:43] *** Quits IShaDoWl (Client Quit)
+[08:35:12] *** Joins IShaDoWl
+[09:06:17] *** Quits SCV__ (Ping timeout: 1230 seconds)
+[09:06:33] *** Joins SCV__
+[09:38:01] *** Quits nohit (Ping timeout: 272 seconds)
+[09:38:17] *** Quits phigcloud (Read error: Operation timed out)
+[09:39:17] *** Quits Pieman (Ping timeout: 272 seconds)
+[09:39:17] *** Quits flagrama (Ping timeout: 272 seconds)
+[09:41:42] *** Quits d3m3vilur (Read error: Operation timed out)
+[09:44:45] *** Quits SCV__ (Read error: Connection timed out)
+[09:47:43] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[09:54:48] *** Joins nohit
+[09:55:57] *** Joins flagrama
+[09:59:22] *** Joins d3m3vilur
+[09:59:56] *** Joins phigcloud
+[10:01:13] *** Joins Pieman
+[10:24:12] *** Joins rjeli____
+[10:25:05] *** Joins SCV__
+[10:25:05] *** Quits rjeli____ (Read error: Connection reset by peer)
+[10:28:03] *** Joins rjeli____
+[10:55:19] *** Quits phigcloud (Quit: Connection closed for inactivity)
+[13:27:11] *** Joins refs
+[13:38:09] *** Quits SCV__ (Read error: Connection reset by peer)
+[13:40:58] *** Joins SCV__
+[13:49:15] *** Quits d3m3vilur (se.hub irc.efnet.nl)
+[13:49:15] *** Quits blasty (se.hub irc.efnet.nl)
+[13:49:15] *** Quits rmaw (se.hub irc.efnet.nl)
+[13:49:15] *** Quits Snetry (se.hub irc.efnet.nl)
+[13:49:15] *** Quits lex1 (se.hub irc.efnet.nl)
+[13:52:23] *** Joins d3m3vilur
+[13:52:23] *** Joins blasty
+[13:52:23] *** Joins rmaw
+[13:52:23] *** Joins Snetry
+[13:52:24] *** Joins lex1
+[13:55:05] *** Quits d3m3vilur (se.hub irc.efnet.nl)
+[13:55:05] *** Quits blasty (se.hub irc.efnet.nl)
+[13:55:05] *** Quits rmaw (se.hub irc.efnet.nl)
+[13:55:05] *** Quits Snetry (se.hub irc.efnet.nl)
+[13:55:05] *** Quits lex1 (se.hub irc.efnet.nl)
+[14:00:27] *** Joins d3m3vilur
+[14:00:28] *** Joins blasty
+[14:00:28] *** Joins rmaw
+[14:00:28] *** Joins Snetry
+[14:00:28] *** Joins lex1
+[15:05:02] *** Quits KuKzz (Ping timeout: 265 seconds)
+[15:08:39] *** Joins KuKzz
+[15:31:05] *** Joins phigcloud
+[15:58:17] *** Quits karolherb (Quit: Konversation terminated!)
+[16:06:52] *** Joins karolherb
+[16:43:37] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[16:43:51] *** Joins rjeli____
+[17:37:32] *** Joins klanc
+[17:54:51] *** Quits IShaDoWl (Read error: Connection reset by peer)
+[17:55:44] *** Joins IShaDoWl
+[18:14:00] *** Joins mid-kid1
+[18:19:52] *** Quits mid-kid (Ping timeout: 745 seconds)
+[18:40:17] *** Quits SCV__ (Ping timeout: 1230 seconds)
+[18:40:31] *** Joins SCV__
+[18:57:12] *** Joins nullstri1
+[18:57:22] *** Quits nullstrin (Read error: Operation timed out)
+[19:02:28] *** Joins refsw
+[19:13:05] *** Quits nullstri1 (Read error: Operation timed out)
+[19:13:15] *** Quits GerbilSof (Read error: Operation timed out)
+[19:13:34] *** Quits refsw3 (Ping timeout: 745 seconds)
+[19:19:22] *** Joins GerbilSof
+[19:25:31] *** Joins rajkosto
+[19:58:32] *** Quits rmaw (Read error: Operation timed out)
+[20:13:05] *** Joins rmaw
+[20:37:51] *** Joins m4ts-
+[20:38:08] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[20:38:20] *** Joins rjeli____
+[20:40:43] *** Quits m4ts_ (Ping timeout: 265 seconds)
+[20:40:57] *** Joins derk0pf
+[20:46:52] *** Quits SCV__ (Ping timeout: 1230 seconds)
+[20:47:11] *** Joins SCV__
+[21:07:41] *** Joins nullstrin
+[21:16:40] *** Quits rjeli____ (Read error: Connection reset by peer)
+[21:16:45] *** Joins rjeli____
+[22:58:33] *** Quits changO- (Read error: Operation timed out)
+[22:59:59] *** Joins changO-
