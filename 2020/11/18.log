@@ -1,0 +1,53 @@
+[01:05:45] *** Quits eggy (Ping timeout: 272 seconds)
+[01:05:45] *** Quits omlet05 (Ping timeout: 272 seconds)
+[01:06:03] <plutobot> Wiki | Page changed: Super Mario 3D All-Stars | User: yls8 | https://switchbrew.org/w/index.php?curid=419&diff=10177&oldid=10176
+[01:06:16] *** Joins omlet05
+[01:07:02] *** Joins eggster
+[01:47:51] <plutobot> Wiki | Page changed: HID Shared Memory | User: yls8 | https://switchbrew.org/w/index.php?curid=83&diff=10178&oldid=10173
+[02:38:59] *** Quits refs (Quit: refs)
+[04:28:26] *** Joins anewuser
+[04:35:32] *** Quits anewuser (Read error: Connection reset by peer)
+[05:32:34] *** Quits fgsfds (Read error: Connection reset by peer)
+[06:00:10] *** Joins derk0pf
+[07:03:50] *** Quits derk0pf (Ping timeout: 265 seconds)
+[08:56:30] *** Joins derk0pf
+[09:09:50] *** Joins rajkosto
+[09:34:35] *** Joins Tcm0
+[09:40:00] *** Quits derk0pf (Ping timeout: 265 seconds)
+[10:24:41] *** Joins derk0pf
+[10:35:25] *** Quits derk0pf (Ping timeout: 604 seconds)
+[11:58:43] *** Joins m4ts-
+[12:13:11] *** Joins derk0pf
+[12:18:58] *** Quits derk0pf (Ping timeout: 265 seconds)
+[12:20:44] *** Joins derk0pf
+[13:22:19] *** Quits Surkow (Read error: Operation timed out)
+[13:28:54] *** Joins Surkow
+[13:48:42] *** Quits rajkosto (Read error: Connection reset by peer)
+[15:04:40] *** Joins derk0pf_
+[15:04:41] *** Quits derk0pf (Read error: Connection reset by peer)
+[15:19:16] *** Joins fgsfds
+[15:35:04] *** Quits foghorn2 (Quit: Leaving)
+[15:53:34] *** Quits derk0pf_ (Ping timeout: 265 seconds)
+[16:05:19] *** Joins derk0pf
+[16:48:09] *** Quits derk0pf (Ping timeout: 272 seconds)
+[17:25:43] <plutobot> Wiki | Page changed: BCAT services | User: Behemoth | https://switchbrew.org/w/index.php?curid=108&diff=10179&oldid=10038
+[17:26:24] <plutobot> Wiki | Page changed: BCAT services | User: Behemoth | https://switchbrew.org/w/index.php?curid=108&diff=10180&oldid=10179
+[17:26:34] <plutobot> Wiki | Page changed: Calibration | User: Hexkyz | https://switchbrew.org/w/index.php?curid=213&diff=10181&oldid=10156
+[17:28:47] <plutobot> Wiki | Page changed: BCAT Content Container | User: Behemoth | https://switchbrew.org/w/index.php?curid=196&diff=10182&oldid=2013
+[17:36:41] *** Joins derk0pf
+[18:16:53] <plutobot> Wiki | Page changed: Calibration | User: SciresM | https://switchbrew.org/w/index.php?curid=213&diff=10183&oldid=10181
+[18:17:54] *** Quits derk0pf (Read error: Operation timed out)
+[19:10:48] <DoozerBot> PR-#504: news: fix structs, building targets: 02lib
+[19:10:52] <plutobot> GitHub | New PR: news fix structs | User: HookedBehemoth | https://github.com/switchbrew/libnx/pull/504
+[19:13:01] *** Joins Behemoth_
+[19:14:50] <DoozerBot> 02lib: 03 v3.3.0.64 Build OK - https://doozer.io/build/jio0z4dcxr
+[19:16:39] <plutobot> GitHub | New commit | User: Luis Scheuren... | https://github.com/switchbrew/libnx/commit/c95b46c053
+[19:16:41] <DoozerBot> fincs pushed to master: news: fix structs "news: fix structs" [071 file modified], building targets: 02lib
+[19:20:23] <DoozerBot> 02lib: 03 v3.3.0.78 Build OK - https://doozer.io/build/f24imogt4w
+[19:35:24] <plutobot> Wiki | Page changed: HID Shared Memory | User: Hexkyz | https://switchbrew.org/w/index.php?curid=83&diff=10184&oldid=10178
+[19:36:05] <plutobot> Wiki | Page changed: HID Shared Memory | User: Hexkyz | https://switchbrew.org/w/index.php?curid=83&diff=10185&oldid=10184
+[19:58:25] *** Joins derk0pf
+[20:20:16] *** Joins rajkosto
+[20:52:55] *** Quits derk0pf (Ping timeout: 857 seconds)
+[21:14:30] *** Joins refs
+[23:53:38] *** Quits Tcm0 (Leaving)

@@ -1,0 +1,80 @@
+[01:15:37] *** Quits rajkosto (Read error: Connection reset by peer)
+[01:18:42] <plutobot> Wiki | Page changed: HID services | User: yls8 | https://switchbrew.org/w/index.php?curid=103&diff=10186&oldid=10165
+[02:14:59] *** Quits ris2z (Ping timeout: 186 seconds)
+[02:21:28] *** Quits refs (Quit: refs)
+[02:30:43] *** Joins ris2z
+[05:01:27] *** Quits fgsfds (Read error: Connection reset by peer)
+[05:09:29] *** Quits naehrwert (Quit: ZNC - http://znc.in)
+[05:58:18] *** Joins naehrwert
+[05:58:47] *** Joins robs1
+[07:44:46] *** Joins uyjulian_
+[07:52:38] *** Quits uyjulian (Ping timeout: 745 seconds)
+[07:52:38] *** uyjulian_ is now known as uyjulian
+[08:17:32] *** Joins Tcm0
+[09:35:52] *** Joins changoXPR
+[09:37:13] *** Quits changO- (Ping timeout: 265 seconds)
+[09:37:13] *** changoXPR is now known as changO-
+[10:02:31] *** Joins derk0pf
+[10:39:30] *** Quits derk0pf (Ping timeout: 857 seconds)
+[10:56:07] *** Joins derk0pf
+[11:04:59] *** Quits derk0pf (Read error: Operation timed out)
+[11:13:07] *** Joins derk0pf
+[11:18:23] *** Quits derk0pf (Ping timeout: 272 seconds)
+[11:30:57] *** Joins derk0pf
+[11:32:41] *** Joins rajkosto
+[11:39:01] *** Quits derk0pf (Read error: Operation timed out)
+[11:58:16] *** Quits rajkosto (Read error: Connection reset by peer)
+[12:06:16] *** Joins derk0pf
+[12:39:37] *** Joins dibas_
+[12:48:58] *** Quits dibas (Ping timeout: 745 seconds)
+[12:48:58] *** dibas_ is now known as dibas
+[13:37:51] *** Quits uyjulian (Quit: ZNC - http://znc.in)
+[13:38:21] *** Joins uyjulian
+[13:40:42] *** Quits Tcm0 (Ping timeout: 622 seconds)
+[13:42:45] *** Quits dibas (Quit: Leaving...)
+[13:43:07] *** Joins dibas
+[14:13:56] *** Quits naehrwert (Quit: ZNC - http://znc.in)
+[14:13:56] *** Quits robs1 (Quit: ZNC - http://znc.in)
+[14:54:57] *** Joins Tcm0
+[15:18:27] *** Joins derk0pf_
+[15:27:39] *** Joins rajkosto
+[15:28:08] *** Quits derk0pf (Read error: Connection refused)
+[15:30:53] *** Joins fgsfds
+[15:38:56] *** Joins refsw`
+[15:40:03] *** Quits d3m3vilur (Read error: Connection reset by peer)
+[15:40:19] *** Quits refsw (Read error: Operation timed out)
+[15:41:29] *** Joins d3m3vilur
+[15:58:56] *** Quits derk0pf_ (Ping timeout: 272 seconds)
+[16:04:32] *** Quits Tcm0 (Ping timeout: 265 seconds)
+[16:06:40] *** Joins Tcm0
+[16:59:27] *** Joins derk0pf
+[17:18:54] *** Joins derk0pf_
+[17:20:23] *** Quits derk0pf (Ping timeout: 265 seconds)
+[17:37:53] *** Joins derk0pf
+[17:38:08] *** Quits derk0pf_ (Read error: No route to host)
+[18:28:33] *** Quits derk0pf (Read error: Operation timed out)
+[18:45:30] *** Joins derk0pf
+[18:54:33] *** Quits derk0pf (Ping timeout: 501 seconds)
+[19:37:15] <plutobot> Wiki | Page changed: HID Shared Memory | User: Hexkyz | https://switchbrew.org/w/index.php?curid=83&diff=10187&oldid=10185
+[20:06:18] *** Joins derk0pf
+[20:36:10] *** Quits m4ts- (Ping timeout: 265 seconds)
+[20:36:13] *** Joins m4ts_
+[21:17:12] *** Joins Tcm0_
+[21:19:43] *** Quits Tcm0 (Ping timeout: 265 seconds)
+[21:46:07] *** Joins refs
+[22:13:15] *** Quits mafcadio2 (Ping timeout: 272 seconds)
+[22:18:57] *** Joins mafcadio2
+[22:25:32] *** Quits derk0pf (Read error: Operation timed out)
+[22:33:54] *** Joins derk0pf
+[22:45:42] *** Quits rajkosto (Read error: Connection reset by peer)
+[22:46:07] *** Joins rajkosto
+[22:46:55] *** Quits derk0pf (Read error: Operation timed out)
+[22:51:41] *** Joins derk0pf
+[22:56:20] *** Quits derk0pf (Ping timeout: 265 seconds)
+[23:08:35] *** Joins derk0pf
+[23:09:46] *** Quits cpnc0ke (Ping timeout: 501 seconds)
+[23:15:20] *** Joins cpnc0ke
+[23:16:57] *** Quits derk0pf (Read error: Operation timed out)
+[23:23:05] *** Quits Mimoja (Quit: Ping timeout (120 seconds))
+[23:23:25] *** Joins Mimoja
+[23:50:51] *** Quits balrog (Ping timeout: 501 seconds)
