@@ -1,0 +1,98 @@
+[00:01:24] <plutobot> Wiki | Page changed: HID services | User: yls8 | https://switchbrew.org/w/index.php?curid=103&diff=10214&oldid=10213
+[00:13:28] <DoozerBot> PR-#505: Hid refactor, building targets: 02lib
+[00:17:05] <DoozerBot> 02lib: 03 v3.3.0.132 Build OK - https://doozer.io/build/pzxcw8dsaq
+[01:30:24] *** Joins rajkosto
+[01:40:11] <plutobot> Wiki | Page changed: HID services | User: SciresM | https://switchbrew.org/w/index.php?curid=103&diff=10215&oldid=10214
+[01:42:39] *** Joins derk0pf
+[01:48:47] *** Quits Surkow (Remote host closed the connection)
+[01:50:20] *** Joins Surkow
+[01:51:03] <plutobot> Wiki | Page changed: HID services | User: SciresM | https://switchbrew.org/w/index.php?curid=103&diff=10216&oldid=10215
+[01:52:15] <plutobot> Wiki | Page changed: HID services | User: SciresM | https://switchbrew.org/w/index.php?curid=103&diff=10217&oldid=10216
+[01:54:25] *** Quits derk0pf (Read error: Operation timed out)
+[02:05:32] <DoozerBot> PR-#505: Hid refactor, building targets: 02lib
+[02:06:52] <plutobot> Wiki | Page changed: HID services | User: SciresM | https://switchbrew.org/w/index.php?curid=103&diff=10218&oldid=10217
+[02:09:04] <plutobot> Wiki | Page changed: HID services | User: SciresM | https://switchbrew.org/w/index.php?curid=103&diff=10219&oldid=10218
+[02:09:07] <DoozerBot> 02lib: 03 v3.3.0.134 Build OK - https://doozer.io/build/c3xu7ghxzu
+[02:12:21] <DoozerBot> PR-#505: Hid refactor, building targets: 02lib
+[02:13:05] *** Joins derk0pf
+[02:16:44] <DoozerBot> 02lib: 03 v3.3.0.135 Build OK - https://doozer.io/build/6by9h7o4q4
+[02:23:31] <plutobot> Wiki | Page changed: HID services | User: SciresM | https://switchbrew.org/w/index.php?curid=103&diff=10220&oldid=10219
+[02:24:42] <plutobot> Wiki | Page changed: HID services | User: SciresM | https://switchbrew.org/w/index.php?curid=103&diff=10221&oldid=10220
+[02:25:58] *** Quits derk0pf (Ping timeout: 745 seconds)
+[02:37:14] *** Quits refs (Quit: refs)
+[02:47:11] <DoozerBot> PR-#505: Hid refactor, building targets: 02lib
+[02:51:10] <DoozerBot> 02lib: 03 v3.3.0.136 Build OK - https://doozer.io/build/idmfivc2g2
+[04:00:25] *** Quits lameboy (Ping timeout: 265 seconds)
+[04:01:18] *** Joins lameboy
+[04:14:03] *** Joins derk0pf
+[04:24:37] *** Quits derk0pf (Ping timeout: 604 seconds)
+[06:12:14] *** Quits rjeli____ (Read error: Connection reset by peer)
+[06:12:14] *** Quits SCV__ (Read error: Connection reset by peer)
+[06:15:17] *** Joins derk0pf
+[06:22:55] *** Quits rajkosto (Read error: Connection reset by peer)
+[06:24:12] *** Quits derk0pf (Ping timeout: 501 seconds)
+[06:25:12] *** Quits figgis_ (Read error: Connection reset by peer)
+[06:32:09] *** Joins SCV__
+[06:32:39] *** Joins rjeli____
+[06:38:02] *** Joins SCV___
+[06:53:43] *** Quits SCV__ (Ping timeout: 1230 seconds)
+[06:53:43] *** SCV___ is now known as SCV__
+[07:43:19] *** Joins uyjulian
+[08:15:32] *** Joins derk0pf
+[08:25:55] *** Quits derk0pf (Ping timeout: 604 seconds)
+[09:01:29] *** Joins derk0pf
+[10:12:37] *** Quits derk0pf (Read error: Operation timed out)
+[13:14:55] <DoozerBot> PR-#505: Hid refactor, building targets: 02lib
+[13:18:32] <DoozerBot> 02lib: 03 v3.3.0.137 Build OK - https://doozer.io/build/x865w2nn8e
+[13:53:51] *** Quits uyjulian (Quit: ZNC - http://znc.in)
+[13:54:17] *** Joins uyjulian
+[13:56:02] *** Quits Surkow (Read error: Operation timed out)
+[13:58:10] *** Joins fgsfds
+[14:04:25] *** Joins Surkow
+[15:20:41] *** Joins coriolis
+[15:20:51] *** Joins dibas
+[15:21:03] *** Joins Phils3r
+[15:22:54] *** Joins hthh
+[15:25:08] *** Joins derrek
+[15:31:36] *** Joins mid-kid2
+[17:19:31] *** Joins rajkosto
+[17:49:08] <plutobot> Wiki | Page changed: HID services | User: yls8 | https://switchbrew.org/w/index.php?curid=103&diff=10222&oldid=10221
+[18:40:37] <DoozerBot> PR-#505: Hid refactor, building targets: 02lib
+[18:44:07] <DoozerBot> 02lib: 03 v3.3.0.138 Build OK - https://doozer.io/build/oszzyl2l74
+[18:52:26] <DoozerBot> PR-#505: Hid refactor, building targets: 02lib
+[18:56:03] <DoozerBot> 02lib: 03 v3.3.0.139 Build OK - https://doozer.io/build/2slrxdqlw3
+[19:07:56] *** Joins derk0pf
+[19:18:47] *** Quits derk0pf (Ping timeout: 496 seconds)
+[19:20:49] <plutobot> Wiki | Page changed: HID services | User: yls8 | https://switchbrew.org/w/index.php?curid=103&diff=10223&oldid=10222
+[19:33:48] *** Joins derk0pf
+[19:57:43] *** Quits derk0pf (Ping timeout: 745 seconds)
+[20:42:45] <plutobot> Wiki | Page changed: HID services | User: yls8 | https://switchbrew.org/w/index.php?curid=103&diff=10224&oldid=10223
+[20:43:36] <plutobot> Wiki | Page changed: HID services | User: yls8 | https://switchbrew.org/w/index.php?curid=103&diff=10225&oldid=10224
+[21:16:32] *** Joins derk0pf
+[21:26:44] *** Joins refs
+[21:50:59] *** Joins IShaDoWl
+[21:52:20] *** Quits IShaDoWl (Client Quit)
+[21:59:36] <plutobot> Wiki | Page changed: HID services | User: yls8 | https://switchbrew.org/w/index.php?curid=103&diff=10226&oldid=10225
+[22:13:12] <plutobot> Wiki | Page changed: HID services | User: yls8 | https://switchbrew.org/w/index.php?curid=103&diff=10227&oldid=10226
+[22:15:23] *** Quits derrek (Ping timeout: 745 seconds)
+[22:15:23] *** Quits Phils3r (Ping timeout: 745 seconds)
+[22:15:23] *** Quits dibas (Ping timeout: 745 seconds)
+[22:15:58] *** Quits mid-kid2 (Ping timeout: 745 seconds)
+[22:15:58] *** Quits hthh (Ping timeout: 745 seconds)
+[22:15:58] *** Quits coriolis (Ping timeout: 745 seconds)
+[22:22:22] <plutobot> Wiki | Page changed: HID services | User: yls8 | https://switchbrew.org/w/index.php?curid=103&diff=10228&oldid=10227
+[22:56:35] *** Joins KuKzz
+[22:59:22] *** Joins derk0pf_
+[23:01:30] *** Quits eggster (Read error: Operation timed out)
+[23:01:30] *** Quits KuKzz_ (Ping timeout: 604 seconds)
+[23:01:30] *** Joins eggster
+[23:01:30] *** Joins capin3
+[23:02:04] *** Quits capin2 (Read error: Operation timed out)
+[23:08:47] *** Quits derk0pf (Ping timeout: 604 seconds)
+[23:09:20] <plutobot> Wiki | Page changed: HID services | User: yls8 | https://switchbrew.org/w/index.php?curid=103&diff=10229&oldid=10228
+[23:12:55] *** Joins dibas
+[23:13:07] *** Joins derrek
+[23:14:03] *** Joins hthh
+[23:14:20] *** Joins coriolis
+[23:15:38] *** Joins Phils3r
+[23:20:43] *** Joins mid-kid2

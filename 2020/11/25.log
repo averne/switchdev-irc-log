@@ -1,0 +1,169 @@
+[00:01:03] *** Quits changO- (Ping timeout: 745 seconds)
+[00:01:03] *** changoXPR is now known as changO-
+[00:22:22] <DoozerBot> PR-#505: Hid refactor, building targets: 02lib
+[00:26:20] <DoozerBot> 02lib: 03 v3.3.0.126 Build OK - https://doozer.io/build/kqvrb73ir9
+[00:36:38] *** Quits SCV__ (Ping timeout: 1230 seconds)
+[00:36:51] *** Joins SCV__
+[01:10:19] *** Joins derk0pf
+[01:19:11] *** Quits derk0pf (Ping timeout: 272 seconds)
+[01:47:43] *** Quits Generic (Remote host closed the connection)
+[02:22:48] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[02:23:01] *** Joins rjeli____
+[02:29:27] *** Quits |Shadow| ()
+[02:36:26] *** Joins |Shadow|
+[02:37:17] *** Quits refs (Quit: refs)
+[03:04:07] *** Quits Galaxy| (Quit: Quit.)
+[03:05:36] *** Joins Galaxy|
+[03:14:41] *** Joins derk0pf
+[03:22:07] *** Quits lameboy (Read error: Connection reset by peer)
+[03:22:32] *** Joins lameboy
+[03:23:28] *** Quits derk0pf (Read error: Operation timed out)
+[03:27:53] *** Quits lameboy (Read error: Connection reset by peer)
+[03:28:19] *** Joins lameboy
+[04:42:48] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[04:43:01] *** Joins rjeli____
+[04:45:43] *** Quits lameboy (Quit: brb)
+[04:46:45] *** Joins lameboy
+[05:03:11] <DoozerBot> PR-#505: Hid refactor, building targets: 02lib
+[05:06:50] <DoozerBot> 02lib: 03 v3.3.0.127 Build OK - https://doozer.io/build/1hnmtphpoq
+[05:15:57] *** Joins derk0pf
+[05:20:49] *** Quits derk0pf (Ping timeout: 265 seconds)
+[05:51:58] *** Quits rajkosto (Quit: Leaving)
+[06:52:18] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[06:52:31] *** Joins rjeli____
+[07:05:08] *** Quits SCV__ (Ping timeout: 1230 seconds)
+[07:05:21] *** Joins SCV__
+[07:38:58] *** Quits fgsfds (Leaving)
+[07:55:49] *** Quits rjeli____ (Read error: Connection timed out)
+[08:05:52] *** Joins rjeli____
+[08:22:07] <DoozerBot> PR-#505: Hid refactor, building targets: 02lib
+[08:25:47] <DoozerBot> 02lib: 03 v3.3.0.128 Build OK - https://doozer.io/build/ynlvbymrgp
+[09:00:17] *** Joins derk0pf
+[10:43:57] *** Joins dibas
+[10:44:35] *** Joins hthh
+[10:48:25] *** Joins derrek
+[11:12:23] *** Quits derk0pf (Ping timeout: 744 seconds)
+[11:15:58] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[11:16:11] *** Joins rjeli____
+[11:29:57] *** Joins derk0pf
+[11:41:38] *** Quits SCV__ (Ping timeout: 1230 seconds)
+[11:41:51] *** Joins SCV__
+[11:46:15] *** Joins refsw
+[11:47:09] *** Quits derk0pf (Read error: Operation timed out)
+[11:47:13] *** Joins derk0pf
+[11:58:46] *** Quits refsw3 (Read error: Connection reset by peer)
+[11:58:46] *** Quits uyjulian (Quit: ZNC - http://znc.in)
+[11:58:46] *** Joins uyjulian
+[12:00:07] *** Quits derk0pf (Read error: Operation timed out)
+[12:09:12] *** Quits uyjulian (se.hub efnet.port80.se)
+[12:09:12] *** Quits SCV__ (se.hub efnet.port80.se)
+[12:09:12] *** Quits rjeli____ (se.hub efnet.port80.se)
+[12:09:12] *** Quits derrek (se.hub efnet.port80.se)
+[12:09:12] *** Quits hthh (se.hub efnet.port80.se)
+[12:09:12] *** Quits dibas (se.hub efnet.port80.se)
+[12:09:12] *** Quits Phils3r (se.hub efnet.port80.se)
+[12:09:12] *** Quits hexkyz (se.hub efnet.port80.se)
+[12:09:12] *** Quits rctgamer (se.hub efnet.port80.se)
+[12:09:12] *** Quits MasterGK (se.hub efnet.port80.se)
+[12:09:12] *** Quits mid-kid2 (se.hub efnet.port80.se)
+[12:09:12] *** Quits coriolis (se.hub efnet.port80.se)
+[12:09:12] *** Quits Summeli (se.hub efnet.port80.se)
+[12:11:06] *** Joins rjeli____
+[12:11:06] *** Joins uyjulian
+[12:11:06] *** Joins SCV__
+[12:11:06] *** Joins derrek
+[12:11:06] *** Joins hthh
+[12:11:06] *** Joins dibas
+[12:11:06] *** Joins Phils3r
+[12:11:06] *** Joins hexkyz
+[12:11:06] *** Joins rctgamer
+[12:11:06] *** Joins MasterGK
+[12:11:06] *** Joins mid-kid2
+[12:11:06] *** Joins coriolis
+[12:11:06] *** Joins Summeli
+[13:04:52] *** Quits Galaxy| (Quit: Quit.)
+[13:07:16] *** Joins Galaxy|
+[13:47:29] *** Joins derk0pf
+[13:52:10] *** Quits derk0pf (Ping timeout: 265 seconds)
+[15:10:39] *** Quits zini- (Quit: -->)
+[15:11:50] *** Joins zini
+[15:29:12] *** Joins derk0pf
+[16:11:43] *** Quits derk0pf (Ping timeout: 745 seconds)
+[16:22:12] *** Joins fgsfds
+[16:28:58] *** Joins derk0pf
+[16:39:43] *** Quits derk0pf (Ping timeout: 604 seconds)
+[16:41:03] *** Quits nullstrin (Read error: Operation timed out)
+[16:41:21] *** Quits awordnot (Read error: Operation timed out)
+[16:41:25] *** Quits endrift (Read error: Operation timed out)
+[16:43:23] *** Joins figgis_
+[16:43:37] *** Quits j0hny5 (Read error: Operation timed out)
+[16:43:42] *** Joins endrift
+[16:43:56] *** Joins awordnot
+[16:44:06] *** Joins j0hny5
+[16:46:08] *** Joins nullstrin
+[16:47:14] *** Quits fgsfds (Read error: Operation timed out)
+[16:47:24] <DoozerBot> PR-#505: Hid refactor, building targets: 02lib
+[16:52:05] <DoozerBot> 02lib: 03 v3.3.0.129 Build OK - https://doozer.io/build/wnzdhygp6z
+[17:02:11] *** Quits rctgamer (Quit: Meh.)
+[17:02:11] *** Quits MasterGK (Quit: while (!sleep) sheep++;)
+[17:02:11] *** Quits uyjulian (Quit: ZNC - http://znc.in)
+[17:05:34] *** Joins Ghabry
+[17:14:08] *** Quits dibas (Ping timeout: 745 seconds)
+[17:14:43] *** Quits derrek (Ping timeout: 745 seconds)
+[17:14:43] *** Quits hthh (Ping timeout: 745 seconds)
+[17:28:10] *** Joins m4ts_
+[17:32:05] *** Quits m4ts- (Ping timeout: 265 seconds)
+[17:38:38] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[17:45:41] *** Joins rjeli____
+[17:51:43] *** Joins derk0pf
+[17:51:54] *** Quits rjeli____ (Read error: Connection timed out)
+[17:51:59] *** Joins rjeli____
+[18:46:31] *** Quits derk0pf (Ping timeout: 265 seconds)
+[18:50:21] *** Quits oldtopman (Read error: Operation timed out)
+[18:58:29] <plutobot> Wiki | Page changed: HID services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=103&diff=10209&oldid=10208
+[19:20:57] <plutobot> Wiki | Page changed: HID services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=103&diff=10210&oldid=10209
+[19:33:33] <plutobot> Wiki | Page changed: HID services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=103&diff=10211&oldid=10210
+[19:40:51] *** Joins derk0pf
+[19:48:47] *** Quits rjeli____ (se.hub efnet.port80.se)
+[19:48:47] *** Quits zini (se.hub efnet.port80.se)
+[19:48:47] *** Quits SCV__ (se.hub efnet.port80.se)
+[19:48:47] *** Quits Phils3r (se.hub efnet.port80.se)
+[19:48:47] *** Quits hexkyz (se.hub efnet.port80.se)
+[19:48:47] *** Quits mid-kid2 (se.hub efnet.port80.se)
+[19:48:48] *** Quits coriolis (se.hub efnet.port80.se)
+[19:48:48] *** Quits Summeli (se.hub efnet.port80.se)
+[19:49:07] *** Joins rjeli____
+[19:49:07] *** Joins zini
+[19:49:07] *** Joins SCV__
+[19:49:07] *** Joins Phils3r
+[19:49:07] *** Joins hexkyz
+[19:49:07] *** Joins mid-kid2
+[19:49:07] *** Joins coriolis
+[19:49:07] *** Joins Summeli
+[20:03:18] *** Quits Phils3r (Ping timeout: 615 seconds)
+[20:04:11] *** Joins rctgamer3
+[20:04:28] *** Quits coriolis (Ping timeout: 615 seconds)
+[20:05:43] *** Joins oldtopman
+[20:06:13] *** Quits mid-kid2 (Ping timeout: 745 seconds)
+[20:07:24] *** Quits Summeli (Ping timeout: 745 seconds)
+[20:10:37] *** Joins SCV___
+[20:11:46] *** Quits rjeli____ (Read error: Connection timed out)
+[20:12:03] *** Quits SCV__ (Ping timeout: 1230 seconds)
+[20:12:03] *** SCV___ is now known as SCV__
+[20:12:34] *** Joins rjeli____
+[21:03:49] *** Quits derk0pf (Ping timeout: 604 seconds)
+[21:08:37] *** Joins refs
+[21:09:39] <DoozerBot> PR-#505: Hid refactor, building targets: 02lib
+[21:13:19] <DoozerBot> 02lib: 03 v3.3.0.130 Build OK - https://doozer.io/build/i600w5488o
+[21:28:16] <plutobot> Wiki | Page changed: HID services | User: yls8 | https://switchbrew.org/w/index.php?curid=103&diff=10212&oldid=10211
+[21:34:33] <plutobot> Wiki | Page changed: HID services | User: yls8 | https://switchbrew.org/w/index.php?curid=103&diff=10213&oldid=10212
+[21:40:58] *** Joins derk0pf
+[21:45:50] *** Quits derk0pf (Ping timeout: 265 seconds)
+[22:02:38] <DoozerBot> PR-#505: Hid refactor, building targets: 02lib
+[22:06:45] <DoozerBot> 02lib: 03 v3.3.0.131 Build OK - https://doozer.io/build/3ot0yy3ow3
+[22:40:06] *** Joins m4ts-
+[22:43:21] *** Quits m4ts_ (Ping timeout: 265 seconds)
+[23:20:06] *** Joins zini-
+[23:25:08] *** Quits zini (Ping timeout: 745 seconds)
+[23:41:39] *** Joins derk0pf
+[23:46:55] *** Quits derk0pf (Ping timeout: 272 seconds)

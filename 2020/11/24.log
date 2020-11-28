@@ -1,0 +1,91 @@
+[01:19:18] *** Joins rajkosto
+[01:26:51] <DoozerBot> PR-#505: Hid refactor, building targets: 02lib
+[01:26:54] <plutobot> GitHub | New PR: Hid refactor | User: yellows | https://github.com/switchbrew/libnx/pull/505
+[01:30:26] <DoozerBot> 02lib: 03 v3.3.0.120 Build OK - https://doozer.io/build/bh0vcle0gv
+[02:24:51] *** Quits Surkow (Read error: Operation timed out)
+[02:30:57] *** Joins Surkow
+[02:37:38] *** Quits refs (Quit: refs)
+[02:51:43] <plutobot> Wiki | Page changed: HID services | User: yls8 | https://switchbrew.org/w/index.php?curid=103&diff=10205&oldid=10204
+[03:18:44] <DoozerBot> PR-#505: Hid refactor, building targets: 02lib
+[03:22:30] <DoozerBot> 02lib: 03 v3.3.0.121 Build OK - https://doozer.io/build/zlvvp6tbw7
+[04:37:37] *** Quits Surkow (Read error: Operation timed out)
+[04:47:41] *** Joins Surkow
+[04:56:58] <plutobot> Wiki | Page changed: HID services | User: yls8 | https://switchbrew.org/w/index.php?curid=103&diff=10206&oldid=10205
+[05:10:01] <DoozerBot> PR-#505: Hid refactor, building targets: 02lib
+[05:13:38] <DoozerBot> 02lib: 03 v3.3.0.122 Build OK - https://doozer.io/build/y3ddbk7c8q
+[06:21:00] *** Quits rajkosto (Read error: Connection reset by peer)
+[06:35:08] *** Quits SCV__ (Ping timeout: 1230 seconds)
+[06:42:11] *** Joins SCV__
+[06:42:27] *** Quits SCV__ (Read error: Connection timed out)
+[06:42:32] *** Joins SCV__
+[06:46:48] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[06:53:45] *** Joins rjeli____
+[07:20:28] *** Quits SCV__ (Read error: Connection timed out)
+[07:32:12] *** Quits fgsfds (Leaving)
+[07:34:45] *** Joins SCV__
+[10:01:57] *** Joins |Shadow|_
+[10:02:29] *** Quits |Shadow| (Read error: Operation timed out)
+[10:05:51] *** |Shadow|_ is now known as |Shadow|
+[10:58:13] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[10:58:27] *** Joins rjeli____
+[12:51:58] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[12:52:11] *** Joins rjeli____
+[13:49:05] <plutobot> Wiki | Page changed: Fuses | User: Deejay87 | https://switchbrew.org/w/index.php?curid=186&diff=10207&oldid=9840
+[16:16:39] *** Joins fgsfds
+[16:17:00] *** Joins derk0pf
+[16:25:28] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[16:25:42] *** Joins rjeli____
+[17:20:05] *** Joins Generic
+[17:21:25] <Generic> I noticed something in the deko3d examples, though I'm not completely sure about it
+[17:21:35] <Generic> https://github.com/switchbrew/switch-examples/blob/master/graphics/deko3d/deko_examples/source/Example02_Triangle.cpp#L203
+[17:22:56] <Generic> if one first polls the input, then generates the data for the next frame and then waits for one fb of the swapchain to become available
+[17:23:58] <Generic> doesn't this increase input latency, compared to acquiring a fb, then polling input and making the next frame?
+[17:38:07] *** Quits derk0pf (Read error: Operation timed out)
+[17:40:47] *** Joins derk0pf
+[18:03:28] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[18:03:41] *** Joins rjeli____
+[18:35:33] *** Quits derk0pf (Ping timeout: 265 seconds)
+[18:48:23] *** Quits SCV__ (Ping timeout: 1230 seconds)
+[18:48:36] *** Joins SCV__
+[19:01:14] *** Joins derk0pf
+[19:06:00] *** Quits derk0pf (Ping timeout: 265 seconds)
+[19:17:54] *** Joins derk0pf
+[19:22:47] <plutobot> Wiki | Page changed: HID services | User: yls8 | https://switchbrew.org/w/index.php?curid=103&diff=10208&oldid=10206
+[19:27:57] *** Quits derk0pf (Read error: Operation timed out)
+[19:33:28] <DoozerBot> PR-#505: Hid refactor, building targets: 02lib
+[19:35:37] *** Joins derk0pf
+[19:41:30] <DoozerBot> 02lib: 03 v3.3.0.123 Build OK - https://doozer.io/build/kdvrcerhpp
+[19:42:35] *** Quits derk0pf (Ping timeout: 265 seconds)
+[19:52:17] *** Joins rajkosto
+[20:58:28] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[20:58:42] *** Joins rjeli____
+[21:16:34] *** Joins derk0pf
+[21:17:47] *** Joins refs
+[21:36:06] <yellows8> Generic: that doesn't make sense
+[21:58:19] <DoozerBot> PR-#505: Hid refactor, building targets: 02lib
+[22:02:00] <DoozerBot> 02lib: 03 v3.3.0.124 Build OK - https://doozer.io/build/m62snu0bdq
+[22:05:19] *** Quits derk0pf (Read error: Operation timed out)
+[22:09:38] *** Quits hthh (Ping timeout: 745 seconds)
+[22:09:38] *** Quits derrek (Ping timeout: 745 seconds)
+[22:10:13] *** Quits ave_ (Ping timeout: 745 seconds)
+[22:10:14] *** Quits dibas (Ping timeout: 745 seconds)
+[22:13:47] <Generic> I drew a picture of what I mean
+[22:14:06] <Generic> https://imgur.com/a/fQXj6YI
+[22:14:11] <Generic> I hope the text is readable
+[22:22:55] <yellows8> have a direct link to the image or something?
+[22:24:43] <Generic> sure
+[22:25:37] <Generic> https://i.imgur.com/P2Qj9kL.jpg
+[22:25:44] *** Joins derk0pf
+[22:40:16] *** Quits derk0pf (Read error: Operation timed out)
+[22:42:46] *** Joins derk0pf
+[23:05:59] *** Quits derk0pf (Ping timeout: 744 seconds)
+[23:18:33] <yellows8> moving it won't do anything for "input latency"
+[23:30:08] *** Quits SCV__ (Ping timeout: 1230 seconds)
+[23:30:21] *** Joins SCV__
+[23:35:55] *** Quits rjeli____ (Read error: Connection timed out)
+[23:44:10] *** Joins rjeli____
+[23:49:52] <DoozerBot> PR-#505: Hid refactor, building targets: 02lib
+[23:53:41] <DoozerBot> 02lib: 03 v3.3.0.125 Build OK - https://doozer.io/build/fq29hkoi9u
+[23:54:57] *** Joins changoXPR
+[23:54:58] *** Quits changoXPR (Excess Flood)
+[23:56:18] *** Joins changoXPR
