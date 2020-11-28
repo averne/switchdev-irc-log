@@ -1,0 +1,91 @@
+[01:19:18] *** Joins: rajkosto (~rajkosto@cable-178-149-125-126.dynamic.sbb.rs)
+[01:26:51] <DoozerBot> PR-#505: Hid refactor, building targets: 02lib
+[01:26:54] <plutobot> GitHub | New PR: Hid refactor | User: yellows | https://github.com/switchbrew/libnx/pull/505
+[01:30:26] <DoozerBot> 02lib: 03 v3.3.0.120 Build OK - https://doozer.io/build/bh0vcle0gv
+[02:24:51] *** Quits: Surkow (~Surkow@84-104-14-64.cable.dynamic.v4.ziggo.nl) (Read error: Operation timed out)
+[02:30:57] *** Joins: Surkow (~Surkow@84-104-14-64.cable.dynamic.v4.ziggo.nl)
+[02:37:38] *** Quits: refs (~refs@p200300dd870e9900400c58636cc9b6f7.dip0.t-ipconnect.de) (Quit: refs)
+[02:51:43] <plutobot> Wiki | Page changed: HID services | User: yls8 | https://switchbrew.org/w/index.php?curid=103&diff=10205&oldid=10204
+[03:18:44] <DoozerBot> PR-#505: Hid refactor, building targets: 02lib
+[03:22:30] <DoozerBot> 02lib: 03 v3.3.0.121 Build OK - https://doozer.io/build/zlvvp6tbw7
+[04:37:37] *** Quits: Surkow (~Surkow@84-104-14-64.cable.dynamic.v4.ziggo.nl) (Read error: Operation timed out)
+[04:47:41] *** Joins: Surkow (~Surkow@84-104-14-64.cable.dynamic.v4.ziggo.nl)
+[04:56:58] <plutobot> Wiki | Page changed: HID services | User: yls8 | https://switchbrew.org/w/index.php?curid=103&diff=10206&oldid=10205
+[05:10:01] <DoozerBot> PR-#505: Hid refactor, building targets: 02lib
+[05:13:38] <DoozerBot> 02lib: 03 v3.3.0.122 Build OK - https://doozer.io/build/y3ddbk7c8q
+[06:21:00] *** Quits: rajkosto (~rajkosto@cable-178-149-125-126.dynamic.sbb.rs) (Read error: Connection reset by peer)
+[06:35:08] *** Quits: SCV__ (sid226262@id-226262.charlton.irccloud.com) (Ping timeout: 1230 seconds)
+[06:42:11] *** Joins: SCV__ (sid226262@id-226262.charlton.irccloud.com)
+[06:42:27] *** Quits: SCV__ (sid226262@id-226262.charlton.irccloud.com) (Read error: Connection timed out)
+[06:42:32] *** Joins: SCV__ (sid226262@id-226262.charlton.irccloud.com)
+[06:46:48] *** Quits: rjeli____ (sid289321@id-289321.charlton.irccloud.com) (Ping timeout: 1230 seconds)
+[06:53:45] *** Joins: rjeli____ (sid289321@id-289321.charlton.irccloud.com)
+[07:20:28] *** Quits: SCV__ (sid226262@id-226262.charlton.irccloud.com) (Read error: Connection timed out)
+[07:32:12] *** Quits: fgsfds (~figgis@93.123.144.171) (Leaving)
+[07:34:45] *** Joins: SCV__ (sid226262@id-226262.charlton.irccloud.com)
+[10:01:57] *** Joins: |Shadow|_ (~Shadow1@ip24-253-241-112.ok.ok.cox.net)
+[10:02:29] *** Quits: |Shadow| (~Shadow1@ip24-253-241-112.ok.ok.cox.net) (Read error: Operation timed out)
+[10:05:51] *** |Shadow|_ is now known as |Shadow|
+[10:58:13] *** Quits: rjeli____ (sid289321@id-289321.charlton.irccloud.com) (Ping timeout: 1230 seconds)
+[10:58:27] *** Joins: rjeli____ (sid289321@id-289321.charlton.irccloud.com)
+[12:51:58] *** Quits: rjeli____ (sid289321@id-289321.charlton.irccloud.com) (Ping timeout: 1230 seconds)
+[12:52:11] *** Joins: rjeli____ (sid289321@id-289321.charlton.irccloud.com)
+[13:49:05] <plutobot> Wiki | Page changed: Fuses | User: Deejay87 | https://switchbrew.org/w/index.php?curid=186&diff=10207&oldid=9840
+[16:16:39] *** Joins: fgsfds (~figgis@93.123.144.171)
+[16:17:00] *** Joins: derk0pf (~derk0pf@ip5b413570.dynamic.kabel-deutschland.de)
+[16:25:28] *** Quits: rjeli____ (sid289321@id-289321.charlton.irccloud.com) (Ping timeout: 1230 seconds)
+[16:25:42] *** Joins: rjeli____ (sid289321@id-289321.charlton.irccloud.com)
+[17:20:05] *** Joins: Generic (~Thunderbi@2a02:8109:8b80:79d0:5417:626f:c59f:89fc)
+[17:21:25] <Generic> I noticed something in the deko3d examples, though I'm not completely sure about it
+[17:21:35] <Generic> https://github.com/switchbrew/switch-examples/blob/master/graphics/deko3d/deko_examples/source/Example02_Triangle.cpp#L203
+[17:22:56] <Generic> if one first polls the input, then generates the data for the next frame and then waits for one fb of the swapchain to become available
+[17:23:58] <Generic> doesn't this increase input latency, compared to acquiring a fb, then polling input and making the next frame?
+[17:38:07] *** Quits: derk0pf (~derk0pf@ip5b413570.dynamic.kabel-deutschland.de) (Read error: Operation timed out)
+[17:40:47] *** Joins: derk0pf (~derk0pf@ip5b413570.dynamic.kabel-deutschland.de)
+[18:03:28] *** Quits: rjeli____ (sid289321@id-289321.charlton.irccloud.com) (Ping timeout: 1230 seconds)
+[18:03:41] *** Joins: rjeli____ (sid289321@id-289321.charlton.irccloud.com)
+[18:35:33] *** Quits: derk0pf (~derk0pf@ip5b413570.dynamic.kabel-deutschland.de) (Ping timeout: 265 seconds)
+[18:48:23] *** Quits: SCV__ (sid226262@id-226262.charlton.irccloud.com) (Ping timeout: 1230 seconds)
+[18:48:36] *** Joins: SCV__ (sid226262@id-226262.charlton.irccloud.com)
+[19:01:14] *** Joins: derk0pf (~derk0pf@ip5b413570.dynamic.kabel-deutschland.de)
+[19:06:00] *** Quits: derk0pf (~derk0pf@ip5b413570.dynamic.kabel-deutschland.de) (Ping timeout: 265 seconds)
+[19:17:54] *** Joins: derk0pf (~derk0pf@ip5b413570.dynamic.kabel-deutschland.de)
+[19:22:47] <plutobot> Wiki | Page changed: HID services | User: yls8 | https://switchbrew.org/w/index.php?curid=103&diff=10208&oldid=10206
+[19:27:57] *** Quits: derk0pf (~derk0pf@ip5b413570.dynamic.kabel-deutschland.de) (Read error: Operation timed out)
+[19:33:28] <DoozerBot> PR-#505: Hid refactor, building targets: 02lib
+[19:35:37] *** Joins: derk0pf (~derk0pf@ip5b413570.dynamic.kabel-deutschland.de)
+[19:41:30] <DoozerBot> 02lib: 03 v3.3.0.123 Build OK - https://doozer.io/build/kdvrcerhpp
+[19:42:35] *** Quits: derk0pf (~derk0pf@ip5b413570.dynamic.kabel-deutschland.de) (Ping timeout: 265 seconds)
+[19:52:17] *** Joins: rajkosto (~rajkosto@cable-178-149-125-126.dynamic.sbb.rs)
+[20:58:28] *** Quits: rjeli____ (sid289321@id-289321.charlton.irccloud.com) (Ping timeout: 1230 seconds)
+[20:58:42] *** Joins: rjeli____ (sid289321@id-289321.charlton.irccloud.com)
+[21:16:34] *** Joins: derk0pf (~derk0pf@ip5b413570.dynamic.kabel-deutschland.de)
+[21:17:47] *** Joins: refs (~refs@p200300dd8719ef00ace679d5941c225a.dip0.t-ipconnect.de)
+[21:36:06] <yellows8> Generic: that doesn't make sense
+[21:58:19] <DoozerBot> PR-#505: Hid refactor, building targets: 02lib
+[22:02:00] <DoozerBot> 02lib: 03 v3.3.0.124 Build OK - https://doozer.io/build/m62snu0bdq
+[22:05:19] *** Quits: derk0pf (~derk0pf@ip5b413570.dynamic.kabel-deutschland.de) (Read error: Operation timed out)
+[22:09:38] *** Quits: hthh (~hthh@hh.ht) (Ping timeout: 745 seconds)
+[22:09:38] *** Quits: derrek (gL2mmrrzFF@sirius.uberspace.de) (Ping timeout: 745 seconds)
+[22:10:13] *** Quits: ave_ (~ave_@79.110.170.32) (Ping timeout: 745 seconds)
+[22:10:14] *** Quits: dibas (~dibas@wild.uberspace.de) (Ping timeout: 745 seconds)
+[22:13:47] <Generic> I drew a picture of what I mean
+[22:14:06] <Generic> https://imgur.com/a/fQXj6YI
+[22:14:11] <Generic> I hope the text is readable
+[22:22:55] <yellows8> have a direct link to the image or something?
+[22:24:43] <Generic> sure
+[22:25:37] <Generic> https://i.imgur.com/P2Qj9kL.jpg
+[22:25:44] *** Joins: derk0pf (~derk0pf@ip5b413570.dynamic.kabel-deutschland.de)
+[22:40:16] *** Quits: derk0pf (~derk0pf@ip5b413570.dynamic.kabel-deutschland.de) (Read error: Operation timed out)
+[22:42:46] *** Joins: derk0pf (~derk0pf@ip5b413570.dynamic.kabel-deutschland.de)
+[23:05:59] *** Quits: derk0pf (~derk0pf@ip5b413570.dynamic.kabel-deutschland.de) (Ping timeout: 744 seconds)
+[23:18:33] <yellows8> moving it won't do anything for "input latency"
+[23:30:08] *** Quits: SCV__ (sid226262@id-226262.charlton.irccloud.com) (Ping timeout: 1230 seconds)
+[23:30:21] *** Joins: SCV__ (sid226262@id-226262.charlton.irccloud.com)
+[23:35:55] *** Quits: rjeli____ (sid289321@id-289321.charlton.irccloud.com) (Read error: Connection timed out)
+[23:44:10] *** Joins: rjeli____ (sid289321@id-289321.charlton.irccloud.com)
+[23:49:52] <DoozerBot> PR-#505: Hid refactor, building targets: 02lib
+[23:53:41] <DoozerBot> 02lib: 03 v3.3.0.125 Build OK - https://doozer.io/build/fq29hkoi9u
+[23:54:57] *** Joins: changoXPR (~Changolan@ip70-187-147-196.oc.oc.cox.net)
+[23:54:58] *** Quits: changoXPR (~Changolan@ip70-187-147-196.oc.oc.cox.net) (Excess Flood)
+[23:56:18] *** Joins: changoXPR (~Changolan@ip70-187-147-196.oc.oc.cox.net)
