@@ -1,0 +1,77 @@
+[00:04:01] *** Quits zombie343 ()
+[00:07:07] *** Joins derk0pf
+[00:19:53] *** Quits derk0pf (Ping timeout: 745 seconds)
+[00:32:13] *** Quits Tcm0_ (Quit: Leaving)
+[00:43:40] *** Joins majosa
+[01:01:13] *** Quits majosa (Ping timeout: 252 seconds)
+[01:08:47] *** Joins awordnot
+[01:09:21] *** Joins j0hny5
+[01:11:22] *** Joins nullstrin
+[01:13:37] <plutobot> Wiki | Page changed: Calibration | User: Shchmue | https://switchbrew.org/w/index.php?curid=213&diff=10403&oldid=10188
+[01:55:06] *** Joins zombie343
+[02:16:01] *** Joins refs
+[02:26:21] *** Joins derk0pf
+[02:27:43] *** Joins rajkosto
+[02:31:18] *** Quits derk0pf (Ping timeout: 265 seconds)
+[02:41:24] <plutobot> GitHub | New PR: usbDsWaitRead... | User: mtheall | https://github.com/switchbrew/libnx/pull/513
+[02:41:24] <DoozerBot> PR-#513: usbDsWaitReady: use deadline timeout, building targets: 02lib
+[02:42:49] <plutobot> GitHub | New commit | User: Michael Theall | https://github.com/switchbrew/libnx/commit/1e9fe9b199
+[02:42:51] <DoozerBot> fincs pushed to master: usbDsWaitReady: use deadline timeout "usbDsWaitReady: use deadline timeout" [071 file modified], building targets: 02lib
+[02:46:08] <DoozerBot> 02lib: 03 v3.3.0.169 Build OK - https://doozer.io/build/zb8s503bgy
+[03:11:11] <DoozerBot> PR-#514: svc: add new InfoType_FreeThreadCount, building targets: 02lib
+[03:11:57] <DoozerBot> fincs pushed to master: svc: add new InfoType_FreeThreadCount (#514) "svc: add new InfoType_FreeThreadCount (#514)" [071 file modified], building targets: 02lib
+[03:12:44] <plutobot> GitHub | New commit | User: SciresM | https://github.com/switchbrew/libnx/commit/c3b63e8723
+[03:14:58] <plutobot> Wiki | Page changed: SVC | User: SciresM | https://switchbrew.org/w/index.php?curid=81&diff=10404&oldid=10302
+[03:15:39] <plutobot> Wiki | Page changed: 11.0.0 | User: SciresM | https://switchbrew.org/w/index.php?curid=422&diff=10405&oldid=10402
+[03:16:36] <DoozerBot> 02lib: 03 v3.3.0.170 Build OK - https://doozer.io/build/0qw81q7roa
+[03:23:38] <plutobot> Wiki | Page changed: HID services | User: yls8 | https://switchbrew.org/w/index.php?curid=103&diff=10406&oldid=10271
+[03:27:02] <plutobot> Wiki | Page changed: HID services | User: yls8 | https://switchbrew.org/w/index.php?curid=103&diff=10407&oldid=10406
+[03:37:34] <plutobot> Wiki | Page changed: HID services | User: yls8 | https://switchbrew.org/w/index.php?curid=103&diff=10408&oldid=10407
+[03:44:22] *** Quits GerbilSof (Quit: Windows must now restart because the Remote Procedure Call (RPC) service terminated unexpectedly.)
+[03:53:48] *** Joins GerbilSof
+[04:01:45] *** Quits refs (Quit: refs)
+[04:28:02] *** Quits Surkow (Remote host closed the connection)
+[04:29:38] *** Joins Surkow
+[06:06:33] *** Quits lameboy (Read error: Connection reset by peer)
+[06:06:46] *** Joins lameboy
+[06:27:53] *** Joins derk0pf
+[06:37:41] <plutobot> Wiki | Page changed: HID services | User: yls8 | https://switchbrew.org/w/index.php?curid=103&diff=10409&oldid=10408
+[06:42:47] <plutobot> Wiki | Page changed: HID services | User: yls8 | https://switchbrew.org/w/index.php?curid=103&diff=10410&oldid=10409
+[06:43:32] *** Quits derk0pf (Read error: Operation timed out)
+[06:49:59] <DoozerBot> yellows8 pushed to master: hid: Updated Palma docs. "hid: Updated Palma docs." [071 file modified], building targets: 02lib
+[06:50:01] <plutobot> GitHub | New commit | User: yellows | https://github.com/switchbrew/libnx/commit/de5e158545
+[06:53:42] <DoozerBot> 02lib: 03 v3.3.0.171 Build OK - https://doozer.io/build/p3xe10b5e2
+[07:05:22] <plutobot> Wiki | Page changed: HID services | User: yls8 | https://switchbrew.org/w/index.php?curid=103&diff=10411&oldid=10410
+[07:09:26] <DoozerBot> yellows8 pushed to master: hid: Updated docs. "hid: Updated docs." [071 file modified], building targets: 02lib
+[07:12:40] <plutobot> GitHub | New commit | User: yellows | https://github.com/switchbrew/libnx/commit/d91a2e22e7
+[07:13:16] <DoozerBot> 02lib: 03 v3.3.0.172 Build OK - https://doozer.io/build/owtutjh2du
+[08:02:10] *** Quits figgis_ (Quit: Leaving)
+[08:23:10] *** Joins endrift
+[09:20:02] *** Joins derk0pf
+[10:36:09] *** Quits rajkosto (Read error: Operation timed out)
+[13:44:17] *** Joins rajkosto
+[15:19:35] *** Quits derk0pf (Ping timeout: 265 seconds)
+[15:28:11] *** Joins derk0pf
+[16:16:25] *** Quits cpncok3 (Ping timeout: 501 seconds)
+[16:17:05] *** Joins refs
+[16:20:15] *** Quits cpnc0ke (Read error: Operation timed out)
+[17:47:14] *** Quits rajkosto (Read error: Connection reset by peer)
+[19:17:21] *** Joins Tcm0
+[20:04:46] *** Quits phigcloud (Read error: Connection reset by peer)
+[20:05:16] *** Joins phigcloud
+[20:09:23] *** Quits derk0pf (Ping timeout: 265 seconds)
+[20:10:13] *** Joins derk0pf
+[21:21:58] *** Quits oldtopman (Ping timeout: 272 seconds)
+[21:25:52] *** Joins oldtopman
+[22:15:02] *** Quits derk0pf (Read error: Connection reset by peer)
+[22:16:30] *** Joins derk0pf
+[22:27:15] <plutobot> Wiki | Page changed: Flash Filesystem | User: Behemoth | https://switchbrew.org/w/index.php?curid=151&diff=10412&oldid=9978
+[22:27:36] <plutobot> Wiki | Page changed: Flash Filesystem | User: Behemoth | https://switchbrew.org/w/index.php?curid=151&diff=10413&oldid=10412
+[22:41:49] *** Joins fgsfds
+[22:52:37] *** Quits averne (quit)
+[22:52:52] *** Joins averne_
+[22:52:52] *** Server sets mode: +stn 
+[22:57:47] *** Quits ZeZu (Read error: Operation timed out)
+[22:59:17] *** Quits averne (Read error: Operation timed out)
+[23:39:06] *** Joins ZeZu
+[23:59:57] *** Quits derk0pf (Ping timeout: 501 seconds)

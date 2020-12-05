@@ -1,0 +1,471 @@
+[00:17:11] *** Quits changO- (Read error: Connection reset by peer)
+[00:30:25] *** Joins changO-
+[00:36:45] *** Joins Galaxy|_
+[00:38:15] *** Quits Galaxy| (Ping timeout: 496 seconds)
+[00:38:15] *** Galaxy|_ is now known as Galaxy|
+[00:41:00] *** Quits Galaxy| (Client Quit)
+[00:55:55] *** Joins Galaxy|
+[01:02:45] <yls8bot> https://yls8.mtheall.com/ninupdates/reports.php?date=2020-12-01_00-02-35&sys=hac 
+[01:04:45] <yls8bot> Update-details for the following hac report is now available/updated: https://yls8.mtheall.com/ninupdates/reports.php?date=2020-12-01_00-02-35&sys=hac 
+[01:09:30] <yls8bot> Sysmodule SwIPC-generation .info files for the following hac report is now available/updated: https://yls8.mtheall.com/ninupdates/reports.php?date=2020-12-01_00-02-35&sys=hac 
+[01:15:14] <plutobot> Wiki | New page: 11.0.0 | User: Yls8bot | https://switchbrew.org/w/index.php?curid=422
+[01:15:14] <plutobot> Wiki | Page changed: Template:NavboxVersions | User: Yls8bot | https://switchbrew.org/w/index.php?curid=183&diff=10274&oldid=9961
+[01:15:14] <plutobot> Wiki | Page changed: News/Archive | User: Yls8bot | https://switchbrew.org/w/index.php?curid=114&diff=10273&oldid=9960
+[01:15:25] <plutobot> Wiki | Page changed: FirmwareNews | User: Yls8bot | https://switchbrew.org/w/index.php?curid=43&diff=10276&oldid=9963
+[01:32:46] <yls8bot> Update-details for the following hac report is now available/updated: https://yls8.mtheall.com/ninupdates/reports.php?date=2020-12-01_00-02-35&sys=hac 
+[01:33:31] <yls8bot> Sysmodule SwIPC-generation .info files for the following hac report is now available/updated: https://yls8.mtheall.com/ninupdates/reports.php?date=2020-12-01_00-02-35&sys=hac 
+[01:45:51] <plutobot> Wiki | Page changed: Title list | User: Zachycatgames | https://switchbrew.org/w/index.php?curid=84&diff=10277&oldid=10166
+[01:48:21] *** Quits refs (Quit: refs)
+[02:25:24] <plutobot> GitHub | New PR: results use R... | User: SciresM | https://github.com/switchbrew/libnx/pull/506
+[02:25:29] <DoozerBot> PR-#506: results: use R_VALUE for comparisons, building targets: 02lib
+[02:26:28] <plutobot> GitHub | New commit | User: Michael Scire | https://github.com/switchbrew/libnx/commit/e5ae43f4c2
+[02:26:34] <DoozerBot> fincs pushed to master: results: use R_VALUE for comparisons "results: use R_VALUE for comparisons" [079 files modified], building targets: 02lib
+[02:29:08] <DoozerBot> PR-#505: Hid refactor, building targets: 02lib
+[02:30:29] <DoozerBot> 02lib: 03 v3.3.0.79 Build OK - https://doozer.io/build/yoer95fkc5
+[02:33:00] <DoozerBot> 02lib: 03 v3.3.0.153 Build OK - https://doozer.io/build/4wxvfb0itg
+[02:43:48] <plutobot> Wiki | Page changed: Capture services | User: Behemoth | https://switchbrew.org/w/index.php?curid=160&diff=10278&oldid=9696
+[02:56:23] <yls8bot> Sysmodule SwIPC-generation .info files for the following hac report is now available/updated: https://yls8.mtheall.com/ninupdates/reports.php?date=2020-12-01_00-02-35&sys=hac 
+[03:01:30] <plutobot> Wiki | Page changed: Capture services | User: Behemoth | https://switchbrew.org/w/index.php?curid=160&diff=10279&oldid=10278
+[03:14:48] <yls8bot> Update-details for the following hac report is now available/updated: https://yls8.mtheall.com/ninupdates/reports.php?date=2020-12-01_00-02-35&sys=hac 
+[03:17:08] <plutobot> Wiki | Page changed: Capture services | User: Behemoth | https://switchbrew.org/w/index.php?curid=160&diff=10280&oldid=10279
+[03:23:56] <plutobot> Wiki | Page changed: Boot2 | User: Zachycatgames | https://switchbrew.org/w/index.php?curid=146&diff=10281&oldid=10168
+[03:26:39] <plutobot> Wiki | Page changed: Boot2 | User: Zachycatgames | https://switchbrew.org/w/index.php?curid=146&diff=10282&oldid=10281
+[03:31:43] <yls8bot> Sysmodule SwIPC-generation .info files for the following hac report is now available/updated: https://yls8.mtheall.com/ninupdates/reports.php?date=2020-12-01_00-02-35&sys=hac 
+[03:38:50] *** Joins rajkosto
+[03:57:34] <plutobot> Wiki | Page changed: 11.0.0 | User: yls8 | https://switchbrew.org/w/index.php?curid=422&diff=10283&oldid=10275
+[04:07:46] <plutobot> Wiki | New page: Capmtp services | User: Behemoth | https://switchbrew.org/w/index.php?curid=423
+[04:10:19] <plutobot> Wiki | Page changed: System Versions | User: yls8 | https://switchbrew.org/w/index.php?curid=105&diff=10285&oldid=9966
+[04:11:30] <plutobot> Wiki | Page changed: System Version Title | User: yls8 | https://switchbrew.org/w/index.php?curid=116&diff=10286&oldid=10151
+[04:43:27] <plutobot> Wiki | Page changed: Title list | User: yls8 | https://switchbrew.org/w/index.php?curid=84&diff=10287&oldid=10277
+[04:47:42] <plutobot> Wiki | Page changed: 11.0.0 | User: yls8 | https://switchbrew.org/w/index.php?curid=422&diff=10288&oldid=10283
+[05:05:42] <plutobot> Wiki | Page changed: 11.0.0 | User: yls8 | https://switchbrew.org/w/index.php?curid=422&diff=10289&oldid=10288
+[05:20:40] <plutobot> Wiki | Page changed: Capmtp services | User: Behemoth | https://switchbrew.org/w/index.php?curid=423&diff=10290&oldid=10284
+[05:21:01] <plutobot> Wiki | Page changed: Capmtp services | User: Behemoth | https://switchbrew.org/w/index.php?curid=423&diff=10291&oldid=10290
+[05:22:43] <plutobot> Wiki | Page changed: Capmtp services | User: Behemoth | https://switchbrew.org/w/index.php?curid=423&diff=10292&oldid=10291
+[05:39:13] <plutobot> Wiki | Page changed: Capmtp services | User: Behemoth | https://switchbrew.org/w/index.php?curid=423&diff=10293&oldid=10292
+[05:41:56] <plutobot> Wiki | Page changed: 11.0.0 | User: yls8 | https://switchbrew.org/w/index.php?curid=422&diff=10294&oldid=10289
+[06:10:39] <plutobot> Wiki | Page changed: Services API | User: yls8 | https://switchbrew.org/w/index.php?curid=85&diff=10295&oldid=10147
+[06:12:41] <plutobot> Wiki | Page changed: Title list | User: yls8 | https://switchbrew.org/w/index.php?curid=84&diff=10296&oldid=10287
+[07:06:34] <plutobot> Wiki | Page changed: 11.0.0 | User: yls8 | https://switchbrew.org/w/index.php?curid=422&diff=10297&oldid=10294
+[07:12:14] <DoozerBot> PR-#507: ldr: update SetProgramArguments for 11.0.0 abi change, building targets: 02lib
+[07:12:19] <plutobot> GitHub | New PR: ldr update Se... | User: SciresM | https://github.com/switchbrew/libnx/pull/507
+[07:15:57] <DoozerBot> 02lib: 03 v3.3.0.80 Build OK - https://doozer.io/build/cfd7wcsgr1
+[07:50:23] *** Quits rjeli____ (se.hub efnet.port80.se)
+[07:50:23] *** Quits lameboy (se.hub efnet.port80.se)
+[07:50:23] *** Quits derrek (se.hub efnet.port80.se)
+[07:50:23] *** Quits Genolo (se.hub efnet.port80.se)
+[07:50:23] *** Quits hthh (se.hub efnet.port80.se)
+[07:50:23] *** Quits dibas (se.hub efnet.port80.se)
+[07:50:23] *** Quits mid-kid2 (se.hub efnet.port80.se)
+[07:50:23] *** Quits Summeli (se.hub efnet.port80.se)
+[07:50:23] *** Quits coriolis (se.hub efnet.port80.se)
+[07:50:23] *** Quits Phils3r (se.hub efnet.port80.se)
+[07:50:23] *** Quits SCV__ (se.hub efnet.port80.se)
+[07:50:23] *** Quits rctgamer (se.hub efnet.port80.se)
+[07:50:23] *** Quits hexkyz (se.hub efnet.port80.se)
+[07:50:23] *** Quits uyjulian (se.hub efnet.port80.se)
+[07:51:56] <plutobot> Wiki | Page changed: SSL services | User: yls8 | https://switchbrew.org/w/index.php?curid=145&diff=10298&oldid=9746
+[07:53:30] <DoozerBot> PR-#507: ldr: update SetProgramArguments for 11.0.0 abi change, building targets: 02lib
+[07:57:16] <DoozerBot> 02lib: 03 v3.3.0.81 Build OK - https://doozer.io/build/9mnigda146
+[07:58:44] <plutobot> Wiki | Page changed: 11.0.0 | User: SciresM | https://switchbrew.org/w/index.php?curid=422&diff=10299&oldid=10297
+[07:58:54] <plutobot> Wiki | Page changed: 11.0.0 | User: SciresM | https://switchbrew.org/w/index.php?curid=422&diff=10300&oldid=10299
+[08:05:42] *** Joins rjeli____
+[08:05:42] *** Joins lameboy
+[08:05:42] *** Joins derrek
+[08:05:42] *** Joins Genolo
+[08:05:42] *** Joins hthh
+[08:05:42] *** Joins dibas
+[08:05:42] *** Joins mid-kid2
+[08:05:42] *** Joins Summeli
+[08:05:42] *** Joins coriolis
+[08:05:42] *** Joins Phils3r
+[08:05:42] *** Joins SCV__
+[08:05:42] *** Joins rctgamer
+[08:05:42] *** Joins hexkyz
+[08:05:42] *** Joins uyjulian
+[09:25:28] *** Quits Galaxy| (Quit: Quit.)
+[09:34:53] *** Joins Galaxy|
+[09:56:20] <plutobot> Wiki | Page changed: Fuses | User: SciresM | https://switchbrew.org/w/index.php?curid=186&diff=10301&oldid=10207
+[12:01:39] <DoozerBot> fincs pushed to master: ldr: update SetProgramArguments for 11.0.0 abi change (#507) "ldr: update SetProgramArguments for 11.0.0 abi change (#507)" [071 file modified], building targets: 02lib
+[12:03:32] <DoozerBot> PR-#505: Hid refactor, building targets: 02lib
+[12:07:05] <DoozerBot> 02lib: 03 v3.3.0.80 Build OK - https://doozer.io/build/0hd8kyt4qi
+[12:08:19] <DoozerBot> 02lib: 03 v3.3.0.154 Build OK - https://doozer.io/build/ufr5ti57cb
+[12:10:44] <plutobot> GitHub | New commit | User: SciresM | https://github.com/switchbrew/libnx/commit/8ce231e7c9
+[13:08:22] <DoozerBot> PR-#505: Hid refactor, building targets: 02lib
+[13:11:58] <DoozerBot> 02lib: 03 v3.3.0.156 Build OK - https://doozer.io/build/kw8m6cghm4
+[13:36:46] *** Quits rjeli____ (efnet.deic.eu se.hub)
+[13:36:46] *** Quits lameboy (efnet.deic.eu se.hub)
+[13:36:46] *** Quits derrek (efnet.deic.eu se.hub)
+[13:36:46] *** Quits Genolo (efnet.deic.eu se.hub)
+[13:36:46] *** Quits hthh (efnet.deic.eu se.hub)
+[13:36:46] *** Quits dibas (efnet.deic.eu se.hub)
+[13:36:46] *** Quits mid-kid2 (efnet.deic.eu se.hub)
+[13:36:46] *** Quits Summeli (efnet.deic.eu se.hub)
+[13:36:46] *** Quits coriolis (efnet.deic.eu se.hub)
+[13:36:47] *** Quits Phils3r (efnet.deic.eu se.hub)
+[13:36:47] *** Quits SCV__ (efnet.deic.eu se.hub)
+[13:36:47] *** Quits rctgamer (efnet.deic.eu se.hub)
+[13:36:47] *** Quits hexkyz (efnet.deic.eu se.hub)
+[13:36:47] *** Quits uyjulian (efnet.deic.eu se.hub)
+[13:36:47] *** Quits ris2z (efnet.deic.eu se.hub)
+[13:36:47] *** Quits m4ts_ (efnet.deic.eu se.hub)
+[13:36:47] *** Quits KuKzz (efnet.deic.eu se.hub)
+[13:36:47] *** Quits Ghabry (efnet.deic.eu se.hub)
+[13:36:47] *** Quits TAL (efnet.deic.eu se.hub)
+[13:36:47] *** Quits lex1 (efnet.deic.eu se.hub)
+[13:36:47] *** Quits noirscape (efnet.deic.eu se.hub)
+[13:36:47] *** Quits blasty (efnet.deic.eu se.hub)
+[13:36:47] *** Quits phigcloud (efnet.deic.eu se.hub)
+[13:36:47] *** Quits rmaw (efnet.deic.eu se.hub)
+[13:36:47] *** Quits Retr0id (efnet.deic.eu se.hub)
+[13:36:47] *** Quits d3m3vilur (efnet.deic.eu se.hub)
+[13:36:47] *** Quits Snetry (efnet.deic.eu se.hub)
+[13:36:47] *** Quits klanc (efnet.deic.eu se.hub)
+[13:36:47] *** Quits flotwig (efnet.deic.eu se.hub)
+[13:36:47] *** Quits capin3 (efnet.deic.eu se.hub)
+[13:36:47] *** Quits cpncok3 (efnet.deic.eu se.hub)
+[13:36:47] *** Quits WntrMute (efnet.deic.eu se.hub)
+[13:36:47] *** Quits fincs (efnet.deic.eu se.hub)
+[13:36:47] *** Quits TurtleP (efnet.deic.eu se.hub)
+[13:36:48] *** Quits Jdbye (efnet.deic.eu se.hub)
+[13:36:48] *** Quits sh0e (efnet.deic.eu se.hub)
+[13:36:48] *** Quits Galaxy| (efnet.deic.eu se.hub)
+[13:36:48] *** Quits changO- (efnet.deic.eu se.hub)
+[13:36:48] *** Quits ihaveamac (efnet.deic.eu se.hub)
+[13:36:48] *** Quits Extrems (efnet.deic.eu se.hub)
+[13:36:48] *** Quits klock (efnet.deic.eu se.hub)
+[13:36:48] *** Quits zombie343 (efnet.deic.eu se.hub)
+[13:36:48] *** Quits rajkosto (efnet.deic.eu se.hub)
+[13:36:48] *** Quits nullstrin (efnet.deic.eu se.hub)
+[13:36:48] *** Quits |Shadow| (efnet.deic.eu se.hub)
+[13:36:48] *** Quits awordnot (efnet.deic.eu se.hub)
+[13:36:48] *** Quits endrift (efnet.deic.eu se.hub)
+[13:36:48] *** Quits j0hny5 (efnet.deic.eu se.hub)
+[13:36:48] *** Quits GerbilSof (efnet.deic.eu se.hub)
+[13:36:48] *** Quits Surkow (efnet.deic.eu se.hub)
+[13:36:48] *** Quits balrog (efnet.deic.eu se.hub)
+[13:36:48] *** Quits cpnc0ke (efnet.deic.eu se.hub)
+[13:36:48] *** Quits Behemoth_ (efnet.deic.eu se.hub)
+[13:36:48] *** Quits giglife (efnet.deic.eu se.hub)
+[13:36:48] *** Quits CCFL_Man (efnet.deic.eu se.hub)
+[13:36:48] *** Quits DoozerBot (efnet.deic.eu se.hub)
+[13:36:48] *** Quits DeusQain (efnet.deic.eu se.hub)
+[13:36:48] *** Quits tpw_rules (efnet.deic.eu se.hub)
+[13:36:48] *** Quits Kyouju (efnet.deic.eu se.hub)
+[13:36:48] *** Quits gruetzkop (efnet.deic.eu se.hub)
+[13:36:48] *** Quits GrecKo_ (efnet.deic.eu se.hub)
+[13:36:48] *** Quits AlexAltea (efnet.deic.eu se.hub)
+[13:36:48] *** Quits Cu3PO42 (efnet.deic.eu se.hub)
+[13:36:48] *** Quits nrq (efnet.deic.eu se.hub)
+[13:36:49] *** Quits Aaerox (efnet.deic.eu se.hub)
+[13:36:49] *** Quits freundTec (efnet.deic.eu se.hub)
+[13:36:49] *** Quits mtheall (efnet.deic.eu se.hub)
+[13:36:49] *** Quits datagutt (efnet.deic.eu se.hub)
+[13:36:49] *** Quits yls8bot (efnet.deic.eu se.hub)
+[13:36:49] *** Quits yellows8 (efnet.deic.eu se.hub)
+[13:36:49] *** Quits Lightswor (efnet.deic.eu se.hub)
+[13:36:49] *** Quits zini (efnet.deic.eu se.hub)
+[13:36:49] *** Quits Normmatt (efnet.deic.eu se.hub)
+[13:36:49] *** Quits eggster (efnet.deic.eu se.hub)
+[13:36:49] *** Quits refsw` (efnet.deic.eu se.hub)
+[13:36:49] *** Quits oldtopman (efnet.deic.eu se.hub)
+[13:36:49] *** Quits des^ (efnet.deic.eu se.hub)
+[13:36:49] *** Quits Mimoja (efnet.deic.eu se.hub)
+[13:36:49] *** Quits mafcadio2 (efnet.deic.eu se.hub)
+[13:36:49] *** Quits omlet05 (efnet.deic.eu se.hub)
+[13:36:49] *** Quits hordak (efnet.deic.eu se.hub)
+[13:36:49] *** Quits flagrama (efnet.deic.eu se.hub)
+[13:36:49] *** Quits nohit (efnet.deic.eu se.hub)
+[13:36:49] *** Quits Pieman (efnet.deic.eu se.hub)
+[13:36:49] *** Quits Stary (efnet.deic.eu se.hub)
+[13:36:49] *** Quits DacoTaco (efnet.deic.eu se.hub)
+[13:36:49] *** Quits plutobot (efnet.deic.eu se.hub)
+[13:36:49] *** Quits mha (efnet.deic.eu se.hub)
+[14:50:45] *** Joins TAL
+[14:50:45] *** Joins Ghabry
+[14:50:45] *** Joins KuKzz
+[14:50:45] *** Joins m4ts_
+[14:50:45] *** Joins freundTec
+[14:50:45] *** Joins mtheall
+[14:50:45] *** Joins datagutt
+[14:50:45] *** Joins yls8bot
+[14:50:45] *** Joins yellows8
+[14:50:45] *** Joins Lightswor
+[14:50:45] *** Joins Aaerox
+[14:50:45] *** Joins nrq
+[14:50:45] *** Joins Cu3PO42
+[14:50:45] *** Joins AlexAltea
+[14:50:45] *** Joins GrecKo_
+[14:50:45] *** Joins gruetzkop
+[14:50:45] *** Joins Jdbye
+[14:50:45] *** Joins sh0e
+[14:50:45] *** Joins Kyouju
+[14:50:45] *** Joins tpw_rules
+[14:50:45] *** Joins DeusQain
+[14:50:45] *** Joins TurtleP
+[14:50:45] *** Joins fincs
+[14:50:45] *** Joins DoozerBot
+[14:50:45] *** Joins CCFL_Man
+[14:50:45] *** Joins WntrMute
+[14:50:45] *** Joins giglife
+[14:50:45] *** Joins Extrems
+[14:50:45] *** Joins klock
+[14:50:45] *** Joins zombie343
+[14:50:45] *** Joins Behemoth_
+[14:50:45] *** Joins cpnc0ke
+[14:50:45] *** Joins balrog
+[14:50:45] *** Joins cpncok3
+[14:50:45] *** Joins endrift
+[14:50:45] *** Joins j0hny5
+[14:50:45] *** Joins Surkow
+[14:50:45] *** Joins capin3
+[14:50:45] *** Joins awordnot
+[14:50:45] *** Joins |Shadow|
+[14:50:45] *** Joins nullstrin
+[14:50:45] *** Joins GerbilSof
+[14:50:45] *** Joins ihaveamac
+[14:50:45] *** Joins flotwig
+[14:50:45] *** Joins changO-
+[14:50:45] *** Joins rajkosto
+[14:50:45] *** se.hub sets mode: +ooo yls8bot yellows8 fincs
+[14:50:45] *** Joins Galaxy|
+[14:50:45] *** Joins mha
+[14:50:45] *** Joins fgsfds
+[14:50:45] *** Joins noirscape
+[14:50:45] *** Joins blasty
+[14:50:45] *** Joins phigcloud
+[14:50:45] *** Joins rmaw
+[14:50:45] *** Joins Retr0id
+[14:50:45] *** Joins d3m3vilur
+[14:50:45] *** Joins klanc
+[14:50:45] *** Joins Snetry
+[14:50:45] *** Joins uyjulian
+[14:50:45] *** Joins hexkyz
+[14:50:45] *** Joins rctgamer
+[14:50:45] *** Joins Phils3r
+[14:50:45] *** Joins coriolis
+[14:50:45] *** Joins Summeli
+[14:50:45] *** Joins mid-kid2
+[14:50:45] *** Joins dibas
+[14:50:45] *** Joins hthh
+[14:50:45] *** Joins Genolo
+[14:50:45] *** Joins derrek
+[14:50:45] *** Joins lameboy
+[14:50:45] *** Joins rjeli____
+[14:50:45] *** Joins SCV__
+[14:51:03] *** Joins lex1
+[14:52:13] *** Joins zini
+[14:52:13] *** Joins Normmatt
+[14:52:13] *** Joins eggster
+[14:52:13] *** Joins refsw`
+[14:52:13] *** Joins oldtopman
+[14:52:13] *** Joins des^
+[14:52:13] *** Joins Mimoja
+[14:52:13] *** Joins mafcadio2
+[14:52:13] *** Joins omlet05
+[14:52:13] *** Joins hordak
+[14:52:13] *** Joins flagrama
+[14:52:13] *** Joins nohit
+[14:52:13] *** Joins Pieman
+[14:52:13] *** Joins Stary
+[14:52:13] *** Joins DacoTaco
+[14:52:13] *** Joins plutobot
+[15:19:01] *** Quits rajkosto (Read error: Connection reset by peer)
+[15:19:02] *** Quits Behemoth_ (Read error: Connection reset by peer)
+[15:19:04] *** Joins Behemoth_
+[15:30:53] *** Quits cpncok3 (Ping timeout: 501 seconds)
+[15:33:41] *** Joins cpncok3
+[15:36:28] *** Joins rajkosto
+[15:51:48] *** Quits SCV__ (se.hub efnet.port80.se)
+[15:51:48] *** Quits rjeli____ (se.hub efnet.port80.se)
+[15:51:48] *** Quits lameboy (se.hub efnet.port80.se)
+[15:51:48] *** Quits derrek (se.hub efnet.port80.se)
+[15:51:48] *** Quits Genolo (se.hub efnet.port80.se)
+[15:51:48] *** Quits hthh (se.hub efnet.port80.se)
+[15:51:48] *** Quits dibas (se.hub efnet.port80.se)
+[15:51:48] *** Quits mid-kid2 (se.hub efnet.port80.se)
+[15:51:48] *** Quits Summeli (se.hub efnet.port80.se)
+[15:51:48] *** Quits coriolis (se.hub efnet.port80.se)
+[15:51:48] *** Quits Phils3r (se.hub efnet.port80.se)
+[15:51:48] *** Quits rctgamer (se.hub efnet.port80.se)
+[15:51:48] *** Quits hexkyz (se.hub efnet.port80.se)
+[15:51:48] *** Quits uyjulian (se.hub efnet.port80.se)
+[15:53:44] *** Joins lameboy2
+[16:07:13] *** lameboy2 is now known as lameboy
+[16:07:22] *** Joins SCV__
+[16:07:22] *** Joins rjeli____
+[16:07:22] *** Joins derrek
+[16:07:22] *** Joins Genolo
+[16:07:22] *** Joins hthh
+[16:07:22] *** Joins dibas
+[16:07:22] *** Joins mid-kid2
+[16:07:22] *** Joins Summeli
+[16:07:22] *** Joins coriolis
+[16:07:22] *** Joins Phils3r
+[16:07:22] *** Joins rctgamer
+[16:07:22] *** Joins hexkyz
+[16:07:22] *** Joins uyjulian
+[16:14:14] *** Joins ris2z
+[16:14:58] *** Quits ris2z (Quit: ZNC 1.8.2 - https://znc.in)
+[16:15:10] *** Joins ris2z
+[16:15:17] *** Quits ris2z (Client Quit)
+[16:15:38] *** Joins ris2z
+[16:16:34] *** Quits ris2z (Client Quit)
+[16:16:38] *** Joins ris2z
+[16:37:25] <DoozerBot> PR-#505: Hid refactor, building targets: 02lib
+[16:46:35] <DoozerBot> 02lib: 03 v3.3.0.158 Build OK - https://doozer.io/build/ide20nvy6n
+[16:58:51] <plutobot> Wiki | Page changed: Account services | User: yls8 | https://switchbrew.org/w/index.php?curid=86&diff=10304&oldid=9200
+[17:10:47] *** Quits zombie343 ()
+[17:26:20] *** Joins n00b343
+[17:29:36] <plutobot> Wiki | Page changed: NS Services | User: yls8 | https://switchbrew.org/w/index.php?curid=89&diff=10305&oldid=10149
+[17:30:48] *** Quits n00b343 (Ping timeout: 252 seconds)
+[17:37:35] <plutobot> Wiki | Page changed: Services API | User: yls8 | https://switchbrew.org/w/index.php?curid=85&diff=10306&oldid=10295
+[17:55:36] <plutobot> Wiki | Page changed: Applet Manager services | User: yls8 | https://switchbrew.org/w/index.php?curid=132&diff=10307&oldid=9972
+[18:06:18] <plutobot> Wiki | Page changed: PGL services | User: yls8 | https://switchbrew.org/w/index.php?curid=404&diff=10308&oldid=9268
+[18:16:40] <plutobot> Wiki | Page changed: Services API | User: yls8 | https://switchbrew.org/w/index.php?curid=85&diff=10309&oldid=10306
+[18:21:05] <plutobot> Wiki | Page changed: Loader services | User: yls8 | https://switchbrew.org/w/index.php?curid=94&diff=10310&oldid=9173
+[18:33:50] <plutobot> Wiki | Page changed: Filesystem services | User: yls8 | https://switchbrew.org/w/index.php?curid=87&diff=10311&oldid=9971
+[18:35:12] <plutobot> Wiki | Page changed: Services API | User: Hexkyz | https://switchbrew.org/w/index.php?curid=85&diff=10313&oldid=10309
+[18:35:12] <plutobot> Wiki | Page changed: ETicket services | User: yls8 | https://switchbrew.org/w/index.php?curid=326&diff=10312&oldid=9128
+[18:39:26] <plutobot> Wiki | Page changed: Shared Database services | User: yls8 | https://switchbrew.org/w/index.php?curid=210&diff=10314&oldid=10148
+[18:42:50] <plutobot> Wiki | Page changed: Settings services | User: yls8 | https://switchbrew.org/w/index.php?curid=110&diff=10315&oldid=9976
+[18:43:31] <plutobot> Wiki | Page changed: Account services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=86&diff=10316&oldid=10304
+[18:44:32] <plutobot> Wiki | Page changed: BCAT services | User: yls8 | https://switchbrew.org/w/index.php?curid=108&diff=10317&oldid=10180
+[18:46:14] <plutobot> Wiki | Page changed: Capture services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=160&diff=10318&oldid=10280
+[18:47:56] <plutobot> Wiki | Page changed: NS Services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=89&diff=10319&oldid=10305
+[18:48:37] <plutobot> Wiki | Page changed: PTM services | User: yls8 | https://switchbrew.org/w/index.php?curid=165&diff=10320&oldid=10009
+[18:50:49] <plutobot> Wiki | Page changed: Sockets services | User: yls8 | https://switchbrew.org/w/index.php?curid=128&diff=10321&oldid=9686
+[18:52:21] <plutobot> Wiki | Page changed: NS Services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=89&diff=10322&oldid=10319
+[18:53:12] <plutobot> Wiki | Page changed: NS Services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=89&diff=10323&oldid=10322
+[18:54:54] <plutobot> Wiki | Page changed: Applet Manager services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=132&diff=10324&oldid=10307
+[18:55:35] <plutobot> Wiki | Page changed: Applet Manager services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=132&diff=10325&oldid=10324
+[18:58:28] <plutobot> Wiki | Page changed: Capmtp services | User: Behemoth | https://switchbrew.org/w/index.php?curid=423&diff=10326&oldid=10293
+[18:59:29] <plutobot> Wiki | Page changed: Applet Manager services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=132&diff=10327&oldid=10325
+[19:06:17] <plutobot> Wiki | Page changed: Applet Manager services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=132&diff=10328&oldid=10327
+[19:08:30] <plutobot> Wiki | Page changed: Audio services | User: yls8 | https://switchbrew.org/w/index.php?curid=264&diff=10329&oldid=10146
+[19:14:06] <plutobot> Wiki | Page changed: WLAN services | User: yls8 | https://switchbrew.org/w/index.php?curid=324&diff=10330&oldid=9199
+[19:17:55] *** Quits ris2z (Ping timeout: 186 seconds)
+[19:20:55] <plutobot> Wiki | Page changed: NIM services | User: yls8 | https://switchbrew.org/w/index.php?curid=144&diff=10331&oldid=9935
+[19:21:59] *** Joins Tcm0
+[19:23:09] *** Joins ris2z
+[19:24:40] <plutobot> Wiki | Page changed: Error Report services | User: yls8 | https://switchbrew.org/w/index.php?curid=193&diff=10332&oldid=9042
+[19:28:50] <plutobot> Wiki | Page changed: Filesystem services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=87&diff=10333&oldid=10311
+[19:32:35] *** Quits Snetry (Quit: left EFNet)
+[19:33:34] *** Joins Snetry
+[19:34:57] <plutobot> Wiki | Page changed: Display services | User: yls8 | https://switchbrew.org/w/index.php?curid=113&diff=10334&oldid=9151
+[19:36:51] <plutobot> Wiki | Page changed: Parental Control services | User: yls8 | https://switchbrew.org/w/index.php?curid=204&diff=10335&oldid=9180
+[19:41:55] <plutobot> Wiki | Page changed: Shared Database services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=210&diff=10336&oldid=10314
+[19:42:36] <plutobot> Wiki | Page changed: Settings services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=110&diff=10337&oldid=10315
+[19:43:47] <plutobot> Wiki | Page changed: Error codes | User: Shchmue | https://switchbrew.org/w/index.php?curid=82&diff=10338&oldid=10136
+[19:43:58] <plutobot> Wiki | Page changed: PTM services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=165&diff=10339&oldid=10320
+[19:44:38] <plutobot> Wiki | Page changed: Sockets services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=128&diff=10340&oldid=10321
+[19:47:21] <plutobot> Wiki | Page changed: Error Report services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=193&diff=10341&oldid=10332
+[19:48:53] <plutobot> Wiki | Page changed: Parental Control services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=204&diff=10342&oldid=10335
+[19:52:48] <plutobot> Wiki | Page changed: Display services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=113&diff=10343&oldid=10334
+[19:58:24] <plutobot> Wiki | Page changed: OLSC services | User: yls8 | https://switchbrew.org/w/index.php?curid=347&diff=10344&oldid=9751
+[20:02:39] <plutobot> Wiki | Page changed: Gamecard ASIC | User: Hexkyz | https://switchbrew.org/w/index.php?curid=349&diff=10345&oldid=10085
+[20:09:27] <plutobot> Wiki | Page changed: 11.0.0 | User: yls8 | https://switchbrew.org/w/index.php?curid=422&diff=10346&oldid=10303
+[20:44:07] <plutobot> Wiki | Page changed: USB services | User: yls8 | https://switchbrew.org/w/index.php?curid=195&diff=10347&oldid=8180
+[20:45:59] <plutobot> Wiki | Page changed: Log services | User: XorTroll | https://switchbrew.org/w/index.php?curid=201&diff=10348&oldid=7382
+[20:47:10] <plutobot> Wiki | Page changed: Log services | User: XorTroll | https://switchbrew.org/w/index.php?curid=201&diff=10349&oldid=10348
+[20:47:51] <plutobot> Wiki | Page changed: Log services | User: XorTroll | https://switchbrew.org/w/index.php?curid=201&diff=10350&oldid=10349
+[20:57:02] <plutobot> Wiki | Page changed: Log services | User: XorTroll | https://switchbrew.org/w/index.php?curid=201&diff=10351&oldid=10350
+[20:57:53] <plutobot> Wiki | Page changed: Log services | User: XorTroll | https://switchbrew.org/w/index.php?curid=201&diff=10352&oldid=10351
+[21:07:21] <DoozerBot> PR-#505: Hid refactor, building targets: 02lib
+[21:11:15] <DoozerBot> 02lib: 03 v3.3.0.159 Build OK - https://doozer.io/build/oa9ky6gjo3
+[21:34:46] <plutobot> Wiki | Page changed: 11.0.0 | User: Behemoth | https://switchbrew.org/w/index.php?curid=422&diff=10353&oldid=10346
+[21:38:12] *** Quits nullstrin (Read error: Operation timed out)
+[21:41:57] *** Joins nullstrin
+[22:05:37] <DoozerBot> fincs pushed to master: hid: Read SystemExt/System first in hidScanInput for compatibility with old homebrew "hid: Updated/added structs and added hidGetNpadStates*()." [072 files modified]
+[22:05:38] <DoozerBot> fincs pushed to master: hid: Read SystemExt/System first in hidScanInput for compatibility with old homebrew "hid: Fixed HidNpadInterfaceType." [072 files modified]
+[22:05:39] <DoozerBot> fincs pushed to master: hid: Read SystemExt/System first in hidScanInput for compatibility with old homebrew "hid: Replaced HidControllerType with HidNpadStyleTag." [076 files modified]
+[22:05:41] <DoozerBot> fincs pushed to master: hid: Read SystemExt/System first in hidScanInput for compatibility with old homebrew "hid: Added KEY_NES_HANDHELD_LEFT_B." [071 file modified]
+[22:05:41] <DoozerBot> fincs pushed to master: hid: Read SystemExt/System first in hidScanInput for compatibility with old homebrew "hid: Updated HidSharedMemory." [071 file modified]
+[22:05:42] <DoozerBot> fincs pushed to master: hid: Read SystemExt/System first in hidScanInput for compatibility with old homebrew "hid: Struct adjustments." [072 files modified]
+[22:05:44] <DoozerBot> fincs pushed to master: hid: Read SystemExt/System first in hidScanInput for compatibility with old homebrew "hid: Replaced various funcs with versions which read from sharedmem." [072 files modified]
+[22:05:45] <DoozerBot> fincs pushed to master: hid: Read SystemExt/System first in hidScanInput for compatibility with old homebrew "hid: Added handling for NpadSystem(Ext)." [072 files modified]
+[22:05:46] <DoozerBot> fincs pushed to master: hid: Read SystemExt/System first in hidScanInput for compatibility with old homebrew "hid: Added hidGetNpadStatesPalma." [072 files modified]
+[22:05:46] <DoozerBot> fincs pushed to master: hid: Read SystemExt/System first in hidScanInput for compatibility with old homebrew "hid: Added support for *Lark/Lucia." [072 files modified]
+[22:05:48] <DoozerBot> fincs pushed to master: hid: Read SystemExt/System first in hidScanInput for compatibility with old homebrew "hid: Internal state reading improvements." [072 files modified]
+[22:05:49] <DoozerBot> fincs pushed to master: hid: Read SystemExt/System first in hidScanInput for compatibility with old homebrew "hid: Added support for NpadGc." [072 files modified]
+[22:05:50] <DoozerBot> fincs pushed to master: hid: Read SystemExt/System first in hidScanInput for compatibility with old homebrew "hid: Docs updated." [071 file modified]
+[22:05:51] <DoozerBot> fincs pushed to master: hid: Read SystemExt/System first in hidScanInput for compatibility with old homebrew "hid: Filled in the Gc trigger fields." [072 files modified]
+[22:05:52] <DoozerBot> fincs pushed to master: hid: Read SystemExt/System first in hidScanInput for compatibility with old homebrew "hid: Updated docs." [071 file modified]
+[22:05:53] <DoozerBot> fincs pushed to master: hid: Read SystemExt/System first in hidScanInput for compatibility with old homebrew "hid: Handle NULL with hidGetNpadStates*() total_out." [072 files modified]
+[22:05:53] <DoozerBot> fincs pushed to master: hid: Read SystemExt/System first in hidScanInput for compatibility with old homebrew "Split hidGetNpadControllerColor/PowerInfo into Single/Split variants" [072 files modified]
+[22:05:55] <DoozerBot> fincs pushed to master: hid: Read SystemExt/System first in hidScanInput for compatibility with old homebrew "hid: Introduce HidNpadIdType, see details:" [0712 files modified]
+[22:05:55] <DoozerBot> fincs pushed to master: hid: Read SystemExt/System first in hidScanInput for compatibility with old homebrew "hid: Changed hidGetNpadStates* to return total_out directly instead of using an output var" [072 files modified]
+[22:05:57] <DoozerBot> fincs pushed to master: hid: Read SystemExt/System first in hidScanInput for compatibility with old homebrew "hid: Use structs for vibration/SixAxis handles." [072 files modified]
+[22:05:58] <DoozerBot> fincs pushed to master: hid: Read SystemExt/System first in hidScanInput for compatibility with old homebrew "hid: Added hidGetSixAxisSensorStates." [072 files modified]
+[22:05:59] <DoozerBot> fincs pushed to master: hid: Read SystemExt/System first in hidScanInput for compatibility with old homebrew "hid: Implement hidSixAxisSensorValuesRead using hidGetSixAxisSensorStates + other minor adjustments" [071 file modified]
+[22:06:00] <DoozerBot> fincs pushed to master: hid: Read SystemExt/System first in hidScanInput for compatibility with old homebrew "hid: Added hidGetTouchScreenStates, which hidScanInput now uses." [072 files modified]
+[22:06:01] <DoozerBot> fincs pushed to master: hid: Read SystemExt/System first in hidScanInput for compatibility with old homebrew "hid: Fixed memset in hidJoystickRead()." [071 file modified]
+[22:06:02] <DoozerBot> fincs pushed to master: hid: Read SystemExt/System first in hidScanInput for compatibility with old homebrew "hid: Added hidGetMouseStates, which hidScanInput/etc now uses." [072 files modified]
+[22:06:03] <DoozerBot> fincs pushed to master: hid: Read SystemExt/System first in hidScanInput for compatibility with old homebrew "hid: Added hidGetKeyboardStates, which hidScanInput now uses." [072 files modified]
+[22:06:04] <DoozerBot> fincs pushed to master: hid: Read SystemExt/System first in hidScanInput for compatibility with old homebrew "hid: Use _hidGetStates in hidGetSevenSixAxisSensorStates." [072 files modified]
+[22:06:04] <DoozerBot> fincs pushed to master: hid: Read SystemExt/System first in hidScanInput for compatibility with old homebrew "hid: Expose InitializeNpad/TouchScreen/Keyboard/Mouse" [072 files modified]
+[22:06:06] <DoozerBot> fincs pushed to master: hid: Read SystemExt/System first in hidScanInput for compatibility with old homebrew "hid: Updated structs." [072 files modified]
+[22:06:06] <DoozerBot> fincs pushed to master: hid: Read SystemExt/System first in hidScanInput for compatibility with old homebrew "hid: Updated/added structs/enums." [072 files modified]
+[22:06:07] <DoozerBot> fincs pushed to master: hid: Read SystemExt/System first in hidScanInput for compatibility with old homebrew "hid: Various fixes." [072 files modified]
+[22:06:08] <DoozerBot> fincs pushed to master: hid: Read SystemExt/System first in hidScanInput for compatibility with old homebrew "hid: Gesture support. Updated HidNpadSystemProperties." [072 files modified]
+[22:06:10] <DoozerBot> fincs pushed to master: hid: Read SystemExt/System first in hidScanInput for compatibility with old homebrew "hid: Fix comment." [071 file modified]
+[22:06:11] <DoozerBot> fincs pushed to master: hid: Read SystemExt/System first in hidScanInput for compatibility with old homebrew "hid: Updated HidMouseButton/HidKeyboardModifier." [071 file modified]
+[22:06:11] <DoozerBot> fincs pushed to master: hid: Read SystemExt/System first in hidScanInput for compatibility with old homebrew "hid: Updated structs." [072 files modified]
+[22:06:12] <DoozerBot> fincs pushed to master: hid: Read SystemExt/System first in hidScanInput for compatibility with old homebrew "hid: Added XcdDeviceHandle." [071 file modified]
+[22:06:13] <DoozerBot> fincs pushed to master: hid: Read SystemExt/System first in hidScanInput for compatibility with old homebrew "hid: Updated HidNpadSystemProperties." [072 files modified]
+[22:06:15] <DoozerBot> fincs pushed to master: hid: Read SystemExt/System first in hidScanInput for compatibility with old homebrew "hid: Fixed docs." [071 file modified]
+[22:06:16] <DoozerBot> fincs pushed to master: hid: Read SystemExt/System first in hidScanInput for compatibility with old homebrew "hid: Updated _hidGetNpadPowerInfo()." [071 file modified]
+[22:06:17] <DoozerBot> fincs pushed to master: hid: Read SystemExt/System first in hidScanInput for compatibility with old homebrew "hid: Added HidNpadButton enum" [071 file modified]
+[22:06:18] <DoozerBot> fincs pushed to master: hid: Read SystemExt/System first in hidScanInput for compatibility with old homebrew "hid: Replaced the lifo layouts/sixaxis arrays with individual fields." [072 files modified]
+[22:06:19] <DoozerBot> fincs pushed to master: hid: Read SystemExt/System first in hidScanInput for compatibility with old homebrew "hid: Updated docs." [071 file modified]
+[22:06:20] <DoozerBot> fincs pushed to master: hid: Read SystemExt/System first in hidScanInput for compatibility with old homebrew "hidsys: Added HidsysUniquePadId/HidsysUniquePadSerialNumber." [074 files modified]
+[22:06:21] <DoozerBot> fincs pushed to master: hid: Read SystemExt/System first in hidScanInput for compatibility with old homebrew "hiddbg: Use structs for handles and various adjustments." [072 files modified]
+[22:06:22] <DoozerBot> fincs pushed to master: hid: Read SystemExt/System first in hidScanInput for compatibility with old homebrew "hid: Updated docs + various adjustments." [072 files modified]
+[22:06:22] <DoozerBot> fincs pushed to master: hid: Read SystemExt/System first in hidScanInput for compatibility with old homebrew "hid: Updated docs + minor struct adjustment." [071 file modified]
+[22:06:24] <DoozerBot> fincs pushed to master: hid: Read SystemExt/System first in hidScanInput for compatibility with old homebrew "hid: Updated structs." [072 files modified]
+[22:06:25] <DoozerBot> fincs pushed to master: hid: Read SystemExt/System first in hidScanInput for compatibility with old homebrew "hid: Added HidAnalogStickState and updated structs." [074 files modified]
+[22:06:26] <DoozerBot> fincs pushed to master: hid: Read SystemExt/System first in hidScanInput for compatibility with old homebrew "hid(dbg): Updated docs + minor adjustments." [073 files modified]
+[22:06:27] <DoozerBot> fincs pushed to master: hid: Read SystemExt/System first in hidScanInput for compatibility with old homebrew "hid: Updated docs." [071 file modified]
+[22:06:28] <DoozerBot> fincs pushed to master: hid: Read SystemExt/System first in hidScanInput for compatibility with old homebrew "hid: Added pre-made HidNpadStyleSet values for common style sets" [072 files modified]
+[22:06:29] <DoozerBot> fincs pushed to master: hid: Read SystemExt/System first in hidScanInput for compatibility with old homebrew "hid: Added/updated enums and updated HidVibrationDeviceInfo." [073 files modified]
+[22:06:30] <DoozerBot> fincs pushed to master: hid: Read SystemExt/System first in hidScanInput for compatibility with old homebrew "hid: Added support for GcErm vibration. Minor adjustments." [072 files modified]
+[22:06:31] <DoozerBot> fincs pushed to master: hid: Read SystemExt/System first in hidScanInput for compatibility with old homebrew "hid: Added hidBeginPermitVibrationSession/hidEndPermitVibrationSession." [072 files modified]
+[22:06:31] <DoozerBot> fincs pushed to master: hid: Read SystemExt/System first in hidScanInput for compatibility with old homebrew "hid: Updated enums." [071 file modified]
+[22:06:33] <DoozerBot> fincs pushed to master: hid: Read SystemExt/System first in hidScanInput for compatibility with old homebrew "hidbus: Updated HidbusJoyPollingMode." [073 files modified]
+[22:06:34] <DoozerBot> fincs pushed to master: hid: Read SystemExt/System first in hidScanInput for compatibility with old homebrew "hid: Updated docs." [071 file modified]
+[22:06:35] <DoozerBot> fincs pushed to master: hid: Read SystemExt/System first in hidScanInput for compatibility with old homebrew "hidsys: Updated Hidcfg." [071 file modified]
+[22:06:35] <DoozerBot> fincs pushed to master: hid: Read SystemExt/System first in hidScanInput for compatibility with old homebrew "hid: Add hid{Set,Get}NpadHandheldActivationMode" [072 files modified]
+[22:06:37] <DoozerBot> fincs pushed to master: hid: Read SystemExt/System first in hidScanInput for compatibility with old homebrew "hid: Added the following cmds:" [072 files modified]
+[22:06:38] <DoozerBot> fincs pushed to master: hid: Read SystemExt/System first in hidScanInput for compatibility with old homebrew "hid: Moved funcs to match cmd order." [072 files modified]
+[22:06:39] <DoozerBot> fincs pushed to master: hid: Read SystemExt/System first in hidScanInput for compatibility with old homebrew "hid: Added the following cmds:" [072 files modified]
+[22:06:40] <DoozerBot> fincs pushed to master: hid: Read SystemExt/System first in hidScanInput for compatibility with old homebrew "hid: Updated docs." [071 file modified]
+[22:06:41] <DoozerBot> fincs pushed to master: hid: Read SystemExt/System first in hidScanInput for compatibility with old homebrew "hid: Adjusted param for hidSetNpadCaptureButtonAssignment." [072 files modified]
+[22:06:42] <DoozerBot> fincs pushed to master: hid: Read SystemExt/System first in hidScanInput for compatibility with old homebrew "hidsys: Added the following cmds:" [073 files modified]
+[22:06:43] <DoozerBot> fincs pushed to master: hid: Read SystemExt/System first in hidScanInput for compatibility with old homebrew "notif: Use hidLaShowControllerFirmwareUpdate if needed." [072 files modified]
+[22:06:44] <DoozerBot> fincs pushed to master: hid: Read SystemExt/System first in hidScanInput for compatibility with old homebrew "hid: Added DebugPad structs/enums." [071 file modified]
+[22:06:44] <DoozerBot> fincs pushed to master: hid: Read SystemExt/System first in hidScanInput for compatibility with old homebrew "hiddbg: Added support for AutoPilot with the following:" [072 files modified]
+[22:06:45] <DoozerBot> fincs pushed to master: hid: Read SystemExt/System first in hidScanInput for compatibility with old homebrew "hidsys: Updated the {Home/Sleep/Capture}Button cmds." [072 files modified]
+[22:06:46] <DoozerBot> fincs pushed to master: hid: Read SystemExt/System first in hidScanInput for compatibility with old homebrew "hid: Added support for the Palma cmds." [072 files modified]
+[22:06:48] <DoozerBot> fincs pushed to master: hid: Read SystemExt/System first in hidScanInput for compatibility with old homebrew "hidbus: Updated structs/enums." [074 files modified]
+[22:06:49] <DoozerBot> fincs pushed to master: hid: Read SystemExt/System first in hidScanInput for compatibility with old homebrew "hiddbg/hidsys: Updated structs." [072 files modified]
+[22:06:50] <DoozerBot> fincs pushed to master: hid: Read SystemExt/System first in hidScanInput for compatibility with old homebrew "hid: Updated structs/enums." [073 files modified]
+[22:06:50] <DoozerBot> fincs pushed to master: hid: Read SystemExt/System first in hidScanInput for compatibility with old homebrew "hid: Added/updated Palma structs/enums." [072 files modified]
+[22:06:51] <DoozerBot> fincs pushed to master: hid: Read SystemExt/System first in hidScanInput for compatibility with old homebrew "Add pad.h - new wrapper API for reading controller input" [032 files added07, 1 file modified]
+[22:06:52] <DoozerBot> fincs pushed to master: hid: Read SystemExt/System first in hidScanInput for compatibility with old homebrew "hid: Deprecate old input interface" [071 file modified]
+[22:06:54] <DoozerBot> fincs pushed to master: hid: Read SystemExt/System first in hidScanInput for compatibility with old homebrew "pad: Fix logic typo" [071 file modified]
+[22:06:54] <DoozerBot> fincs pushed to master: hid: Read SystemExt/System first in hidScanInput for compatibility with old homebrew "hid: Read SystemExt/System first in hidScanInput for compatibility with old homebrew" [071 file modified], building targets: 02lib
+[22:10:25] <plutobot> Wiki | Page changed: Capmtp services | User: Behemoth | https://switchbrew.org/w/index.php?curid=423&diff=10354&oldid=10326
+[22:10:52] <DoozerBot> 02lib: 03 v3.3.0.159 Build OK - https://doozer.io/build/k503rpa6yb
+[22:10:55] <plutobot> GitHub | New commit | User: fincs | https://github.com/switchbrew/libnx/commit/ab71d6033a
+[22:10:55] <plutobot> GitHub | New commit | User: fincs | https://github.com/switchbrew/libnx/commit/676f254be1
+[22:10:55] <plutobot> GitHub | New commit | User: fincs | https://github.com/switchbrew/libnx/commit/e904bb05d4
+[22:10:56] <plutobot> GitHub | New commit | User: fincs | https://github.com/switchbrew/libnx/commit/d290697bfd
+[22:10:56] <plutobot> GitHub | New commit | User: yellows | https://github.com/switchbrew/libnx/commit/5551d42b29
+[22:10:56] *** Quits plutobot (Excess Flood)
+[22:10:56] *** Joins plutobot
+[22:46:27] <plutobot> Wiki | Page changed: Capmtp services | User: Behemoth | https://switchbrew.org/w/index.php?curid=423&diff=10355&oldid=10354
+[23:09:13] *** Joins refs
+[23:19:03] *** Quits rajkosto (Read error: Connection reset by peer)
+[23:51:06] *** Quits Kyouju (Quit: ZNC 1.7.4+deb0+bionic0 - https://znc.in)
+[23:51:26] *** Quits Tcm0 (Leaving)
+[23:54:24] *** Joins Kyouju

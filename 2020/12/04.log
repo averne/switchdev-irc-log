@@ -1,0 +1,102 @@
+[00:04:00] <DoozerBot> yellows8 pushed to master: hidbus: Adjusted out-of-bounds size handling. "hidbus: Adjusted out-of-bounds size handling." [071 file modified], building targets: 02lib
+[00:07:44] <DoozerBot> 02lib: 03 v3.3.0.164 Build OK - https://doozer.io/build/1ka4wty6on
+[00:12:04] <plutobot> GitHub | New commit | User: yellows | https://github.com/switchbrew/libnx/commit/0f38ec8a3d
+[00:22:40] *** Quits GerbilSof (Quit: Windows must now restart because the Remote Procedure Call (RPC) service terminated unexpectedly.)
+[00:36:29] <plutobot> Wiki | Page changed: Bluetooth Driver services | User: yls8 | https://switchbrew.org/w/index.php?curid=161&diff=10398&oldid=9945
+[00:37:15] *** Quits derk0pf (Read error: Operation timed out)
+[00:53:31] *** Joins derk0pf
+[00:54:03] *** Quits SCV__ (Ping timeout: 1230 seconds)
+[00:54:17] *** Joins SCV__
+[00:58:27] *** Quits derk0pf (Ping timeout: 265 seconds)
+[01:09:03] *** Joins derk0pf
+[01:17:58] *** Quits derk0pf (Ping timeout: 265 seconds)
+[01:39:46] *** Quits SCV__ (Read error: Connection timed out)
+[01:57:09] *** Joins SCV__
+[02:20:49] *** Joins rctgamer3
+[02:30:14] *** Quits giglife (Read error: Connection reset by peer)
+[02:30:36] *** Joins giglife
+[02:35:55] *** Quits refs (Quit: refs)
+[02:50:39] *** Quits giglife (Read error: Operation timed out)
+[02:54:19] *** Joins giglife
+[04:00:08] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[04:00:21] *** Joins rjeli____
+[05:11:53] <DoozerBot> yellows8 pushed to master: usbds: Fixed usbDsInterface_AppendConfigurationData for 11.0.0. "usbds: Fixed usbDsInterface_AppendConfigurationData for 11.0.0." [071 file modified], building targets: 02lib
+[05:12:15] <plutobot> GitHub | New commit | User: yellows | https://github.com/switchbrew/libnx/commit/49d7fe81b8
+[05:14:05] *** Joins derk0pf
+[05:15:54] <DoozerBot> 02lib: 03 v3.3.0.165 Build OK - https://doozer.io/build/62c8n4gd0q
+[05:19:00] *** Quits derk0pf (Ping timeout: 265 seconds)
+[06:09:42] *** Joins GerbilSof
+[06:32:38] *** Quits changO- (Read error: Connection reset by peer)
+[06:35:58] *** Joins changO-
+[06:36:18] *** Quits changO- (Read error: Connection reset by peer)
+[06:37:53] *** Joins changO-
+[06:38:02] *** Quits changO- (Read error: Connection reset by peer)
+[06:39:54] *** Joins changO-
+[06:59:48] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[07:00:01] *** Joins rjeli____
+[07:15:33] *** Quits SCV__ (Ping timeout: 1230 seconds)
+[07:15:48] *** Joins SCV__
+[07:39:41] *** Quits fgsfds (Leaving)
+[08:55:53] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[08:56:06] *** Joins rjeli____
+[09:00:16] *** Joins derk0pf
+[10:12:39] *** Quits derk0pf (Ping timeout: 744 seconds)
+[10:33:53] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[10:34:06] *** Joins rjeli____
+[10:37:34] *** Joins Tcm0
+[11:21:07] *** Joins Saya
+[11:57:32] *** Quits Saya (Quit: Leaving)
+[12:36:58] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[12:37:11] *** Joins rjeli____
+[13:11:28] *** Joins fgsfds
+[15:20:49] *** Joins derk0pf
+[16:15:32] *** Quits derk0pf (Ping timeout: 265 seconds)
+[17:21:25] <plutobot> GitHub | New PR: usb add UsbSt... | User: SciresM | https://github.com/switchbrew/libnx/pull/512
+[17:21:29] <DoozerBot> PR-#512: usb: add UsbState enum, building targets: 02lib
+[17:25:05] <DoozerBot> 02lib: 03 v3.3.0.166 Build OK - https://doozer.io/build/qg5fvd58k0
+[17:34:19] *** Joins derk0pf
+[17:34:26] <DoozerBot> PR-#512: usb: add UsbState enum, building targets: 02lib
+[17:35:59] *** Quits rajkosto (Leaving)
+[17:39:27] <DoozerBot> 02lib: 03 v3.3.0.167 Build OK - https://doozer.io/build/goksfpn8uq
+[18:14:44] <plutobot> Wiki | Page changed: SSL services | User: yls8 | https://switchbrew.org/w/index.php?curid=145&diff=10399&oldid=10298
+[18:40:13] <plutobot> Wiki | Page changed: SSL services | User: yls8 | https://switchbrew.org/w/index.php?curid=145&diff=10400&oldid=10399
+[18:45:21] <plutobot> Wiki | Page changed: SSL services | User: yls8 | https://switchbrew.org/w/index.php?curid=145&diff=10401&oldid=10400
+[19:43:11] <DoozerBot> yellows8 pushed to master: ssl: Updated for 11.0.0. "ssl: Updated for 11.0.0." [071 file modified], building targets: 02lib
+[19:43:14] <plutobot> GitHub | New commit | User: yellows | https://github.com/switchbrew/libnx/commit/e8a4f22063
+[19:46:53] <DoozerBot> 02lib: 03 v3.3.0.166 Build OK - https://doozer.io/build/d9cyk7rgfg
+[19:47:56] <plutobot> Wiki | Page changed: 11.0.0 | User: yls8 | https://switchbrew.org/w/index.php?curid=422&diff=10402&oldid=10396
+[19:52:44] *** Quits KuKzz ()
+[19:54:28] *** Joins KuKzz
+[20:38:45] *** Quits derk0pf (Ping timeout: 265 seconds)
+[20:47:42] *** Joins derk0pf
+[21:13:37] <plutobot> GitHub | New commit | User: SciresM | https://github.com/switchbrew/libnx/commit/21b0613fa4
+[21:13:39] <DoozerBot> fincs pushed to master: usb: add UsbState enum (#512) "usb: add UsbState enum (#512)" [073 files modified], building targets: 02lib
+[21:17:46] <DoozerBot> 02lib: 03 v3.3.0.167 Build OK - https://doozer.io/build/hjfzp3ke2m
+[21:40:57] *** Quits yls8bot (Read error: Operation timed out)
+[21:41:01] *** Quits mtheall (Write error: Broken pipe)
+[21:48:47] <DoozerBot> PR-#510: Capmtp, building targets: 02lib
+[21:52:27] <DoozerBot> 02lib: 03 v3.3.0.165 Build OK - https://doozer.io/build/vlrug9h66o
+[21:53:51] <DoozerBot> fincs pushed to master: Add capmtp service wrapper [11.0.0+] (#510) "Add capmtp service wrapper [11.0.0+] (#510)" [032 files added07, 1 file modified], building targets: 02lib
+[21:56:53] *** Joins mtheall
+[21:57:18] *** Joins yls8bot
+[21:57:30] *** yellows8 sets mode: +o yls8bot
+[21:57:38] <DoozerBot> 02lib: 03 v3.3.0.168 Build OK - https://doozer.io/build/gy6lnka1xv
+[21:57:40] *** yls8bot sets mode: +o WntrMute
+[22:12:28] <plutobot> GitHub | New commit | User: HookedBehemoth | https://github.com/switchbrew/libnx/commit/f82d97f88a
+[22:54:58] *** Joins foghorn2
+[22:55:34] *** Quits awordnot (Read error: Operation timed out)
+[22:55:48] *** Joins Tcm0_
+[22:56:18] *** Quits nullstrin (Read error: Operation timed out)
+[22:56:27] *** Joins figgis_
+[22:56:39] *** Quits endrift (Read error: Operation timed out)
+[22:58:19] *** Quits j0hny5 (Read error: Operation timed out)
+[22:58:48] *** Quits |Shadow| (Read error: Operation timed out)
+[23:00:44] *** Quits foghorn (Read error: Operation timed out)
+[23:00:49] *** Quits Tcm0 (Read error: Operation timed out)
+[23:01:34] *** Quits KuKzz (Read error: Operation timed out)
+[23:02:08] *** Joins KuKzz
+[23:02:32] *** Quits fgsfds (Read error: Operation timed out)
+[23:23:22] *** Quits derk0pf (Ping timeout: 272 seconds)
+[23:44:41] *** Joins |Shadow|
+[23:48:35] *** Joins derk0pf
+[23:53:32] *** Quits derk0pf (Ping timeout: 265 seconds)
