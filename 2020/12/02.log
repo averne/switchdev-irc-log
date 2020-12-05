@@ -1,0 +1,162 @@
+[00:10:29] *** Quits: CCFL_Man (34ae151230@c-73-64-119-64.hsd1.pa.comcast.net) (Read error: Operation timed out)
+[00:10:35] *** Joins: CCFL_Man_ (8ae5bda27c@c-73-64-119-64.hsd1.pa.comcast.net)
+[00:17:58] <plutobot> Wiki | Page changed: Log services | User: SciresM | https://switchbrew.org/w/index.php?curid=201&diff=10356&oldid=10352
+[00:30:22] <plutobot> Wiki | Page changed: USB services | User: yls8 | https://switchbrew.org/w/index.php?curid=195&diff=10357&oldid=10347
+[00:32:37] *** Quits: mha (mha@adiza.nexticom.net) (hub.efnet.us irc.homelien.no)
+[00:33:05] *** Joins: mha (mha@adiza.nexticom.net)
+[00:33:56] <plutobot> Wiki | Page changed: 11.0.0 | User: SciresM | https://switchbrew.org/w/index.php?curid=422&diff=10358&oldid=10353
+[00:34:32] *** Quits: Behemoth_ (~quassel@vmd39331.contaboserver.net) (Read error: Connection reset by peer)
+[00:39:57] *** Joins: Behemoth_ (~quassel@vmd39331.contaboserver.net)
+[00:44:18] <plutobot> Wiki | Page changed: Log services | User: XorTroll | https://switchbrew.org/w/index.php?curid=201&diff=10359&oldid=10356
+[00:49:10] *** Joins: zombie343 (~zombie343@pool-74-108-60-233.nycmny.fios.verizon.net)
+[01:06:24] <plutobot> Wiki | Page changed: 11.0.0 | User: SciresM | https://switchbrew.org/w/index.php?curid=422&diff=10360&oldid=10358
+[01:11:58] *** Quits: GerbilSof (~GerbilSof@pool-108-24-152-152.cmdnnj.fios.verizon.net) (Read error: Operation timed out)
+[01:22:48] *** Joins: CCFL_Man (c79736d753@c-73-64-119-64.hsd1.pa.comcast.net)
+[01:23:05] *** Quits: CCFL_Man_ (8ae5bda27c@c-73-64-119-64.hsd1.pa.comcast.net) (Read error: Operation timed out)
+[01:30:22] *** Joins: GerbilSof (~GerbilSof@pool-108-24-152-152.cmdnnj.fios.verizon.net)
+[01:36:06] *** Quits: changO- (~Changolan@ip70-187-147-196.oc.oc.cox.net) (Read error: Operation timed out)
+[01:40:12] *** Joins: changO- (~Changolan@ip70-187-147-196.oc.oc.cox.net)
+[01:40:17] *** Joins: Octoham (~Octoham@24.225.147.6)
+[01:40:26] <Octoham> hello!
+[01:55:27] *** Quits: Octoham (~Octoham@24.225.147.6) (Leaving)
+[02:11:03] <plutobot> GitHub | New commit | User: Michael Scire | https://github.com/switchbrew/switch-tools/commit/fe13e1c1da
+[02:39:05] *** Quits: refs (~refs@p200300dd871804003cc693787e6eea0c.dip0.t-ipconnect.de) (Quit: refs)
+[03:11:09] <plutobot> GitHub | New commit | User: Michael Scire | https://github.com/switchbrew/switch-tools/commit/72b9e5cc85
+[03:58:38] *** Quits: Kyouju (~Kyouju@ks3311808.kimsufi.com) (Quit: ZNC 1.7.4+deb0+bionic0 - https://znc.in)
+[04:00:23] *** Joins: Kyouju (~Kyouju@ks3311808.kimsufi.com)
+[04:04:00] <plutobot> Wiki | Page changed: LDN services | User: yls8 | https://switchbrew.org/w/index.php?curid=109&diff=10361&oldid=10108
+[04:08:32] <Behemoth_> Any guesses what dcdmtp could stand for? It's the namespace for the mtp library capmtp is based on.
+[04:12:51] *** Quits: refsw` (~refsw@80.150.130.51) (Ping timeout: 272 seconds)
+[04:14:08] *** Joins: refsw` (~refsw@80.150.130.51)
+[04:29:49] <plutobot> Wiki | Page changed: 11.0.0 | User: yls8 | https://switchbrew.org/w/index.php?curid=422&diff=10362&oldid=10360
+[05:21:59] *** Joins: CCFL_Man_ (547bfe8d02@c-73-64-119-64.hsd1.pa.comcast.net)
+[05:23:42] <plutobot> Wiki | Page changed: 11.0.0 | User: yls8 | https://switchbrew.org/w/index.php?curid=422&diff=10363&oldid=10362
+[05:33:33] *** Quits: CCFL_Man (c79736d753@c-73-64-119-64.hsd1.pa.comcast.net) (Ping timeout: 745 seconds)
+[05:41:22] *** Quits: nullstrin (~nullstrin@cermak.nullstring.io) (Read error: Operation timed out)
+[05:45:10] *** Joins: nullstrin (~nullstrin@cermak.nullstring.io)
+[05:46:28] <plutobot> Wiki | Page changed: Album Applet | User: yls8 | https://switchbrew.org/w/index.php?curid=389&diff=10364&oldid=9609
+[05:49:31] <plutobot> Wiki | Page changed: LDN services | User: yls8 | https://switchbrew.org/w/index.php?curid=109&diff=10365&oldid=10361
+[05:51:54] <plutobot> Wiki | Page changed: Album Applet | User: yls8 | https://switchbrew.org/w/index.php?curid=389&diff=10366&oldid=10364
+[06:41:04] *** Joins: rajkosto (~rajkosto@cable-178-149-125-126.dynamic.sbb.rs)
+[07:35:56] *** Joins: lameboy2 (~lameboy@202-47-121-182.cust.dcsi.net.au)
+[07:37:54] *** Quits: awordnot (~awordnot@c-71-194-7-27.hsd1.il.comcast.net) (Read error: Operation timed out)
+[07:39:11] *** Quits: lameboy2 (~lameboy@202-47-121-182.cust.dcsi.net.au) (Excess Flood)
+[07:39:30] *** Joins: lameboy2 (~lameboy@202-47-121-182.cust.dcsi.net.au)
+[07:40:51] *** Joins: awordnot (~awordnot@c-71-194-7-27.hsd1.il.comcast.net)
+[07:42:43] *** Quits: lameboy (~lameboy@202-47-121-182.cust.dcsi.net.au) (Read error: Operation timed out)
+[07:42:45] *** lameboy2 is now known as lameboy
+[08:18:24] <plutobot> Wiki | Page changed: Album Applet | User: yls8 | https://switchbrew.org/w/index.php?curid=389&diff=10367&oldid=10366
+[08:34:25] *** Quits: fgsfds (~figgis@93.123.144.171) (Read error: Connection reset by peer)
+[09:13:41] *** Joins: lameboy2 (~lameboy@202-47-121-182.cust.dcsi.net.au)
+[09:15:36] *** Quits: lameboy2 (~lameboy@202-47-121-182.cust.dcsi.net.au) (Excess Flood)
+[09:16:03] *** Joins: lameboy2 (~lameboy@202-47-121-182.cust.dcsi.net.au)
+[09:21:14] *** Quits: lameboy (~lameboy@202-47-121-182.cust.dcsi.net.au) (Read error: Operation timed out)
+[09:21:16] *** lameboy2 is now known as lameboy
+[09:32:21] *** Quits: changO- (~Changolan@ip70-187-147-196.oc.oc.cox.net) (se.hub efnet.port80.se)
+[09:32:21] *** Quits: GerbilSof (~GerbilSof@pool-108-24-152-152.cmdnnj.fios.verizon.net) (se.hub efnet.port80.se)
+[09:32:21] *** Quits: SCV__ (sid226262@id-226262.charlton.irccloud.com) (se.hub efnet.port80.se)
+[09:32:21] *** Quits: rjeli____ (sid289321@id-289321.charlton.irccloud.com) (se.hub efnet.port80.se)
+[09:32:21] *** Quits: derrek (~derrek@hyrrokkin.uberspace.de) (se.hub efnet.port80.se)
+[09:32:21] *** Quits: Genolo (~fear@151.236.216.141) (se.hub efnet.port80.se)
+[09:32:21] *** Quits: hthh (~hthh@hh.ht) (se.hub efnet.port80.se)
+[09:32:21] *** Quits: dibas (~dibas@wild.uberspace.de) (se.hub efnet.port80.se)
+[09:32:21] *** Quits: mid-kid2 (~mid-kid@2a01:7c8:aac8:1e8:5054:ff:fe5e:cd48) (se.hub efnet.port80.se)
+[09:32:21] *** Quits: Summeli (summeli@irc.summeli.com) (se.hub efnet.port80.se)
+[09:32:22] *** Quits: coriolis (~coriolis@2607:5300:60:2885::1) (se.hub efnet.port80.se)
+[09:32:22] *** Quits: Phils3r (~Phil@2a02:c205:3000:2328::1) (se.hub efnet.port80.se)
+[09:32:22] *** Quits: rctgamer (~rctgamer3@185.66.251.249) (se.hub efnet.port80.se)
+[09:32:22] *** Quits: hexkyz (~hexkyz@ec2-18-179-123-169.ap-northeast-1.compute.amazonaws.com) (se.hub efnet.port80.se)
+[09:32:22] *** Quits: uyjulian (~uyjulian@69-110-38-205.lightspeed.lbcktx.sbcglobal.net) (se.hub efnet.port80.se)
+[09:48:14] *** Joins: changO- (~Changolan@ip70-187-147-196.oc.oc.cox.net)
+[09:48:14] *** Joins: GerbilSof (~GerbilSof@pool-108-24-152-152.cmdnnj.fios.verizon.net)
+[09:48:14] *** Joins: SCV__ (sid226262@id-226262.charlton.irccloud.com)
+[09:48:14] *** Joins: rjeli____ (sid289321@id-289321.charlton.irccloud.com)
+[09:48:14] *** Joins: derrek (~derrek@hyrrokkin.uberspace.de)
+[09:48:14] *** Joins: Genolo (~fear@151.236.216.141)
+[09:48:14] *** Joins: hthh (~hthh@hh.ht)
+[09:48:14] *** Joins: dibas (~dibas@wild.uberspace.de)
+[09:48:14] *** Joins: mid-kid2 (~mid-kid@2a01:7c8:aac8:1e8:5054:ff:fe5e:cd48)
+[09:48:14] *** Joins: Summeli (summeli@irc.summeli.com)
+[09:48:14] *** Joins: coriolis (~coriolis@2607:5300:60:2885::1)
+[09:48:14] *** Joins: Phils3r (~Phil@2a02:c205:3000:2328::1)
+[09:48:14] *** Joins: rctgamer (~rctgamer3@185.66.251.249)
+[09:48:14] *** Joins: hexkyz (~hexkyz@ec2-18-179-123-169.ap-northeast-1.compute.amazonaws.com)
+[09:48:14] *** Joins: uyjulian (~uyjulian@69-110-38-205.lightspeed.lbcktx.sbcglobal.net)
+[10:24:05] *** Quits: |Shadow| (~Shadow1@ip24-253-241-112.ok.ok.cox.net) (Read error: Operation timed out)
+[10:24:16] *** Joins: |Shadow| (~Shadow1@ip24-253-241-112.ok.ok.cox.net)
+[10:25:17] *** Quits: rajkosto (~rajkosto@cable-178-149-125-126.dynamic.sbb.rs) (Read error: Connection reset by peer)
+[10:29:35] <plutobot> Wiki | Page changed: 11.0.0 | User: SciresM | https://switchbrew.org/w/index.php?curid=422&diff=10368&oldid=10363
+[11:04:45] *** Quits: Extrems (~gamecube@expert.extremscorner.org) (Read error: Operation timed out)
+[11:41:05] *** Joins: Tcm0 (~Tcm0@p5dc45e68.dip0.t-ipconnect.de)
+[12:33:48] *** Quits: DacoTaco (~DacoTaco@178-119-112-131.access.telenet.be) (Ping timeout: 272 seconds)
+[12:40:45] *** Joins: DacoTaco (~DacoTaco@178-119-112-131.access.telenet.be)
+[13:14:38] *** Joins: changoXPR (~Changolan@ip70-187-147-196.oc.oc.cox.net)
+[13:17:51] <plutobot> GitHub | New commit | User: fincs | https://github.com/switchbrew/switch-tools/commit/c2977a7167
+[13:17:52] <plutobot> GitHub | New commit | User: Michael Theall | https://github.com/switchbrew/switch-tools/commit/1b660e22c3
+[13:21:58] *** Quits: changO- (~Changolan@ip70-187-147-196.oc.oc.cox.net) (Ping timeout: 745 seconds)
+[13:21:58] *** changoXPR is now known as changO-
+[13:37:04] <DoozerBot> PR-#508: usb: update for 11.0.0, building targets: 02lib
+[13:37:07] <plutobot> GitHub | New PR: usb update fo... | User: SciresM | https://github.com/switchbrew/libnx/pull/508
+[13:38:21] <DoozerBot> 02lib: 08 v3.3.0.160 Cancelled - https://doozer.io/build/0fpcc0k4pz
+[13:38:22] <DoozerBot> PR-#508: usb: update for 11.0.0, building targets: 02lib
+[13:40:41] <DoozerBot> 02lib: 08 v3.3.0.160 Cancelled - https://doozer.io/build/xbzi3fdavi
+[13:40:42] <DoozerBot> PR-#508: usb: update for 11.0.0, building targets: 02lib
+[13:44:04] <DoozerBot> 02lib: 03 v3.3.0.161 Build OK - https://doozer.io/build/5ks0nvc3n8
+[14:29:31] *** Joins: KuKzz_ (KuKzz@95.143.216.177)
+[14:31:14] *** Quits: KuKzz (KuKzz@95.143.216.177) (Ping timeout: 265 seconds)
+[14:57:05] *** Joins: Extrems (gamecube@expert.extremscorner.org)
+[15:11:21] <plutobot> GitHub | New commit | User: fincs | https://github.com/switchbrew/nx-hbmenu/commit/20c1f00972
+[15:55:46] *** Quits: CCFL_Man_ (547bfe8d02@c-73-64-119-64.hsd1.pa.comcast.net) (Read error: Operation timed out)
+[15:57:46] *** Joins: CCFL_Man (4653d7be16@c-73-64-119-64.hsd1.pa.comcast.net)
+[16:11:20] *** Quits: CCFL_Man (4653d7be16@c-73-64-119-64.hsd1.pa.comcast.net) (Read error: Operation timed out)
+[16:15:03] *** Joins: CCFL_Man (06ec356953@c-73-64-119-64.hsd1.pa.comcast.net)
+[16:33:33] <DoozerBot> PR-#508: usb: update for 11.0.0, building targets: 02lib
+[16:37:16] <DoozerBot> 02lib: 03 v3.3.0.162 Build OK - https://doozer.io/build/fpf0xb0y1i
+[17:06:33] <DoozerBot> fincs pushed to master: usb: update for 11.0.0 (#508) "usb: update for 11.0.0 (#508)" [071 file modified], building targets: 02lib
+[17:10:27] <DoozerBot> 02lib: 03 v3.3.0.160 Build OK - https://doozer.io/build/j7lgu3b3bu
+[17:11:25] <plutobot> GitHub | New commit | User: SciresM | https://github.com/switchbrew/libnx/commit/83dc9203dc
+[17:14:47] *** Joins: changoXPR (~Changolan@ip70-187-147-196.oc.oc.cox.net)
+[17:16:29] *** Quits: changO- (~Changolan@ip70-187-147-196.oc.oc.cox.net) (Read error: Operation timed out)
+[17:16:29] *** changoXPR is now known as changO-
+[17:16:43] <plutobot> GitHub | New PR: sm add smDeta... | User: SciresM | https://github.com/switchbrew/libnx/pull/509
+[17:16:46] <DoozerBot> PR-#509: sm: add smDetachClient, building targets: 02lib
+[17:19:02] <DoozerBot> 02lib: 08 v3.3.0.160 Cancelled - https://doozer.io/build/qnqe845a7t
+[17:19:03] <DoozerBot> PR-#509: sm: add smDetachClient, building targets: 02lib
+[17:22:24] <DoozerBot> 02lib: 03 v3.3.0.161 Build OK - https://doozer.io/build/ccq58ith57
+[17:25:36] <DoozerBot> PR-#509: sm: add smDetachClient, building targets: 02lib
+[17:29:11] <DoozerBot> 02lib: 03 v3.3.0.162 Build OK - https://doozer.io/build/7wurem5o67
+[17:42:19] <plutobot> GitHub | New commit | User: SciresM | https://github.com/switchbrew/libnx/commit/2d470ee2af
+[17:42:21] <DoozerBot> fincs pushed to master: sm: add smDetachClient (#509) "sm: add smDetachClient (#509)" [072 files modified], building targets: 02lib
+[17:45:59] <DoozerBot> 02lib: 03 v3.3.0.161 Build OK - https://doozer.io/build/suxuf3nfuq
+[18:30:45] *** Quits: CCFL_Man (06ec356953@c-73-64-119-64.hsd1.pa.comcast.net) (Read error: Operation timed out)
+[18:30:48] *** Joins: CCFL_Man (9cc632b6bc@c-73-64-119-64.hsd1.pa.comcast.net)
+[18:43:56] *** Quits: Tcm0 (~Tcm0@p5dc45e68.dip0.t-ipconnect.de) (Leaving)
+[18:45:07] <plutobot> Wiki | Page changed: SMC | User: Hexkyz | https://switchbrew.org/w/index.php?curid=159&diff=10369&oldid=9514
+[18:47:09] *** Joins: CCFL_Man_ (aff1992e44@c-73-64-119-64.hsd1.pa.comcast.net)
+[18:48:38] *** Quits: CCFL_Man (9cc632b6bc@c-73-64-119-64.hsd1.pa.comcast.net) (Ping timeout: 745 seconds)
+[18:49:02] <plutobot> Wiki | Page changed: SMC | User: Hexkyz | https://switchbrew.org/w/index.php?curid=159&diff=10370&oldid=10369
+[18:55:21] *** Joins: fgsfds (~figgis@93.123.144.171)
+[18:57:34] *** Joins: Tcm0 (~Tcm0@p5dc45e68.dip0.t-ipconnect.de)
+[19:15:03] <plutobot> Wiki | Page changed: Filesystem services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=87&diff=10371&oldid=10333
+[19:16:44] <plutobot> Wiki | Page changed: Applet Manager services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=132&diff=10372&oldid=10328
+[19:18:37] <plutobot> Wiki | Page changed: OLSC services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=347&diff=10373&oldid=10344
+[19:20:39] <plutobot> Wiki | Page changed: Display services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=113&diff=10374&oldid=10343
+[19:25:04] <plutobot> Wiki | Page changed: Shared Database services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=210&diff=10375&oldid=10336
+[19:26:15] <plutobot> Wiki | Page changed: NS Services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=89&diff=10376&oldid=10323
+[19:38:50] <plutobot> Wiki | Page changed: Audio services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=264&diff=10377&oldid=10329
+[19:39:20] *** Joins: kannalo (~kannalo@cpc160071-brig23-2-0-cust205.3-3.cable.virginm.net)
+[19:39:35] <kannalo> Fuck niggers
+[19:40:08] *** Quits: kannalo (~kannalo@cpc160071-brig23-2-0-cust205.3-3.cable.virginm.net) (Client Quit)
+[19:42:36] *** Quits: Tcm0 (~Tcm0@p5dc45e68.dip0.t-ipconnect.de) (Read error: Connection reset by peer)
+[19:42:44] *** Joins: Tcm0 (~Tcm0@p5dc45e68.dip0.t-ipconnect.de)
+[19:50:55] <plutobot> Wiki | Page changed: PSC services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=271&diff=10378&oldid=9931
+[20:18:48] <plutobot> Wiki | Page changed: 11.0.0 | User: yls8 | https://switchbrew.org/w/index.php?curid=422&diff=10379&oldid=10368
+[20:54:12] <plutobot> Wiki | Page changed: Glue services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=166&diff=10380&oldid=10141
+[20:54:42] <plutobot> Wiki | Page changed: Glue services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=166&diff=10381&oldid=10380
+[21:39:59] *** Joins: refs (~refs@p200300dd87161100cc238f6aaab7ed33.dip0.t-ipconnect.de)
+[22:35:38] *** Quits: Tcm0 (~Tcm0@p5dc45e68.dip0.t-ipconnect.de) (Leaving)
+[22:53:17] <giglife> as always great work :)
+[23:47:21] *** Quits: foghorn2 (~meh@2600:1700:8af0:a950:c7e:fd93:8881:7d20) (Ping timeout: 604 seconds)
+[23:47:44] *** Joins: foghorn (~meh@2600:1700:8af0:a950:a5b2:2054:ab11:b3fb)
+[23:53:08] *** Quits: ihaveamac (~ihaveamac@138.68.232.110) (Quit: fail)
+[23:54:48] *** Joins: ihaveamac (~ihaveamac@138.68.232.110)
