@@ -1,0 +1,74 @@
+[00:00:03] *** Quits SCV__ (Ping timeout: 1230 seconds)
+[00:00:16] *** Joins SCV__
+[01:06:21] *** Joins refs
+[01:06:32] *** Quits des^ (Quit: The Lounge - https://thelounge.github.io)
+[01:07:00] *** Joins des^
+[01:47:20] *** Quits GerbilSof (Read error: Operation timed out)
+[02:21:13] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[02:21:26] *** Joins rjeli____
+[02:44:07] *** Quits ihaveamac (Quit: fail)
+[02:44:40] *** Joins ihaveamac
+[04:20:13] *** Quits refs (Quit: refs)
+[04:21:23] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[04:21:36] *** Joins rjeli____
+[05:28:31] *** Quits Lightswor (Read error: Operation timed out)
+[05:29:50] *** Quits yls8bot (Read error: Operation timed out)
+[05:33:00] *** Quits Aaerox (Read error: Operation timed out)
+[05:33:00] *** Quits Kyouju (Read error: Operation timed out)
+[05:33:15] *** Quits yellows8 (Read error: Operation timed out)
+[05:46:21] *** Joins Kyouju
+[05:46:24] *** Joins Aaerox
+[05:46:51] *** Joins Lightswor
+[05:47:39] *** Joins yellows8
+[05:47:39] *** WntrMute sets mode: +o yellows8
+[05:49:53] *** Joins yls8bot
+[05:50:02] *** yellows8 sets mode: +o yls8bot
+[05:59:23] *** Quits SCV__ (Ping timeout: 1230 seconds)
+[05:59:36] *** Joins SCV__
+[06:27:30] *** Quits endrift (+++CARRIER LOST+++)
+[06:36:26] *** Joins GerbilSof
+[07:21:50] *** Quits |Shadow| ()
+[07:24:35] *** Joins |Shadow|
+[07:25:38] *** Quits |Shadow| (Client Quit)
+[07:38:47] *** Joins |Shadow|
+[08:57:18] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[08:57:32] *** Joins rjeli____
+[09:00:03] *** Quits fgsfds (Leaving)
+[11:33:36] *** Quits |Shadow| ()
+[11:36:33] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[11:36:46] *** Joins rjeli____
+[11:40:39] *** Joins |Shadow|
+[13:54:29] *** Quits yls8bot (Read error: Operation timed out)
+[13:55:42] *** Quits Lightswor (Read error: Operation timed out)
+[13:57:35] *** Quits Kyouju (Read error: Operation timed out)
+[13:57:51] *** Quits Aaerox (Read error: Operation timed out)
+[13:57:56] *** Quits yellows8 (Read error: Operation timed out)
+[14:11:52] *** Joins Lightswor
+[14:12:03] *** Joins Aaerox
+[14:12:20] *** Joins yellows8
+[14:12:20] *** WntrMute sets mode: +o yellows8
+[14:12:26] *** Joins Kyouju
+[14:14:31] *** Joins yls8bot
+[14:14:35] *** yellows8 sets mode: +o yls8bot
+[14:51:23] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[14:51:36] *** Joins rjeli____
+[15:21:16] *** Quits nullstrin (Read error: Operation timed out)
+[15:25:01] *** Joins nullstrin
+[17:20:43] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[17:20:56] *** Joins rjeli____
+[17:34:33] *** Joins refs
+[17:36:42] *** Joins fgsfds
+[17:54:33] *** Quits SCV__ (Ping timeout: 1230 seconds)
+[17:54:47] *** Joins SCV__
+[18:35:00] <plutobot> Wiki | Page changed: HID services | User: yls8 | https://switchbrew.org/w/index.php?curid=103&diff=10474&oldid=10469
+[18:38:35] <DoozerBot> yellows8 pushed to master: hidsys: Updated ButtonConfig cmds for 11.0. "hidsys: Updated ButtonConfig cmds for 11.0." [072 files modified], building targets: 02lib
+[18:38:38] <plutobot> GitHub | New commit | User: yellows | https://github.com/switchbrew/libnx/commit/13716b5e7b
+[18:42:21] <DoozerBot> 02lib: 03 v3.3.0.180 Build OK - https://doozer.io/build/s4hxwkabm9
+[19:33:08] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[19:33:21] *** Joins rjeli____
+[21:00:38] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[21:00:52] *** Joins rjeli____
+[22:09:42] *** Quits Galaxy| (Quit: Quit.)
+[22:24:08] *** Joins Galaxy|
+[23:20:38] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[23:20:51] *** Joins rjeli____

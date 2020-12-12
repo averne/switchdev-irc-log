@@ -1,0 +1,143 @@
+[00:08:47] *** Joins Sentry-
+[00:08:47] *** Quits Snetry (Read error: Connection reset by peer)
+[00:52:59] *** Joins figgis_
+[01:00:45] *** Quits fgsfds (Read error: Operation timed out)
+[01:12:02] <ihaveamac> there's a switch update available: 11.0.1
+[01:15:21] <yls8bot> https://yls8.mtheall.com/ninupdates/reports.php?date=2020-12-11_00-15-07&sys=hac 
+[01:15:22] <plutobot> Wiki | Page changed: FirmwareNews | User: Yls8bot | https://switchbrew.org/w/index.php?curid=43&diff=10451&oldid=10276
+[01:15:22] <plutobot> Wiki | New page: 11.0.1 | User: Yls8bot | https://switchbrew.org/w/index.php?curid=424
+[01:15:22] <plutobot> Wiki | Page changed: Template:NavboxVersions | User: Yls8bot | https://switchbrew.org/w/index.php?curid=183&diff=10449&oldid=10274
+[01:16:26] <yls8bot> Update-details for the following hac report is now available/updated: https://yls8.mtheall.com/ninupdates/reports.php?date=2020-12-11_00-15-07&sys=hac 
+[01:19:35] *** Quits nullstrin (Read error: Operation timed out)
+[01:23:21] *** Joins nullstrin
+[01:27:46] <plutobot> Wiki | Page changed: Title list | User: Zachycatgames | https://switchbrew.org/w/index.php?curid=84&diff=10452&oldid=10387
+[01:28:17] <plutobot> Wiki | Page changed: 11.0.1 | User: SciresM | https://switchbrew.org/w/index.php?curid=424&diff=10453&oldid=10450
+[01:31:06] <yls8bot> Sysmodule SwIPC-generation .info files for the following hac report is now available/updated: https://yls8.mtheall.com/ninupdates/reports.php?date=2020-12-11_00-15-07&sys=hac 
+[01:36:06] <plutobot> Wiki | Page changed: 11.0.1 | User: yls8 | https://switchbrew.org/w/index.php?curid=424&diff=10454&oldid=10453
+[01:39:20] <plutobot> Wiki | Page changed: System Version Title | User: yls8 | https://switchbrew.org/w/index.php?curid=116&diff=10455&oldid=10286
+[01:41:32] <plutobot> Wiki | Page changed: System Versions | User: yls8 | https://switchbrew.org/w/index.php?curid=105&diff=10456&oldid=10285
+[01:42:54] <plutobot> Wiki | Page changed: LDN services | User: yls8 | https://switchbrew.org/w/index.php?curid=109&diff=10457&oldid=10395
+[01:45:29] <DoozerBot> yellows8 pushed to master: lp2p: Updated docs. "lp2p: Updated docs." [071 file modified], building targets: 02lib
+[01:45:32] <plutobot> GitHub | New commit | User: yellows | https://github.com/switchbrew/libnx/commit/9ede39d15d
+[01:49:13] <DoozerBot> 02lib: 03 v3.3.0.176 Build OK - https://doozer.io/build/zwk5pajjlf
+[02:18:04] *** Quits refs (Quit: refs)
+[03:30:53] <plutobot> Wiki | Page changed: LDN services | User: yls8 | https://switchbrew.org/w/index.php?curid=109&diff=10458&oldid=10457
+[03:42:57] <plutobot> Wiki | Page changed: LDN services | User: yls8 | https://switchbrew.org/w/index.php?curid=109&diff=10459&oldid=10458
+[04:13:43] <plutobot> Wiki | Page changed: LDN services | User: yls8 | https://switchbrew.org/w/index.php?curid=109&diff=10460&oldid=10459
+[04:27:45] *** Quits sh0e (Bye.)
+[04:39:02] *** Joins sh0e
+[05:05:43] <plutobot> Wiki | Page changed: LDN services | User: yls8 | https://switchbrew.org/w/index.php?curid=109&diff=10461&oldid=10460
+[05:38:09] <plutobot> GitHub | New commit | User: yellows | https://github.com/switchbrew/libnx/commit/3d003aef39
+[05:38:09] <DoozerBot> yellows8 pushed to master: lp2p: Updated docs. "lp2p: Updated docs." [071 file modified], building targets: 02lib
+[05:42:08] <DoozerBot> 02lib: 03 v3.3.0.177 Build OK - https://doozer.io/build/ych6kzc8i0
+[05:53:11] <plutobot> GitHub | New commit | User: yellows | https://github.com/switchbrew/switch-examples/commit/84be02950a
+[06:16:22] <plutobot> GitHub | New commit | User: yellows | https://github.com/switchbrew/switch-examples/commit/ce7c9a99ea
+[06:18:38] <plutobot> Wiki | Page changed: 11.0.1 | User: yls8 | https://switchbrew.org/w/index.php?curid=424&diff=10462&oldid=10454
+[07:10:28] <plutobot> Wiki | Page changed: HID services | User: yls8 | https://switchbrew.org/w/index.php?curid=103&diff=10463&oldid=10446
+[07:21:41] <plutobot> Wiki | Page changed: HID services | User: yls8 | https://switchbrew.org/w/index.php?curid=103&diff=10464&oldid=10463
+[07:33:24] <plutobot> Wiki | Page changed: HID services | User: yls8 | https://switchbrew.org/w/index.php?curid=103&diff=10465&oldid=10464
+[08:25:38] *** Quits yls8bot (Read error: Operation timed out)
+[08:26:27] *** Joins GrecKo_
+[08:26:39] *** Quits Lightswor (Read error: Operation timed out)
+[08:28:47] *** Quits Aaerox (Read error: Operation timed out)
+[08:29:02] *** Quits yellows8 (Read error: Operation timed out)
+[08:30:05] *** Quits Kyouju (Read error: Operation timed out)
+[08:30:07] *** Quits GrecKo (Read error: Operation timed out)
+[08:43:25] *** Joins yellows8
+[08:43:25] *** WntrMute sets mode: +o yellows8
+[08:43:32] *** Quits figgis_ (Read error: Connection reset by peer)
+[08:43:43] *** Joins Aaerox
+[08:43:45] *** Joins Lightswor
+[08:44:38] *** Joins Kyouju
+[08:45:40] *** Joins yls8bot
+[08:45:56] *** yellows8 sets mode: +o yls8bot
+[09:04:38] *** Quits dibas (se.hub efnet.port80.se)
+[09:04:38] *** Quits hthh_ (se.hub efnet.port80.se)
+[09:04:38] *** Quits uyjulian (se.hub efnet.port80.se)
+[09:04:38] *** Quits gruetzko- (se.hub efnet.port80.se)
+[09:04:38] *** Quits mid-kid3 (se.hub efnet.port80.se)
+[09:04:38] *** Quits derrek (se.hub efnet.port80.se)
+[09:04:38] *** Quits hexkyz (se.hub efnet.port80.se)
+[09:04:38] *** Quits Phils3r (se.hub efnet.port80.se)
+[09:04:38] *** Quits rctgamer3 (se.hub efnet.port80.se)
+[09:04:38] *** Quits SCV__ (se.hub efnet.port80.se)
+[09:04:38] *** Quits rjeli____ (se.hub efnet.port80.se)
+[09:04:38] *** Quits Summeli (se.hub efnet.port80.se)
+[09:04:38] *** Quits zini (se.hub efnet.port80.se)
+[09:04:38] *** Quits coriolis (se.hub efnet.port80.se)
+[09:17:18] *** Joins rjeli____
+[09:17:18] *** Joins dibas
+[09:17:18] *** Joins hthh_
+[09:17:18] *** Joins uyjulian
+[09:17:18] *** Joins gruetzko-
+[09:17:18] *** Joins mid-kid3
+[09:17:18] *** Joins derrek
+[09:17:18] *** Joins hexkyz
+[09:17:18] *** Joins Phils3r
+[09:17:18] *** Joins rctgamer3
+[09:17:18] *** Joins SCV__
+[09:17:18] *** Joins Summeli
+[09:17:18] *** Joins zini
+[09:17:18] *** Joins coriolis
+[10:15:47] *** Quits |Shadow| (Read error: Operation timed out)
+[10:16:35] *** Joins |Shadow|
+[10:42:38] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[10:42:52] *** Joins rjeli____
+[11:45:07] <plutobot> Wiki | Page changed: 11.0.1 | User: SciresM | https://switchbrew.org/w/index.php?curid=424&diff=10466&oldid=10462
+[12:23:33] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[12:23:47] *** Joins rjeli____
+[13:32:16] *** Joins Tcm0
+[13:51:03] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[13:51:16] *** Joins rjeli____
+[15:28:02] *** Joins fgsfds
+[17:05:53] *** Quits Summeli (Ping timeout: 745 seconds)
+[17:12:18] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[17:12:31] *** Joins rjeli____
+[17:26:28] *** Quits yls8bot (Read error: Operation timed out)
+[17:28:39] *** Quits Lightswor (Read error: Operation timed out)
+[17:29:57] *** Quits Aaerox (Read error: Operation timed out)
+[17:30:10] *** Quits yellows8 (Read error: Operation timed out)
+[17:30:55] *** Quits Kyouju (Read error: Operation timed out)
+[17:45:56] *** Joins Aaerox
+[17:46:11] *** Joins Lightswor
+[17:46:19] *** Joins Kyouju
+[17:46:30] *** Joins yls8bot
+[17:51:44] *** Joins yellows8
+[17:51:44] *** WntrMute sets mode: +o yellows8
+[18:26:47] *** Quits Lightswor (Read error: Operation timed out)
+[18:28:07] *** Quits yls8bot (Read error: Operation timed out)
+[18:31:34] *** Quits yellows8 (Read error: Operation timed out)
+[18:32:16] *** Quits Aaerox (Read error: Operation timed out)
+[18:32:38] *** Quits Kyouju (Read error: Operation timed out)
+[19:12:36] *** Joins yls8bot
+[19:12:38] *** Joins Lightswor
+[19:12:39] *** Joins Aaerox
+[19:13:01] <plutobot> Wiki | Page changed: HID services | User: yls8 | https://switchbrew.org/w/index.php?curid=103&diff=10467&oldid=10465
+[19:13:44] *** Joins Kyouju
+[19:14:39] *** Joins yellows8
+[19:14:39] *** WntrMute sets mode: +o yellows8
+[19:14:43] <plutobot> Wiki | Page changed: HID services | User: yls8 | https://switchbrew.org/w/index.php?curid=103&diff=10468&oldid=10467
+[19:44:06] <plutobot> Wiki | Page changed: HID services | User: yls8 | https://switchbrew.org/w/index.php?curid=103&diff=10469&oldid=10468
+[19:48:01] <plutobot> Wiki | Page changed: 11.0.0 | User: yls8 | https://switchbrew.org/w/index.php?curid=422&diff=10470&oldid=10443
+[19:51:03] <plutobot> Wiki | Page changed: Switch System Flaws | User: yls8 | https://switchbrew.org/w/index.php?curid=14&diff=10471&oldid=9902
+[20:07:53] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[20:08:06] *** Joins rjeli____
+[20:20:37] *** Joins Tcm0_
+[20:26:44] *** Quits Tcm0 (Read error: Operation timed out)
+[20:33:50] *** Quits m4ts_ (Ping timeout: 265 seconds)
+[20:48:29] *** Joins m4ts
+[21:16:32] <DoozerBot> yellows8 pushed to master: hid: Fixed hidKeyboard{Held/Down/Up}. "hid: Fixed hidKeyboard{Held/Down/Up}." [071 file modified], building targets: 02lib
+[21:16:45] <plutobot> GitHub | New commit | User: yellows | https://github.com/switchbrew/libnx/commit/16fb73cc96
+[21:20:16] <DoozerBot> 02lib: 03 v3.3.0.178 Build OK - https://doozer.io/build/czup941rfo
+[21:42:11] <plutobot> GitHub | New commit | User: yellows | https://github.com/switchbrew/libnx/commit/c365c1ae68
+[21:42:19] <DoozerBot> yellows8 pushed to master: hid: Minor adjustments. "hid: Minor adjustments." [071 file modified], building targets: 02lib
+[21:46:12] <DoozerBot> 02lib: 03 v3.3.0.179 Build OK - https://doozer.io/build/025bhg4lvm
+[22:06:16] *** Quits Tcm0_ (Leaving)
+[22:14:28] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[22:14:41] *** Joins rjeli____
+[22:19:08] *** Quits SCV__ (Ping timeout: 1230 seconds)
+[22:19:21] *** Joins SCV__
+[23:13:25] <plutobot> Wiki | Page changed: NS Services | User: yls8 | https://switchbrew.org/w/index.php?curid=89&diff=10472&oldid=10430
+[23:33:50] <plutobot> Wiki | Page changed: USB services | User: Behemoth | https://switchbrew.org/w/index.php?curid=195&diff=10473&oldid=10428
+[23:41:58] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[23:42:12] *** Joins rjeli____
