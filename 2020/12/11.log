@@ -1,0 +1,143 @@
+[00:08:47] *** Joins: Sentry- (~sentry@dslb-188-101-114-084.188.101.pools.vodafone-ip.de)
+[00:08:47] *** Quits: Snetry (~sentry@dslb-188-101-114-084.188.101.pools.vodafone-ip.de) (Read error: Connection reset by peer)
+[00:52:59] *** Joins: figgis_ (~figgis@93.123.144.171)
+[01:00:45] *** Quits: fgsfds (~figgis@93.123.144.171) (Read error: Operation timed out)
+[01:12:02] <ihaveamac> there's a switch update available: 11.0.1
+[01:15:21] <yls8bot> https://yls8.mtheall.com/ninupdates/reports.php?date=2020-12-11_00-15-07&sys=hac 
+[01:15:22] <plutobot> Wiki | Page changed: FirmwareNews | User: Yls8bot | https://switchbrew.org/w/index.php?curid=43&diff=10451&oldid=10276
+[01:15:22] <plutobot> Wiki | New page: 11.0.1 | User: Yls8bot | https://switchbrew.org/w/index.php?curid=424
+[01:15:22] <plutobot> Wiki | Page changed: Template:NavboxVersions | User: Yls8bot | https://switchbrew.org/w/index.php?curid=183&diff=10449&oldid=10274
+[01:16:26] <yls8bot> Update-details for the following hac report is now available/updated: https://yls8.mtheall.com/ninupdates/reports.php?date=2020-12-11_00-15-07&sys=hac 
+[01:19:35] *** Quits: nullstrin (~nullstrin@cermak.nullstring.io) (Read error: Operation timed out)
+[01:23:21] *** Joins: nullstrin (~nullstrin@cermak.nullstring.io)
+[01:27:46] <plutobot> Wiki | Page changed: Title list | User: Zachycatgames | https://switchbrew.org/w/index.php?curid=84&diff=10452&oldid=10387
+[01:28:17] <plutobot> Wiki | Page changed: 11.0.1 | User: SciresM | https://switchbrew.org/w/index.php?curid=424&diff=10453&oldid=10450
+[01:31:06] <yls8bot> Sysmodule SwIPC-generation .info files for the following hac report is now available/updated: https://yls8.mtheall.com/ninupdates/reports.php?date=2020-12-11_00-15-07&sys=hac 
+[01:36:06] <plutobot> Wiki | Page changed: 11.0.1 | User: yls8 | https://switchbrew.org/w/index.php?curid=424&diff=10454&oldid=10453
+[01:39:20] <plutobot> Wiki | Page changed: System Version Title | User: yls8 | https://switchbrew.org/w/index.php?curid=116&diff=10455&oldid=10286
+[01:41:32] <plutobot> Wiki | Page changed: System Versions | User: yls8 | https://switchbrew.org/w/index.php?curid=105&diff=10456&oldid=10285
+[01:42:54] <plutobot> Wiki | Page changed: LDN services | User: yls8 | https://switchbrew.org/w/index.php?curid=109&diff=10457&oldid=10395
+[01:45:29] <DoozerBot> yellows8 pushed to master: lp2p: Updated docs. "lp2p: Updated docs." [071 file modified], building targets: 02lib
+[01:45:32] <plutobot> GitHub | New commit | User: yellows | https://github.com/switchbrew/libnx/commit/9ede39d15d
+[01:49:13] <DoozerBot> 02lib: 03 v3.3.0.176 Build OK - https://doozer.io/build/zwk5pajjlf
+[02:18:04] *** Quits: refs (~refs@p200300dd87170600e84ec12f82086539.dip0.t-ipconnect.de) (Quit: refs)
+[03:30:53] <plutobot> Wiki | Page changed: LDN services | User: yls8 | https://switchbrew.org/w/index.php?curid=109&diff=10458&oldid=10457
+[03:42:57] <plutobot> Wiki | Page changed: LDN services | User: yls8 | https://switchbrew.org/w/index.php?curid=109&diff=10459&oldid=10458
+[04:13:43] <plutobot> Wiki | Page changed: LDN services | User: yls8 | https://switchbrew.org/w/index.php?curid=109&diff=10460&oldid=10459
+[04:27:45] *** Quits: sh0e (~sh0e@node1.eisenkopf.info) (Bye.)
+[04:39:02] *** Joins: sh0e (~sh0e@node1.eisenkopf.info)
+[05:05:43] <plutobot> Wiki | Page changed: LDN services | User: yls8 | https://switchbrew.org/w/index.php?curid=109&diff=10461&oldid=10460
+[05:38:09] <plutobot> GitHub | New commit | User: yellows | https://github.com/switchbrew/libnx/commit/3d003aef39
+[05:38:09] <DoozerBot> yellows8 pushed to master: lp2p: Updated docs. "lp2p: Updated docs." [071 file modified], building targets: 02lib
+[05:42:08] <DoozerBot> 02lib: 03 v3.3.0.177 Build OK - https://doozer.io/build/ych6kzc8i0
+[05:53:11] <plutobot> GitHub | New commit | User: yellows | https://github.com/switchbrew/switch-examples/commit/84be02950a
+[06:16:22] <plutobot> GitHub | New commit | User: yellows | https://github.com/switchbrew/switch-examples/commit/ce7c9a99ea
+[06:18:38] <plutobot> Wiki | Page changed: 11.0.1 | User: yls8 | https://switchbrew.org/w/index.php?curid=424&diff=10462&oldid=10454
+[07:10:28] <plutobot> Wiki | Page changed: HID services | User: yls8 | https://switchbrew.org/w/index.php?curid=103&diff=10463&oldid=10446
+[07:21:41] <plutobot> Wiki | Page changed: HID services | User: yls8 | https://switchbrew.org/w/index.php?curid=103&diff=10464&oldid=10463
+[07:33:24] <plutobot> Wiki | Page changed: HID services | User: yls8 | https://switchbrew.org/w/index.php?curid=103&diff=10465&oldid=10464
+[08:25:38] *** Quits: yls8bot (~yls8bot@mtheall.com) (Read error: Operation timed out)
+[08:26:27] *** Joins: GrecKo_ (~grecko@static.183.157.9.5.clients.your-server.de)
+[08:26:39] *** Quits: Lightswor (~Lightswor@107.170.253.193) (Read error: Operation timed out)
+[08:28:47] *** Quits: Aaerox (Aaerox@fuckyou.k.thnx.org) (Read error: Operation timed out)
+[08:29:02] *** Quits: yellows8 (~yellows8@adiza.nexticom.net) (Read error: Operation timed out)
+[08:30:05] *** Quits: Kyouju (~Kyouju@ks3311808.kimsufi.com) (Read error: Operation timed out)
+[08:30:07] *** Quits: GrecKo (~grecko@static.183.157.9.5.clients.your-server.de) (Read error: Operation timed out)
+[08:43:25] *** Joins: yellows8 (~yellows8@adiza.nexticom.net)
+[08:43:25] *** WntrMute sets mode: +o yellows8
+[08:43:32] *** Quits: figgis_ (~figgis@93.123.144.171) (Read error: Connection reset by peer)
+[08:43:43] *** Joins: Aaerox (Aaerox@fuckyou.k.thnx.org)
+[08:43:45] *** Joins: Lightswor (~Lightswor@107.170.253.193)
+[08:44:38] *** Joins: Kyouju (~Kyouju@ks3311808.kimsufi.com)
+[08:45:40] *** Joins: yls8bot (~yls8bot@mtheall.com)
+[08:45:56] *** yellows8 sets mode: +o yls8bot
+[09:04:38] *** Quits: dibas (~dibas@wild.uberspace.de) (se.hub efnet.port80.se)
+[09:04:38] *** Quits: hthh_ (~hthh@hh.ht) (se.hub efnet.port80.se)
+[09:04:38] *** Quits: uyjulian (~uyjulian@69-110-38-205.lightspeed.lbcktx.sbcglobal.net) (se.hub efnet.port80.se)
+[09:04:38] *** Quits: gruetzko- (gruetzkopf@bnc.dont-follow.us) (se.hub efnet.port80.se)
+[09:04:38] *** Quits: mid-kid3 (~mid-kid@2a01:7c8:aac8:1e8:5054:ff:fe5e:cd48) (se.hub efnet.port80.se)
+[09:04:38] *** Quits: derrek (~derrek@hyrrokkin.uberspace.de) (se.hub efnet.port80.se)
+[09:04:38] *** Quits: hexkyz (~hexkyz@ec2-18-179-123-169.ap-northeast-1.compute.amazonaws.com) (se.hub efnet.port80.se)
+[09:04:38] *** Quits: Phils3r (~Phil@2a02:c205:3000:2328::1) (se.hub efnet.port80.se)
+[09:04:38] *** Quits: rctgamer3 (~rctgamer3@2a00:f10:121:a00:4ba:60ff:fe00:196c) (se.hub efnet.port80.se)
+[09:04:38] *** Quits: SCV__ (sid226262@id-226262.charlton.irccloud.com) (se.hub efnet.port80.se)
+[09:04:38] *** Quits: rjeli____ (sid289321@id-289321.charlton.irccloud.com) (se.hub efnet.port80.se)
+[09:04:38] *** Quits: Summeli (summeli@irc.summeli.com) (se.hub efnet.port80.se)
+[09:04:38] *** Quits: zini (~zini@88-113-154-53.elisa-laajakaista.fi) (se.hub efnet.port80.se)
+[09:04:38] *** Quits: coriolis (~coriolis@ns398009.ip-192-95-24.net) (se.hub efnet.port80.se)
+[09:17:18] *** Joins: rjeli____ (sid289321@id-289321.charlton.irccloud.com)
+[09:17:18] *** Joins: dibas (~dibas@wild.uberspace.de)
+[09:17:18] *** Joins: hthh_ (~hthh@hh.ht)
+[09:17:18] *** Joins: uyjulian (~uyjulian@69-110-38-205.lightspeed.lbcktx.sbcglobal.net)
+[09:17:18] *** Joins: gruetzko- (gruetzkopf@bnc.dont-follow.us)
+[09:17:18] *** Joins: mid-kid3 (~mid-kid@2a01:7c8:aac8:1e8:5054:ff:fe5e:cd48)
+[09:17:18] *** Joins: derrek (~derrek@hyrrokkin.uberspace.de)
+[09:17:18] *** Joins: hexkyz (~hexkyz@ec2-18-179-123-169.ap-northeast-1.compute.amazonaws.com)
+[09:17:18] *** Joins: Phils3r (~Phil@2a02:c205:3000:2328::1)
+[09:17:18] *** Joins: rctgamer3 (~rctgamer3@2a00:f10:121:a00:4ba:60ff:fe00:196c)
+[09:17:18] *** Joins: SCV__ (sid226262@id-226262.charlton.irccloud.com)
+[09:17:18] *** Joins: Summeli (summeli@irc.summeli.com)
+[09:17:18] *** Joins: zini (~zini@88-113-154-53.elisa-laajakaista.fi)
+[09:17:18] *** Joins: coriolis (~coriolis@ns398009.ip-192-95-24.net)
+[10:15:47] *** Quits: |Shadow| (~Shadow1@ip24-253-244-123.ok.ok.cox.net) (Read error: Operation timed out)
+[10:16:35] *** Joins: |Shadow| (~Shadow1@ip24-253-244-123.ok.ok.cox.net)
+[10:42:38] *** Quits: rjeli____ (sid289321@id-289321.charlton.irccloud.com) (Ping timeout: 1230 seconds)
+[10:42:52] *** Joins: rjeli____ (sid289321@id-289321.charlton.irccloud.com)
+[11:45:07] <plutobot> Wiki | Page changed: 11.0.1 | User: SciresM | https://switchbrew.org/w/index.php?curid=424&diff=10466&oldid=10462
+[12:23:33] *** Quits: rjeli____ (sid289321@id-289321.charlton.irccloud.com) (Ping timeout: 1230 seconds)
+[12:23:47] *** Joins: rjeli____ (sid289321@id-289321.charlton.irccloud.com)
+[13:32:16] *** Joins: Tcm0 (~Tcm0@p4fde7b99.dip0.t-ipconnect.de)
+[13:51:03] *** Quits: rjeli____ (sid289321@id-289321.charlton.irccloud.com) (Ping timeout: 1230 seconds)
+[13:51:16] *** Joins: rjeli____ (sid289321@id-289321.charlton.irccloud.com)
+[15:28:02] *** Joins: fgsfds (~figgis@93.123.144.171)
+[17:05:53] *** Quits: Summeli (summeli@irc.summeli.com) (Ping timeout: 745 seconds)
+[17:12:18] *** Quits: rjeli____ (sid289321@id-289321.charlton.irccloud.com) (Ping timeout: 1230 seconds)
+[17:12:31] *** Joins: rjeli____ (sid289321@id-289321.charlton.irccloud.com)
+[17:26:28] *** Quits: yls8bot (~yls8bot@mtheall.com) (Read error: Operation timed out)
+[17:28:39] *** Quits: Lightswor (~Lightswor@107.170.253.193) (Read error: Operation timed out)
+[17:29:57] *** Quits: Aaerox (Aaerox@fuckyou.k.thnx.org) (Read error: Operation timed out)
+[17:30:10] *** Quits: yellows8 (~yellows8@adiza.nexticom.net) (Read error: Operation timed out)
+[17:30:55] *** Quits: Kyouju (~Kyouju@ks3311808.kimsufi.com) (Read error: Operation timed out)
+[17:45:56] *** Joins: Aaerox (Aaerox@fuckyou.k.thnx.org)
+[17:46:11] *** Joins: Lightswor (~Lightswor@107.170.253.193)
+[17:46:19] *** Joins: Kyouju (~Kyouju@ks3311808.kimsufi.com)
+[17:46:30] *** Joins: yls8bot (~yls8bot@mtheall.com)
+[17:51:44] *** Joins: yellows8 (~yellows8@adiza.nexticom.net)
+[17:51:44] *** WntrMute sets mode: +o yellows8
+[18:26:47] *** Quits: Lightswor (~Lightswor@107.170.253.193) (Read error: Operation timed out)
+[18:28:07] *** Quits: yls8bot (~yls8bot@mtheall.com) (Read error: Operation timed out)
+[18:31:34] *** Quits: yellows8 (~yellows8@adiza.nexticom.net) (Read error: Operation timed out)
+[18:32:16] *** Quits: Aaerox (Aaerox@fuckyou.k.thnx.org) (Read error: Operation timed out)
+[18:32:38] *** Quits: Kyouju (~Kyouju@ks3311808.kimsufi.com) (Read error: Operation timed out)
+[19:12:36] *** Joins: yls8bot (~yls8bot@mtheall.com)
+[19:12:38] *** Joins: Lightswor (~Lightswor@107.170.253.193)
+[19:12:39] *** Joins: Aaerox (Aaerox@fuckyou.k.thnx.org)
+[19:13:01] <plutobot> Wiki | Page changed: HID services | User: yls8 | https://switchbrew.org/w/index.php?curid=103&diff=10467&oldid=10465
+[19:13:44] *** Joins: Kyouju (~Kyouju@ks3311808.kimsufi.com)
+[19:14:39] *** Joins: yellows8 (~yellows8@adiza.nexticom.net)
+[19:14:39] *** WntrMute sets mode: +o yellows8
+[19:14:43] <plutobot> Wiki | Page changed: HID services | User: yls8 | https://switchbrew.org/w/index.php?curid=103&diff=10468&oldid=10467
+[19:44:06] <plutobot> Wiki | Page changed: HID services | User: yls8 | https://switchbrew.org/w/index.php?curid=103&diff=10469&oldid=10468
+[19:48:01] <plutobot> Wiki | Page changed: 11.0.0 | User: yls8 | https://switchbrew.org/w/index.php?curid=422&diff=10470&oldid=10443
+[19:51:03] <plutobot> Wiki | Page changed: Switch System Flaws | User: yls8 | https://switchbrew.org/w/index.php?curid=14&diff=10471&oldid=9902
+[20:07:53] *** Quits: rjeli____ (sid289321@id-289321.charlton.irccloud.com) (Ping timeout: 1230 seconds)
+[20:08:06] *** Joins: rjeli____ (sid289321@id-289321.charlton.irccloud.com)
+[20:20:37] *** Joins: Tcm0_ (~Tcm0@p4fde7b99.dip0.t-ipconnect.de)
+[20:26:44] *** Quits: Tcm0 (~Tcm0@p4fde7b99.dip0.t-ipconnect.de) (Read error: Operation timed out)
+[20:33:50] *** Quits: m4ts_ (~mats@s17612523581.blix.com) (Ping timeout: 265 seconds)
+[20:48:29] *** Joins: m4ts (~mats@s176125235113.blix.com)
+[21:16:32] <DoozerBot> yellows8 pushed to master: hid: Fixed hidKeyboard{Held/Down/Up}. "hid: Fixed hidKeyboard{Held/Down/Up}." [071 file modified], building targets: 02lib
+[21:16:45] <plutobot> GitHub | New commit | User: yellows | https://github.com/switchbrew/libnx/commit/16fb73cc96
+[21:20:16] <DoozerBot> 02lib: 03 v3.3.0.178 Build OK - https://doozer.io/build/czup941rfo
+[21:42:11] <plutobot> GitHub | New commit | User: yellows | https://github.com/switchbrew/libnx/commit/c365c1ae68
+[21:42:19] <DoozerBot> yellows8 pushed to master: hid: Minor adjustments. "hid: Minor adjustments." [071 file modified], building targets: 02lib
+[21:46:12] <DoozerBot> 02lib: 03 v3.3.0.179 Build OK - https://doozer.io/build/025bhg4lvm
+[22:06:16] *** Quits: Tcm0_ (~Tcm0@p4fde7b99.dip0.t-ipconnect.de) (Leaving)
+[22:14:28] *** Quits: rjeli____ (sid289321@id-289321.charlton.irccloud.com) (Ping timeout: 1230 seconds)
+[22:14:41] *** Joins: rjeli____ (sid289321@id-289321.charlton.irccloud.com)
+[22:19:08] *** Quits: SCV__ (sid226262@id-226262.charlton.irccloud.com) (Ping timeout: 1230 seconds)
+[22:19:21] *** Joins: SCV__ (sid226262@id-226262.charlton.irccloud.com)
+[23:13:25] <plutobot> Wiki | Page changed: NS Services | User: yls8 | https://switchbrew.org/w/index.php?curid=89&diff=10472&oldid=10430
+[23:33:50] <plutobot> Wiki | Page changed: USB services | User: Behemoth | https://switchbrew.org/w/index.php?curid=195&diff=10473&oldid=10428
+[23:41:58] *** Quits: rjeli____ (sid289321@id-289321.charlton.irccloud.com) (Ping timeout: 1230 seconds)
+[23:42:12] *** Joins: rjeli____ (sid289321@id-289321.charlton.irccloud.com)
