@@ -1,0 +1,205 @@
+[00:57:58] *** Quits: rjeli____ (sid289321@id-289321.charlton.irccloud.com) (Ping timeout: 1230 seconds)
+[00:58:13] *** Joins: rjeli____ (sid289321@id-289321.charlton.irccloud.com)
+[01:18:23] *** Quits: SCV__ (sid226262@id-226262.charlton.irccloud.com) (Ping timeout: 1230 seconds)
+[01:18:36] *** Joins: SCV__ (sid226262@id-226262.charlton.irccloud.com)
+[01:22:27] *** Joins: refsw (~refsw@80.150.130.51)
+[01:22:27] *** Quits: rmaw (~rmaw@163.172.57.156) (Read error: Connection reset by peer)
+[01:23:31] *** Quits: TuxSH_ (tuxsh@de1.hashbang.sh) (Read error: Connection reset by peer)
+[01:24:35] *** Quits: balrog (~balrog@pool-98-115-168-15.phlapa.fios.verizon.net) (Read error: Connection reset by peer)
+[01:24:35] *** Joins: TuxSH (tuxsh@2a01:4f8:141:1272::2)
+[01:24:35] *** Joins: balrog (~balrog@98.115.168.15)
+[01:27:52] *** Quits: d3m3vilur (sid4654@charlton.irccloud.com) (Read error: Operation timed out)
+[01:27:56] *** Joins: d3m3vilur (sid4654@charlton.irccloud.com)
+[01:27:59] *** Joins: rmaw (~rmaw@163.172.57.156)
+[01:28:04] *** Quits: refsw3 (~refsw@80.150.130.51) (Read error: Operation timed out)
+[01:31:05] *** Quits: averne (~averne@176-179-35-51.abo.bbox.fr) (quit)
+[01:33:21] *** Joins: averne (~averne@176-179-35-51.abo.bbox.fr)
+[01:33:22] *** Server sets mode: +stn 
+[01:33:31] *** Quits: rmaw (~rmaw@163.172.57.156) (Read error: Operation timed out)
+[01:37:25] *** Joins: Snetry (~sentry@dslb-188-101-114-084.188.101.pools.vodafone-ip.de)
+[01:37:25] *** Quits: Sentry- (~sentry@dslb-188-101-114-084.188.101.pools.vodafone-ip.de) (Read error: Connection reset by peer)
+[01:37:31] *** Joins: d3m3vilur (sid4654@charlton.irccloud.com)
+[01:37:33] *** Joins: noirscape (~noirscape@catgirlsin.space)
+[01:37:47] *** Quits: blasty (~blasty@haxx.in) (Read error: Connection reset by peer)
+[01:42:27] *** Joins: blasty (~blasty@haxx.in)
+[01:47:33] *** Quits: blasty (~blasty@haxx.in) (Read error: Operation timed out)
+[01:48:12] *** Quits: lex1 (lex@yuuh.pw) (Read error: Operation timed out)
+[01:48:25] *** Quits: noirscape (~noirscape@catgirlsin.space) (Read error: Operation timed out)
+[01:48:52] *** Quits: Snetry (~sentry@dslb-188-101-114-084.188.101.pools.vodafone-ip.de) (Read error: Operation timed out)
+[01:52:12] *** Quits: phigcloud (~uid13896@id-13896.tooting.irccloud.com) (Ping timeout: 857 seconds)
+[01:54:46] *** Joins: blasty (~blasty@haxx.in)
+[01:54:52] *** Joins: noirscape (~noirscape@catgirlsin.space)
+[01:54:58] *** Joins: TuxSH_ (tuxsh@de1.hashbang.sh)
+[01:55:08] *** Joins: Snetry (~sentry@dslb-188-101-114-084.188.101.pools.vodafone-ip.de)
+[01:55:10] *** Quits: TuxSH (tuxsh@2a01:4f8:141:1272::2) (Read error: Connection reset by peer)
+[01:55:10] *** Joins: phigcloud (~uid13896@id-13896.tooting.irccloud.com)
+[01:57:07] *** Joins: rmaw (~rmaw@163.172.57.156)
+[01:57:29] *** Joins: lex1 (lex@yuuh.pw)
+[02:39:00] *** Quits: refs (~refs@p200300dd871083008148ce5dddde1837.dip0.t-ipconnect.de) (Quit: refs)
+[03:59:10] <plutobot> Wiki | Page changed: 11.0.0 | User: SciresM | https://switchbrew.org/w/index.php?curid=422&diff=10487&oldid=10470
+[03:59:20] <plutobot> Wiki | Page changed: 11.0.0 | User: SciresM | https://switchbrew.org/w/index.php?curid=422&diff=10488&oldid=10487
+[04:08:21] <plutobot> Wiki | Page changed: 11.0.0 | User: SciresM | https://switchbrew.org/w/index.php?curid=422&diff=10490&oldid=10489
+[04:08:21] <plutobot> Wiki | Page changed: 11.0.0 | User: SciresM | https://switchbrew.org/w/index.php?curid=422&diff=10489&oldid=10488
+[04:51:55] *** Quits: averne (~averne@176-179-35-51.abo.bbox.fr) (quit)
+[04:52:13] *** Joins: averne (~averne@2001:861:5102:3290:9952:d870:185e:c44c)
+[04:52:13] *** Server sets mode: +stn 
+[05:27:13] <DoozerBot> PR-#518: fs: Added fsCreateSaveDataFileSystem() and fsDeleteSaveDataFileSystem()., building targets: 02lib
+[05:27:14] <plutobot> GitHub | New PR: fs Added fsCr... | User: DarkMatterCore | https://github.com/switchbrew/libnx/pull/518
+[05:31:04] <DoozerBot> 02lib: 03 v3.3.0.182 Build OK - https://doozer.io/build/lkxmceb5pa
+[06:13:48] <DoozerBot> PR-#518: fs: Added fsCreateSaveDataFileSystem() and fsDeleteSaveDataFileSystem()., building targets: 02lib
+[06:17:31] <DoozerBot> 02lib: 03 v3.3.0.183 Build OK - https://doozer.io/build/xjh4ef0eal
+[06:19:22] <DoozerBot> PR-#518: fs: Added fsCreateSaveDataFileSystem() and fsDeleteSaveDataFileSystem()., building targets: 02lib
+[06:23:06] <DoozerBot> 02lib: 03 v3.3.0.184 Build OK - https://doozer.io/build/3jqdq2ej70
+[06:48:27] <DoozerBot> PR-#518: fs: Added fsCreateSaveDataFileSystem() and fsDeleteSaveDataFileSystem()., building targets: 02lib
+[06:52:17] <DoozerBot> 02lib: 03 v3.3.0.185 Build OK - https://doozer.io/build/flgazb7qdy
+[07:02:33] *** Quits: SCV__ (sid226262@id-226262.charlton.irccloud.com) (Ping timeout: 1230 seconds)
+[07:02:48] *** Joins: SCV__ (sid226262@id-226262.charlton.irccloud.com)
+[08:07:30] *** Joins: hordak_ (hordak@cautio.us)
+[08:08:31] *** Quits: hordak (hordak@cautio.us) (Ping timeout: 272 seconds)
+[08:08:31] *** Quits: CCFL_Man (6b5e85fcc5@c-73-64-119-64.hsd1.pa.comcast.net) (Ping timeout: 272 seconds)
+[08:08:31] *** Quits: DacoTaco (~DacoTaco@178-119-112-131.access.telenet.be) (Ping timeout: 272 seconds)
+[08:08:31] *** Quits: flagrama (flagrama@id-145621.stonehaven.irccloud.com) (Ping timeout: 272 seconds)
+[08:08:31] *** Quits: Pieman (sid188464@id-188464.brockwell.irccloud.com) (Ping timeout: 272 seconds)
+[08:08:31] *** hordak_ is now known as hordak
+[08:09:09] *** Quits: Mimoja (~Mimoja@mail.mimoja.de) (Ping timeout: 272 seconds)
+[08:09:09] *** Quits: des^ (~des@ip1f107a96.dynamic.kabel-deutschland.de) (Ping timeout: 272 seconds)
+[08:09:09] *** Quits: eggy (~eggster@irchighway.eggy.cc) (Ping timeout: 272 seconds)
+[08:09:09] *** Quits: plutobot (~plutobot@188.166.26.149) (Ping timeout: 272 seconds)
+[08:09:57] *** Joins: CCFL_Man (c84b746205@c-73-64-119-64.hsd1.pa.comcast.net)
+[08:10:21] *** Joins: eggster (~eggster@irchighway.eggy.cc)
+[08:11:41] *** Quits: nohit (~sid334887@id-334887.hathersage.irccloud.com) (Ping timeout: 272 seconds)
+[08:31:15] *** Quits: fgsfds (~figgis@93.123.144.171) (Read error: Connection reset by peer)
+[08:33:43] *** Quits: TAL (~TAL@defiant.tlercher.de) (Ping timeout: 265 seconds)
+[08:34:36] *** Joins: TAL (~TAL@195.201.137.97)
+[08:39:21] *** Quits: TAL (~TAL@195.201.137.97) (se.hub irc.underworld.no)
+[08:39:21] *** Quits: m4ts_ (~mats@s176125235104.blix.com) (se.hub irc.underworld.no)
+[08:39:21] *** Quits: Ghabry (~ghabry@46.38.234.66) (se.hub irc.underworld.no)
+[08:39:21] *** Quits: Stary (~Stary@thonk.9net.org) (se.hub irc.underworld.no)
+[08:39:21] *** Quits: lemmy (lemmy@2600:3c00:e000:2e:0:dead:beef:6) (se.hub irc.underworld.no)
+[08:39:21] *** Quits: mafcadio2 (~mafcadio@cpc158505-smal20-2-0-cust226.19-1.cable.virginm.net) (se.hub irc.underworld.no)
+[08:39:21] *** Quits: mtheall (~mtheall@mtheall.com) (se.hub irc.underworld.no)
+[08:41:28] *** Joins: TAL (~TAL@195.201.137.97)
+[08:41:28] *** Joins: m4ts_ (~mats@s176125235104.blix.com)
+[08:41:28] *** Joins: Ghabry (~ghabry@46.38.234.66)
+[08:41:28] *** Joins: Stary (~Stary@thonk.9net.org)
+[08:41:28] *** Joins: lemmy (lemmy@2600:3c00:e000:2e:0:dead:beef:6)
+[08:41:28] *** Joins: mafcadio2 (~mafcadio@cpc158505-smal20-2-0-cust226.19-1.cable.virginm.net)
+[08:41:28] *** Joins: mtheall (~mtheall@mtheall.com)
+[08:58:03] *** Quits: rjeli____ (sid289321@id-289321.charlton.irccloud.com) (Ping timeout: 1230 seconds)
+[08:58:16] *** Joins: rjeli____ (sid289321@id-289321.charlton.irccloud.com)
+[09:11:20] <DoozerBot> PR-#518: fs: Added fsCreateSaveDataFileSystem() and fsDeleteSaveDataFileSystem()., building targets: 02lib
+[09:12:12] *** Joins: plutobot (~plutobot@188.166.26.149)
+[09:12:20] *** Joins: DacoTaco (~DacoTaco@178-119-112-131.access.telenet.be)
+[09:13:04] *** Joins: flagrama (flagrama@stonehaven.irccloud.com)
+[09:13:29] *** Joins: Pieman (sid188464@brockwell.irccloud.com)
+[09:16:11] *** Joins: des^ (~des@ip1f107a96.dynamic.kabel-deutschland.de)
+[09:16:13] *** Joins: Mimoja (~Mimoja@mail.mimoja.de)
+[09:17:21] <DoozerBot> 02lib: 03 v3.3.0.186 Build OK - https://doozer.io/build/diarg1exxh
+[09:18:13] *** Joins: nohit (sid334887@hathersage.irccloud.com)
+[10:24:42] *** Quits: ihaveamac (~ihaveamac@138.68.232.110) (Quit: fail)
+[10:25:45] *** Joins: ihaveamac (~ihaveamac@138.68.232.110)
+[11:14:33] *** Quits: hexkyz (~hexkyz@ec2-18-179-123-169.ap-northeast-1.compute.amazonaws.com) (Ping timeout: 745 seconds)
+[11:17:24] *** Joins: hexkyz (~hexkyz@ec2-18-179-123-169.ap-northeast-1.compute.amazonaws.com)
+[11:27:23] *** Quits: SCV__ (sid226262@id-226262.charlton.irccloud.com) (Ping timeout: 1230 seconds)
+[11:27:37] *** Joins: SCV__ (sid226262@id-226262.charlton.irccloud.com)
+[11:30:18] *** Quits: hexkyz (~hexkyz@ec2-18-179-123-169.ap-northeast-1.compute.amazonaws.com) (Ping timeout: 745 seconds)
+[11:31:07] *** Joins: hexkyz (~hexkyz@ec2-18-179-123-169.ap-northeast-1.compute.amazonaws.com)
+[11:43:43] *** Quits: hexkyz (~hexkyz@ec2-18-179-123-169.ap-northeast-1.compute.amazonaws.com) (Ping timeout: 745 seconds)
+[11:45:03] *** Joins: hexkyz (~hexkyz@ec2-18-179-123-169.ap-northeast-1.compute.amazonaws.com)
+[11:57:43] *** Quits: hexkyz (~hexkyz@ec2-18-179-123-169.ap-northeast-1.compute.amazonaws.com) (Ping timeout: 745 seconds)
+[11:59:04] *** Joins: hexkyz (~hexkyz@ec2-18-179-123-169.ap-northeast-1.compute.amazonaws.com)
+[12:11:43] *** Quits: hexkyz (~hexkyz@ec2-18-179-123-169.ap-northeast-1.compute.amazonaws.com) (Ping timeout: 745 seconds)
+[12:11:58] *** Joins: hexkyz (~hexkyz@ec2-18-179-123-169.ap-northeast-1.compute.amazonaws.com)
+[12:12:53] *** Quits: SCV__ (sid226262@id-226262.charlton.irccloud.com) (Ping timeout: 1230 seconds)
+[12:13:07] *** Joins: SCV__ (sid226262@id-226262.charlton.irccloud.com)
+[12:24:33] *** Quits: hexkyz (~hexkyz@ec2-18-179-123-169.ap-northeast-1.compute.amazonaws.com) (Ping timeout: 745 seconds)
+[12:24:53] *** Joins: hexkyz (~hexkyz@ec2-18-179-123-169.ap-northeast-1.compute.amazonaws.com)
+[12:25:00] *** Quits: DacoTaco (~DacoTaco@178-119-112-131.access.telenet.be) (Ping timeout: 272 seconds)
+[12:32:40] *** Quits: lameboy (~lameboy@202-47-121-182.cust.dcsi.net.au) (Quit: bbl)
+[12:37:58] *** Quits: hexkyz (~hexkyz@ec2-18-179-123-169.ap-northeast-1.compute.amazonaws.com) (Ping timeout: 745 seconds)
+[12:38:18] *** Joins: DacoTaco (~DacoTaco@178-119-112-131.access.telenet.be)
+[12:41:49] *** Joins: hexkyz (~hexkyz@ec2-18-179-123-169.ap-northeast-1.compute.amazonaws.com)
+[12:45:54] *** Quits: DacoTaco (~DacoTaco@178-119-112-131.access.telenet.be) (Ping timeout: 272 seconds)
+[12:46:40] *** Joins: DacoTaco (~DacoTaco@178-119-112-131.access.telenet.be)
+[12:52:13] *** Quits: Ghabry (~ghabry@46.38.234.66) (Ping timeout: 265 seconds)
+[12:57:51] *** Joins: Ghabry (~ghabry@datengurke.mastergk.de)
+[13:00:23] *** Joins: mafcadio3 (~mafcadio@cpc158505-smal20-2-0-cust226.19-1.cable.virginm.net)
+[13:03:31] *** Quits: TAL (~TAL@195.201.137.97) (se.hub irc.underworld.no)
+[13:03:31] *** Quits: m4ts_ (~mats@s176125235104.blix.com) (se.hub irc.underworld.no)
+[13:03:32] *** Quits: Stary (~Stary@thonk.9net.org) (se.hub irc.underworld.no)
+[13:03:32] *** Quits: lemmy (lemmy@2600:3c00:e000:2e:0:dead:beef:6) (se.hub irc.underworld.no)
+[13:03:32] *** Quits: mafcadio2 (~mafcadio@cpc158505-smal20-2-0-cust226.19-1.cable.virginm.net) (se.hub irc.underworld.no)
+[13:03:32] *** Quits: mtheall (~mtheall@mtheall.com) (se.hub irc.underworld.no)
+[13:06:23] *** Joins: mtheall_ (~mtheall@mtheall.com)
+[13:13:33] *** Joins: TAL_ (~TAL@defiant.tlercher.de)
+[13:13:36] *** Quits: TAL_ (~TAL@defiant.tlercher.de) (Handshake flooding)
+[13:13:42] *** Joins: TAL_ (~TAL@defiant.tlercher.de)
+[13:28:30] *** Joins: lameboy (~lameboy@202-47-121-182.cust.dcsi.net.au)
+[13:35:19] *** Quits: lameboy (~lameboy@202-47-121-182.cust.dcsi.net.au) (Quit: brb)
+[13:38:28] *** Joins: lemmu (lemmy@2600:3c00:e000:2e:0:dead:beef:6)
+[13:48:05] *** Joins: Stary (~Stary@thonk.9net.org)
+[13:48:15] *** Joins: m4ts_ (~mats@176.125.235.104)
+[13:52:38] *** Quits: rjeli____ (sid289321@id-289321.charlton.irccloud.com) (Ping timeout: 1230 seconds)
+[13:52:51] *** Joins: rjeli____ (sid289321@id-289321.charlton.irccloud.com)
+[14:09:33] *** Quits: SCV__ (sid226262@id-226262.charlton.irccloud.com) (Ping timeout: 1230 seconds)
+[14:09:46] *** Joins: SCV__ (sid226262@id-226262.charlton.irccloud.com)
+[14:42:08] *** Joins: lameboy (~lameboy@202-47-121-182.cust.dcsi.net.au)
+[14:56:13] *** Quits: rjeli____ (sid289321@id-289321.charlton.irccloud.com) (Ping timeout: 1230 seconds)
+[14:56:26] *** Joins: rjeli____ (sid289321@id-289321.charlton.irccloud.com)
+[15:42:02] *** Quits: m4ts_ (~mats@176.125.235.104) (se.hub irc.underworld.no)
+[15:42:02] *** Quits: Stary (~Stary@thonk.9net.org) (se.hub irc.underworld.no)
+[15:47:02] *** Joins: m4ts_ (~mats@176.125.235.104)
+[15:47:02] *** Joins: Stary (~Stary@thonk.9net.org)
+[15:56:25] *** Joins: fgsfds (~figgis@93.123.144.171)
+[16:01:07] *** Quits: m4ts_ (~mats@176.125.235.104) (se.hub irc.underworld.no)
+[16:01:08] *** Quits: Stary (~Stary@thonk.9net.org) (se.hub irc.underworld.no)
+[16:09:29] *** Joins: Stary_ (~Stary@thonk.9net.org)
+[16:18:42] *** Quits: foghorn2 (~meh@107-198-163-1.lightspeed.rcsntx.sbcglobal.net) (Read error: Connection reset by peer)
+[17:01:42] *** Joins: foghorn (~meh@2600:1700:8af0:a950:41f5:1767:b6ad:3faf)
+[17:15:06] <DoozerBot> yellows8 pushed to master: apm/applet: Updated names/docs. "apm/applet: Updated names/docs." [0713 files modified], building targets: 02lib
+[17:18:55] <DoozerBot> 02lib: 03 v3.3.0.182 Build OK - https://doozer.io/build/nc4818z7ty
+[17:19:02] <plutobot> GitHub | New commit | User: yellows | https://github.com/switchbrew/libnx/commit/ccec5bd36c
+[17:44:46] <plutobot> GitHub | New commit | User: Pablo Curiel | https://github.com/switchbrew/libnx/commit/8f2245ed6f
+[17:44:46] <plutobot> GitHub | New commit | User: Pablo Curiel | https://github.com/switchbrew/libnx/commit/f5472edd7f
+[17:44:46] <plutobot> GitHub | New commit | User: Pablo Curiel | https://github.com/switchbrew/libnx/commit/be781c68e3
+[17:44:46] <plutobot> GitHub | New commit | User: Pablo Curiel | https://github.com/switchbrew/libnx/commit/203a78e31e
+[17:44:46] <plutobot> GitHub | New commit | User: Pablo Curiel | https://github.com/switchbrew/libnx/commit/c2843e5c29
+[17:44:52] <DoozerBot> fincs pushed to master: fs: Added fsDeleteSaveDataFileSystemBySaveDataAttribute(). "fs: Added fsCreateSaveDataFileSystem() and fsDeleteSaveDataFileSystem()." [072 files modified]
+[17:44:53] <DoozerBot> fincs pushed to master: fs: Added fsDeleteSaveDataFileSystemBySaveDataAttribute(). "Replace tabs with spaces." [071 file modified]
+[17:44:54] <DoozerBot> fincs pushed to master: fs: Added fsDeleteSaveDataFileSystemBySaveDataAttribute(). "Pass application_id directly in fsDeleteSaveDataFileSystem()." [071 file modified]
+[17:44:55] <DoozerBot> fincs pushed to master: fs: Added fsDeleteSaveDataFileSystemBySaveDataAttribute(). "FsSaveDataMeta: proper naming convention + FsSaveDataMetaType enum." [072 files modified]
+[17:44:56] <DoozerBot> fincs pushed to master: fs: Added fsDeleteSaveDataFileSystemBySaveDataAttribute(). "fs: Added fsDeleteSaveDataFileSystemBySaveDataAttribute()." [072 files modified], building targets: 02lib
+[17:48:42] <plutobot> GitHub | New commit | User: Pablo Curiel | https://github.com/switchbrew/libnx/commit/41fc8bb17c
+[17:48:45] <DoozerBot> fincs pushed to master: fs: Added fsCreateSaveDataFileSystem(), fsDeleteSaveDataFileSystem() and fsDeleteSaveDataFileSystemBySaveDataAttribute(). #518 "fs: Added fsCreateSaveDataFileSystem(), fsDeleteSaveDataFileSystem() and fsDeleteSaveDataFileSystemBySaveDataAttribute(). #518" [072 files modified], building targets: 02lib
+[17:48:46] <DoozerBot> 02lib: 08 v3.3.0.187 Cancelled - https://doozer.io/build/ciqk190eh9
+[17:52:06] <DoozerBot> 02lib: 03 v3.3.0.183 Build OK - https://doozer.io/build/sg5z7r9ml6
+[18:08:43] *** Quits: rjeli____ (sid289321@id-289321.charlton.irccloud.com) (Ping timeout: 1230 seconds)
+[18:08:59] *** Joins: rjeli____ (sid289321@id-289321.charlton.irccloud.com)
+[18:27:15] *** Joins: m4ts_ (~mats@176.125.235.82)
+[18:41:23] *** Quits: SCV__ (sid226262@id-226262.charlton.irccloud.com) (Ping timeout: 1230 seconds)
+[18:41:37] *** Joins: SCV__ (sid226262@id-226262.charlton.irccloud.com)
+[20:04:32] <plutobot> Wiki | Page changed: Internet Browser | User: yls8 | https://switchbrew.org/w/index.php?curid=12&diff=10491&oldid=10392
+[20:17:29] <plutobot> Wiki | Page changed: Internet Browser | User: yls8 | https://switchbrew.org/w/index.php?curid=12&diff=10492&oldid=10491
+[20:28:11] <plutobot> Wiki | Page changed: NCM services | User: yls8 | https://switchbrew.org/w/index.php?curid=122&diff=10493&oldid=9172
+[20:32:48] *** Quits: rjeli____ (sid289321@id-289321.charlton.irccloud.com) (Ping timeout: 1230 seconds)
+[20:33:05] *** Joins: rjeli____ (sid289321@id-289321.charlton.irccloud.com)
+[20:57:12] *** Quits: lex1 (lex@yuuh.pw) (Read error: Operation timed out)
+[20:57:15] *** Quits: noirscape (~noirscape@catgirlsin.space) (Write error: Broken pipe)
+[20:57:36] *** Joins: lex1 (lex@yuuh.pw)
+[20:59:47] *** Quits: d3m3vilur (sid4654@charlton.irccloud.com) (Read error: Operation timed out)
+[21:01:58] *** Quits: blasty (~blasty@haxx.in) (Read error: Connection reset by peer)
+[21:07:21] *** Joins: TuxSH (tuxsh@de1.hashbang.sh)
+[21:07:21] *** fincs sets mode: +o TuxSH
+[21:07:22] *** Quits: TuxSH_ (tuxsh@de1.hashbang.sh) (Read error: Connection reset by peer)
+[21:07:28] *** Joins: d3m3vilur (sid4654@charlton.irccloud.com)
+[21:07:34] *** Quits: phigcloud (~uid13896@id-13896.tooting.irccloud.com) (Ping timeout: 857 seconds)
+[21:09:06] *** Quits: rmaw (~rmaw@163.172.57.156) (Ping timeout: 857 seconds)
+[21:11:21] *** Joins: refs (~refs@p200300dd8717cd006d1783a3231410cf.dip0.t-ipconnect.de)
+[21:16:12] *** Joins: phigcloud (uid13896@id-13896.tooting.irccloud.com)
+[21:16:28] *** Joins: rmaw (~rmaw@163.172.57.156)
+[21:17:07] *** Joins: noirscape (~noirscape@catgirlsin.space)
+[21:21:20] *** Joins: blasty (~blasty@haxx.in)
+[21:26:26] <plutobot> GitHub | New commit | User: Dave Murphy | https://github.com/switchbrew/switch-tools/commit/f85a558fc4
+[21:40:28] *** Quits: SCV__ (sid226262@id-226262.charlton.irccloud.com) (Ping timeout: 1230 seconds)
+[21:40:42] *** Joins: SCV__ (sid226262@id-226262.charlton.irccloud.com)
+[23:53:39] <plutobot> Wiki | Page changed: Internet Browser | User: yls8 | https://switchbrew.org/w/index.php?curid=12&diff=10494&oldid=10492
