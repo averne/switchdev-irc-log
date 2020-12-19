@@ -1,0 +1,205 @@
+[00:57:58] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[00:58:13] *** Joins rjeli____
+[01:18:23] *** Quits SCV__ (Ping timeout: 1230 seconds)
+[01:18:36] *** Joins SCV__
+[01:22:27] *** Joins refsw
+[01:22:27] *** Quits rmaw (Read error: Connection reset by peer)
+[01:23:31] *** Quits TuxSH_ (Read error: Connection reset by peer)
+[01:24:35] *** Quits balrog (Read error: Connection reset by peer)
+[01:24:35] *** Joins TuxSH
+[01:24:35] *** Joins balrog
+[01:27:52] *** Quits d3m3vilur (Read error: Operation timed out)
+[01:27:56] *** Joins d3m3vilur
+[01:27:59] *** Joins rmaw
+[01:28:04] *** Quits refsw3 (Read error: Operation timed out)
+[01:31:05] *** Quits averne (quit)
+[01:33:21] *** Joins averne
+[01:33:22] *** Server sets mode: +stn 
+[01:33:31] *** Quits rmaw (Read error: Operation timed out)
+[01:37:25] *** Joins Snetry
+[01:37:25] *** Quits Sentry- (Read error: Connection reset by peer)
+[01:37:31] *** Joins d3m3vilur
+[01:37:33] *** Joins noirscape
+[01:37:47] *** Quits blasty (Read error: Connection reset by peer)
+[01:42:27] *** Joins blasty
+[01:47:33] *** Quits blasty (Read error: Operation timed out)
+[01:48:12] *** Quits lex1 (Read error: Operation timed out)
+[01:48:25] *** Quits noirscape (Read error: Operation timed out)
+[01:48:52] *** Quits Snetry (Read error: Operation timed out)
+[01:52:12] *** Quits phigcloud (Ping timeout: 857 seconds)
+[01:54:46] *** Joins blasty
+[01:54:52] *** Joins noirscape
+[01:54:58] *** Joins TuxSH_
+[01:55:08] *** Joins Snetry
+[01:55:10] *** Quits TuxSH (Read error: Connection reset by peer)
+[01:55:10] *** Joins phigcloud
+[01:57:07] *** Joins rmaw
+[01:57:29] *** Joins lex1
+[02:39:00] *** Quits refs (Quit: refs)
+[03:59:10] <plutobot> Wiki | Page changed: 11.0.0 | User: SciresM | https://switchbrew.org/w/index.php?curid=422&diff=10487&oldid=10470
+[03:59:20] <plutobot> Wiki | Page changed: 11.0.0 | User: SciresM | https://switchbrew.org/w/index.php?curid=422&diff=10488&oldid=10487
+[04:08:21] <plutobot> Wiki | Page changed: 11.0.0 | User: SciresM | https://switchbrew.org/w/index.php?curid=422&diff=10490&oldid=10489
+[04:08:21] <plutobot> Wiki | Page changed: 11.0.0 | User: SciresM | https://switchbrew.org/w/index.php?curid=422&diff=10489&oldid=10488
+[04:51:55] *** Quits averne (quit)
+[04:52:13] *** Joins averne
+[04:52:13] *** Server sets mode: +stn 
+[05:27:13] <DoozerBot> PR-#518: fs: Added fsCreateSaveDataFileSystem() and fsDeleteSaveDataFileSystem()., building targets: 02lib
+[05:27:14] <plutobot> GitHub | New PR: fs Added fsCr... | User: DarkMatterCore | https://github.com/switchbrew/libnx/pull/518
+[05:31:04] <DoozerBot> 02lib: 03 v3.3.0.182 Build OK - https://doozer.io/build/lkxmceb5pa
+[06:13:48] <DoozerBot> PR-#518: fs: Added fsCreateSaveDataFileSystem() and fsDeleteSaveDataFileSystem()., building targets: 02lib
+[06:17:31] <DoozerBot> 02lib: 03 v3.3.0.183 Build OK - https://doozer.io/build/xjh4ef0eal
+[06:19:22] <DoozerBot> PR-#518: fs: Added fsCreateSaveDataFileSystem() and fsDeleteSaveDataFileSystem()., building targets: 02lib
+[06:23:06] <DoozerBot> 02lib: 03 v3.3.0.184 Build OK - https://doozer.io/build/3jqdq2ej70
+[06:48:27] <DoozerBot> PR-#518: fs: Added fsCreateSaveDataFileSystem() and fsDeleteSaveDataFileSystem()., building targets: 02lib
+[06:52:17] <DoozerBot> 02lib: 03 v3.3.0.185 Build OK - https://doozer.io/build/flgazb7qdy
+[07:02:33] *** Quits SCV__ (Ping timeout: 1230 seconds)
+[07:02:48] *** Joins SCV__
+[08:07:30] *** Joins hordak_
+[08:08:31] *** Quits hordak (Ping timeout: 272 seconds)
+[08:08:31] *** Quits CCFL_Man (Ping timeout: 272 seconds)
+[08:08:31] *** Quits DacoTaco (Ping timeout: 272 seconds)
+[08:08:31] *** Quits flagrama (Ping timeout: 272 seconds)
+[08:08:31] *** Quits Pieman (Ping timeout: 272 seconds)
+[08:08:31] *** hordak_ is now known as hordak
+[08:09:09] *** Quits Mimoja (Ping timeout: 272 seconds)
+[08:09:09] *** Quits des^ (Ping timeout: 272 seconds)
+[08:09:09] *** Quits eggy (Ping timeout: 272 seconds)
+[08:09:09] *** Quits plutobot (Ping timeout: 272 seconds)
+[08:09:57] *** Joins CCFL_Man
+[08:10:21] *** Joins eggster
+[08:11:41] *** Quits nohit (Ping timeout: 272 seconds)
+[08:31:15] *** Quits fgsfds (Read error: Connection reset by peer)
+[08:33:43] *** Quits TAL (Ping timeout: 265 seconds)
+[08:34:36] *** Joins TAL
+[08:39:21] *** Quits TAL (se.hub irc.underworld.no)
+[08:39:21] *** Quits m4ts_ (se.hub irc.underworld.no)
+[08:39:21] *** Quits Ghabry (se.hub irc.underworld.no)
+[08:39:21] *** Quits Stary (se.hub irc.underworld.no)
+[08:39:21] *** Quits lemmy (se.hub irc.underworld.no)
+[08:39:21] *** Quits mafcadio2 (se.hub irc.underworld.no)
+[08:39:21] *** Quits mtheall (se.hub irc.underworld.no)
+[08:41:28] *** Joins TAL
+[08:41:28] *** Joins m4ts_
+[08:41:28] *** Joins Ghabry
+[08:41:28] *** Joins Stary
+[08:41:28] *** Joins lemmy
+[08:41:28] *** Joins mafcadio2
+[08:41:28] *** Joins mtheall
+[08:58:03] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[08:58:16] *** Joins rjeli____
+[09:11:20] <DoozerBot> PR-#518: fs: Added fsCreateSaveDataFileSystem() and fsDeleteSaveDataFileSystem()., building targets: 02lib
+[09:12:12] *** Joins plutobot
+[09:12:20] *** Joins DacoTaco
+[09:13:04] *** Joins flagrama
+[09:13:29] *** Joins Pieman
+[09:16:11] *** Joins des^
+[09:16:13] *** Joins Mimoja
+[09:17:21] <DoozerBot> 02lib: 03 v3.3.0.186 Build OK - https://doozer.io/build/diarg1exxh
+[09:18:13] *** Joins nohit
+[10:24:42] *** Quits ihaveamac (Quit: fail)
+[10:25:45] *** Joins ihaveamac
+[11:14:33] *** Quits hexkyz (Ping timeout: 745 seconds)
+[11:17:24] *** Joins hexkyz
+[11:27:23] *** Quits SCV__ (Ping timeout: 1230 seconds)
+[11:27:37] *** Joins SCV__
+[11:30:18] *** Quits hexkyz (Ping timeout: 745 seconds)
+[11:31:07] *** Joins hexkyz
+[11:43:43] *** Quits hexkyz (Ping timeout: 745 seconds)
+[11:45:03] *** Joins hexkyz
+[11:57:43] *** Quits hexkyz (Ping timeout: 745 seconds)
+[11:59:04] *** Joins hexkyz
+[12:11:43] *** Quits hexkyz (Ping timeout: 745 seconds)
+[12:11:58] *** Joins hexkyz
+[12:12:53] *** Quits SCV__ (Ping timeout: 1230 seconds)
+[12:13:07] *** Joins SCV__
+[12:24:33] *** Quits hexkyz (Ping timeout: 745 seconds)
+[12:24:53] *** Joins hexkyz
+[12:25:00] *** Quits DacoTaco (Ping timeout: 272 seconds)
+[12:32:40] *** Quits lameboy (Quit: bbl)
+[12:37:58] *** Quits hexkyz (Ping timeout: 745 seconds)
+[12:38:18] *** Joins DacoTaco
+[12:41:49] *** Joins hexkyz
+[12:45:54] *** Quits DacoTaco (Ping timeout: 272 seconds)
+[12:46:40] *** Joins DacoTaco
+[12:52:13] *** Quits Ghabry (Ping timeout: 265 seconds)
+[12:57:51] *** Joins Ghabry
+[13:00:23] *** Joins mafcadio3
+[13:03:31] *** Quits TAL (se.hub irc.underworld.no)
+[13:03:31] *** Quits m4ts_ (se.hub irc.underworld.no)
+[13:03:32] *** Quits Stary (se.hub irc.underworld.no)
+[13:03:32] *** Quits lemmy (se.hub irc.underworld.no)
+[13:03:32] *** Quits mafcadio2 (se.hub irc.underworld.no)
+[13:03:32] *** Quits mtheall (se.hub irc.underworld.no)
+[13:06:23] *** Joins mtheall_
+[13:13:33] *** Joins TAL_
+[13:13:36] *** Quits TAL_ (Handshake flooding)
+[13:13:42] *** Joins TAL_
+[13:28:30] *** Joins lameboy
+[13:35:19] *** Quits lameboy (Quit: brb)
+[13:38:28] *** Joins lemmu
+[13:48:05] *** Joins Stary
+[13:48:15] *** Joins m4ts_
+[13:52:38] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[13:52:51] *** Joins rjeli____
+[14:09:33] *** Quits SCV__ (Ping timeout: 1230 seconds)
+[14:09:46] *** Joins SCV__
+[14:42:08] *** Joins lameboy
+[14:56:13] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[14:56:26] *** Joins rjeli____
+[15:42:02] *** Quits m4ts_ (se.hub irc.underworld.no)
+[15:42:02] *** Quits Stary (se.hub irc.underworld.no)
+[15:47:02] *** Joins m4ts_
+[15:47:02] *** Joins Stary
+[15:56:25] *** Joins fgsfds
+[16:01:07] *** Quits m4ts_ (se.hub irc.underworld.no)
+[16:01:08] *** Quits Stary (se.hub irc.underworld.no)
+[16:09:29] *** Joins Stary_
+[16:18:42] *** Quits foghorn2 (Read error: Connection reset by peer)
+[17:01:42] *** Joins foghorn
+[17:15:06] <DoozerBot> yellows8 pushed to master: apm/applet: Updated names/docs. "apm/applet: Updated names/docs." [0713 files modified], building targets: 02lib
+[17:18:55] <DoozerBot> 02lib: 03 v3.3.0.182 Build OK - https://doozer.io/build/nc4818z7ty
+[17:19:02] <plutobot> GitHub | New commit | User: yellows | https://github.com/switchbrew/libnx/commit/ccec5bd36c
+[17:44:46] <plutobot> GitHub | New commit | User: Pablo Curiel | https://github.com/switchbrew/libnx/commit/8f2245ed6f
+[17:44:46] <plutobot> GitHub | New commit | User: Pablo Curiel | https://github.com/switchbrew/libnx/commit/f5472edd7f
+[17:44:46] <plutobot> GitHub | New commit | User: Pablo Curiel | https://github.com/switchbrew/libnx/commit/be781c68e3
+[17:44:46] <plutobot> GitHub | New commit | User: Pablo Curiel | https://github.com/switchbrew/libnx/commit/203a78e31e
+[17:44:46] <plutobot> GitHub | New commit | User: Pablo Curiel | https://github.com/switchbrew/libnx/commit/c2843e5c29
+[17:44:52] <DoozerBot> fincs pushed to master: fs: Added fsDeleteSaveDataFileSystemBySaveDataAttribute(). "fs: Added fsCreateSaveDataFileSystem() and fsDeleteSaveDataFileSystem()." [072 files modified]
+[17:44:53] <DoozerBot> fincs pushed to master: fs: Added fsDeleteSaveDataFileSystemBySaveDataAttribute(). "Replace tabs with spaces." [071 file modified]
+[17:44:54] <DoozerBot> fincs pushed to master: fs: Added fsDeleteSaveDataFileSystemBySaveDataAttribute(). "Pass application_id directly in fsDeleteSaveDataFileSystem()." [071 file modified]
+[17:44:55] <DoozerBot> fincs pushed to master: fs: Added fsDeleteSaveDataFileSystemBySaveDataAttribute(). "FsSaveDataMeta: proper naming convention + FsSaveDataMetaType enum." [072 files modified]
+[17:44:56] <DoozerBot> fincs pushed to master: fs: Added fsDeleteSaveDataFileSystemBySaveDataAttribute(). "fs: Added fsDeleteSaveDataFileSystemBySaveDataAttribute()." [072 files modified], building targets: 02lib
+[17:48:42] <plutobot> GitHub | New commit | User: Pablo Curiel | https://github.com/switchbrew/libnx/commit/41fc8bb17c
+[17:48:45] <DoozerBot> fincs pushed to master: fs: Added fsCreateSaveDataFileSystem(), fsDeleteSaveDataFileSystem() and fsDeleteSaveDataFileSystemBySaveDataAttribute(). #518 "fs: Added fsCreateSaveDataFileSystem(), fsDeleteSaveDataFileSystem() and fsDeleteSaveDataFileSystemBySaveDataAttribute(). #518" [072 files modified], building targets: 02lib
+[17:48:46] <DoozerBot> 02lib: 08 v3.3.0.187 Cancelled - https://doozer.io/build/ciqk190eh9
+[17:52:06] <DoozerBot> 02lib: 03 v3.3.0.183 Build OK - https://doozer.io/build/sg5z7r9ml6
+[18:08:43] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[18:08:59] *** Joins rjeli____
+[18:27:15] *** Joins m4ts_
+[18:41:23] *** Quits SCV__ (Ping timeout: 1230 seconds)
+[18:41:37] *** Joins SCV__
+[20:04:32] <plutobot> Wiki | Page changed: Internet Browser | User: yls8 | https://switchbrew.org/w/index.php?curid=12&diff=10491&oldid=10392
+[20:17:29] <plutobot> Wiki | Page changed: Internet Browser | User: yls8 | https://switchbrew.org/w/index.php?curid=12&diff=10492&oldid=10491
+[20:28:11] <plutobot> Wiki | Page changed: NCM services | User: yls8 | https://switchbrew.org/w/index.php?curid=122&diff=10493&oldid=9172
+[20:32:48] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[20:33:05] *** Joins rjeli____
+[20:57:12] *** Quits lex1 (Read error: Operation timed out)
+[20:57:15] *** Quits noirscape (Write error: Broken pipe)
+[20:57:36] *** Joins lex1
+[20:59:47] *** Quits d3m3vilur (Read error: Operation timed out)
+[21:01:58] *** Quits blasty (Read error: Connection reset by peer)
+[21:07:21] *** Joins TuxSH
+[21:07:21] *** fincs sets mode: +o TuxSH
+[21:07:22] *** Quits TuxSH_ (Read error: Connection reset by peer)
+[21:07:28] *** Joins d3m3vilur
+[21:07:34] *** Quits phigcloud (Ping timeout: 857 seconds)
+[21:09:06] *** Quits rmaw (Ping timeout: 857 seconds)
+[21:11:21] *** Joins refs
+[21:16:12] *** Joins phigcloud
+[21:16:28] *** Joins rmaw
+[21:17:07] *** Joins noirscape
+[21:21:20] *** Joins blasty
+[21:26:26] <plutobot> GitHub | New commit | User: Dave Murphy | https://github.com/switchbrew/switch-tools/commit/f85a558fc4
+[21:40:28] *** Quits SCV__ (Ping timeout: 1230 seconds)
+[21:40:42] *** Joins SCV__
+[23:53:39] <plutobot> Wiki | Page changed: Internet Browser | User: yls8 | https://switchbrew.org/w/index.php?curid=12&diff=10494&oldid=10492

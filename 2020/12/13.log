@@ -1,0 +1,85 @@
+[00:36:33] *** Quits changO- (Ping timeout: 272 seconds)
+[00:37:49] *** Joins changO-
+[01:09:20] <plutobot> Wiki | Page changed: Applet Manager services | User: yls8 | https://switchbrew.org/w/index.php?curid=132&diff=10475&oldid=10372
+[01:31:02] *** Quits Lightswor (Read error: Operation timed out)
+[01:31:35] *** Joins changoXPR
+[01:32:03] *** Quits changO- (Read error: Operation timed out)
+[01:32:04] *** changoXPR is now known as changO-
+[01:32:21] *** Quits yls8bot (Read error: Operation timed out)
+[01:33:32] *** Quits Galaxy| (Read error: Operation timed out)
+[01:35:23] *** Quits Kyouju (Read error: Operation timed out)
+[01:35:31] *** Quits Aaerox (Read error: Operation timed out)
+[01:35:46] *** Quits yellows8 (Read error: Operation timed out)
+[01:41:56] *** Joins Galaxy|
+[01:47:22] *** Joins Lightswor
+[01:47:27] *** Joins yls8bot
+[01:47:27] *** Joins Aaerox
+[01:47:53] *** Joins Kyouju
+[01:50:10] *** Joins yellows8
+[01:50:10] *** WntrMute sets mode: +o yellows8
+[01:50:25] *** yellows8 sets mode: +o yls8bot
+[02:29:19] *** Joins TheLat
+[02:30:04] <TheLat> Is there any chance I can trick some poor soul into looking at my OpenGL code for a Switch port?  It runs fine on Windows and Mac, but I'm missing some nuance of Switch development.
+[02:37:07] <TheLat> Through debugging, I know that the problem is specific to my OpenGL code.
+[03:18:03] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[03:18:17] *** Joins rjeli____
+[03:24:22] *** Quits GerbilSof (Quit: Windows must now restart because the Remote Procedure Call (RPC) service terminated unexpectedly.)
+[03:27:08] *** Joins GerbilSof
+[04:02:08] *** Quits refs (Quit: refs)
+[05:54:23] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[05:54:36] *** Joins rjeli____
+[06:00:35] <plutobot> Wiki | Page changed: Applet Manager services | User: yls8 | https://switchbrew.org/w/index.php?curid=132&diff=10476&oldid=10475
+[06:21:40] <plutobot> Wiki | Page changed: Applet Manager services | User: yls8 | https://switchbrew.org/w/index.php?curid=132&diff=10477&oldid=10476
+[06:27:37] <plutobot> Wiki | Page changed: Applet Manager services | User: yls8 | https://switchbrew.org/w/index.php?curid=132&diff=10478&oldid=10477
+[06:35:46] <plutobot> Wiki | Page changed: Applet Manager services | User: yls8 | https://switchbrew.org/w/index.php?curid=132&diff=10479&oldid=10478
+[06:35:48] *** Quits SCV__ (Ping timeout: 1230 seconds)
+[06:36:01] *** Joins SCV__
+[06:50:33] <plutobot> Wiki | Page changed: Applet Manager services | User: yls8 | https://switchbrew.org/w/index.php?curid=132&diff=10480&oldid=10479
+[07:10:02] *** Quits TheLat (Ping timeout: 253 seconds)
+[08:39:27] *** Quits fgsfds (Read error: Connection reset by peer)
+[08:48:48] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[08:49:01] *** Joins rjeli____
+[09:50:32] *** Joins Tcm0
+[09:56:38] *** Quits yls8bot (Read error: Operation timed out)
+[09:57:25] *** Quits Lightswor (Read error: Operation timed out)
+[09:59:42] *** Quits Aaerox (Read error: Operation timed out)
+[09:59:52] *** Quits Kyouju (Read error: Operation timed out)
+[10:00:23] *** Quits yellows8 (Read error: Operation timed out)
+[10:13:06] *** Joins Aaerox
+[10:13:08] *** Joins Kyouju
+[10:13:41] *** Joins Lightswor
+[10:14:46] *** Joins yellows8
+[10:14:46] *** WntrMute sets mode: +o yellows8
+[10:16:41] *** Joins yls8bot
+[10:16:47] *** yellows8 sets mode: +o yls8bot
+[10:32:03] *** Quits SCV__ (Ping timeout: 1230 seconds)
+[10:32:17] *** Joins SCV__
+[10:57:24] *** Quits m4ts (Ping timeout: 265 seconds)
+[11:24:33] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[11:24:47] *** Joins rjeli____
+[13:31:19] *** Quits uyjulian (Quit: ZNC - http://znc.in)
+[13:31:49] *** Joins uyjulian
+[13:47:34] *** Joins refs
+[14:01:00] *** Joins m4ts
+[14:03:44] *** Quits SCV__ (Read error: Connection timed out)
+[14:12:00] *** Joins SCV__
+[14:39:58] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[14:40:11] *** Joins rjeli____
+[15:56:58] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[15:57:11] *** Joins rjeli____
+[16:58:10] *** Joins fgsfds
+[17:12:03] *** Quits changO- (Read error: Connection reset by peer)
+[17:17:52] *** Joins changO-
+[18:54:38] <plutobot> Wiki | Page changed: Applet Manager services | User: yls8 | https://switchbrew.org/w/index.php?curid=132&diff=10481&oldid=10480
+[19:08:53] *** Quits SCV__ (Ping timeout: 1230 seconds)
+[19:09:06] *** Joins SCV__
+[19:51:37] <plutobot> Wiki | Page changed: Fuses | User: Deejay87 | https://switchbrew.org/w/index.php?curid=186&diff=10482&oldid=10301
+[21:44:23] *** Joins m4ts_
+[21:45:33] *** Quits m4ts (Ping timeout: 265 seconds)
+[22:05:10] *** Joins m4ts
+[22:07:18] *** Quits m4ts_ (Ping timeout: 265 seconds)
+[22:09:43] *** Quits m4ts (Ping timeout: 265 seconds)
+[22:23:43] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[22:23:58] *** Joins rjeli____
+[22:24:33] *** Joins m4ts
+[23:51:50] *** Quits Tcm0 (Leaving)

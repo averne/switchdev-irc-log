@@ -1,0 +1,124 @@
+[00:16:16] *** Joins |Shadow|_
+[00:19:00] *** Quits |Shadow| (Read error: Operation timed out)
+[00:28:51] *** Quits Tcm0 (Leaving)
+[02:57:20] *** |Shadow|_ is now known as |Shadow|
+[06:24:34] *** Quits m4ts (se.hub irc.underworld.no)
+[06:39:28] *** Quits GerbilSof (Quit: Windows must now restart because the Remote Procedure Call (RPC) service terminated unexpectedly.)
+[06:51:58] *** Quits fgsfds (Read error: Connection reset by peer)
+[07:07:41] *** Joins GerbilSof
+[07:42:08] *** Quits klock (Quit: ZNC - http://znc.in)
+[09:29:39] *** Quits Lightswor (Read error: Operation timed out)
+[09:30:59] *** Quits yls8bot (Read error: Operation timed out)
+[09:31:14] *** Quits sh0e (Read error: Operation timed out)
+[09:34:08] *** Quits Aaerox (Read error: Operation timed out)
+[09:34:47] *** Quits yellows8 (Read error: Operation timed out)
+[09:35:27] *** Quits Kyouju (Read error: Operation timed out)
+[09:46:55] *** Joins Aaerox
+[09:46:59] *** Joins Kyouju
+[09:47:35] *** Joins sh0e
+[09:47:37] *** Joins Lightswor
+[09:49:11] *** Joins yellows8
+[09:49:11] *** WntrMute sets mode: +o yellows8
+[09:50:46] *** Joins yls8bot
+[09:50:53] *** yellows8 sets mode: +o yls8bot
+[10:06:08] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[10:06:23] *** Joins rjeli____
+[10:22:37] *** Quits rjeli____ (se.hub efnet.port80.se)
+[10:22:37] *** Quits SCV__ (se.hub efnet.port80.se)
+[10:22:37] *** Quits Summeli (se.hub efnet.port80.se)
+[10:22:37] *** Quits TAL (se.hub efnet.port80.se)
+[10:22:37] *** Quits mafcadio3 (se.hub efnet.port80.se)
+[10:22:37] *** Quits Ghabry (se.hub efnet.port80.se)
+[10:22:37] *** Quits hexkyz (se.hub efnet.port80.se)
+[10:22:37] *** Quits hordak (se.hub efnet.port80.se)
+[10:22:37] *** Quits jn (se.hub efnet.port80.se)
+[10:22:37] *** Quits uyjulian (se.hub efnet.port80.se)
+[10:22:37] *** Quits dibas (se.hub efnet.port80.se)
+[10:22:37] *** Quits hthh_ (se.hub efnet.port80.se)
+[10:22:38] *** Quits gruetzko- (se.hub efnet.port80.se)
+[10:22:38] *** Quits mid-kid3 (se.hub efnet.port80.se)
+[10:22:38] *** Quits derrek (se.hub efnet.port80.se)
+[10:22:38] *** Quits Phils3r (se.hub efnet.port80.se)
+[10:22:38] *** Quits rctgamer3 (se.hub efnet.port80.se)
+[10:22:38] *** Quits zini (se.hub efnet.port80.se)
+[10:22:38] *** Quits coriolis (se.hub efnet.port80.se)
+[10:38:05] *** Joins rjeli____
+[10:38:05] *** Joins SCV__
+[10:38:05] *** Joins Summeli
+[10:38:05] *** Joins TAL
+[10:38:05] *** Joins mafcadio3
+[10:38:05] *** Joins Ghabry
+[10:38:05] *** Joins hexkyz
+[10:38:05] *** Joins hordak
+[10:38:05] *** Joins jn
+[10:38:05] *** Joins uyjulian
+[10:38:05] *** Joins dibas
+[10:38:05] *** Joins hthh_
+[10:38:05] *** Joins gruetzko-
+[10:38:05] *** Joins mid-kid3
+[10:38:05] *** Joins derrek
+[10:38:05] *** Joins Phils3r
+[10:38:05] *** Joins rctgamer3
+[10:38:05] *** Joins zini
+[10:38:05] *** Joins coriolis
+[11:38:18] *** Joins klock
+[12:48:35] *** Joins X-Scale`
+[12:50:09] *** Quits X-Scale (Ping timeout: 255 seconds)
+[12:50:09] *** X-Scale` is now known as X-Scale
+[13:06:58] *** Quits SCV__ (Ping timeout: 1230 seconds)
+[13:07:12] *** Joins SCV__
+[13:35:36] <DoozerBot> fincs pushed to master: docs: fix simple typo, recieve -> receive "docs: fix simple typo, recieve -> receive" [072 files modified], building targets: 02lib
+[13:35:38] <plutobot> GitHub | New commit | User: Tim Gates | https://github.com/switchbrew/libnx/commit/8cbd1cf03c
+[13:39:25] <DoozerBot> 02lib: 03 v3.3.0.190 Build OK - https://doozer.io/build/1dn8b9v49t
+[16:09:33] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[16:09:46] *** Joins rjeli____
+[17:04:31] <DoozerBot> Documentation for v4.0.0, building targets: 02docs
+[17:04:33] <DoozerBot> fincs pushed to master: libnx v4.0.0 "libnx v4.0.0" [072 files modified], building targets: 02lib
+[17:05:13] <DoozerBot> 02docs: 03 v4.0.0 Build OK - https://doozer.io/build/x4jl6efxnj
+[17:08:24] <DoozerBot> 02lib: 03 v4.0.0 Build OK - https://doozer.io/build/c9yb7kdktg
+[17:21:23] <plutobot> GitHub | New commit | User: fincs | https://github.com/switchbrew/libnx/commit/73feb933ce
+[17:34:08] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[17:34:21] *** Joins rjeli____
+[17:38:28] *** Quits balrog (Read error: Operation timed out)
+[17:38:56] *** Joins balrog
+[17:39:23] *** Quits tpw_rules (Read error: Operation timed out)
+[17:39:25] *** Quits awordnot (Read error: Operation timed out)
+[17:39:27] *** Joins KuKzz_
+[17:39:42] *** Joins tpw_rules
+[17:39:44] *** Quits giglife (Read error: Operation timed out)
+[17:39:47] *** Joins giglife
+[17:39:48] *** Quits nullstrin (Read error: Operation timed out)
+[17:39:49] *** Joins CCFL_Man_
+[17:40:37] *** Quits Maylay (Read error: Operation timed out)
+[17:40:49] *** Joins awordnot
+[17:40:56] *** Joins nullstrin
+[17:42:38] *** Quits CCFL_Man (Read error: Operation timed out)
+[17:43:52] *** Quits KuKzz (Ping timeout: 622 seconds)
+[17:45:06] *** Joins Maylay
+[17:57:01] *** Joins refs
+[18:02:43] *** Quits SCV__ (Ping timeout: 1230 seconds)
+[18:02:56] *** Joins SCV__
+[18:21:28] <plutobot> GitHub | New commit | User: yellows | https://github.com/switchbrew/nx-hbmenu/commit/65f23b0bde
+[18:32:41] *** Joins gjabell
+[18:34:09] <gjabell> hey all o/ just jailbroke my switch and I'm wondering if there's anything extra I need to do to reconnect to the eshop other than rebooting to stock firmware
+[19:04:39] *** Joins Tcm0
+[19:07:13] *** Joins X-Scale`
+[19:08:36] *** Quits X-Scale (Ping timeout: 255 seconds)
+[19:08:37] *** X-Scale` is now known as X-Scale
+[19:13:34] *** Joins fgsfds
+[20:06:23] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[20:06:37] *** Joins rjeli____
+[20:21:29] <plutobot> GitHub | New commit | User: fincs | https://github.com/switchbrew/nx-hbloader/commit/56868b4325
+[21:41:06] *** Joins changO-
+[21:41:13] *** CCFL_Man_ is now known as CCFL_Man
+[21:44:12] <changO-> Live streaming Switch shovelware: https://youtu.be/D-Zsc5fI5Mw
+[22:12:58] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[22:13:12] *** Joins rjeli____
+[23:03:55] *** Quits klock (ZNC - http://znc.in)
+[23:52:14] *** Quits giglife (Read error: Operation timed out)
+[23:52:21] *** Joins giglife
+[23:53:12] *** Quits Lightswor (Read error: Operation timed out)
+[23:53:33] *** Quits yls8bot (Read error: Operation timed out)
+[23:56:40] *** Quits Aaerox (Read error: Operation timed out)
+[23:56:58] *** Quits yellows8 (Read error: Operation timed out)
+[23:57:53] *** Quits Kyouju (Read error: Operation timed out)

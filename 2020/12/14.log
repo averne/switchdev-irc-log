@@ -1,0 +1,65 @@
+[00:46:38] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[00:46:52] *** Joins rjeli____
+[01:28:22] *** Quits m4ts (Ping timeout: 265 seconds)
+[01:36:47] *** Joins TheLat
+[01:42:38] *** Quits SCV__ (Ping timeout: 1230 seconds)
+[01:42:51] *** Joins SCV__
+[03:04:46] *** Quits TheLat (Ping timeout: 252 seconds)
+[03:18:21] *** Quits GerbilSof (Quit: Windows must now restart because the Remote Procedure Call (RPC) service terminated unexpectedly.)
+[03:18:41] *** Joins GerbilSof
+[04:11:35] *** Quits GerbilSof (Quit: Windows must now restart because the Remote Procedure Call (RPC) service terminated unexpectedly.)
+[04:11:52] *** Joins GerbilSof
+[04:41:17] *** Quits refs (Quit: refs)
+[04:46:36] *** Joins m4ts_
+[06:01:42] *** Joins changoXPR
+[06:02:13] *** Quits yls8bot (Read error: Operation timed out)
+[06:02:49] *** Quits Lightswor (Read error: Operation timed out)
+[06:05:20] *** Quits Kyouju (Read error: Operation timed out)
+[06:05:40] *** Quits yellows8 (Read error: Operation timed out)
+[06:06:21] *** Quits Aaerox (Read error: Operation timed out)
+[06:06:32] *** Quits changO- (Read error: Operation timed out)
+[06:06:32] *** changoXPR is now known as changO-
+[06:20:33] *** Joins Aaerox
+[06:20:36] *** Joins yellows8
+[06:20:36] *** WntrMute sets mode: +o yellows8
+[06:20:48] *** Joins Lightswor
+[06:20:50] *** Joins Kyouju
+[06:22:15] *** Joins yls8bot
+[06:22:22] *** yellows8 sets mode: +o yls8bot
+[06:30:19] *** Joins m4ts-
+[06:31:25] *** Quits m4ts_ (Ping timeout: 265 seconds)
+[06:59:58] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[07:00:17] *** Joins rjeli____
+[08:33:46] *** Quits fgsfds (Read error: Connection reset by peer)
+[11:23:51] *** Joins m4ts_
+[11:24:48] *** Quits m4ts- (Ping timeout: 265 seconds)
+[11:39:58] *** Quits SCV__ (Ping timeout: 1230 seconds)
+[11:40:11] *** Joins SCV__
+[11:50:25] *** Quits m4ts_ (Ping timeout: 265 seconds)
+[12:07:11] *** Joins m4ts_
+[12:28:28] *** Quits SCV__ (Read error: Connection timed out)
+[12:43:05] *** Joins SCV__
+[12:52:16] *** Joins Mimoja6
+[12:52:16] *** Quits Mimoja (Read error: Connection reset by peer)
+[12:52:16] *** Mimoja6 is now known as Mimoja
+[12:58:01] *** Quits Mimoja (Quit: The Lounge - https://thelounge.github.io)
+[12:58:43] *** Joins Mimoja
+[14:56:54] *** Joins |Shadow|_
+[14:58:58] *** Quits |Shadow| (Read error: Operation timed out)
+[15:13:24] *** |Shadow|_ is now known as |Shadow|
+[15:51:23] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[15:51:36] *** Joins rjeli____
+[17:09:54] *** Joins jn
+[18:36:11] *** Joins fgsfds
+[19:16:43] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[19:16:57] *** Joins rjeli____
+[20:06:45] <plutobot> Wiki | Page changed: Applet Manager services | User: yls8 | https://switchbrew.org/w/index.php?curid=132&diff=10483&oldid=10481
+[21:18:17] <plutobot> Wiki | Page changed: Applet Manager services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=132&diff=10484&oldid=10483
+[21:26:46] <plutobot> Wiki | Page changed: PPC services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=158&diff=10485&oldid=8965
+[21:28:49] <plutobot> Wiki | Page changed: PTM services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=165&diff=10486&oldid=10414
+[21:33:14] <plutobot> GitHub | New commit | User: yellows | https://github.com/switchbrew/libnx/commit/d406db725d
+[21:33:15] <DoozerBot> yellows8 pushed to master: applet: Added 11.0 cmds. "applet: Added 11.0 cmds." [072 files modified], building targets: 02lib
+[21:38:00] <DoozerBot> 02lib: 03 v3.3.0.181 Build OK - https://doozer.io/build/60zexpeidr
+[21:49:33] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[21:49:46] *** Joins rjeli____
+[21:53:22] *** Joins refs

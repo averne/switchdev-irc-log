@@ -1,0 +1,108 @@
+[00:45:18] <plutobot> Wiki | Page changed: Internet Browser | User: yls8 | https://switchbrew.org/w/index.php?curid=12&diff=10495&oldid=10494
+[00:50:55] <plutobot> Wiki | Page changed: Internet Browser | User: yls8 | https://switchbrew.org/w/index.php?curid=12&diff=10496&oldid=10495
+[01:19:40] <plutobot> GitHub | New commit | User: yellows | https://github.com/switchbrew/switch-examples/commit/78b1ed515e
+[01:22:51] <plutobot> GitHub | New commit | User: yellows | https://github.com/switchbrew/libnx/commit/55179074cc
+[01:22:52] <DoozerBot> yellows8 pushed to master: web: Added 11.0 webConfigSetTransferMemory(). "web: Added 11.0 webConfigSetTransferMemory()." [072 files modified], building targets: 02lib
+[01:26:41] <DoozerBot> 02lib: 03 v3.3.0.184 Build OK - https://doozer.io/build/g8xr2abryj
+[01:27:42] <plutobot> Wiki | Page changed: Internet Browser | User: yls8 | https://switchbrew.org/w/index.php?curid=12&diff=10497&oldid=10496
+[01:41:58] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[01:42:11] *** Joins rjeli____
+[01:56:32] *** Joins Summeli
+[02:24:58] *** Quits refs (Quit: refs)
+[03:35:18] <plutobot> Wiki | Page changed: Internet Browser | User: yls8 | https://switchbrew.org/w/index.php?curid=12&diff=10498&oldid=10497
+[04:01:58] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[04:02:11] *** Joins rjeli____
+[04:07:42] *** Quits Behemoth_ (Read error: Connection reset by peer)
+[04:07:46] *** Joins Behemoth_
+[04:11:40] <DoozerBot> yellows8 pushed to master: libapplet: Added the new 11.0 funcs. "libapplet: Added the new 11.0 funcs." [072 files modified], building targets: 02lib
+[04:15:23] <DoozerBot> 02lib: 03 v3.3.0.185 Build OK - https://doozer.io/build/s208r3dic9
+[04:19:14] <plutobot> GitHub | New commit | User: yellows | https://github.com/switchbrew/libnx/commit/06d38571b4
+[05:29:57] *** Quits GerbilSof (Quit: Windows must now restart because the Remote Procedure Call (RPC) service terminated unexpectedly.)
+[05:34:12] *** Joins GerbilSof
+[06:08:37] *** Joins Galaxy|_
+[06:08:42] *** Quits Galaxy| (Read error: Connection reset by peer)
+[06:08:45] *** Galaxy|_ is now known as Galaxy|
+[07:35:28] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[07:35:42] *** Joins rjeli____
+[07:38:03] *** TAL_ is now known as TAL
+[08:03:44] *** Quits fgsfds (Read error: Connection reset by peer)
+[10:02:24] *** Quits mtheall_ (ny.us.hub irc.Prison.NET)
+[10:02:24] *** Quits eggster (ny.us.hub irc.Prison.NET)
+[10:02:24] *** Quits datagutt (ny.us.hub irc.Prison.NET)
+[10:02:24] *** Quits oldtopman (ny.us.hub irc.Prison.NET)
+[10:02:24] *** Quits Surkow (ny.us.hub irc.Prison.NET)
+[10:08:18] *** Joins mtheall_
+[10:08:18] *** Joins eggster
+[10:08:18] *** Joins datagutt
+[10:08:18] *** Joins oldtopman
+[10:08:18] *** Joins Surkow
+[10:28:07] *** Quits changO- (Read error: Operation timed out)
+[10:40:31] *** Quits m4ts_ (Ping timeout: 265 seconds)
+[10:52:03] *** Quits SCV__ (Ping timeout: 1230 seconds)
+[10:52:16] *** Joins SCV__
+[11:09:16] *** Joins derk0pf
+[11:27:37] *** Quits SCV__ (Read error: Connection timed out)
+[11:30:14] *** Joins derk0pf_
+[11:31:16] *** Quits derk0pf (Ping timeout: 265 seconds)
+[11:44:39] *** Joins SCV__
+[12:08:23] *** Quits derk0pf_ (Read error: Connection reset by peer)
+[12:10:01] *** Joins derk0pf
+[12:11:23] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[12:11:37] *** Joins rjeli____
+[12:18:05] *** Quits derk0pf (Read error: Operation timed out)
+[12:36:38] *** Joins derk0pf
+[13:02:51] *** Quits derk0pf (Ping timeout: 265 seconds)
+[13:22:02] *** Joins lameboy2
+[13:28:43] *** Quits lameboy (Ping timeout: 604 seconds)
+[13:28:48] *** lameboy2 is now known as lameboy
+[13:42:31] *** Joins derk0pf
+[13:59:32] *** Quits derk0pf (Ping timeout: 501 seconds)
+[14:31:23] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[14:31:36] *** Joins rjeli____
+[15:27:23] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[15:27:37] *** Joins rjeli____
+[15:44:18] *** Quits SCV__ (Ping timeout: 1230 seconds)
+[15:44:31] *** Joins SCV__
+[15:51:43] *** Joins derk0pf
+[15:56:37] *** Quits derk0pf (Ping timeout: 265 seconds)
+[16:16:37] *** Quits zombie343 ()
+[16:19:18] *** Quits SCV__ (Ping timeout: 1230 seconds)
+[16:19:31] *** Joins SCV__
+[16:30:14] *** Joins rajkosto
+[16:58:00] *** Quits rajkosto (Read error: Connection reset by peer)
+[17:03:51] *** Joins fgsfds
+[17:06:18] *** Joins changO-
+[17:16:11] *** Quits cpncok3 (Read error: Connection reset by peer)
+[17:17:47] *** Joins cpnc0ke
+[17:52:27] *** Joins derk0pf
+[18:00:31] *** Quits cpnc0ke ()
+[18:04:37] *** Quits derk0pf (Read error: Operation timed out)
+[18:05:28] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[18:05:41] *** Joins rjeli____
+[18:25:53] *** Quits SCV__ (Ping timeout: 1230 seconds)
+[18:26:06] *** Joins SCV__
+[18:31:40] <plutobot> Wiki | Page changed: Controller Applet | User: yls8 | https://switchbrew.org/w/index.php?curid=395&diff=10499&oldid=8435
+[18:48:40] <plutobot> Wiki | Page changed: Controller Applet | User: yls8 | https://switchbrew.org/w/index.php?curid=395&diff=10500&oldid=10499
+[19:03:27] <plutobot> Wiki | Page changed: Controller Applet | User: yls8 | https://switchbrew.org/w/index.php?curid=395&diff=10501&oldid=10500
+[19:25:01] <plutobot> GitHub | New commit | User: yellows | https://github.com/switchbrew/libnx/commit/c51918a605
+[19:25:01] <DoozerBot> yellows8 pushed to master: hidLa: 11.0 support and fixed the arg_size value. "hidLa: 11.0 support and fixed the arg_size value." [072 files modified], building targets: 02lib
+[19:25:33] *** Quits SCV__ (Read error: Connection timed out)
+[19:28:50] <DoozerBot> 02lib: 03 v3.3.0.186 Build OK - https://doozer.io/build/tblpxmauii
+[19:33:28] *** Joins cpnc0ke
+[19:39:28] *** Joins SCV__
+[19:40:33] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[19:40:46] *** Joins rjeli____
+[19:53:49] *** Joins derk0pf
+[19:59:33] *** Quits derk0pf (Ping timeout: 265 seconds)
+[20:44:08] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[20:44:22] *** Joins rjeli____
+[21:09:05] *** Joins refs
+[21:58:21] *** Joins derk0pf
+[22:09:53] *** Quits SCV__ (Ping timeout: 1230 seconds)
+[22:10:10] *** Joins SCV__
+[22:13:12] *** Quits derk0pf (Read error: Operation timed out)
+[23:31:52] *** Quits flotwig (Read error: Operation timed out)
+[23:46:08] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[23:46:22] *** Joins rjeli____
+[23:58:03] *** Joins flotwig
+[23:59:38] *** Joins derk0pf

@@ -1,0 +1,104 @@
+[00:12:25] *** Quits derk0pf (Read error: Operation timed out)
+[01:10:43] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[01:10:56] *** Joins rjeli____
+[01:26:28] *** Quits SCV__ (Ping timeout: 1230 seconds)
+[01:26:41] *** Joins SCV__
+[01:37:41] <plutobot> GitHub | New PR: hbl grant rea... | User: SciresM | https://github.com/switchbrew/nx-hbloader/pull/36
+[01:56:32] <plutobot> GitHub | New commit | User: SciresM | https://github.com/switchbrew/nx-hbloader/commit/723c09d7ab
+[02:01:15] *** Joins derk0pf
+[02:11:48] *** Quits Galaxy| (Quit.)
+[02:16:12] *** Joins Galaxy|
+[02:32:59] <DoozerBot> yellows8 pushed to master: swkbd: Added swkbdInlineGetMiniaturizedHeight. "swkbd: Added swkbdInlineGetMiniaturizedHeight." [072 files modified], building targets: 02lib
+[02:33:02] <plutobot> GitHub | New commit | User: yellows | https://github.com/switchbrew/libnx/commit/0d5dcde5b9
+[02:37:03] <DoozerBot> 02lib: 03 v3.3.0.187 Build OK - https://doozer.io/build/zbqqvsz6do
+[02:38:29] *** Quits derk0pf (Ping timeout: 265 seconds)
+[02:47:09] *** Quits refs (Quit: refs)
+[02:56:39] *** Quits flotwig (Read error: Operation timed out)
+[03:12:03] *** Quits SCV__ (Ping timeout: 1230 seconds)
+[03:12:17] *** Joins SCV__
+[03:29:33] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[03:29:37] *** Joins rjeli____
+[04:36:17] *** Joins derk0pf
+[04:45:00] *** Quits derk0pf (Read error: Operation timed out)
+[05:02:29] *** Quits fgsfds (Read error: Connection reset by peer)
+[05:32:50] <plutobot> Wiki | Page changed: MiiEdit Applet | User: yls8 | https://switchbrew.org/w/index.php?curid=411&diff=10502&oldid=9657
+[06:18:54] <plutobot> Wiki | Page changed: MiiEdit Applet | User: yls8 | https://switchbrew.org/w/index.php?curid=411&diff=10503&oldid=10502
+[06:22:06] <plutobot> GitHub | New commit | User: yellows | https://github.com/switchbrew/libnx/commit/d4014bde62
+[06:22:08] <DoozerBot> yellows8 pushed to master: miiLa: Added for support for 10.2.0 functionality + various fixes. "miiLa: Added for support for 10.2.0 functionality + various fixes." [072 files modified], building targets: 02lib
+[06:26:05] <DoozerBot> 02lib: 03 v3.3.0.188 Build OK - https://doozer.io/build/1v2dxmoxca
+[06:37:15] *** Joins derk0pf
+[06:50:21] *** Quits derk0pf (Read error: Operation timed out)
+[07:15:39] <plutobot> Wiki | Page changed: NS Services | User: yls8 | https://switchbrew.org/w/index.php?curid=89&diff=10504&oldid=10472
+[07:34:52] <plutobot> Wiki | Page changed: NS Services | User: yls8 | https://switchbrew.org/w/index.php?curid=89&diff=10505&oldid=10504
+[07:43:22] <plutobot> Wiki | Page changed: NS Services | User: yls8 | https://switchbrew.org/w/index.php?curid=89&diff=10506&oldid=10505
+[08:00:32] <plutobot> Wiki | Page changed: NS Services | User: yls8 | https://switchbrew.org/w/index.php?curid=89&diff=10507&oldid=10506
+[08:38:15] *** Joins derk0pf
+[08:47:12] *** Quits derk0pf (Ping timeout: 501 seconds)
+[09:15:10] *** Joins derk0pf
+[10:31:07] *** Quits derk0pf (Ping timeout: 501 seconds)
+[10:52:36] *** Joins derk0pf
+[11:05:59] *** Quits derk0pf (Read error: Operation timed out)
+[11:09:28] *** Joins derk0pf
+[11:14:29] *** Quits derk0pf (Ping timeout: 272 seconds)
+[11:27:09] *** Joins derk0pf
+[11:40:04] *** Quits derk0pf (Read error: Operation timed out)
+[11:40:20] *** Joins Tcm0
+[12:14:55] *** Joins n87
+[12:24:56] *** Quits n87 (Quit: Leaving)
+[12:33:11] *** Joins n87
+[12:48:11] *** Quits changO- (Excess Flood)
+[12:49:32] *** Joins changO-
+[12:49:51] *** Quits changO- (Client Quit)
+[13:27:55] *** Joins derk0pf
+[13:28:40] *** Quits n87 (Read error: Connection reset by peer)
+[13:32:02] *** Joins n87
+[13:34:53] *** Quits derk0pf (Read error: Operation timed out)
+[14:51:03] *** Joins m4ts
+[15:14:33] *** Joins m4ts_
+[15:17:19] *** Quits m4ts (Ping timeout: 265 seconds)
+[15:24:27] *** Joins m4ts
+[15:27:53] *** Quits oldtopman (Read error: Operation timed out)
+[15:27:57] *** Quits m4ts_ (Ping timeout: 265 seconds)
+[15:34:47] *** Joins oldtopman
+[16:02:09] *** Joins fgsfds
+[16:14:02] *** Quits oldtopman (Ping timeout: 272 seconds)
+[16:37:20] *** Quits sh0e (Quit: Bye.)
+[16:37:50] *** Joins sh0e
+[16:38:43] *** Joins n87_2
+[16:42:30] *** Quits n87 (Read error: Operation timed out)
+[17:29:22] *** Joins derk0pf
+[17:40:49] *** Quits n87_2 (Ping timeout: 622 seconds)
+[17:43:24] *** Quits Tcm0 (Read error: Connection reset by peer)
+[17:43:32] *** Joins Tcm0
+[17:43:55] *** Quits derk0pf (Read error: Operation timed out)
+[18:14:22] *** Joins oldtopman
+[19:30:32] *** Joins derk0pf
+[19:35:26] *** Quits derk0pf (Ping timeout: 272 seconds)
+[20:37:27] <plutobot> Wiki | New page: Hekate | User: Hallowizer | https://switchbrew.org/w/index.php?curid=425
+[21:02:20] <DoozerBot> yellows8 pushed to master: ns: Use ns:ro if available. "ns: Use ns:ro if available." [071 file modified], building targets: 02lib
+[21:04:18] <plutobot> Wiki | New page: Fusee Gelee | User: Hallowizer | https://switchbrew.org/w/index.php?curid=426
+[21:04:48] <plutobot> Wiki | New page: Fusee-gelee | User: Hallowizer | https://switchbrew.org/w/index.php?curid=427
+[21:06:16] <DoozerBot> 02lib: 03 v3.3.0.189 Build OK - https://doozer.io/build/hfbo9iopnu
+[21:20:15] <plutobot> GitHub | New commit | User: yellows | https://github.com/switchbrew/libnx/commit/3c9e4e2ebc
+[21:24:52] <plutobot> Wiki | New page: PegaScape | User: Hallowizer | https://switchbrew.org/w/index.php?curid=428
+[21:25:43] <plutobot> Wiki | New page: Homebrew Launcher | User: Hallowizer | https://switchbrew.org/w/index.php?curid=429
+[21:31:25] *** Joins derk0pf
+[21:38:37] <plutobot> Wiki | Page changed: Homebrew Applications | User: Hallowizer | https://switchbrew.org/w/index.php?curid=293&diff=10513&oldid=10199
+[21:39:28] <plutobot> Wiki | Page changed: Homebrew Applications | User: Hallowizer | https://switchbrew.org/w/index.php?curid=293&diff=10514&oldid=10513
+[21:40:04] *** Quits derk0pf (Ping timeout: 501 seconds)
+[21:43:19] *** Joins refs
+[21:47:48] <plutobot> Wiki | New page: Homebrew App Store | User: Hallowizer | https://switchbrew.org/w/index.php?curid=430
+[21:47:58] <Behemoth_> Why?
+[21:49:51] <plutobot> Wiki | Page changed: Homebrew Applications | User: NicholeMattera | https://switchbrew.org/w/index.php?curid=293&diff=10516&oldid=10514
+[21:51:12] <plutobot> Wiki | Page changed: Homebrew Menu | User: Hallowizer | https://switchbrew.org/w/index.php?curid=341&diff=10517&oldid=9030
+[22:02:07] <plutobot> Wiki | New page: Atmosphere CFW | User: Hallowizer | https://switchbrew.org/w/index.php?curid=431
+[22:03:06] *** Joins changO-
+[22:18:59] <plutobot> Wiki | Page changed: Hekate | User: Hallowizer | https://switchbrew.org/w/index.php?curid=425&diff=10519&oldid=10508
+[22:20:55] *** Joins derk0pf
+[22:30:05] <plutobot> Wiki | New page: Lockpick RCM | User: Hallowizer | https://switchbrew.org/w/index.php?curid=432
+[22:31:26] *** Quits nullstrin (Read error: Operation timed out)
+[22:35:31] *** Joins nullstrin
+[23:06:10] <plutobot> Wiki | Page changed: Homebrew Menu | User: Fincs | https://switchbrew.org/w/index.php?curid=341&diff=10521&oldid=10517
+[23:12:17] <plutobot> Wiki | Page changed: Homebrew Applications | User: Fincs | https://switchbrew.org/w/index.php?curid=293&diff=10522&oldid=10516
+[23:35:40] *** Quits derk0pf (Read error: Connection refused)
+[23:48:28] *** Joins derk0pf
