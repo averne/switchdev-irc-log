@@ -1,0 +1,158 @@
+[00:29:00] *** Joins dibas_
+[00:29:00] *** Quits dibas (Read error: Connection reset by peer)
+[00:29:03] *** dibas_ is now known as dibas
+[02:43:48] *** Quits derrek (Quit: This should have not happened.)
+[02:46:07] *** Joins derrek
+[02:49:13] *** Quits dibas (Read error: Connection reset by peer)
+[02:49:26] *** Joins dibas
+[03:46:18] <plutobot> Wiki | Page changed: Switch System Flaws | User: yls8 | https://switchbrew.org/w/index.php?curid=14&diff=10525&oldid=10471
+[04:19:28] *** Joins SCV___
+[04:30:08] *** Quits SCV__ (Ping timeout: 1230 seconds)
+[04:30:08] *** SCV___ is now known as SCV__
+[04:31:53] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[04:40:49] *** Joins rjeli____
+[05:02:38] *** Quits rjeli____ (se.hub efnet.port80.se)
+[05:02:38] *** Quits SCV__ (se.hub efnet.port80.se)
+[05:02:38] *** Quits dibas (se.hub efnet.port80.se)
+[05:02:38] *** Quits derrek (se.hub efnet.port80.se)
+[05:02:38] *** Quits lameboy (se.hub efnet.port80.se)
+[05:02:38] *** Quits Summeli (se.hub efnet.port80.se)
+[05:02:38] *** Quits rctgamer3 (se.hub efnet.port80.se)
+[05:02:38] *** Quits mid-kid4 (se.hub efnet.port80.se)
+[05:02:38] *** Quits Normmatt (se.hub efnet.port80.se)
+[05:02:38] *** Quits datagutt (se.hub efnet.port80.se)
+[05:02:38] *** Quits ave_ (se.hub efnet.port80.se)
+[05:02:38] *** Quits Phils3r (se.hub efnet.port80.se)
+[05:02:38] *** Quits uyjulian (se.hub efnet.port80.se)
+[05:02:38] *** Quits klock (se.hub efnet.port80.se)
+[05:02:38] *** Quits TAL (se.hub efnet.port80.se)
+[05:02:38] *** Quits mafcadio3 (se.hub efnet.port80.se)
+[05:02:38] *** Quits Ghabry (se.hub efnet.port80.se)
+[05:02:38] *** Quits hexkyz (se.hub efnet.port80.se)
+[05:02:38] *** Quits hordak (se.hub efnet.port80.se)
+[05:02:38] *** Quits hthh_ (se.hub efnet.port80.se)
+[05:02:38] *** Quits gruetzko- (se.hub efnet.port80.se)
+[05:02:38] *** Quits zini (se.hub efnet.port80.se)
+[05:02:38] *** Quits coriolis (se.hub efnet.port80.se)
+[05:10:25] *** Joins rjeli____
+[05:10:25] *** Joins SCV__
+[05:10:25] *** Joins dibas
+[05:10:25] *** Joins derrek
+[05:10:25] *** Joins lameboy
+[05:10:25] *** Joins Summeli
+[05:10:25] *** Joins rctgamer3
+[05:10:25] *** Joins mid-kid4
+[05:10:25] *** Joins Normmatt
+[05:10:25] *** Joins datagutt
+[05:10:25] *** Joins ave_
+[05:10:25] *** Joins Phils3r
+[05:10:26] *** Joins uyjulian
+[05:10:26] *** Joins klock
+[05:10:26] *** Joins TAL
+[05:10:26] *** Joins mafcadio3
+[05:10:26] *** Joins Ghabry
+[05:10:26] *** Joins hexkyz
+[05:10:26] *** Joins hordak
+[05:10:26] *** Joins hthh_
+[05:10:26] *** Joins gruetzko-
+[05:10:26] *** Joins zini
+[05:10:26] *** Joins coriolis
+[05:24:44] *** Quits gruetzko- (Read error: Connection reset by peer)
+[05:26:13] *** Joins gruetzkop
+[05:29:44] *** Quits gruetzkop (se.hub efnet.port80.se)
+[05:29:44] *** Quits rjeli____ (se.hub efnet.port80.se)
+[05:29:44] *** Quits SCV__ (se.hub efnet.port80.se)
+[05:29:44] *** Quits dibas (se.hub efnet.port80.se)
+[05:29:44] *** Quits derrek (se.hub efnet.port80.se)
+[05:29:44] *** Quits lameboy (se.hub efnet.port80.se)
+[05:29:44] *** Quits Summeli (se.hub efnet.port80.se)
+[05:29:44] *** Quits rctgamer3 (se.hub efnet.port80.se)
+[05:29:44] *** Quits mid-kid4 (se.hub efnet.port80.se)
+[05:29:44] *** Quits Normmatt (se.hub efnet.port80.se)
+[05:29:44] *** Quits datagutt (se.hub efnet.port80.se)
+[05:29:44] *** Quits ave_ (se.hub efnet.port80.se)
+[05:29:44] *** Quits Phils3r (se.hub efnet.port80.se)
+[05:29:44] *** Quits uyjulian (se.hub efnet.port80.se)
+[05:29:44] *** Quits klock (se.hub efnet.port80.se)
+[05:29:44] *** Quits TAL (se.hub efnet.port80.se)
+[05:29:44] *** Quits mafcadio3 (se.hub efnet.port80.se)
+[05:29:44] *** Quits Ghabry (se.hub efnet.port80.se)
+[05:29:44] *** Quits hexkyz (se.hub efnet.port80.se)
+[05:29:44] *** Quits hordak (se.hub efnet.port80.se)
+[05:29:44] *** Quits hthh_ (se.hub efnet.port80.se)
+[05:29:44] *** Quits zini (se.hub efnet.port80.se)
+[05:29:44] *** Quits coriolis (se.hub efnet.port80.se)
+[05:40:19] *** Joins gruetzkop
+[05:40:19] *** Joins rjeli____
+[05:40:19] *** Joins SCV__
+[05:40:19] *** Joins dibas
+[05:40:19] *** Joins derrek
+[05:40:19] *** Joins lameboy
+[05:40:19] *** Joins Summeli
+[05:40:19] *** Joins rctgamer3
+[05:40:19] *** Joins mid-kid4
+[05:40:19] *** Joins Normmatt
+[05:40:19] *** Joins datagutt
+[05:40:19] *** Joins ave_
+[05:40:19] *** Joins Phils3r
+[05:40:19] *** Joins uyjulian
+[05:40:19] *** Joins klock
+[05:40:19] *** Joins TAL
+[05:40:19] *** Joins mafcadio3
+[05:40:19] *** Joins Ghabry
+[05:40:19] *** Joins hexkyz
+[05:40:19] *** Joins hordak
+[05:40:19] *** Joins hthh_
+[05:40:19] *** Joins zini
+[05:40:19] *** Joins coriolis
+[05:46:33] *** Quits SCV__ (Ping timeout: 1230 seconds)
+[05:52:33] *** Joins SCV__
+[06:19:24] *** Quits balrog (Ping timeout: 501 seconds)
+[06:21:58] *** Quits rmaw (Read error: Operation timed out)
+[06:22:53] *** Quits Mimoja (Quit: Ping timeout (120 seconds))
+[06:24:56] *** Joins rmaw
+[06:25:26] *** Quits Pieman (Ping timeout: 272 seconds)
+[06:25:27] *** Quits nohit (Ping timeout: 272 seconds)
+[06:25:27] *** Joins nohit
+[06:25:27] *** Joins Pieman
+[06:25:27] *** Joins Mimoja
+[06:32:47] *** Joins balrog
+[06:38:15] *** Quits flagrama (Ping timeout: 272 seconds)
+[06:38:19] *** Joins flagrama
+[07:08:48] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[07:09:01] *** Joins rjeli____
+[07:27:28] *** Quits SCV__ (Ping timeout: 1230 seconds)
+[07:27:41] *** Joins SCV__
+[07:54:50] *** Quits fgsfds (Read error: Connection reset by peer)
+[09:25:53] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[09:26:09] *** Joins rjeli____
+[09:29:09] *** Quits rajkosto (Read error: Connection reset by peer)
+[10:35:18] *** Quits SCV__ (Ping timeout: 1230 seconds)
+[10:35:31] *** Joins SCV__
+[10:45:00] *** Joins dibas_
+[10:45:00] *** Quits dibas (Read error: Connection reset by peer)
+[10:45:04] *** dibas_ is now known as dibas
+[11:22:44] *** Joins fgsfds
+[13:17:28] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[13:17:41] *** Joins rjeli____
+[14:06:28] *** Quits SCV__ (Ping timeout: 1230 seconds)
+[14:06:41] *** Joins SCV__
+[17:23:45] *** Quits thomasnet (Read error: Operation timed out)
+[17:24:41] *** Quits Genolo (Read error: Operation timed out)
+[17:25:04] *** Quits lex1 (Read error: Operation timed out)
+[17:26:12] *** Joins Genolo
+[17:26:12] *** Joins thomasnet
+[17:27:53] *** Joins lex1
+[19:15:03] *** Quits SCV__ (Ping timeout: 1230 seconds)
+[19:15:16] *** Joins SCV__
+[19:39:41] *** Quits thomasnet (Read error: Operation timed out)
+[19:40:36] *** Quits Genolo (Read error: Operation timed out)
+[19:41:01] *** Quits rmaw (Read error: Operation timed out)
+[19:41:33] *** Joins rmaw
+[19:41:48] *** Joins thomasnet
+[19:42:53] *** Joins Genolo
+[20:36:06] *** Joins Tcm0
+[20:51:33] *** Quits rjeli____ (Read error: Connection timed out)
+[21:01:46] *** Joins rjeli____
+[21:53:43] *** Quits SCV__ (Ping timeout: 1230 seconds)
+[21:53:56] *** Joins SCV__
