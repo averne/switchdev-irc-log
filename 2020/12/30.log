@@ -1,0 +1,118 @@
+[00:08:17] *** Quits derk0pf (Ping timeout: 272 seconds)
+[00:33:51] *** Joins derk0pf
+[00:42:24] *** Quits derk0pf (Read error: Operation timed out)
+[00:49:57] *** Quits Tcm0 (Leaving)
+[01:07:33] *** Joins derk0pf
+[01:11:19] *** Joins Phils3r_
+[01:11:33] *** Joins thejsa
+[01:17:03] *** Quits derk0pf (Read error: Operation timed out)
+[01:22:43] *** Quits Phils3r (Ping timeout: 745 seconds)
+[02:15:37] *** Joins SCV___
+[02:16:13] *** Joins thejsa_
+[02:18:43] *** Joins mid-kid1
+[02:20:13] <plutobot> Wiki | Page changed: Bluetooth Driver services | User: yls8 | https://switchbrew.org/w/index.php?curid=161&diff=10544&oldid=10524
+[02:22:13] *** Quits Phils3r_ (Ping timeout: 615 seconds)
+[02:22:47] *** Joins Phils3r
+[02:23:58] *** Quits mid-kid (Ping timeout: 745 seconds)
+[02:24:33] *** Quits thejsa (Ping timeout: 745 seconds)
+[02:24:33] *** Quits Summeli (Ping timeout: 745 seconds)
+[02:28:03] *** Quits SCV__ (Ping timeout: 1230 seconds)
+[02:28:03] *** SCV___ is now known as SCV__
+[02:31:21] <DoozerBot> yellows8 pushed to master: btdrv: Updated param names/docs. "btdrv: Updated param names/docs." [072 files modified], building targets: 02lib
+[02:31:24] <plutobot> GitHub | New commit | User: yellows | https://github.com/switchbrew/libnx/commit/2f6fcf7fb2
+[02:31:33] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[02:32:19] *** Joins rjeli____
+[02:35:10] <DoozerBot> 02lib: 03 v4.0.0.3 Build OK - https://doozer.io/build/dnv17v95sx
+[02:48:18] *** Quits rjeli____ (Read error: Connection reset by peer)
+[02:48:18] *** Quits SCV__ (Read error: Connection reset by peer)
+[02:54:12] *** Joins rjeli____
+[02:54:30] *** Joins SCV__
+[03:08:24] *** Joins derk0pf
+[03:16:30] *** Quits derk0pf (Read error: Operation timed out)
+[04:15:51] *** Quits SCV__ (Read error: Connection reset by peer)
+[04:15:51] *** Quits rjeli____ (Read error: Connection reset by peer)
+[04:22:28] *** Joins SCV__
+[04:29:49] *** Quits fgsfds (Read error: Connection reset by peer)
+[04:56:24] *** Joins rjeli____
+[05:09:11] *** Joins derk0pf
+[05:14:15] *** Quits derk0pf (Ping timeout: 265 seconds)
+[05:30:51] *** Joins fgsfds
+[05:40:09] *** Quits SCV__ (Read error: Connection reset by peer)
+[05:46:18] *** Joins SCV__
+[05:46:34] *** Quits rjeli____ (Read error: Connection reset by peer)
+[05:51:40] *** Joins rjeli____
+[06:01:02] *** Quits SCV__ (Read error: Connection reset by peer)
+[06:01:02] *** Quits rjeli____ (Read error: Connection reset by peer)
+[06:06:16] *** Joins SCV__
+[06:07:01] *** Quits SCV__ (Read error: Connection reset by peer)
+[06:13:29] *** Joins SCV__
+[06:20:42] *** Joins rjeli____
+[07:06:18] *** Quits SCV__ (Ping timeout: 1230 seconds)
+[07:09:44] *** Joins SCV__
+[07:52:37] *** Quits SCV__ (Read error: Connection reset by peer)
+[07:58:24] *** Quits rjeli____ (Read error: Connection reset by peer)
+[07:58:44] *** Joins SCV__
+[07:59:29] *** Quits SCV__ (Read error: Connection reset by peer)
+[08:04:40] *** Joins rjeli____
+[08:04:53] *** Joins SCV__
+[08:11:20] *** Quits rjeli____ (Read error: Connection reset by peer)
+[08:11:20] *** Quits SCV__ (Read error: Connection reset by peer)
+[08:17:12] *** Joins SCV__
+[08:19:03] *** Joins rjeli____
+[08:41:20] *** Joins rajkosto
+[08:45:02] *** Joins derk0pf
+[09:53:37] *** Quits derk0pf (Ping timeout: 501 seconds)
+[10:03:03] *** Joins derk0pf
+[10:41:46] *** Quits fgsfds (Read error: Connection reset by peer)
+[11:16:45] *** Quits derk0pf (Ping timeout: 501 seconds)
+[11:23:16] *** Joins derk0pf
+[13:48:03] *** Quits rjeli____ (Read error: Connection reset by peer)
+[13:48:03] *** Quits SCV__ (Read error: Connection reset by peer)
+[13:53:47] *** Joins SCV__
+[13:54:10] *** Quits SCV__ (Read error: Connection reset by peer)
+[14:00:36] *** Joins SCV__
+[14:07:02] *** Quits derk0pf (Read error: Operation timed out)
+[14:08:48] *** Joins derk0pf
+[14:18:30] *** Joins rjeli____
+[14:21:07] *** Quits derk0pf (Read error: Operation timed out)
+[14:26:13] *** Joins derk0pf
+[14:39:28] *** Quits derk0pf (Read error: Operation timed out)
+[14:44:48] *** Joins derk0pf
+[14:55:31] *** Quits SCV__ (Read error: Connection reset by peer)
+[14:55:38] *** Quits derk0pf (Ping timeout: 604 seconds)
+[15:02:22] *** Quits rjeli____ (Read error: Connection reset by peer)
+[15:06:05] *** Joins rjeli____
+[15:14:55] *** Joins SCV__
+[15:15:44] *** Quits SCV__ (Read error: Connection reset by peer)
+[15:15:48] *** Quits rjeli____ (Read error: Connection reset by peer)
+[15:20:19] *** Quits rajkosto (Read error: Connection reset by peer)
+[15:21:45] *** Joins derk0pf
+[15:22:18] *** Joins SCV__
+[15:24:43] *** Joins rjeli____
+[15:30:31] *** Quits derk0pf (Ping timeout: 501 seconds)
+[15:33:39] *** Joins derk0pf
+[16:46:09] *** Quits derk0pf (Read error: Operation timed out)
+[17:24:48] *** Joins derk0pf
+[17:26:56] <plutobot> Wiki | Page changed: NV services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=88&diff=10545&oldid=10537
+[17:55:00] *** Joins derk0pf_
+[17:56:39] *** Quits derk0pf (Read error: Connection refused)
+[18:00:48] <plutobot> Wiki | Page changed: PCV services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=126&diff=10546&oldid=10138
+[18:42:06] *** Quits SCV__ (Read error: Connection reset by peer)
+[18:42:06] *** Quits rjeli____ (Read error: Connection reset by peer)
+[18:53:53] *** Joins SCV__
+[19:01:51] *** Quits SCV__ (Read error: Connection reset by peer)
+[19:05:45] *** Joins SCV__
+[19:12:27] *** Joins rjeli____
+[19:45:07] *** Joins fgsfds
+[21:47:50] *** Quits derk0pf_ (Ping timeout: 265 seconds)
+[21:55:16] *** Joins derk0pf
+[22:10:04] *** Quits derk0pf (Ping timeout: 265 seconds)
+[22:30:58] *** Joins derk0pf
+[22:40:35] *** Quits derk0pf (Read error: Operation timed out)
+[23:07:03] *** Joins derk0pf
+[23:19:51] *** Quits derk0pf (Ping timeout: 744 seconds)
+[23:22:50] *** Joins derk0pf
+[23:36:34] *** Quits derk0pf (Read error: Operation timed out)
+[23:41:23] *** Joins derk0pf
+[23:46:15] *** Quits derk0pf (Ping timeout: 265 seconds)
+[23:59:23] *** Joins derk0pf

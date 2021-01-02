@@ -1,0 +1,129 @@
+[00:15:32] <plutobot> Wiki | Page changed: Switch Userland Flaws | User: yls8 | https://switchbrew.org/w/index.php?curid=56&diff=10547&oldid=10397
+[01:08:52] *** Quits Tcm0 (Leaving)
+[02:29:17] *** Quits phigcloud (Read error: Connection reset by peer)
+[02:29:30] *** Joins phigcloud
+[03:35:58] *** Quits nullstrin (Read error: Operation timed out)
+[03:39:44] *** Joins nullstrin
+[06:02:03] *** Quits flotwig (se.hub efnet.port80.se)
+[06:02:03] *** Quits d0k3 (se.hub efnet.port80.se)
+[06:02:03] *** Quits lemmy (se.hub efnet.port80.se)
+[06:02:03] *** Quits Summeli (se.hub efnet.port80.se)
+[06:02:03] *** Quits rjeli____ (se.hub efnet.port80.se)
+[06:02:03] *** Quits SCV__ (se.hub efnet.port80.se)
+[06:02:03] *** Quits Phils3r (se.hub efnet.port80.se)
+[06:02:03] *** Quits mid-kid1 (se.hub efnet.port80.se)
+[06:02:03] *** Quits dibas (se.hub efnet.port80.se)
+[06:02:03] *** Quits pewz (se.hub efnet.port80.se)
+[06:02:03] *** Quits changO- (se.hub efnet.port80.se)
+[06:02:03] *** Quits derrek (se.hub efnet.port80.se)
+[06:02:03] *** Quits zini (se.hub efnet.port80.se)
+[06:02:03] *** Quits gruetzkop (se.hub efnet.port80.se)
+[06:02:03] *** Quits rctgamer3 (se.hub efnet.port80.se)
+[06:02:04] *** Quits Normmatt (se.hub efnet.port80.se)
+[06:02:04] *** Quits datagutt (se.hub efnet.port80.se)
+[06:02:04] *** Quits ave_ (se.hub efnet.port80.se)
+[06:02:04] *** Quits uyjulian (se.hub efnet.port80.se)
+[06:02:04] *** Quits klock (se.hub efnet.port80.se)
+[06:02:04] *** Quits TAL (se.hub efnet.port80.se)
+[06:02:04] *** Quits mafcadio3 (se.hub efnet.port80.se)
+[06:02:04] *** Quits Ghabry (se.hub efnet.port80.se)
+[06:02:04] *** Quits hexkyz (se.hub efnet.port80.se)
+[06:02:04] *** Quits hordak (se.hub efnet.port80.se)
+[06:02:04] *** Quits hthh_ (se.hub efnet.port80.se)
+[06:02:04] *** Quits coriolis (se.hub efnet.port80.se)
+[06:04:27] *** Joins flotwig
+[06:04:27] *** Joins d0k3
+[06:04:27] *** Joins lemmy
+[06:04:27] *** Joins Summeli
+[06:04:27] *** Joins rjeli____
+[06:04:27] *** Joins SCV__
+[06:04:27] *** Joins Phils3r
+[06:04:27] *** Joins mid-kid1
+[06:04:28] *** Joins dibas
+[06:04:28] *** Joins pewz
+[06:04:28] *** Joins changO-
+[06:04:28] *** Joins derrek
+[06:04:28] *** Joins zini
+[06:04:28] *** Joins gruetzkop
+[06:04:28] *** Joins rctgamer3
+[06:04:28] *** Joins Normmatt
+[06:04:28] *** Joins datagutt
+[06:04:28] *** Joins ave_
+[06:04:28] *** Joins uyjulian
+[06:04:28] *** Joins klock
+[06:04:28] *** Joins TAL
+[06:04:28] *** Joins mafcadio3
+[06:04:28] *** Joins Ghabry
+[06:04:28] *** Joins hexkyz
+[06:04:28] *** Joins hordak
+[06:04:28] *** Joins hthh_
+[06:04:28] *** Joins coriolis
+[06:09:47] *** Quits rajkosto (Read error: Connection reset by peer)
+[07:33:30] *** Quits fgsfds (Read error: Connection reset by peer)
+[13:38:48] *** Quits flotwig (se.hub efnet.port80.se)
+[13:38:48] *** Quits d0k3 (se.hub efnet.port80.se)
+[13:38:48] *** Quits lemmy (se.hub efnet.port80.se)
+[13:38:48] *** Quits Summeli (se.hub efnet.port80.se)
+[13:38:48] *** Quits rjeli____ (se.hub efnet.port80.se)
+[13:38:48] *** Quits SCV__ (se.hub efnet.port80.se)
+[13:38:48] *** Quits Phils3r (se.hub efnet.port80.se)
+[13:38:48] *** Quits mid-kid1 (se.hub efnet.port80.se)
+[13:38:48] *** Quits dibas (se.hub efnet.port80.se)
+[13:38:48] *** Quits pewz (se.hub efnet.port80.se)
+[13:38:48] *** Quits changO- (se.hub efnet.port80.se)
+[13:38:48] *** Quits derrek (se.hub efnet.port80.se)
+[13:38:48] *** Quits zini (se.hub efnet.port80.se)
+[13:38:48] *** Quits gruetzkop (se.hub efnet.port80.se)
+[13:38:48] *** Quits rctgamer3 (se.hub efnet.port80.se)
+[13:38:48] *** Quits Normmatt (se.hub efnet.port80.se)
+[13:38:48] *** Quits datagutt (se.hub efnet.port80.se)
+[13:38:48] *** Quits ave_ (se.hub efnet.port80.se)
+[13:38:48] *** Quits uyjulian (se.hub efnet.port80.se)
+[13:38:48] *** Quits klock (se.hub efnet.port80.se)
+[13:38:48] *** Quits TAL (se.hub efnet.port80.se)
+[13:38:48] *** Quits mafcadio3 (se.hub efnet.port80.se)
+[13:38:48] *** Quits Ghabry (se.hub efnet.port80.se)
+[13:38:48] *** Quits hexkyz (se.hub efnet.port80.se)
+[13:38:48] *** Quits hordak (se.hub efnet.port80.se)
+[13:38:48] *** Quits hthh_ (se.hub efnet.port80.se)
+[13:38:48] *** Quits coriolis (se.hub efnet.port80.se)
+[13:54:34] *** Joins flotwig
+[13:54:34] *** Joins d0k3
+[13:54:34] *** Joins lemmy
+[13:54:34] *** Joins Summeli
+[13:54:34] *** Joins rjeli____
+[13:54:34] *** Joins SCV__
+[13:54:34] *** Joins Phils3r
+[13:54:34] *** Joins mid-kid1
+[13:54:34] *** Joins dibas
+[13:54:34] *** Joins pewz
+[13:54:34] *** Joins changO-
+[13:54:34] *** Joins derrek
+[13:54:34] *** Joins zini
+[13:54:34] *** Joins gruetzkop
+[13:54:34] *** Joins rctgamer3
+[13:54:34] *** Joins Normmatt
+[13:54:34] *** Joins datagutt
+[13:54:34] *** Joins ave_
+[13:54:34] *** Joins uyjulian
+[13:54:34] *** Joins klock
+[13:54:34] *** Joins TAL
+[13:54:34] *** Joins mafcadio3
+[13:54:34] *** Joins Ghabry
+[13:54:34] *** Joins hexkyz
+[13:54:34] *** Joins hordak
+[13:54:34] *** Joins hthh_
+[13:54:34] *** Joins coriolis
+[17:52:34] <plutobot> Wiki | Page changed: Homebrew Applications | User: Chilling | https://switchbrew.org/w/index.php?curid=293&diff=10548&oldid=10522
+[17:54:39] *** Joins lameboy2
+[17:57:03] *** Quits lameboy (Ping timeout: 255 seconds)
+[17:57:06] *** lameboy2 is now known as lameboy
+[18:08:06] *** Joins Not-Aus
+[18:27:53] *** Joins fgsfds
+[18:41:39] *** Quits Not-Aus (Remote host closed the connection)
+[19:56:56] *** Joins rmaw_
+[19:56:57] *** Quits rmaw (Read error: Connection reset by peer)
+[20:10:29] *** Quits d3m3vilur (Read error: Operation timed out)
+[20:10:41] *** Joins d3m3vilur
+[20:56:59] *** Joins derk0pf
+[23:36:51] <giglife> happy new year

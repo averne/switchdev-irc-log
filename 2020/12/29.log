@@ -1,0 +1,84 @@
+[00:23:19] *** Quits derk0pf (Ping timeout: 744 seconds)
+[01:50:09] *** Quits Tcm0 (Leaving)
+[02:31:04] <plutobot> Wiki | Page changed: NPDM | User: SciresM | https://switchbrew.org/w/index.php?curid=141&diff=10538&oldid=10190
+[02:32:26] <plutobot> Wiki | Page changed: NPDM | User: SciresM | https://switchbrew.org/w/index.php?curid=141&diff=10539&oldid=10538
+[03:14:18] *** Joins derk0pf
+[03:23:10] *** Quits derk0pf (Ping timeout: 501 seconds)
+[05:15:01] *** Joins derk0pf
+[05:24:00] *** Quits derk0pf (Ping timeout: 501 seconds)
+[07:15:48] *** Joins derk0pf
+[07:28:48] *** Quits derk0pf (Ping timeout: 745 seconds)
+[07:37:30] *** Quits fgsfds (Read error: Connection reset by peer)
+[08:21:18] *** Quits rjeli____ (ny.us.hub efnet.port80.se)
+[08:21:18] *** Quits SCV__ (ny.us.hub efnet.port80.se)
+[08:21:18] *** Quits Summeli (ny.us.hub efnet.port80.se)
+[08:21:18] *** Quits dibas (ny.us.hub efnet.port80.se)
+[08:21:18] *** Quits changO- (ny.us.hub efnet.port80.se)
+[08:21:18] *** Quits derrek (ny.us.hub efnet.port80.se)
+[08:21:18] *** Quits zini (ny.us.hub efnet.port80.se)
+[08:21:18] *** Quits gruetzkop (ny.us.hub efnet.port80.se)
+[08:21:18] *** Quits rctgamer3 (ny.us.hub efnet.port80.se)
+[08:21:18] *** Quits mid-kid4 (ny.us.hub efnet.port80.se)
+[08:21:18] *** Quits Normmatt (ny.us.hub efnet.port80.se)
+[08:21:18] *** Quits datagutt (ny.us.hub efnet.port80.se)
+[08:21:18] *** Quits ave_ (ny.us.hub efnet.port80.se)
+[08:21:18] *** Quits Phils3r (ny.us.hub efnet.port80.se)
+[08:21:18] *** Quits uyjulian (ny.us.hub efnet.port80.se)
+[08:21:18] *** Quits klock (ny.us.hub efnet.port80.se)
+[08:21:18] *** Quits TAL (ny.us.hub efnet.port80.se)
+[08:21:18] *** Quits mafcadio3 (ny.us.hub efnet.port80.se)
+[08:21:18] *** Quits Ghabry (ny.us.hub efnet.port80.se)
+[08:21:18] *** Quits hexkyz (ny.us.hub efnet.port80.se)
+[08:21:18] *** Quits hordak (ny.us.hub efnet.port80.se)
+[08:21:18] *** Quits hthh_ (ny.us.hub efnet.port80.se)
+[08:21:18] *** Quits coriolis (ny.us.hub efnet.port80.se)
+[08:32:26] *** Joins rjeli____
+[08:32:26] *** Joins SCV__
+[08:32:26] *** Joins Summeli
+[08:32:26] *** Joins dibas
+[08:32:26] *** Joins changO-
+[08:32:26] *** Joins derrek
+[08:32:26] *** Joins zini
+[08:32:26] *** Joins gruetzkop
+[08:32:26] *** Joins rctgamer3
+[08:32:26] *** Joins mid-kid4
+[08:32:26] *** Joins Normmatt
+[08:32:26] *** Joins datagutt
+[08:32:26] *** Joins ave_
+[08:32:26] *** Joins Phils3r
+[08:32:26] *** Joins uyjulian
+[08:32:26] *** Joins klock
+[08:32:26] *** Joins TAL
+[08:32:26] *** Joins mafcadio3
+[08:32:26] *** Joins Ghabry
+[08:32:26] *** Joins hexkyz
+[08:32:26] *** Joins hordak
+[08:32:26] *** Joins hthh_
+[08:32:26] *** Joins coriolis
+[08:50:07] *** Joins derk0pf
+[10:12:34] *** Quits derk0pf (Ping timeout: 501 seconds)
+[10:48:41] *** Joins derk0pf
+[11:01:33] *** Quits derk0pf (Read error: Connection refused)
+[11:20:59] *** Joins pewz
+[13:03:31] *** Joins Tcm0
+[14:52:02] *** Joins derk0pf
+[16:49:21] *** Quits Tcm0 (Ping timeout: 622 seconds)
+[16:55:20] *** Joins fgsfds
+[17:03:48] *** Joins Tcm0
+[17:43:29] *** Joins rajkosto
+[18:38:37] <plutobot> Wiki | Page changed: PCIe services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=130&diff=10540&oldid=8680
+[18:52:21] *** Quits rajkosto (Read error: Connection reset by peer)
+[19:11:05] <plutobot> Wiki | Page changed: BTM services | User: yls8 | https://switchbrew.org/w/index.php?curid=306&diff=10541&oldid=9930
+[19:39:48] <plutobot> Wiki | Page changed: Settings services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=110&diff=10542&oldid=10337
+[20:10:03] <plutobot> Wiki | Page changed: BTM services | User: yls8 | https://switchbrew.org/w/index.php?curid=306&diff=10543&oldid=10541
+[20:46:25] <plutobot> GitHub | New commit | User: yellows | https://github.com/switchbrew/libnx/commit/e9ee0b2421
+[20:46:28] <DoozerBot> yellows8 pushed to master: btm/btdrv: Updated param names. "btm/btdrv: Updated param names." [076 files modified], building targets: 02lib
+[20:50:12] <DoozerBot> 02lib: 03 v4.0.0.2 Build OK - https://doozer.io/build/zer7c8ojql
+[21:19:03] *** Joins dibas_
+[21:19:03] *** Quits dibas (Read error: Connection reset by peer)
+[21:19:07] *** dibas_ is now known as dibas
+[21:57:04] *** Quits mid-kid4 (Quit: WeeChat 2.9)
+[21:57:10] *** Joins mid-kid
+[22:29:16] *** Joins X-Scale`
+[22:32:27] *** Quits X-Scale (Ping timeout: 255 seconds)
+[22:32:27] *** X-Scale` is now known as X-Scale
