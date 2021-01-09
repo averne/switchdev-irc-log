@@ -1,0 +1,53 @@
+[00:39:47] *** Joins derk0pf
+[00:48:54] *** Quits derk0pf (Read error: Operation timed out)
+[02:34:38] *** Quits ihaveamac (Quit: fail)
+[02:35:58] *** Joins ihaveamac
+[02:40:37] *** Joins derk0pf
+[02:49:27] *** Quits derk0pf (Ping timeout: 496 seconds)
+[04:41:16] *** Joins derk0pf
+[04:47:36] *** Quits refs (Quit: refs)
+[04:53:02] *** Quits derk0pf (Read error: Operation timed out)
+[06:42:00] *** Joins derk0pf
+[06:50:43] *** Quits derk0pf (Ping timeout: 501 seconds)
+[06:51:07] <plutobot> GitHub | New PR: add applicati... | User: HookedBehemoth | https://github.com/switchbrew/libnx/pull/519
+[06:51:08] <DoozerBot> PR-#519: add application version manager service wrapper, building targets: 02lib
+[06:54:50] <DoozerBot> 02lib: 03 v3.3.0.178 Build OK - https://doozer.io/build/w7v83v0zaj
+[07:08:07] <DoozerBot> PR-#519: add application version manager service wrapper, building targets: 02lib
+[07:14:30] <DoozerBot> 02lib: 03 v3.3.0.179 Build OK - https://doozer.io/build/h3wtxyelkr
+[07:26:39] <plutobot> Wiki | Page changed: Shared Database services | User: Behemoth | https://switchbrew.org/w/index.php?curid=210&diff=10557&oldid=10555
+[08:42:40] *** Joins derk0pf
+[08:53:30] *** Quits GerbilSof (Quit: Windows must now restart because the Remote Procedure Call (RPC) service terminated unexpectedly.)
+[09:14:58] *** Joins GerbilSof
+[10:43:32] *** Quits derk0pf (Ping timeout: 265 seconds)
+[10:56:47] *** Joins derk0pf
+[11:20:26] *** Quits ihaveamac (Quit: fail)
+[11:20:58] *** Joins ihaveamac
+[12:09:55] *** Quits derk0pf (Read error: Operation timed out)
+[12:09:59] *** Joins derk0pf_
+[13:15:00] *** Joins refs
+[15:13:58] *** Quits derk0pf_ (Ping timeout: 745 seconds)
+[15:32:00] *** Joins derk0pf
+[16:28:03] *** Joins fgsfds
+[17:25:38] <DoozerBot> fincs pushed to master: add application version manager service wrapper (#519) "add application version manager service wrapper (#519)" [032 files added07, 1 file modified], building targets: 02lib
+[17:29:22] <DoozerBot> 02lib: 03 v4.0.0.6 Build OK - https://doozer.io/build/bq7h40jyrq
+[17:32:52] <plutobot> GitHub | New commit | User: HookedBehemoth | https://github.com/switchbrew/libnx/commit/43202cc829
+[18:03:14] *** Joins derk0pf_
+[18:08:26] *** Quits derk0pf (Read error: Operation timed out)
+[18:13:38] *** Quits flotwig (Ping timeout: 745 seconds)
+[18:24:02] <DoozerBot> PR-#520: avm: fix more merge errors, building targets: 02lib
+[18:27:19] <DoozerBot> fincs pushed to master: avm: fix more merge errors "avm: fix more merge errors" [071 file modified], building targets: 02lib
+[18:30:41] <DoozerBot> 02lib: 03 v4.0.0.7 Build OK - https://doozer.io/build/8ksmr2sgst
+[18:32:47] <plutobot> GitHub | New commit | User: Luis Scheuren... | https://github.com/switchbrew/libnx/commit/a1a69ebe09
+[19:10:55] *** Joins Tcm0
+[19:46:45] *** Joins changO-
+[20:53:09] <plutobot> GitHub | New PR: avm fix buffe... | User: HookedBehemoth | https://github.com/switchbrew/libnx/pull/521
+[20:53:14] <DoozerBot> PR-#521: avm: fix buffer size for version list import, building targets: 02lib
+[20:54:00] <DoozerBot> fincs pushed to master: avm: fix buffer size for version list import "avm: fix buffer size for version list import" [071 file modified], building targets: 02lib
+[20:54:03] <plutobot> GitHub | New commit | User: Luis Scheuren... | https://github.com/switchbrew/libnx/commit/9e52e55177
+[20:59:53] <DoozerBot> 02lib: 03 v4.0.0.8 Build OK - https://doozer.io/build/1rerquedcs
+[21:45:45] *** Joins derk0pf
+[21:52:14] *** Quits derk0pf_ (Read error: Operation timed out)
+[23:32:56] *** Quits Behemoth_ (Quit)
+[23:38:04] *** Joins Behemoth_
+[23:40:25] *** Quits Behemoth_ (Client Quit)
+[23:42:03] *** Joins Behemoth_

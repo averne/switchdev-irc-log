@@ -1,0 +1,51 @@
+[00:25:41] *** Quits Tcm0 (Leaving)
+[00:30:42] *** Joins derk0pf
+[00:35:40] *** Quits derk0pf (Ping timeout: 272 seconds)
+[00:47:11] *** Joins derk0pf
+[00:52:09] *** Quits derk0pf (Ping timeout: 272 seconds)
+[01:03:05] *** Joins derk0pf
+[01:20:38] *** Quits derk0pf (Read error: Operation timed out)
+[02:49:53] *** Quits thejsa_ (Read error: Operation timed out)
+[02:50:56] *** Joins thejsa
+[02:57:39] *** Joins lemmy-
+[02:59:12] *** Quits lemmu (Read error: Operation timed out)
+[02:59:18] *** Joins thejsa_
+[03:02:05] *** Quits GerbilSof (Read error: Operation timed out)
+[03:03:56] *** Quits thejsa (Ping timeout: 604 seconds)
+[03:14:12] *** Joins Maylay_
+[03:16:48] *** Quits thejsa_ (se.hub efnet.deic.eu)
+[03:16:48] *** Quits Maylay (se.hub efnet.deic.eu)
+[03:22:12] *** Joins SCV___
+[03:26:40] *** Quits rjeli____ (Read error: Connection reset by peer)
+[03:30:10] *** Joins rjeli____
+[03:36:43] *** Quits SCV__ (Ping timeout: 1230 seconds)
+[03:36:43] *** SCV___ is now known as SCV__
+[05:04:33] *** Joins derk0pf
+[05:09:54] *** Quits derk0pf (Ping timeout: 272 seconds)
+[06:26:44] *** Joins Summeli
+[06:50:44] *** Quits fgsfds (Read error: Connection reset by peer)
+[07:05:21] *** Joins derk0pf
+[07:08:58] *** Joins GerbilSof
+[07:10:05] *** Quits derk0pf (Ping timeout: 265 seconds)
+[07:31:31] *** Quits Galaxy| (Quit.)
+[07:37:36] *** Joins Galaxy|
+[07:55:32] *** Quits Galaxy| (Quit: Quit.)
+[07:57:02] *** Joins Galaxy|
+[07:59:40] *** Quits Galaxy| (Client Quit)
+[08:07:36] <DoozerBot> yellows8 pushed to master: btdrv: Updated names for BtdrvHidReportEvent*. "btdrv: Updated names for BtdrvHidReportEvent*." [073 files modified], building targets: 02lib
+[08:07:38] <plutobot> GitHub | New commit | User: yellows | https://github.com/switchbrew/libnx/commit/348b21def2
+[08:09:16] *** Joins Galaxy|
+[08:11:22] <DoozerBot> 02lib: 03 v4.0.0.4 Build OK - https://doozer.io/build/wj9jckc2p0
+[08:13:26] <plutobot> Wiki | Page changed: Bluetooth Driver services | User: yls8 | https://switchbrew.org/w/index.php?curid=161&diff=10550&oldid=10549
+[09:11:47] *** Joins derk0pf
+[09:32:00] *** Quits derk0pf (Read error: Operation timed out)
+[13:24:28] *** Joins refs
+[16:04:35] *** Joins fgsfds
+[17:48:01] *** Joins derk0pf
+[18:26:49] *** Quits derk0pf (Read error: Operation timed out)
+[18:44:08] *** Joins derk0pf
+[18:49:05] *** Quits derk0pf (Ping timeout: 265 seconds)
+[19:07:34] *** Joins derk0pf
+[19:23:37] *** Joins Tcm0
+[23:12:14] *** Quits GerbilSof (Quit: Windows must now restart because the Remote Procedure Call (RPC) service terminated unexpectedly.)
+[23:14:21] *** Joins GerbilSof
