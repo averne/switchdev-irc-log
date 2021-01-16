@@ -1,0 +1,219 @@
+[00:16:18] *** Joins dibas
+[00:16:18] *** Joins coriolis
+[00:16:18] *** Joins Genolo
+[00:16:18] *** Joins mid-kid1
+[00:16:18] *** Joins derrek
+[00:16:18] *** Joins Phils3r
+[00:16:18] *** Joins rctgamer3
+[00:16:18] *** Joins rjeli____
+[00:16:18] *** Joins SCV__
+[00:16:18] *** Joins Summeli
+[00:16:31] *** Joins uyjulian
+[00:16:43] *** Joins ave_7
+[00:17:47] *** Joins hexkyz
+[00:20:39] *** Joins pewz
+[00:21:57] *** Joins hthh
+[00:41:12] *** Joins fgsfds
+[00:55:52] <Behemoth_> Hey @WntrMute Could you please update the docker dka64 image? I've been wanting to get a CI back up with libnx master and updated portlibs.
+[00:56:32] <Behemoth_> s/master/4.0.0/
+[01:30:57] *** Joins giglife_
+[01:32:17] *** Quits nullstrin (Read error: Operation timed out)
+[01:32:35] *** Quits GerbilSof (Read error: Operation timed out)
+[01:32:53] *** Joins foghorn2
+[01:33:24] *** Joins figgis_
+[01:33:46] *** Quits j0hny5 (Read error: Operation timed out)
+[01:34:28] *** Quits giglife (Read error: Operation timed out)
+[01:34:28] *** giglife_ is now known as giglife
+[01:35:26] *** Joins GerbilSof
+[01:37:55] *** Quits foghorn (Read error: Operation timed out)
+[01:38:29] *** Joins j0hny5
+[01:38:32] *** Quits fgsfds (Read error: Operation timed out)
+[01:42:21] *** Joins nullstrin
+[02:37:34] *** Quits refs (Quit: refs)
+[02:44:24] *** Quits Extrems (ZNC 1.7.5 - https://znc.in)
+[02:48:08] *** Joins Extrems
+[03:14:52] *** Quits Extrems (ZNC 1.7.5 - https://znc.in)
+[03:19:11] *** Joins Extrems
+[03:26:30] *** Quits Extrems (ZNC 1.7.5 - https://znc.in)
+[04:12:13] *** Joins X-Scale`
+[04:12:39] *** Quits X-Scale (Ping timeout: 255 seconds)
+[04:13:32] *** X-Scale` is now known as X-Scale
+[04:30:50] *** Quits averne (quit)
+[04:33:13] *** Joins averne
+[04:33:13] *** Server sets mode: +stn 
+[04:35:59] *** Joins Walter
+[04:41:21] *** Quits Walter (Leaving)
+[04:42:33] *** Joins Walter
+[04:51:10] *** Quits Walter (Leaving)
+[05:44:34] *** Joins Extrems
+[06:31:12] *** Quits figgis_ (Read error: Connection reset by peer)
+[07:25:33] *** Quits hordak (Ping timeout: 272 seconds)
+[07:25:33] *** Quits Stary_ (Ping timeout: 272 seconds)
+[07:26:49] *** Quits DacoTaco (Ping timeout: 272 seconds)
+[07:27:07] *** Joins Stary
+[07:27:20] *** Joins hordak
+[07:27:27] *** Quits Mimoja (Ping timeout: 272 seconds)
+[07:28:05] *** Quits zini- (Ping timeout: 272 seconds)
+[07:28:19] *** Joins zini
+[07:28:43] *** Quits Normmatt (Ping timeout: 272 seconds)
+[07:28:43] *** Quits plutobot (Ping timeout: 272 seconds)
+[07:34:58] *** Joins Normmatt
+[07:50:35] *** Quits DoozerBot (Read error: Connection reset by peer)
+[07:52:20] *** Joins DoozerBot
+[08:04:59] *** Quits Galaxy| (Read error: Connection reset by peer)
+[08:13:25] *** Joins Mimoja
+[08:13:25] *** Joins plutobot
+[08:14:23] *** Joins DacoTaco
+[08:14:45] *** Quits Aaerox (Read error: Operation timed out)
+[08:19:26] *** Joins Galaxy|
+[08:26:54] *** Quits giglife (Read error: Operation timed out)
+[08:27:03] *** Joins giglife
+[08:28:16] *** Joins Aaerox
+[08:35:33] *** Quits giglife (ZNC - http://znc.in)
+[08:35:51] *** Quits nullstrin (Read error: Operation timed out)
+[08:38:44] *** Quits GrecKo_ (Read error: Operation timed out)
+[08:39:07] *** Joins GrecKo
+[08:43:17] *** Quits j0hny5 (Read error: Operation timed out)
+[08:44:59] *** Joins j0hny5
+[08:47:36] *** Quits averne (quit)
+[08:47:53] *** Joins averne
+[08:47:53] *** Server sets mode: +stn 
+[08:48:21] *** Joins thejsa_
+[08:53:43] *** Quits GerbilSof (Ping timeout: 604 seconds)
+[08:55:20] *** Joins GerbilSof
+[08:59:33] *** Joins giglife
+[09:01:59] *** Quits Galaxy| (se.hub efnet.port80.se)
+[09:01:59] *** Quits DoozerBot (se.hub efnet.port80.se)
+[09:01:59] *** Quits Normmatt (se.hub efnet.port80.se)
+[09:01:59] *** Quits zini (se.hub efnet.port80.se)
+[09:01:59] *** Quits hthh (se.hub efnet.port80.se)
+[09:01:59] *** Quits pewz (se.hub efnet.port80.se)
+[09:01:59] *** Quits hexkyz (se.hub efnet.port80.se)
+[09:01:59] *** Quits ave_7 (se.hub efnet.port80.se)
+[09:01:59] *** Quits uyjulian (se.hub efnet.port80.se)
+[09:01:59] *** Quits dibas (se.hub efnet.port80.se)
+[09:01:59] *** Quits coriolis (se.hub efnet.port80.se)
+[09:01:59] *** Quits Genolo (se.hub efnet.port80.se)
+[09:01:59] *** Quits mid-kid1 (se.hub efnet.port80.se)
+[09:01:59] *** Quits derrek (se.hub efnet.port80.se)
+[09:01:59] *** Quits Phils3r (se.hub efnet.port80.se)
+[09:01:59] *** Quits rctgamer3 (se.hub efnet.port80.se)
+[09:01:59] *** Quits rjeli____ (se.hub efnet.port80.se)
+[09:01:59] *** Quits SCV__ (se.hub efnet.port80.se)
+[09:01:59] *** Quits Summeli (se.hub efnet.port80.se)
+[09:07:48] *** Joins refsw`
+[09:11:19] *** Quits Snetry (Read error: Operation timed out)
+[09:11:38] *** Quits refsw (Read error: Operation timed out)
+[09:11:49] *** Quits TuxSH (Read error: Operation timed out)
+[09:12:19] *** Joins hordak_
+[09:13:12] *** Quits thomasnet (Read error: Operation timed out)
+[09:13:35] *** Quits d3m3vilur (Read error: Operation timed out)
+[09:14:21] *** Quits hordak (Read error: Operation timed out)
+[09:14:21] *** hordak_ is now known as hordak
+[09:14:40] *** Quits phigcloud (Read error: Operation timed out)
+[09:15:41] *** Quits thejsa_ (Read error: Operation timed out)
+[09:16:56] *** Quits rmaw (Read error: Operation timed out)
+[09:17:53] *** Joins thejsa_
+[09:17:53] *** Joins SCV__
+[09:17:53] *** Joins rjeli____
+[09:17:53] *** Joins Galaxy|
+[09:17:53] *** Joins DoozerBot
+[09:17:53] *** Joins Normmatt
+[09:17:53] *** Joins zini
+[09:17:53] *** Joins hthh
+[09:17:53] *** Joins pewz
+[09:17:53] *** Joins hexkyz
+[09:17:53] *** Joins ave_7
+[09:17:53] *** Joins uyjulian
+[09:17:53] *** Joins dibas
+[09:17:53] *** Joins coriolis
+[09:17:53] *** Joins Genolo
+[09:17:53] *** Joins mid-kid1
+[09:17:53] *** Joins derrek
+[09:17:53] *** Joins Phils3r
+[09:17:53] *** Joins rctgamer3
+[09:17:53] *** Joins Summeli
+[09:18:39] *** Joins thomasnet
+[09:18:39] *** Joins noirscape
+[09:18:46] *** Quits blasty (Read error: Connection reset by peer)
+[09:18:58] *** Joins Snetry
+[09:19:00] *** Joins TuxSH
+[09:19:09] *** Joins d3m3vilur
+[09:20:07] *** Joins phigcloud
+[09:21:14] *** Joins rmaw
+[09:21:38] *** Quits hexkyz (Ping timeout: 745 seconds)
+[09:21:45] *** Joins blasty
+[09:24:32] *** Joins hexkyz
+[09:27:33] *** Joins refsw2
+[09:30:33] *** Quits averne (quit)
+[09:30:49] *** Joins averne_
+[09:30:49] *** Server sets mode: +stn 
+[09:30:57] *** Quits refsw` (Ping timeout: 272 seconds)
+[09:30:57] *** Quits averne (Ping timeout: 272 seconds)
+[09:31:35] *** Quits Mimoja (Ping timeout: 272 seconds)
+[09:34:10] *** Quits j0hny5 (Read error: Operation timed out)
+[09:35:30] *** Joins j0hny5
+[09:39:57] *** Quits hordak (Ping timeout: 604 seconds)
+[09:40:39] *** Joins hordak
+[09:46:35] *** Quits |Shadow| (Read error: Operation timed out)
+[09:51:09] *** Joins |Shadow|
+[09:51:35] *** Quits giglife (Ping timeout: 963 seconds)
+[09:52:33] *** Joins giglife
+[09:53:08] *** Quits hexkyz (Ping timeout: 745 seconds)
+[09:53:28] *** Joins hexkyz
+[09:56:57] *** Joins |Shadow|_
+[09:59:55] *** Quits |Shadow| (Read error: Operation timed out)
+[10:02:25] *** Quits |Shadow|_ (Read error: Connection reset by peer)
+[10:02:42] *** Joins |Shadow|
+[10:06:19] *** Quits giglife (ZNC - http://znc.in)
+[10:12:04] *** Joins giglife
+[10:14:51] *** Joins plutobot
+[10:15:38] *** Joins DacoTaco
+[10:17:31] *** Joins Mimoja
+[10:18:45] *** Quits mtheall_ (Read error: Operation timed out)
+[10:18:47] *** Quits capin3 (Read error: Operation timed out)
+[10:18:58] *** Joins capin3
+[10:19:30] *** Quits nrq (Read error: Operation timed out)
+[10:19:31] *** Joins nrq
+[10:20:01] *** Quits Cu3PO42 (Read error: Operation timed out)
+[10:20:01] *** Snetry is now known as Sentry
+[10:20:11] *** Quits WntrMute (Read error: Operation timed out)
+[10:20:18] *** Joins WntrMute
+[10:20:31] *** yls8bot sets mode: +o WntrMute
+[10:20:38] *** Quits hordak (Ping timeout: 265 seconds)
+[10:20:38] *** Quits sh0e- (Ping timeout: 265 seconds)
+[10:20:38] *** Quits fincs (Ping timeout: 265 seconds)
+[10:20:38] *** Quits TurtleP (Ping timeout: 265 seconds)
+[10:21:07] *** Quits AlexAltea (Ping timeout: 265 seconds)
+[10:21:07] *** Quits Jdbye (Ping timeout: 265 seconds)
+[10:22:30] *** Joins hordak
+[10:22:44] *** Joins TurtleP
+[10:23:19] *** Joins fincs
+[10:23:19] *** WntrMute sets mode: +o fincs
+[10:23:32] *** Quits KuKzz (Ping timeout: 501 seconds)
+[10:24:02] *** Joins mtheall
+[10:26:02] *** Joins sh0e
+[10:26:08] *** Joins KuKzz
+[10:26:13] *** Joins AlexAltea
+[10:34:13] *** Joins Cu3PO42
+[10:48:33] *** Quits hexkyz (Ping timeout: 745 seconds)
+[10:51:20] *** Joins hexkyz
+[11:08:56] *** Joins Jdbye
+[12:18:57] *** Joins rajkosto
+[14:04:46] *** Quits |Shadow| ()
+[14:24:08] *** Joins |Shadow|
+[15:44:51] *** Joins fgsfds
+[16:50:48] *** Quits Cu3PO42 (Ping timeout: 745 seconds)
+[16:55:27] *** Joins Cu3PO42
+[16:59:13] *** Joins n87
+[17:04:16] *** Joins n87_2
+[17:07:49] *** Quits n87 (Ping timeout: 265 seconds)
+[18:14:53] *** Quits rajkosto (Read error: Connection reset by peer)
+[21:52:41] *** Joins refs
+[22:01:04] *** Quits n87_2 (Read error: Connection reset by peer)
+[22:20:35] *** Quits KuKzz (Ping timeout: 604 seconds)
+[22:24:10] *** Quits Maylay (Ping timeout: 1216 seconds)
+[22:31:42] *** Joins KuKzz
+[23:46:12] *** Joins Maylay
+[23:46:13] *** Quits Maylay (Remote host closed the connection!)
+[23:47:33] *** Joins Maylay
