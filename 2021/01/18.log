@@ -1,0 +1,39 @@
+[04:20:52] *** Quits |Shadow| (Read error: Operation timed out)
+[04:23:15] *** Joins |Shadow|
+[04:23:53] *** Quits lameboy (Ping timeout: 265 seconds)
+[04:41:17] *** Joins lameboy
+[04:41:46] *** Quits refs (Quit: refs)
+[08:05:13] *** Quits fgsfds (Read error: Connection reset by peer)
+[12:09:13] *** Joins m4ts_
+[12:10:47] *** Quits m4ts (Ping timeout: 265 seconds)
+[13:10:30] *** Quits Galaxy| (Quit: Quit.)
+[13:18:55] *** Joins Galaxy|
+[13:43:15] *** Joins flotwig
+[14:39:39] *** Quits m4ts_ (Ping timeout: 265 seconds)
+[15:24:12] *** Quits GerbilSof (Quit: Windows must now restart because the Remote Procedure Call (RPC) service terminated unexpectedly.)
+[15:28:14] *** Joins GerbilSof
+[15:52:27] <DoozerBot> PR-#523: framebuffer: Allow user override of automatic framebuffer memory allocation, building targets: 02lib
+[15:52:28] <plutobot> GitHub | New PR: framebuffer A... | User: SciresM | https://github.com/switchbrew/libnx/pull/523
+[15:56:14] <DoozerBot> 02lib: 03 v4.0.0.14 Build OK - https://doozer.io/build/kiwucoo9o8
+[15:56:31] *** Joins n87
+[16:35:48] <DoozerBot> PR-#523: framebuffer: Allow user override of automatic framebuffer memory allocation, building targets: 02lib
+[16:39:29] <DoozerBot> 02lib: 03 v4.0.0.15 Build OK - https://doozer.io/build/gfcqmm9ror
+[16:48:42] *** Quits n87 (Ping timeout: 265 seconds)
+[16:49:13] <plutobot> Wiki | Page changed: PCV services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=126&diff=10570&oldid=10546
+[16:59:53] *** Joins n87
+[20:48:35] <DoozerBot> fincs pushed to master: nv: Allow user override of transfer memory creation "nv: Allow user override of transfer memory creation" [071 file modified], building targets: 02lib
+[20:48:36] <plutobot> GitHub | New commit | User: fincs | https://github.com/switchbrew/libnx/commit/5057a1912e
+[20:52:25] <DoozerBot> 02lib: 03 v4.0.0.14 Build OK - https://doozer.io/build/0w564s73bc
+[21:35:58] *** Joins rajkosto
+[21:36:16] *** Quits n87 (Read error: Connection reset by peer)
+[21:52:55] *** Quits rajkosto (Read error: Connection reset by peer)
+[21:53:54] *** Joins thejsa
+[21:54:33] *** Joins derrek_
+[21:58:55] *** Joins refs
+[21:59:28] *** Quits derrek (Ping timeout: 615 seconds)
+[21:59:28] *** derrek_ is now known as derrek
+[22:00:38] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[22:00:51] *** Joins rjeli____
+[22:01:48] *** Quits thejsa_ (Ping timeout: 745 seconds)
+[22:05:53] *** Quits SCV__ (Ping timeout: 1230 seconds)
+[22:06:06] *** Joins SCV__

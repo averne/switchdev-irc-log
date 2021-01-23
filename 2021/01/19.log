@@ -1,0 +1,66 @@
+[02:15:33] *** Quits Cu3PO42 (Ping timeout: 745 seconds)
+[02:19:40] *** Joins Cu3PO42
+[02:26:47] *** Quits refs (Quit: refs)
+[02:26:52] *** Quits lameboy (Quit: brb)
+[02:27:29] *** Joins lameboy
+[02:34:13] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[02:34:26] *** Joins rjeli____
+[02:36:16] *** Joins cpncok3
+[02:36:33] *** Quits cpnc0ke (Ping timeout: 745 seconds)
+[02:43:38] *** Joins cpnc0ke
+[02:48:48] *** Quits cpncok3 (Ping timeout: 745 seconds)
+[03:00:28] *** Quits SCV__ (Ping timeout: 1230 seconds)
+[03:00:28] *** Quits hexkyz (Ping timeout: 745 seconds)
+[03:00:41] *** Joins SCV__
+[03:00:49] *** Joins hexkyz
+[03:13:53] *** Quits hexkyz (Ping timeout: 745 seconds)
+[03:16:14] *** Joins hexkyz
+[03:29:03] *** Quits hexkyz (Ping timeout: 745 seconds)
+[03:29:23] *** Joins hexkyz
+[03:42:28] *** Quits hexkyz (Ping timeout: 745 seconds)
+[03:43:18] *** Joins hexkyz
+[03:56:28] *** Quits hexkyz (Ping timeout: 745 seconds)
+[03:58:19] *** Joins hexkyz
+[04:12:13] *** Quits SCV__ (Ping timeout: 1230 seconds)
+[04:12:27] *** Joins SCV__
+[06:41:05] *** Joins justadev
+[06:41:55] <justadev> Hello, I'm not exactly sure on how to use deko3d, what shader language do I need to learn?
+[06:47:08] <justadev> I tried to look at PRIMER.md, but that has just initialization functions order and in the header I found all the functions I can call, but the order, the pipeline, the expected shader format ... that is unclear, so I decided to come here and ask the devs myself :-)
+[08:10:10] <averne_> justadev: you can find examples here: https://github.com/switchbrew/switch-examples/tree/master/graphics/deko3d, generally you can also run a github-wide search for a function or something and hope someone figured it out for you
+[08:10:19] *** averne_ is now known as averne
+[08:14:34] <justadev> https://github.com/switchbrew/switch-examples/tree/master/graphics/deko3d/deko_examples/source
+[08:14:52] <justadev> ^ just what I was looking for, how did I miss that one subdirectory? 
+[08:16:06] <averne> the shader language is a slightly custom dialect of glsl, the differences are documented here: https://github.com/devkitPro/uam
+[09:19:03] *** Joins justadev_
+[09:27:07] *** Quits justadev (Ping timeout: 857 seconds)
+[09:31:53] *** Quits SCV__ (Ping timeout: 1230 seconds)
+[09:32:06] *** Joins SCV__
+[10:25:56] *** Quits justadev_ (Quit: Lost terminal)
+[11:07:33] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[11:07:46] *** Joins rjeli____
+[15:10:48] *** Quits SCV__ (Ping timeout: 1230 seconds)
+[15:11:01] *** Joins SCV__
+[15:38:41] *** Quits balrog (Quit: Bye)
+[15:39:59] *** Joins balrog
+[17:19:09] *** Joins n87
+[17:27:49] *** Joins fgsfds
+[17:29:38] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[17:29:51] *** Joins rjeli____
+[18:06:34] *** Joins Tcm0
+[19:13:35] *** Quits balrog (Remote host closed the connection)
+[19:16:51] *** Joins balrog
+[19:17:10] *** Quits GerbilSof (Read error: Operation timed out)
+[19:27:18] *** Joins GerbilSof
+[19:39:43] *** Quits uyjulian (Ping timeout: 745 seconds)
+[19:55:13] *** Quits SCV__ (Read error: Connection timed out)
+[20:05:26] *** Joins SCV__
+[20:12:34] *** Joins m4ts
+[20:23:06] <plutobot> Wiki | Page changed: NPDM | User: Hexkyz | https://switchbrew.org/w/index.php?curid=141&diff=10571&oldid=10539
+[20:50:02] <plutobot> Wiki | Page changed: Gamecard Format | User: Hexkyz | https://switchbrew.org/w/index.php?curid=169&diff=10572&oldid=10192
+[21:00:34] <plutobot> Wiki | Page changed: Error codes | User: Hexkyz | https://switchbrew.org/w/index.php?curid=82&diff=10573&oldid=10445
+[21:22:58] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[21:23:11] *** Joins rjeli____
+[21:25:35] *** Joins refs
+[22:49:56] *** Quits n87 (Read error: Connection reset by peer)
+[23:21:58] *** Quits TurtleP (Ping timeout: 745 seconds)
+[23:22:03] *** Joins TurtleP

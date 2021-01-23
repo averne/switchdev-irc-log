@@ -1,0 +1,260 @@
+[00:00:13] *** Joins derrek
+[00:01:17] *** Quits rmaw (Ping timeout: 857 seconds)
+[00:05:53] *** Quits phigcloud (Ping timeout: 1221 seconds)
+[00:09:20] *** Joins phigcloud
+[00:09:58] *** Quits KuKzz_ (Read error: Operation timed out)
+[00:10:04] *** Joins KuKzz
+[00:14:30] *** Joins rmaw
+[00:17:30] *** Quits derrek (Quit: This should have not happened.)
+[00:23:50] *** Joins derrek
+[00:35:57] *** Quits derrek (Quit: This should have not happened.)
+[00:46:15] *** Joins derrek
+[01:24:01] *** Quits derrek (Quit: This should have not happened.)
+[01:30:21] *** Joins derrek
+[02:15:10] *** Joins rajkosto
+[02:50:14] *** Quits Phils3r (Read error: Connection reset by peer)
+[02:50:14] *** Quits rctgamer3 (Read error: Connection reset by peer)
+[02:50:14] *** Quits klock (Read error: Connection reset by peer)
+[02:50:14] *** Joins jn
+[02:50:14] *** Joins uyjulian_
+[02:50:17] *** Joins SCV___
+[02:50:26] *** Joins derrek_
+[02:50:36] *** Joins rctgamer3
+[02:51:43] *** Joins |Shadow|_
+[02:52:19] *** Joins klock
+[02:52:36] *** Joins Phils3r
+[02:56:48] *** Quits uyjulian (Ping timeout: 745 seconds)
+[02:56:49] *** uyjulian_ is now known as uyjulian
+[02:59:43] *** Quits derrek (Ping timeout: 745 seconds)
+[02:59:43] *** Quits rjeli____ (Ping timeout: 1215 seconds)
+[02:59:44] *** Quits |Shadow| (Ping timeout: 745 seconds)
+[02:59:44] *** Quits jn_ (Ping timeout: 745 seconds)
+[02:59:44] *** derrek_ is now known as derrek
+[03:02:44] *** Quits derrek (Quit: This should have not happened.)
+[03:03:13] *** Quits SCV__ (Ping timeout: 1230 seconds)
+[03:03:14] *** SCV___ is now known as SCV__
+[03:05:44] *** Joins rjeli____
+[03:11:07] *** Joins derrek
+[03:20:13] *** Quits Phils3r (Quit: ZNC - https://znc.in)
+[03:20:23] *** Quits rctgamer3 (Read error: Connection reset by peer)
+[03:20:23] *** Quits jn (Read error: Connection reset by peer)
+[03:20:27] *** Quits hthh (Read error: Connection reset by peer)
+[03:20:29] *** Joins hthh
+[03:20:31] *** Joins dibas
+[03:20:32] *** Quits mid-kid1 (Read error: Connection reset by peer)
+[03:20:32] *** Joins jn
+[03:20:33] *** Joins uyjulian_
+[03:20:33] *** Joins SCV___
+[03:21:04] *** Joins mid-kid1
+[03:21:50] *** Joins Phils3r
+[03:21:53] *** Quits hexkyz (Ping timeout: 742 seconds)
+[03:22:27] *** Joins derrek_
+[03:23:39] *** Joins |Shadow|
+[03:27:43] *** Quits derrek (Ping timeout: 745 seconds)
+[03:27:43] *** Quits uyjulian (Ping timeout: 745 seconds)
+[03:27:44] *** derrek_ is now known as derrek
+[03:27:44] *** uyjulian_ is now known as uyjulian
+[03:31:08] *** Joins hexkyz
+[03:32:58] *** Quits |Shadow|_ (Ping timeout: 745 seconds)
+[03:34:43] *** Quits SCV__ (Ping timeout: 1230 seconds)
+[03:34:43] *** SCV___ is now known as SCV__
+[03:37:00] *** Joins rctgamer3
+[03:50:39] *** Quits derrek (Quit: This should have not happened.)
+[03:52:11] *** Joins foghorn2
+[03:52:33] *** Quits dibas (Quit: Leaving...)
+[03:55:47] *** Joins dibas
+[03:56:33] *** Quits foghorn3 (Ping timeout: 265 seconds)
+[03:59:04] *** Joins derrek
+[04:03:07] *** Quits rajkosto (Read error: Connection reset by peer)
+[04:39:42] *** Quits derrek (Quit: This should have not happened.)
+[04:40:09] *** Quits dibas (Quit: Leaving...)
+[04:42:54] *** Joins dibas
+[04:42:59] *** Joins derrek
+[05:03:27] *** Quits derrek (Quit: This should have not happened.)
+[05:05:02] *** Quits dibas (Quit: Leaving...)
+[05:07:20] *** Joins dibas
+[05:07:45] *** Joins derrek
+[05:30:49] *** Quits uyjulian (Quit: ZNC - http://znc.in)
+[05:30:49] *** Quits rctgamer3 (Read error: Connection reset by peer)
+[05:30:55] *** Quits jn (Read error: Connection reset by peer)
+[05:30:55] *** Quits SCV__ (Read error: Connection reset by peer)
+[05:31:05] *** Joins hthh_
+[05:31:06] *** Quits mid-kid1 (Read error: Connection reset by peer)
+[05:31:07] *** Quits hthh (Write error: Connection reset by peer)
+[05:31:09] *** Joins jn
+[05:31:21] *** Joins |Shadow|_
+[05:31:26] *** Joins dibas_
+[05:31:33] *** Joins Phils3r_
+[05:31:34] *** Joins derrek_
+[05:31:36] *** Joins SCV__
+[05:31:36] *** Joins mid-kid1
+[05:31:38] *** Joins uyjulian
+[05:31:57] *** Quits Phils3r (Read error: Connection reset by peer)
+[05:36:38] *** Quits rjeli____ (Ping timeout: 1229 seconds)
+[05:37:13] *** Quits |Shadow| (Ping timeout: 745 seconds)
+[05:37:48] *** Quits dibas (Ping timeout: 745 seconds)
+[05:37:49] *** dibas_ is now known as dibas
+[05:40:43] *** Quits derrek (Ping timeout: 745 seconds)
+[05:40:43] *** derrek_ is now known as derrek
+[05:46:09] *** Joins rjeli____
+[05:48:08] *** Quits rjeli____ (Read error: Connection timed out)
+[05:49:06] *** Joins rjeli____
+[06:31:01] *** |Shadow|_ is now known as |Shadow|
+[06:32:17] *** Quits derrek (Quit: This should have not happened.)
+[06:32:39] *** Quits dibas (Quit: Leaving...)
+[06:36:56] *** Joins dibas
+[06:42:39] *** Joins derrek
+[06:52:48] *** Quits derrek (Quit: This should have not happened.)
+[06:53:10] *** Quits dibas (Quit: Leaving...)
+[06:57:26] *** Joins dibas
+[06:59:04] *** Joins derrek
+[07:30:42] *** Quits fgsfds (Read error: Connection reset by peer)
+[07:40:43] *** Joins [Escape75
+[07:41:37] <[Escape75> Anyone alive? :)
+[07:50:26] *** Quits [Escape75 (Remote host closed the connection)
+[07:51:24] *** Quits derrek (Quit: This should have not happened.)
+[07:52:39] *** Quits dibas (Quit: Leaving...)
+[07:56:25] *** Joins dibas
+[07:57:46] *** Joins derrek
+[08:20:49] *** Quits derrek (Quit: This should have not happened.)
+[08:23:48] *** Quits dibas (Quit: Leaving...)
+[08:40:34] *** Joins |Shadow|_
+[08:41:21] *** Quits rjeli____ (se.hub efnet.port80.se)
+[08:41:21] *** Quits uyjulian (se.hub efnet.port80.se)
+[08:41:21] *** Quits SCV__ (se.hub efnet.port80.se)
+[08:41:21] *** Quits mid-kid1 (se.hub efnet.port80.se)
+[08:41:21] *** Quits Phils3r_ (se.hub efnet.port80.se)
+[08:41:21] *** Quits |Shadow| (se.hub efnet.port80.se)
+[08:41:21] *** Quits jn (se.hub efnet.port80.se)
+[08:41:21] *** Quits hthh_ (se.hub efnet.port80.se)
+[08:41:21] *** Quits hexkyz (se.hub efnet.port80.se)
+[08:41:21] *** Quits coriolis (se.hub efnet.port80.se)
+[09:02:02] *** Joins derrek
+[09:02:02] *** Joins coriolis
+[09:02:02] *** Joins rjeli____
+[09:02:02] *** Joins jn
+[09:02:02] *** Joins SCV__
+[09:02:02] *** Joins uyjulian
+[09:02:02] *** Joins hthh
+[09:02:02] *** Joins Phils3r
+[09:02:02] *** Joins hexkyz_
+[09:03:44] *** Quits SCV__ (Read error: Connection timed out)
+[09:03:50] *** Joins mid-kid1
+[09:04:42] *** Joins SCV__
+[09:12:04] *** |Shadow|_ is now known as |Shadow|
+[09:26:30] *** Quits Phils3r (Read error: Connection reset by peer)
+[09:26:30] *** Joins dibas
+[09:27:02] *** Quits mid-kid1 (Read error: Connection reset by peer)
+[09:29:34] *** Joins Phils3r
+[09:30:58] *** Joins uyjulian_
+[09:31:01] *** Joins SCV___
+[09:32:18] *** Quits jn (Ping timeout: 745 seconds)
+[09:32:51] *** Joins derrek_
+[09:32:54] *** Quits derrek (Ping timeout: 745 seconds)
+[09:32:54] *** derrek_ is now known as derrek
+[09:33:21] *** Joins jn
+[09:33:28] *** Quits uyjulian (Ping timeout: 742 seconds)
+[09:33:28] *** uyjulian_ is now known as uyjulian
+[09:36:23] *** Quits SCV__ (Ping timeout: 1230 seconds)
+[09:36:24] *** SCV___ is now known as SCV__
+[09:37:37] *** Joins mid-kid1
+[09:43:05] *** Quits mid-kid1 (Read error: Connection timed out)
+[09:43:32] *** Quits DeusQain (Read error: Connection reset by peer)
+[09:43:38] *** Joins mid-kid1
+[09:48:34] *** Quits AlexAltea (Read error: Operation timed out)
+[09:48:34] *** Quits DoozerBot (Read error: Connection reset by peer)
+[09:49:15] *** Joins DeusQain
+[09:49:43] *** Joins DoozerBot
+[09:50:46] *** Joins AlexAltea
+[10:28:46] *** Joins X-Scale`
+[10:29:45] *** Quits X-Scale (Ping timeout: 255 seconds)
+[10:30:08] *** X-Scale` is now known as X-Scale
+[10:43:02] *** Quits nrq (Ping timeout: 265 seconds)
+[10:43:04] *** Joins nrq
+[10:44:29] *** Quits klock (Ping timeout: 265 seconds)
+[10:45:27] *** Quits KuKzz (Ping timeout: 265 seconds)
+[10:51:22] *** Joins klock
+[10:51:54] *** Joins KuKzz
+[10:53:29] *** Quits dibas (Quit: Leaving...)
+[10:53:35] *** Quits derrek (Quit: This should have not happened.)
+[10:56:14] *** Joins dibas
+[11:07:59] *** Joins derrek
+[13:11:56] *** Joins n87
+[15:50:02] *** Quits Phils3r (Read error: Connection reset by peer)
+[15:50:02] *** Joins Phils3r
+[15:50:14] *** Quits klock (Read error: Connection reset by peer)
+[15:50:14] *** Quits mid-kid1 (Read error: Connection reset by peer)
+[15:50:49] *** Joins dibas_
+[15:53:52] *** Joins uyjulian_
+[15:54:24] *** Quits SCV__ (Ping timeout: 1209 seconds)
+[15:55:23] *** Joins klock
+[15:55:34] *** Quits DoozerBot (Ping timeout: 743 seconds)
+[15:55:34] *** Quits uyjulian (Ping timeout: 743 seconds)
+[15:55:35] *** uyjulian_ is now known as uyjulian
+[15:56:09] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[15:56:43] *** Quits dibas (Ping timeout: 745 seconds)
+[15:56:43] *** dibas_ is now known as dibas
+[15:57:14] *** Joins derrek_
+[15:57:32] *** Joins DoozerBot
+[15:58:28] *** Quits derrek (Ping timeout: 745 seconds)
+[15:58:28] *** derrek_ is now known as derrek
+[16:00:45] *** Joins mid-kid1
+[16:02:50] *** Joins rjeli____
+[16:03:28] *** Joins SCV__
+[16:06:17] *** Quits mid-kid1 (Read error: Connection timed out)
+[16:06:50] *** Joins mid-kid1
+[16:07:03] *** Quits rjeli____ (Read error: Connection timed out)
+[16:07:17] *** Joins n87_2
+[16:08:02] *** Joins rjeli____
+[16:08:14] *** Joins n87_3
+[16:09:44] *** Quits n87 (Read error: Operation timed out)
+[16:12:10] *** Quits n87_3 (Read error: Connection reset by peer)
+[16:12:58] *** Joins n87_3
+[16:14:44] *** Quits n87_2 (Read error: Operation timed out)
+[16:15:27] *** Quits n87_3 (Read error: Connection reset by peer)
+[16:15:58] *** Joins n87_3
+[16:24:50] *** Joins n87
+[16:26:20] *** Quits n87_3 (Ping timeout: 622 seconds)
+[16:32:29] *** Quits n87 (Ping timeout: 265 seconds)
+[16:36:30] *** Joins n87
+[16:42:58] *** Quits n87 (Read error: Connection reset by peer)
+[16:47:58] *** Joins n87
+[17:17:04] *** Joins n87_2
+[17:23:04] *** Quits n87 (Read error: Operation timed out)
+[17:25:39] *** Joins [Escape75
+[17:28:46] <[Escape75> Anyone alive here? :)
+[17:30:01] <averne> ?
+[17:31:07] <[Escape75> I’m looking for some info regarding partition layouts that nobody seems to know anything about ...
+[17:32:14] <averne> if you've got a question just ask it and someone might answer
+[17:32:29] <[Escape75> Well ok, i
+[17:36:29] <[Escape75> Ok, ouch this irc client on the ipad blows haha ...
+[17:39:06] *** Joins n87_3
+[17:40:49] <[Escape75> So anyways, user and system partitions seem to use the same  structure fat32 with boot/filesystem records at sectors 0,1 and then backup at 6,7 ...
+[17:41:36] <[Escape75> But there’s extra stuff in between that normally would just be empty, wondering what it might be .
+[17:42:51] <[Escape75> When formatting these partitions from other OS that data gets removed of course
+[17:43:14] <averne> might just be garbage?
+[17:44:45] *** Quits n87_2 (Read error: Operation timed out)
+[17:45:11] <[Escape75> Doesn’t look like garbage to me, possibly encrypted, i believe it’s the same on system and user, contains the word prf2safe in it.
+[17:46:05] <[Escape75> I can’t confirm if it’s same as i formatted my user partition already, lol
+[17:47:05] <[Escape75> Someone with a backup should be able to see it quickly and whether it’s the same between the partitions.
+[17:48:53] <averne> ah, then it's probably metadata/recovery data for the FS driver (prfile2)
+[17:50:34] <[Escape75> Sector 2 seems encrypted with the entire sector filled, 3 mostly empty with word prf2safe, then 4+5 filled with data again. Hmm.
+[17:51:21] <[Escape75> Data doesn’t change after resets also.
+[17:58:39] <[Escape75> If it’s for the fs driver when would it be actually used? I’m trying to figure out a way to reconstruct partitions from scratch, and trying to decide if that data is needed.
+[18:00:55] <averne> somewhere in the fs sysmodule (0100000000000000)
+[18:31:32] *** Quits [Escape75 (Remote host closed the connection)
+[18:33:35] *** Joins [Escape75
+[18:54:43] *** Quits [Escape75 (Colloquy for iPad - http://colloquy.mobi)
+[19:17:34] <plutobot> Wiki | Page changed: PCV services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=126&diff=10594&oldid=10593
+[19:17:56] *** Joins refs
+[19:18:46] <plutobot> Wiki | Page changed: PCV services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=126&diff=10595&oldid=10594
+[19:19:06] <plutobot> Wiki | Page changed: PCV services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=126&diff=10596&oldid=10595
+[19:42:37] *** Joins Ideology
+[19:44:01] <Ideology> hey guys, i have an issue compiling a homebrew at the linker part can someone help me? main.cpp has :    boxColor(screen, a, b, a + c - 1, b + d - 1, gfxcolor);
+[19:44:28] <Ideology> the .h has int boxColor(SDL_Surface * dst, Sint16 x1, Sint16 y1, Sint16 x2, Sint16 y2, Uint32 color);
+[19:44:48] <Ideology> linker error says undefined reference to boxColor
+[19:49:37] *** Quits Ideology (Quit: Connection closed)
+[20:14:28] *** Joins n87_2
+[20:24:10] *** Quits n87_3 (Ping timeout: 604 seconds)
+[21:14:08] *** Joins Summeli
+[21:16:35] *** Joins rctgamer3

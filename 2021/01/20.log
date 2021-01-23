@@ -1,0 +1,89 @@
+[00:51:09] *** Quits Tcm0 (Leaving)
+[02:02:21] <DoozerBot> yellows8 pushed to master: btdrv: Added/updated structs/enums for events, etc. "btdrv: Added/updated structs/enums for events, etc." [073 files modified], building targets: 02lib
+[02:02:24] <plutobot> GitHub | New commit | User: yellows | https://github.com/switchbrew/libnx/commit/d813bef54b
+[02:06:13] <DoozerBot> 02lib: 03 v4.0.0.15 Build OK - https://doozer.io/build/bvkak90ryp
+[02:11:33] <plutobot> Wiki | Page changed: Bluetooth Driver services | User: yls8 | https://switchbrew.org/w/index.php?curid=161&diff=10574&oldid=10569
+[02:12:18] *** Quits SCV__ (Ping timeout: 1230 seconds)
+[02:12:31] *** Joins SCV__
+[02:16:08] <plutobot> Wiki | Page changed: Bluetooth Driver services | User: yls8 | https://switchbrew.org/w/index.php?curid=161&diff=10575&oldid=10574
+[02:20:28] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[02:20:41] *** Joins rjeli____
+[02:25:27] *** Quits refs (Quit: refs)
+[02:42:47] *** Quits Galaxy| (Quit: Quit.)
+[02:43:46] *** Joins Galaxy|
+[04:09:53] *** Quits Galaxy| (Quit: Quit.)
+[04:19:53] *** Joins Galaxy|
+[04:32:53] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[04:33:06] *** Joins rjeli____
+[05:27:08] *** Quits SCV__ (Ping timeout: 1230 seconds)
+[05:27:21] *** Joins SCV__
+[06:09:35] *** Quits fgsfds (Leaving)
+[06:56:58] *** Quits Cu3PO42 (Ping timeout: 745 seconds)
+[06:57:02] *** Joins Cu3PO42
+[07:13:06] *** Quits Galaxy| (Remote host closed the connection)
+[07:13:22] *** Joins Galaxy|
+[07:22:25] *** Quits m4ts (Ping timeout: 265 seconds)
+[07:43:03] *** Joins m4ts
+[07:54:43] *** Quits SCV__ (Ping timeout: 1230 seconds)
+[07:54:56] *** Joins SCV__
+[08:32:12] *** Quits Galaxy| (Remote host closed the connection)
+[08:37:13] *** Quits changoXPR (Read error: Operation timed out)
+[08:43:18] *** Joins Galaxy|
+[08:44:03] *** Joins m4ts_
+[08:44:35] *** Quits m4ts (Ping timeout: 265 seconds)
+[10:26:07] *** Joins Tcm0
+[10:41:33] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[10:41:46] *** Joins rjeli____
+[11:37:46] *** Quits rjeli____ (Read error: Connection timed out)
+[11:55:10] *** Joins rjeli____
+[12:29:39] *** Joins fgsfds
+[13:24:25] *** Joins derk0pf
+[13:49:07] *** Quits derk0pf (Quit: leaving)
+[14:09:13] *** Quits SCV__ (Ping timeout: 1230 seconds)
+[14:09:26] *** Joins SCV__
+[14:43:34] *** Joins m4ts
+[14:46:07] *** Quits m4ts_ (Ping timeout: 265 seconds)
+[15:15:42] *** Joins n87
+[15:41:58] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[15:42:11] *** Joins rjeli____
+[16:25:33] *** Joins giglife_
+[16:26:29] *** Quits giglife (Read error: Operation timed out)
+[16:26:29] *** giglife_ is now known as giglife
+[16:36:34] *** Quits pewz (Quit: WeeChat 2.8)
+[16:53:08] *** Quits SCV__ (Ping timeout: 1230 seconds)
+[16:53:21] *** Joins SCV__
+[17:46:17] *** Quits n87 (Ping timeout: 622 seconds)
+[18:13:03] *** Quits hexkyz (Ping timeout: 745 seconds)
+[18:16:55] *** Joins hexkyz
+[18:29:45] *** Joins hexkyz_
+[18:29:50] *** Quits hexkyz (Read error: Connection reset by peer)
+[18:42:09] *** Joins hexkyz
+[18:42:48] *** Quits hexkyz_ (Ping timeout: 745 seconds)
+[18:55:03] *** Quits hexkyz (Ping timeout: 745 seconds)
+[18:55:53] *** Joins hexkyz
+[19:21:18] *** Quits hexkyz (Ping timeout: 745 seconds)
+[19:21:37] *** Joins hexkyz
+[19:31:02] *** Joins X-Scale`
+[19:33:21] *** Quits X-Scale (Ping timeout: 255 seconds)
+[19:33:21] *** X-Scale` is now known as X-Scale
+[19:38:35] *** Joins X-Scale`
+[19:40:06] *** Quits X-Scale (Ping timeout: 255 seconds)
+[19:42:54] *** Joins X-Scale
+[19:43:15] *** Quits X-Scale` (Ping timeout: 255 seconds)
+[19:45:01] *** Joins X-Scale`
+[19:47:18] *** Quits X-Scale (Ping timeout: 255 seconds)
+[19:47:18] *** X-Scale` is now known as X-Scale
+[19:53:55] *** Joins n87
+[19:54:38] *** Joins X-Scale`
+[19:55:51] *** Quits X-Scale (Ping timeout: 255 seconds)
+[19:55:53] *** X-Scale` is now known as X-Scale
+[19:59:53] *** Joins changO-
+[20:01:24] *** Quits Tcm0 (Remote host closed the connection)
+[20:01:32] *** Joins Tcm0
+[20:33:22] *** Joins X-Scale`
+[20:35:00] *** Quits X-Scale (Ping timeout: 255 seconds)
+[20:35:00] *** X-Scale` is now known as X-Scale
+[22:05:55] *** Joins refs
+[22:23:32] *** Joins uyjulian
+[22:27:18] *** Quits n87 (Read error: Connection reset by peer)
+[23:37:02] *** Quits flotwig (Quit: ZNC - http://znc.in)
