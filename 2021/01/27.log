@@ -1,0 +1,138 @@
+[01:25:53] *** Quits plutobot (Remote host closed the connection)
+[01:27:06] *** Joins plutobot
+[01:38:39] <plutobot> Wiki | Page changed: Bluetooth Driver services | User: yls8 | https://switchbrew.org/w/index.php?curid=161&diff=10606&oldid=10605
+[02:40:35] *** Quits refs (Quit: refs)
+[04:26:02] *** Quits fgsfds (Leaving)
+[04:42:48] *** Quits jn (Ping timeout: 615 seconds)
+[04:45:50] *** Joins jn
+[05:01:42] *** Quits averne (quit)
+[05:10:05] *** Joins averne
+[05:10:05] *** Server sets mode: +stn 
+[05:50:18] *** Quits X-Scale (Ping timeout: 255 seconds)
+[05:59:16] *** Joins X-Scale
+[06:05:34] *** Joins thejsa_
+[06:38:53] *** Quits SCV__ (Ping timeout: 1230 seconds)
+[06:39:06] *** Joins SCV__
+[08:42:16] *** Joins X-Scale`
+[08:44:00] *** Quits X-Scale (Ping timeout: 255 seconds)
+[08:44:00] *** X-Scale` is now known as X-Scale
+[08:49:37] *** Quits Kyouju (Quit: ZNC 1.7.4+deb0+bionic0 - https://znc.in)
+[08:50:23] *** Joins Kyouju
+[10:22:53] *** Quits SCV__ (Ping timeout: 1230 seconds)
+[10:23:06] *** Joins SCV__
+[10:38:38] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[10:38:54] *** Joins rjeli____
+[11:50:23] *** Quits SCV__ (Ping timeout: 1230 seconds)
+[11:50:36] *** Joins SCV__
+[14:15:54] *** Joins fgsfds
+[14:47:50] *** Joins IShaDoWl
+[14:48:22] *** Quits IShaDoWl (Client Quit)
+[15:10:39] *** Joins n87
+[15:34:23] *** Quits SCV__ (Ping timeout: 1230 seconds)
+[15:34:36] *** Joins SCV__
+[16:15:58] *** Quits X-Scale (Read error: Connection reset by peer)
+[16:43:53] *** Quits DacoTaco (Ping timeout: 258 seconds)
+[16:48:55] *** Joins DacoTaco
+[17:02:47] *** Quits SCV__ (Ping timeout: 1230 seconds)
+[17:02:47] *** Joins SCV__
+[17:06:41] *** Quits n87 (Ping timeout: 265 seconds)
+[17:10:33] *** Quits zini (Quit: -->)
+[17:12:00] *** Joins zini
+[17:18:13] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[17:18:26] *** Joins rjeli____
+[17:37:32] *** Quits nohit (Read error: Connection reset by peer)
+[17:37:42] *** Quits rjeli____ (Read error: Connection reset by peer)
+[17:38:11] *** Quits Pieman (Read error: Connection reset by peer)
+[17:38:59] *** Joins nohit
+[17:39:09] *** Joins rjeli____
+[17:44:28] *** Quits SCV__ (Ping timeout: 1230 seconds)
+[17:50:51] *** Joins Pieman
+[17:53:02] *** Joins SCV__
+[17:55:34] *** Quits Pieman (Ping timeout: 258 seconds)
+[17:56:39] *** Joins Pieman
+[18:17:53] *** Quits Pieman (Read error: Connection reset by peer)
+[18:47:36] *** Snetry is now known as Sentry
+[18:59:52] *** Quits rjeli____ (Read error: Connection reset by peer)
+[19:00:06] *** Joins rjeli____
+[19:02:08] *** Joins Pieman
+[19:13:49] *** Quits rjeli____ (Read error: Connection reset by peer)
+[19:14:00] *** Quits Pieman (Read error: Connection reset by peer)
+[19:15:16] *** Joins rjeli____
+[19:17:02] *** Quits phigcloud (Read error: Connection reset by peer)
+[19:19:05] *** Joins Pieman
+[19:19:17] *** Joins phigcloud
+[19:25:16] *** Quits phigcloud (Read error: Operation timed out)
+[19:27:11] *** Quits Pieman (Ping timeout: 258 seconds)
+[19:31:48] *** Joins phigcloud
+[19:32:31] *** Joins Pieman
+[19:54:11] *** Joins n87
+[19:54:24] *** Quits Pieman (Ping timeout: 258 seconds)
+[19:57:01] *** Quits phigcloud (Read error: Operation timed out)
+[20:12:58] *** Quits n87 (Ping timeout: 604 seconds)
+[20:18:06] *** Joins Pieman
+[20:19:16] *** Joins n87
+[20:19:48] *** Joins phigcloud
+[20:40:47] *** Quits Pieman (Read error: Connection reset by peer)
+[20:41:54] *** Quits phigcloud (Read error: Operation timed out)
+[20:42:06] *** Joins phigcloud
+[20:52:10] *** Quits phigcloud (Quit: Updating details, brb)
+[20:57:07] *** Joins Ideology
+[20:59:05] <Ideology> hello, does a homebrew need any special TID to work? is testing a homebrew as simple as opening the nro on yuzu?
+[21:02:05] *** Joins phigcloud
+[21:03:19] <Ideology> maybe someone can help me debug this? https://pastebin.com/raw/GprvvdgD
+[21:03:43] <Ideology> yuzu just crashes after "Launching" bar
+[21:06:07] <averne> homebrew launched from hbmenu doesn't have a tid
+[21:06:47] <averne> going through this log it seems yuzu doesn't implement most of the stuff needed for homebrew to display
+[21:07:15] <averne> i'd recommend testing with ryujinx which is generally more accurate, of course it doesn't beat testing on hardware
+[21:07:51] <Ideology> i tested with hardware, and it immediately crashes the cfw forcing me to reboot so there's no real way to tell what's crashing. now i implemented some printfs to see where it gets to
+[21:08:01] <Ideology> i'll try out ryujinx now
+[21:08:23] <averne> do you get a fatal/abort screen?
+[21:09:23] <Ideology> this error https://i.imgur.com/TDKXzua.jpg
+[21:09:29] <Ideology> inb4
+[21:10:17] *** Quits lameboy (Ping timeout: 265 seconds)
+[21:11:38] <averne> ehhh, looking past the dubious choice of cfw, that'd be a "segfault"
+[21:12:18] <averne> atmosphere fatal screen will typically present you with way more useful information btw (registers, stack trace ...)
+[21:13:25] <averne> can you post the code that crashes?
+[21:14:12] <Ideology> here's ryujinx log: https://pastebin.com/raw/r6jZa1kq
+[21:14:36] <Ideology> but uh... should i upload it as a git? or just the main?
+[21:16:12] <averne> well idk, if you have a rough idea where it goes wrong then post that
+[21:16:33] <Ideology> well, i mean, it doesn't even get to the first printf, so let's do that first
+[21:16:43] <Ideology> sec
+[21:18:35] <Ideology> https://pastebin.com/BHvJeK5y
+[21:19:43] <Ideology> mostly grabbed from sdl examples
+[21:20:39] <averne> replace the first line with SDL_Init(SDL_INIT_VIDEO|SDL_INIT_TIMER|SDL_AUDIO);, and remove the second SDL_INIT call?
+[21:20:52] <Ideology> ok
+[21:21:31] <averne> oh and the 3rd SDL_INIT call too
+[21:21:41] <averne> just move everything you want in the first function
+[21:22:12] <Ideology> 3rd being the if ?
+[21:22:30] <averne> yeah
+[21:22:50] <Ideology> done
+[21:24:05] <Ideology> now, my includes are in a different file, does it matter? ex: #include main.h  which has #include another file.h, which has all the actual includes such as switch.h
+[21:25:46] <averne> no it will work regardless as long as all the required headers are pulled at some point, but it's good practice to include what you need in each file
+[21:26:29] <Ideology> noted
+[21:41:13] *** Quits n87 (Ping timeout: 265 seconds)
+[21:46:59] *** Joins n87
+[22:03:14] *** Quits n87 (Read error: Connection reset by peer)
+[22:08:26] *** Joins refs
+[22:13:24] *** Joins lameboy
+[23:01:25] *** Quits uyjulian (Quit: ZNC - http://znc.in)
+[23:01:58] *** Joins uyjulian
+[23:05:51] *** Quits uyjulian (Client Quit)
+[23:15:26] <DoozerBot> PR-#525: add hosversionIsAtmosphere, building targets: 02lib
+[23:15:27] <plutobot> GitHub | New PR: add hosversio... | User: SciresM | https://github.com/switchbrew/libnx/pull/525
+[23:17:53] <DoozerBot> PR-#525: add hosversionIsAtmosphere, building targets: 02lib
+[23:17:54] <DoozerBot> 02lib: 08 v4.0.0.17 Cancelled - https://doozer.io/build/62uw6q7ccz
+[23:19:42] *** Joins uyjulian
+[23:20:43] <plutobot> GitHub | New commit | User: SciresM | https://github.com/switchbrew/libnx/commit/e48f1c339f
+[23:20:49] <DoozerBot> fincs pushed to master: add hosversionIsAtmosphere (#525) "add hosversionIsAtmosphere (#525)" [074 files modified], building targets: 02lib
+[23:24:45] <DoozerBot> 02lib: 03 v4.0.0.17 Build OK - https://doozer.io/build/9sbh8oca63
+[23:32:57] *** Quits rjeli____ (Read error: Connection reset by peer)
+[23:32:57] *** Quits SCV__ (Read error: Connection reset by peer)
+[23:35:37] *** Joins SCV__
+[23:35:58] *** Quits SCV__ (Read error: Connection reset by peer)
+[23:46:17] *** Quits giglife (Read error: Operation timed out)
+[23:46:26] *** Joins giglife
+[23:48:16] *** Joins SCV__
+[23:48:31] *** Quits Ideology (Quit: Connection closed)
+[23:50:36] *** Joins rjeli____
+[23:52:23] *** Joins cpncok3
