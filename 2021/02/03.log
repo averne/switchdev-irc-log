@@ -1,0 +1,46 @@
+[00:02:28] *** Quits Tcm0 (Leaving)
+[01:35:31] <plutobot> Wiki | Page changed: Error codes | User: CFSworks | https://switchbrew.org/w/index.php?curid=82&diff=10650&oldid=10620
+[02:22:59] *** Quits refs (Quit: refs)
+[03:22:19] *** Joins flotwig
+[03:27:21] *** Quits flotwig (Read error: Operation timed out)
+[04:03:51] <plutobot> Wiki | Page changed: Bluetooth Driver services | User: yls8 | https://switchbrew.org/w/index.php?curid=161&diff=10651&oldid=10647
+[04:36:39] *** Joins flotwig
+[04:40:11] *** Quits dibas (Read error: Connection reset by peer)
+[04:51:00] *** Quits flotwig (Read error: Operation timed out)
+[04:52:43] *** Quits derrek (Ping timeout: 745 seconds)
+[05:30:13] *** Joins dibas
+[05:30:36] *** Joins derrek
+[06:10:27] *** Quits figgis_ (Read error: Connection reset by peer)
+[06:32:46] *** Joins flotwig
+[06:52:07] *** Joins derrek_
+[07:01:53] *** Quits flotwig (Read error: Operation timed out)
+[07:02:48] *** Quits derrek (Ping timeout: 745 seconds)
+[07:02:48] *** derrek_ is now known as derrek
+[09:13:45] *** Joins jn_
+[09:16:58] *** Quits jn (Ping timeout: 615 seconds)
+[10:38:51] *** Quits coriolis (Remote host closed the connection)
+[10:58:10] *** Joins derk0pf
+[10:59:02] <plutobot> Wiki | Page changed: Testpads | User: SheriffBuck | https://switchbrew.org/w/index.php?curid=337&diff=10652&oldid=10646
+[11:22:23] *** Joins derk0pf_
+[11:29:27] *** Quits derk0pf (Ping timeout: 744 seconds)
+[11:35:08] *** Quits derk0pf_ (leaving)
+[12:04:31] *** Quits m4ts (Ping timeout: 265 seconds)
+[12:04:33] *** Joins m4ts
+[14:01:26] *** Joins rajkosto
+[15:55:13] *** Joins fgsfds
+[16:05:01] *** Quits foghorn (Quit: Leaving)
+[16:08:10] <plutobot> Wiki | Page changed: Bluetooth Driver services | User: yls8 | https://switchbrew.org/w/index.php?curid=161&diff=10653&oldid=10651
+[16:16:51] *** Quits oldtopman (Read error: Operation timed out)
+[16:19:34] *** Joins derk0pf
+[16:22:19] *** Quits derk0pf (Remote host closed the connection)
+[16:30:31] *** Joins oldtopman
+[17:31:20] <plutobot> Wiki | Page changed: TSEC | User: Hexkyz | https://switchbrew.org/w/index.php?curid=199&diff=10654&oldid=10629
+[17:32:18] *** Joins rctgamer3
+[17:41:08] *** Quits rajkosto (Read error: Connection reset by peer)
+[18:15:20] *** Joins flotwig
+[19:01:28] <plutobot> Wiki | Page changed: Bluetooth Driver services | User: yls8 | https://switchbrew.org/w/index.php?curid=161&diff=10655&oldid=10653
+[20:03:00] <plutobot> GitHub | New commit | User: yellows | https://github.com/switchbrew/libnx/commit/531f9d7921
+[20:03:03] <DoozerBot> yellows8 pushed to master: Updated/added bluetooth structs/enums. Updated docs. "Updated/added bluetooth structs/enums. Updated docs." [031 file added07, 5 files modified], building targets: 02lib
+[20:09:41] <DoozerBot> 02lib: 03 v4.0.0.19 Build OK - https://doozer.io/build/9fa3iimzdc
+[21:18:56] *** Joins refs
+[22:31:29] *** Quits Snetry (Ping timeout: 857 seconds)

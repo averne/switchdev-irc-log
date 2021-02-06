@@ -1,0 +1,169 @@
+[00:55:23] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[00:55:36] *** Joins rjeli____
+[01:14:58] *** Quits fgsfds (Read error: Connection reset by peer)
+[01:29:13] *** Quits SCV__ (Ping timeout: 1230 seconds)
+[01:29:26] *** Joins SCV__
+[03:02:24] *** Joins balrog_
+[03:02:24] *** Quits TuxSH (Read error: Connection reset by peer)
+[03:02:24] *** Quits noirscap- (Read error: Operation timed out)
+[03:03:30] *** Quits thomasnet (Read error: Operation timed out)
+[03:03:42] *** Quits Sentry (Read error: Operation timed out)
+[03:04:14] *** Joins thomasnet
+[03:04:27] *** Joins TuxSH
+[03:04:39] *** Joins noirscape
+[03:05:20] *** Joins rmaw_
+[03:05:38] *** Joins Snetry
+[03:08:13] *** Quits rmaw (Read error: Operation timed out)
+[03:12:19] *** Quits balrog (Read error: Operation timed out)
+[03:12:19] *** balrog_ is now known as balrog
+[03:35:16] <plutobot> Wiki | Page changed: Bluetooth Driver services | User: yls8 | https://switchbrew.org/w/index.php?curid=161&diff=10644&oldid=10638
+[03:54:28] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[03:54:42] *** Joins rjeli____
+[04:21:33] *** Quits refs (Quit: refs)
+[05:00:54] *** Quits Lightswor (Read error: Connection reset by peer)
+[05:07:02] *** Quits lameboy (Ping timeout: 604 seconds)
+[05:09:46] *** Joins capin4
+[05:09:46] *** Quits yls8bot (Read error: Connection reset by peer)
+[05:11:28] *** Quits freundTec (Ping timeout: 604 seconds)
+[05:11:32] *** Joins freundTec
+[05:11:40] *** Quits capin3 (Read error: Connection reset by peer)
+[05:13:22] *** Joins Lightswor
+[05:17:51] *** Joins lameboy
+[05:19:13] *** Joins yls8bot
+[05:19:27] *** yellows8 sets mode: +o yls8bot
+[05:34:48] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[05:35:01] *** Joins rjeli____
+[07:55:54] *** Quits Lightswor (Read error: Connection reset by peer)
+[07:57:01] *** Quits Kyouju (Read error: Operation timed out)
+[07:57:14] *** Quits yls8bot (Read error: Operation timed out)
+[08:00:41] *** Quits yellows8 (Read error: Operation timed out)
+[08:02:00] *** Quits Aaerox_ (Read error: Operation timed out)
+[08:03:21] *** Quits Extrems (Ping timeout: 492 seconds)
+[08:03:51] *** Quits cpncok3 (Read error: Operation timed out)
+[08:05:17] *** Joins Kyouju
+[08:05:29] *** Joins Lightswor
+[08:05:29] *** Joins Aaerox
+[08:05:44] *** Joins yellows8
+[08:05:44] *** WntrMute sets mode: +o yellows8
+[08:07:16] *** Joins yls8bot
+[08:07:27] *** yellows8 sets mode: +o yls8bot
+[08:09:11] *** Joins cpncok3
+[09:44:22] *** Joins refsw2
+[09:45:49] *** Quits nohit (Ping timeout: 258 seconds)
+[09:45:54] *** Joins nohit
+[09:46:12] *** Quits madk (Ping timeout: 258 seconds)
+[09:46:35] *** Quits DacoTaco (Ping timeout: 258 seconds)
+[09:46:35] *** Quits AlexAltea (Ping timeout: 258 seconds)
+[09:46:58] *** Quits zini (Ping timeout: 258 seconds)
+[09:46:58] *** Quits refsw` (Ping timeout: 258 seconds)
+[09:47:17] *** Joins zini
+[09:47:21] *** Quits datagutt (Ping timeout: 258 seconds)
+[09:47:22] *** Quits Normmatt (Ping timeout: 258 seconds)
+[09:47:22] *** Quits des^ (Ping timeout: 258 seconds)
+[09:47:44] *** Quits oldtopman (Ping timeout: 258 seconds)
+[09:47:44] *** Quits plutobot (Ping timeout: 258 seconds)
+[09:47:44] *** Quits nrq (Ping timeout: 258 seconds)
+[09:50:05] *** Joins datagutt
+[09:51:27] *** Joins nrq
+[09:57:39] *** Joins AlexAltea
+[10:03:22] *** Joins oldtopman
+[10:05:20] *** Quits lameboy (Ping timeout: 604 seconds)
+[10:10:49] *** Joins Normmatt
+[10:14:59] *** Joins lameboy
+[10:24:49] *** Joins Extrems
+[10:24:50] *** Quits yellows8 (Read error: Connection reset by peer)
+[10:29:18] *** Joins yellows8
+[10:29:18] *** WntrMute sets mode: +o yellows8
+[10:31:22] *** Joins plutobot
+[10:32:18] *** Joins madk
+[10:33:09] *** Joins DacoTaco
+[10:34:39] *** Joins des^
+[10:59:36] *** Quits rmaw_ (Read error: Operation timed out)
+[11:03:35] *** Quits Behemoth_ (Read error: Operation timed out)
+[11:03:35] *** Quits GerbilS7 (Read error: Operation timed out)
+[11:03:35] *** Quits Jdbye (Read error: Operation timed out)
+[11:03:51] *** Joins GerbilS7
+[11:03:55] *** Quits TurtleP (Ping timeout: 265 seconds)
+[11:03:55] *** Quits sh0e (Ping timeout: 265 seconds)
+[11:04:09] *** Joins TurtleP
+[11:04:22] *** Snetry is now known as Sentry
+[11:04:31] *** Quits Cu3PO42 (Read error: Operation timed out)
+[11:05:10] *** Quits balrog (Read error: Operation timed out)
+[11:05:34] *** Joins Behemoth_
+[11:07:40] *** Joins balrog
+[11:07:49] *** Joins Jdbye
+[11:12:32] *** Quits Sentry (Quit: left EFNet)
+[11:12:52] *** Quits lex1 (Read error: Operation timed out)
+[11:16:14] *** Quits phigcloud (Read error: Operation timed out)
+[11:17:18] *** Joins CCFL_Man_
+[11:17:18] *** Quits CCFL_Man (Read error: Connection reset by peer)
+[11:18:44] *** Quits TuxSH (Read error: Operation timed out)
+[11:18:50] *** Joins sh0e
+[11:19:17] *** Quits refsw2 (Read error: Operation timed out)
+[11:20:28] *** Joins refsw3
+[11:21:26] *** Quits freundTec (Ping timeout: 857 seconds)
+[11:21:26] *** Quits noirscape (Ping timeout: 857 seconds)
+[11:21:29] *** Joins freundTec
+[11:21:34] *** Quits thomasnet (Read error: Operation timed out)
+[11:22:14] *** Joins thomasnet
+[11:23:54] *** Joins rmaw
+[11:24:52] *** Quits giglife (Read error: Operation timed out)
+[11:24:52] *** Joins giglife
+[11:27:00] *** Quits CCFL_Man_ (Read error: Connection reset by peer)
+[11:27:00] *** Joins CCFL_Man
+[11:30:08] *** Quits klock (Read error: Connection reset by peer)
+[11:32:08] *** Quits blasty_ (Read error: Connection reset by peer)
+[11:33:12] *** Quits d3m3vilur (Read error: Operation timed out)
+[11:35:25] *** Joins lex1
+[11:40:52] *** Quits tpw_rules (Ping timeout: 622 seconds)
+[11:41:56] *** Joins d3m3vilur
+[11:41:56] *** Joins klock
+[11:43:12] *** Joins tpw_rules
+[11:43:17] *** Joins TuxSH
+[11:46:18] *** Quits averne (quit)
+[11:48:35] *** Joins averne_
+[11:48:35] *** Server sets mode: +stn 
+[11:49:14] *** Quits thomasnet (Read error: Operation timed out)
+[11:49:48] *** Quits averne (Ping timeout: 857 seconds)
+[11:50:45] *** Quits j0hny5 (Read error: Connection reset by peer)
+[11:51:37] *** Joins j0hny5
+[11:54:01] *** Quits rmaw (Ping timeout: 857 seconds)
+[11:54:28] *** Joins rmaw
+[11:57:19] *** Joins thomasnet
+[11:58:14] *** Joins noirscape
+[11:58:38] *** Joins TuxSH_
+[11:58:41] *** Quits TuxSH (Read error: Connection reset by peer)
+[11:59:19] *** Joins Snetry
+[11:59:41] *** Joins phigcloud
+[12:03:19] *** Joins blasty
+[12:10:31] *** Joins m4ts
+[12:12:04] *** Quits m4ts_ (Ping timeout: 265 seconds)
+[12:14:10] *** Joins Cu3PO42
+[12:28:23] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[12:28:36] *** Joins rjeli____
+[12:29:32] *** Joins IShaDoWl
+[13:09:14] *** Quits IShaDoWl ()
+[13:18:33] *** Quits Cu3PO42 (Ping timeout: 745 seconds)
+[13:22:37] *** Joins Cu3PO42
+[15:14:09] *** Quits lemmy (Remote host closed the connection)
+[15:16:51] *** Joins lemmu
+[15:56:15] *** Quits rjeli____ (Read error: Connection timed out)
+[16:10:42] *** Joins rjeli____
+[16:56:08] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[16:56:22] *** Joins rjeli____
+[18:41:02] *** Joins fgsfds
+[19:01:34] <plutobot> Wiki | Page changed: BTM services | User: yls8 | https://switchbrew.org/w/index.php?curid=306&diff=10645&oldid=10643
+[19:22:33] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[19:22:46] *** Joins rjeli____
+[19:39:28] *** Quits SCV__ (Ping timeout: 1230 seconds)
+[19:39:41] *** Joins SCV__
+[21:29:50] *** Quits Aaerox (Remote host closed the connection)
+[22:05:53] <plutobot> Wiki | Page changed: Testpads | User: SheriffBuck | https://switchbrew.org/w/index.php?curid=337&diff=10646&oldid=8899
+[22:10:27] *** Joins refs
+[22:17:33] *** Quits SCV__ (Ping timeout: 1230 seconds)
+[22:17:46] *** Joins SCV__
+[22:22:13] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[22:22:26] *** Joins rjeli____
+[22:44:29] *** Quits SCV__ (Read error: Connection timed out)
+[22:57:48] *** Joins SCV__
+[23:08:13] *** Joins flotwig

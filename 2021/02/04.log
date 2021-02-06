@@ -1,0 +1,57 @@
+[00:18:09] *** Joins Snetry
+[00:27:20] *** Quits Snetry (Quit: left EFNet)
+[00:30:42] *** Joins Snetry
+[01:06:03] <plutobot> Wiki | Page changed: Homebrew Applications | User: NicholeMattera | https://switchbrew.org/w/index.php?curid=293&diff=10656&oldid=10548
+[01:08:20] *** Quits CCFL_Man (Read error: Operation timed out)
+[01:11:41] *** Joins CCFL_Man
+[02:25:09] *** Quits refs (Quit: refs)
+[02:34:38] *** Joins flotwig_
+[02:36:52] *** Quits flotwig (Read error: Operation timed out)
+[02:36:53] *** flotwig_ is now known as flotwig
+[02:41:23] *** Quits flotwig (Read error: Operation timed out)
+[03:48:18] *** Quits giglife (Read error: Operation timed out)
+[04:15:38] *** Quits fgsfds (Read error: Connection reset by peer)
+[06:49:30] *** Quits oldtopman (hub.efnet.us ny.us.hub)
+[06:49:31] *** Quits mtheall (hub.efnet.us ny.us.hub)
+[06:49:31] *** Quits KuKzz (hub.efnet.us ny.us.hub)
+[06:49:31] *** Quits Surkow (hub.efnet.us ny.us.hub)
+[06:49:31] *** Quits eggy (hub.efnet.us ny.us.hub)
+[06:49:54] *** Joins oldtopman
+[06:49:54] *** Joins mtheall
+[06:49:54] *** Joins KuKzz
+[06:49:54] *** Joins Surkow
+[06:49:54] *** Joins eggy
+[08:23:02] <plutobot> Wiki | Page changed: Bluetooth Driver services | User: yls8 | https://switchbrew.org/w/index.php?curid=161&diff=10657&oldid=10655
+[09:34:48] *** Joins flotwig
+[10:09:22] *** Joins Tcm0
+[10:15:33] *** Quits flotwig (Ping timeout: 745 seconds)
+[11:45:04] *** Quits lameboy (Quit: Astalabyebye...)
+[11:45:37] *** Joins lameboy
+[13:08:17] *** Quits Tcm0 (Remote host closed the connection)
+[13:08:28] *** Joins Tcm0
+[13:19:14] *** Joins n87
+[13:22:04] *** Joins n87_2
+[13:24:36] *** Quits n87 (Ping timeout: 265 seconds)
+[14:11:07] *** Joins fgsfds
+[14:26:44] *** Joins n87_3
+[14:29:52] *** Joins n87
+[14:32:28] *** Quits n87_2 (Read error: Operation timed out)
+[14:35:37] *** Quits n87_3 (Read error: Operation timed out)
+[17:05:11] *** Quits Tcm0 (Remote host closed the connection)
+[17:09:38] *** Joins Tcm0
+[17:48:11] <DoozerBot> yellows8 pushed to master: btdrv: Updated params/docs for btdrvSetBleVisibility. "btdrv: Updated params/docs for btdrvSetBleVisibility." [072 files modified], building targets: 02lib
+[17:50:14] <plutobot> GitHub | New commit | User: yellows | https://github.com/switchbrew/libnx/commit/15a5d1c44f
+[17:52:19] <DoozerBot> 02lib: 03 v4.0.0.20 Build OK - https://doozer.io/build/m8zx9sfnn3
+[17:53:43] *** Quits Surkow (Quit: 418 I'm a teapot - NOP NOP NOP)
+[18:44:36] *** Joins flotwig
+[20:59:44] *** Quits GerbilS7 (Quit: Windows must now restart because the Remote Procedure Call (RPC) service terminated unexpectedly.)
+[21:02:47] *** Joins GerbilSof
+[21:19:58] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[21:20:11] *** Joins rjeli____
+[21:28:54] <plutobot> Wiki | New page: Talk:LDN services | User: CFSworks | https://switchbrew.org/w/index.php?curid=425
+[22:02:06] *** Joins refs
+[22:29:15] *** Quits n87 (Read error: Connection reset by peer)
+[22:44:33] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[22:44:46] *** Joins rjeli____
+[23:17:06] *** Joins foghorn
+[23:59:50] *** Quits flotwig (Quit: ZNC - http://znc.in)

@@ -1,0 +1,85 @@
+[00:11:15] *** Quits flotwig (Read error: Operation timed out)
+[01:05:33] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[01:05:46] *** Joins rjeli____
+[01:16:04] *** Quits SCV__ (Read error: Connection reset by peer)
+[01:16:39] *** Quits rjeli____ (Read error: Connection reset by peer)
+[01:17:33] *** Joins rjeli____
+[01:17:33] *** Joins SCV__
+[01:22:45] *** Quits jn (Read error: Connection reset by peer)
+[01:23:30] *** Joins jn
+[01:46:10] *** Joins PistonMin
+[02:19:52] *** Quits refs (Quit: refs)
+[02:34:09] *** Quits PistonMin (Quit: Leaving)
+[05:04:57] *** Quits fgsfds (Leaving)
+[06:07:43] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[06:07:56] *** Joins rjeli____
+[07:28:05] *** Quits rjeli____ (Read error: Connection timed out)
+[07:36:23] *** Quits sh0e (Ping timeout: 496 seconds)
+[07:36:23] *** Quits datagutt (Read error: Connection reset by peer)
+[07:36:55] *** Quits cpnc0ke (Ping timeout: 496 seconds)
+[07:37:25] *** Joins cpnc0ke
+[07:40:42] *** Joins datagutt
+[07:41:31] *** Quits ihaveamac (Read error: Operation timed out)
+[07:41:37] *** Joins ihaveamac
+[07:42:16] *** Joins rjeli____
+[07:42:47] *** Quits AlexAltea (Read error: Operation timed out)
+[07:45:06] *** Joins sh0e
+[07:58:14] *** Quits lameboy (Ping timeout: 604 seconds)
+[07:58:33] *** Joins lameboy
+[08:14:22] *** Joins AlexAltea
+[08:59:30] *** Quits Lightswor (Read error: Connection reset by peer)
+[08:59:39] *** Joins Lightswor
+[09:03:16] *** Joins mtheall
+[09:03:19] *** Quits mtheall_ (Read error: Connection reset by peer)
+[09:24:49] *** Quits Kyouju (Read error: Operation timed out)
+[09:25:38] *** Quits ihaveamac (Ping timeout: 376 seconds)
+[09:25:51] *** Joins ihaveamac
+[09:28:05] *** Quits balrog (Read error: Operation timed out)
+[09:28:43] *** Joins balrog
+[09:33:02] *** Quits yellows8 (Read error: Connection reset by peer)
+[09:33:36] *** Quits giglife (Read error: Operation timed out)
+[09:33:41] *** Joins giglife
+[09:33:48] *** Joins yls8bot_
+[09:35:51] *** Joins Kyouju
+[09:38:19] *** Quits yls8bot (Read error: Operation timed out)
+[09:38:20] *** yls8bot_ is now known as yls8bot
+[09:40:51] *** Joins yellows8
+[09:40:51] *** WntrMute sets mode: +o yellows8
+[09:58:43] *** Quits Galaxy| (Ping timeout: 745 seconds)
+[10:01:21] *** Joins Galaxy|
+[10:15:38] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[10:15:55] *** Joins rjeli____
+[10:48:06] *** Joins uyjulian_
+[10:50:38] *** Quits hexkyz (Ping timeout: 745 seconds)
+[10:51:56] *** Joins hexkyz
+[10:56:28] *** Quits uyjulian (Ping timeout: 745 seconds)
+[10:56:28] *** uyjulian_ is now known as uyjulian
+[11:01:08] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[11:01:21] *** Joins rjeli____
+[11:05:13] *** Quits hexkyz (Ping timeout: 745 seconds)
+[11:06:30] *** Joins hexkyz
+[12:57:13] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[12:57:26] *** Joins rjeli____
+[13:55:26] *** Joins Tcm0
+[15:42:22] *** Joins fgsfds
+[16:49:53] <plutobot> Wiki | Page changed: Bluetooth Driver services | User: yls8 | https://switchbrew.org/w/index.php?curid=161&diff=10647&oldid=10644
+[20:30:24] *** Joins foghorn
+[20:57:17] <plutobot> Wiki | Page changed: Settings services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=110&diff=10648&oldid=10635
+[21:00:45] *** Joins rajkosto
+[21:18:35] *** Quits ihaveamac (Quit: fail)
+[21:19:49] *** Joins ihaveamac
+[21:27:43] *** Joins refs
+[21:51:51] <plutobot> GitHub | New commit | User: yellows | https://github.com/switchbrew/libnx/commit/7751df9356
+[21:51:54] <DoozerBot> yellows8 pushed to master: btdrv: Updated param names + docs. "btdrv: Updated param names + docs." [072 files modified], building targets: 02lib
+[21:55:39] <DoozerBot> 02lib: 03 v4.0.0.18 Build OK - https://doozer.io/build/o096c02wnd
+[22:07:56] *** Joins figgis_
+[22:15:25] *** Quits fgsfds (Read error: Operation timed out)
+[22:32:39] *** Joins changoXPR
+[22:32:40] *** Quits changoXPR (Excess Flood)
+[22:32:48] *** Joins changoXPR
+[22:40:18] *** Quits giglife (Read error: Operation timed out)
+[22:42:53] *** Quits changO- (Ping timeout: 745 seconds)
+[22:42:54] *** changoXPR is now known as changO-
+[22:56:34] *** Joins giglife
+[23:06:56] <plutobot> Wiki | Page changed: BTM services | User: yls8 | https://switchbrew.org/w/index.php?curid=306&diff=10649&oldid=10645
+[23:25:55] *** Quits rajkosto (Read error: Connection reset by peer)
