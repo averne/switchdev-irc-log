@@ -1,0 +1,43 @@
+[02:08:49] *** Quits lameboy (Read error: Operation timed out)
+[02:16:02] *** Quits refs (Quit: refs)
+[02:19:42] *** Joins lameboy
+[04:21:38] *** Quits changO- (Read error: Connection reset by peer)
+[04:29:38] *** Quits klanc (Read error: Operation timed out)
+[04:29:43] *** Joins klanc
+[06:45:17] *** Quits |Shadow| ()
+[06:59:59] *** Joins |Shadow|
+[08:27:17] *** Quits fgsfds (Read error: Connection reset by peer)
+[08:49:11] *** Quits Galaxy| (Quit.)
+[08:52:29] *** Joins Galaxy|
+[09:09:11] *** Quits ihaveamac (Ping timeout: 496 seconds)
+[09:12:40] *** Joins ihaveamac
+[09:17:17] *** Quits Galaxy| (Quit: Quit.)
+[09:54:40] *** Quits Surkow (Read error: Operation timed out)
+[10:08:50] *** Joins Surkow
+[11:22:05] *** Joins n87
+[11:50:36] *** Joins n87_2
+[11:53:48] *** Quits n87 (Ping timeout: 265 seconds)
+[11:54:53] <plutobot> GitHub | New PR: psc fix depen... | User: SciresM | https://github.com/switchbrew/libnx/pull/526
+[11:54:56] <DoozerBot> PR-#526: psc: fix dependency argument on init, building targets: 02lib
+[11:58:32] <DoozerBot> 02lib: 03 v4.0.0.21 Build OK - https://doozer.io/build/t2x09u27rr
+[13:54:02] *** Joins um-velho-
+[15:29:20] *** Joins n87
+[15:32:16] *** Quits n87_2 (Ping timeout: 265 seconds)
+[16:04:57] *** Joins fgsfds
+[16:17:56] *** Joins changO-
+[17:31:55] <DoozerBot> fincs pushed to master: psc: fix dependency argument on init "psc: fix dependency argument on init" [072 files modified], building targets: 02lib
+[17:31:58] <plutobot> GitHub | New commit | User: Michael Scire | https://github.com/switchbrew/libnx/commit/c71cd80bcf
+[17:33:22] *** Quits n87 (Read error: Connection reset by peer)
+[17:38:21] <DoozerBot> 02lib: 03 v4.0.0.21 Build OK - https://doozer.io/build/lqwc5d8ehl
+[17:38:56] *** Quits fincs (Read error: Operation timed out)
+[17:39:05] *** Joins fincs
+[18:41:29] <plutobot> Wiki | Page changed: Bluetooth Driver services | User: yls8 | https://switchbrew.org/w/index.php?curid=161&diff=10672&oldid=10657
+[19:11:55] *** Joins changoXPR
+[19:13:53] <plutobot> Wiki | Page changed: TSEC | User: Hexkyz | https://switchbrew.org/w/index.php?curid=199&diff=10673&oldid=10654
+[19:15:52] *** Quits changO- (Ping timeout: 265 seconds)
+[19:15:52] *** changoXPR is now known as changO-
+[19:55:24] <plutobot> Wiki | Page changed: Bluetooth Driver services | User: yls8 | https://switchbrew.org/w/index.php?curid=161&diff=10674&oldid=10672
+[19:59:27] *** Joins n87
+[21:50:08] *** Joins refs
+[22:24:30] *** Joins n87_2
+[22:27:56] *** Quits n87 (Ping timeout: 265 seconds)

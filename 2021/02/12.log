@@ -1,0 +1,58 @@
+[00:23:02] *** Quits |Shadow| (Read error: Connection reset by peer)
+[00:28:20] *** Joins |Shadow|
+[00:51:59] *** Quits Behemoth_ (Remote host closed the connection)
+[00:52:37] *** Joins Behemoth
+[01:45:28] *** Quits n87 (Ping timeout: 265 seconds)
+[01:53:44] *** Joins n87
+[01:59:00] *** Quits n87 (Ping timeout: 265 seconds)
+[02:09:58] *** Joins n87
+[02:21:43] *** Quits n87 (Read error: Connection reset by peer)
+[04:51:48] *** Quits lameboy (Quit: Astalabyebye...)
+[05:05:56] <plutobot> Wiki | Page changed: Mario Kart Live: Home Circuit | User: CFSworks | https://switchbrew.org/w/index.php?curid=420&diff=10680&oldid=10678
+[05:17:16] *** Joins lameboy
+[06:45:08] *** Quits m4ts (Ping timeout: 265 seconds)
+[08:54:51] *** Quits fgsfds (Leaving)
+[09:32:29] *** Joins |Shadow|_
+[09:37:32] *** Quits |Shadow| (Read error: Operation timed out)
+[10:47:16] *** Joins n87
+[10:52:21] *** Joins m4ts
+[11:11:19] *** |Shadow|_ is now known as |Shadow|
+[14:16:30] *** Joins n87_2
+[14:19:57] *** Quits n87 (Ping timeout: 265 seconds)
+[18:33:09] *** Joins fgsfds
+[18:34:33] <DoozerBot> yellows8 pushed to master: time: Fixed signedness issue with time calculation, closes #522. "time: Fixed signedness issue with time calculation, closes #522." [071 file modified], building targets: 02lib
+[18:39:11] <DoozerBot> 02lib: 03 v4.0.0.22 Build OK - https://doozer.io/build/1r1a5qzojp
+[18:54:36] <plutobot> GitHub | New commit | User: yellows | https://github.com/switchbrew/libnx/commit/3fce0d49e2
+[19:00:04] <plutobot> Wiki | Page changed: Bluetooth Driver services | User: yls8 | https://switchbrew.org/w/index.php?curid=161&diff=10681&oldid=10674
+[19:06:34] *** Joins graffix
+[19:07:43] <plutobot> Wiki | Page changed: USB services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=195&diff=10682&oldid=10473
+[19:09:11] *** Quits graffix (Client Quit)
+[19:12:12] <DoozerBot> yellows8 pushed to master: btdrv: Updated BtdrvFatalReason. "btdrv: Updated BtdrvFatalReason." [071 file modified], building targets: 02lib
+[19:12:18] <plutobot> GitHub | New commit | User: yellows | https://github.com/switchbrew/libnx/commit/0f4f0ed039
+[19:12:40] *** Joins graffix
+[19:14:58] *** Quits graffix (Client Quit)
+[19:16:05] <DoozerBot> 02lib: 03 v4.0.0.23 Build OK - https://doozer.io/build/wztczwtblq
+[19:25:24] <plutobot> Wiki | Page changed: USB services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=195&diff=10683&oldid=10682
+[19:28:17] <plutobot> Wiki | Page changed: USB services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=195&diff=10684&oldid=10683
+[19:29:38] <plutobot> Wiki | Page changed: USB services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=195&diff=10685&oldid=10684
+[19:31:31] <plutobot> Wiki | Page changed: USB services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=195&diff=10686&oldid=10685
+[19:38:47] *** Joins n87
+[19:40:53] *** Quits n87_2 (Ping timeout: 265 seconds)
+[19:51:45] *** Quits zini (Quit: -->)
+[19:53:14] *** Joins zini
+[19:54:26] *** Quits zini (Client Quit)
+[19:56:26] *** Joins zini
+[20:07:48] *** Quits phigcloud (Quit: Connection closed for inactivity)
+[20:30:04] *** Joins phigcloud
+[20:35:27] *** Joins n87_2
+[20:40:56] *** Quits n87 (Read error: Operation timed out)
+[21:01:32] *** Quits n87_2 (Read error: Connection reset by peer)
+[21:16:43] *** Quits SCV__ (Ping timeout: 1230 seconds)
+[21:16:56] *** Joins SCV__
+[21:59:44] *** Quits foghorn2 (Ping timeout: 265 seconds)
+[22:03:28] *** Quits Behemoth (Ping timeout: 265 seconds)
+[22:05:54] *** Joins Behemoth
+[23:30:17] <plutobot> Wiki | Page changed: Mario Kart Live: Home Circuit | User: CFSworks | https://switchbrew.org/w/index.php?curid=420&diff=10687&oldid=10680
+[23:32:30] <plutobot> Wiki | Page changed: Mario Kart Live: Home Circuit | User: CFSworks | https://switchbrew.org/w/index.php?curid=420&diff=10688&oldid=10687
+[23:39:38] *** Quits SCV__ (Ping timeout: 1230 seconds)
+[23:39:51] *** Joins SCV__
