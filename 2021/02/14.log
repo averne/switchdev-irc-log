@@ -1,0 +1,93 @@
+[00:06:43] *** Quits SCV__ (Ping timeout: 1230 seconds)
+[00:06:56] *** Joins SCV__
+[01:34:13] *** Quits SCV__ (Ping timeout: 1230 seconds)
+[01:34:26] *** Joins SCV__
+[03:23:24] *** Quits SCV__ (Read error: Connection timed out)
+[03:37:56] *** Joins SCV__
+[05:03:07] *** Quits refs (Quit: refs)
+[05:52:34] *** Quits fgsfds (Read error: Connection reset by peer)
+[06:35:13] *** Quits SCV__ (Read error: Connection timed out)
+[06:49:17] *** Joins SCV__
+[08:16:43] *** Quits SCV__ (Ping timeout: 1230 seconds)
+[08:17:00] *** Joins SCV__
+[09:44:13] *** Quits SCV__ (Ping timeout: 1230 seconds)
+[09:44:27] *** Joins SCV__
+[10:28:47] *** Quits averne (quit)
+[10:37:06] *** Joins averne
+[10:37:06] *** Server sets mode: +stn 
+[10:45:10] *** Quits Lightswor (Read error: Connection reset by peer)
+[10:46:29] *** Quits yls8bot (Read error: Operation timed out)
+[10:47:14] *** Joins Lightswor
+[10:47:36] *** Joins yls8bot
+[10:48:06] *** yellows8 sets mode: +o yls8bot
+[10:57:12] *** Quits Kyouju (Read error: Connection reset by peer)
+[10:58:07] *** Quits Lightswor (Read error: Operation timed out)
+[10:59:30] *** Quits yls8bot (Read error: Connection reset by peer)
+[10:59:34] *** Joins Kyouju
+[11:00:14] *** Joins Lightswor
+[11:02:34] *** Quits plutobot (Ping timeout: 258 seconds)
+[11:02:57] *** Quits Normmatt (Ping timeout: 258 seconds)
+[11:03:20] *** Quits madk (Ping timeout: 258 seconds)
+[11:03:43] *** Quits DacoTaco (Ping timeout: 258 seconds)
+[11:04:06] *** Joins yls8bot
+[11:04:17] *** yellows8 sets mode: +o yls8bot
+[11:08:02] *** Joins Normmatt
+[11:22:28] *** Joins AlexAltea
+[11:25:03] *** Joins Kyouju-
+[11:25:12] *** Quits Kyouju (Read error: Operation timed out)
+[11:25:26] *** Kyouju- is now known as Kyouju
+[11:33:15] *** Joins dibas_
+[11:36:39] *** Quits Snetry (Read error: Operation timed out)
+[11:37:52] *** Joins Snetry
+[11:40:53] *** Quits dibas (Ping timeout: 745 seconds)
+[11:40:53] *** dibas_ is now known as dibas
+[11:48:57] *** Joins plutobot
+[11:49:11] *** Joins madk
+[11:49:19] *** Joins DacoTaco
+[11:53:10] *** Quits Snetry (Read error: Operation timed out)
+[11:56:15] *** Joins Snetry
+[12:03:04] *** Joins Sentry-
+[12:04:23] *** Quits Snetry (Read error: Connection refused)
+[12:25:09] *** Joins Snetry
+[12:26:45] *** Quits Sentry- (Read error: Connection refused)
+[12:51:07] *** Joins rajkosto
+[13:36:54] *** Joins refs
+[14:48:56] *** Quits rajkosto (Read error: Connection reset by peer)
+[15:07:54] *** Quits Lightswor (Read error: Connection reset by peer)
+[15:13:13] *** Quits tpw_rules (Ping timeout: 745 seconds)
+[15:13:31] *** Joins tpw_rules
+[15:13:48] *** Joins Lightswor
+[15:38:32] *** Quits noirscape (Read error: Operation timed out)
+[15:39:33] *** Joins refsw2
+[15:41:42] *** Quits thomasnet (Read error: Operation timed out)
+[15:42:48] *** Joins Sentry-
+[15:43:18] *** Joins noirscape
+[15:43:25] *** Quits blasty (Read error: Connection reset by peer)
+[15:43:29] *** Joins blasty
+[15:43:46] *** Quits Snetry (Read error: Connection reset by peer)
+[15:43:55] *** Joins thomasnet
+[15:43:55] *** Quits refsw` (Read error: Operation timed out)
+[17:11:39] *** Quits SCV__ (Read error: Connection timed out)
+[17:25:44] *** Joins SCV__
+[18:03:43] *** Joins Tcm0
+[18:41:09] *** Joins fgsfds
+[18:43:48] *** Quits SCV__ (Ping timeout: 1230 seconds)
+[18:44:01] *** Joins SCV__
+[19:54:58] *** Quits SCV__ (Ping timeout: 1230 seconds)
+[19:55:11] *** Joins SCV__
+[21:22:28] *** Quits SCV__ (Ping timeout: 1230 seconds)
+[21:22:41] *** Joins SCV__
+[22:00:26] <plutobot> Wiki | Page changed: USB services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=195&diff=10693&oldid=10686
+[22:08:22] *** Joins lilibox
+[22:12:39] <lilibox> hi
+[22:13:32] <lilibox> @fincs would you be so kind and look at this: https://github.com/switchbrew/switch-examples/blob/master/graphics/simplegfx/source/main.c
+[22:14:41] <lilibox> i am getting glitches when 1920 and image combo is used :(
+[22:34:03] *** Joins n87
+[22:43:17] *** Quits Sentry- (Read error: Operation timed out)
+[22:50:14] *** Joins Snetry
+[23:03:23] *** Quits Snetry (Read error: Connection refused)
+[23:13:45] *** Joins Snetry
+[23:16:13] *** Quits SCV__ (Ping timeout: 1230 seconds)
+[23:16:27] *** Joins SCV__
+[23:32:48] *** Quits Tcm0 (Ping timeout: 622 seconds)
+[23:42:16] *** Joins Tcm0

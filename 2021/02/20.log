@@ -1,0 +1,73 @@
+[00:40:52] <DoozerBot> PR-#530: htcs: implement hipc bindings, building targets: 02lib
+[00:44:54] <DoozerBot> 02lib: 03 v4.0.0.26 Build OK - https://doozer.io/build/9gc0v62nn3
+[00:58:39] <plutobot> GitHub | New PR: htcs implemen... | User: SciresM | https://github.com/switchbrew/libnx/pull/530
+[01:08:15] <DoozerBot> PR-#530: htcs: implement hipc bindings, building targets: 02lib
+[01:10:24] *** Quits Generic (Remote host closed the connection)
+[01:10:39] *** Joins Generic
+[01:12:13] <DoozerBot> 02lib: 03 v4.0.0.27 Build OK - https://doozer.io/build/dbsx32oamr
+[01:16:01] *** Quits omlet05 (Quit: http://quassel-irc.org - Chat comfortably. Anywhere.)
+[01:18:30] *** Joins omlet05
+[01:19:47] *** Quits omlet05 (Client Quit)
+[01:22:20] *** Quits changO- (Read error: Connection reset by peer)
+[01:24:37] *** Joins omlet05
+[01:25:51] *** Quits omlet05 (Client Quit)
+[01:26:15] *** Joins omlet05
+[01:26:19] *** Joins changO-
+[01:50:36] *** Quits Generic (Quit: Generic)
+[01:50:54] *** Joins Generic
+[02:17:18] *** Quits Generic (Ping timeout: 604 seconds)
+[02:25:51] *** Joins Generic
+[02:38:47] *** Joins refs
+[03:28:34] *** Quits Generic (Quit: Generic)
+[04:21:48] *** Quits refs (Quit: refs)
+[07:36:31] <plutobot> Wiki | Page changed: SVC | User: PixelyIon | https://switchbrew.org/w/index.php?curid=81&diff=10703&oldid=10404
+[07:39:04] <plutobot> Wiki | Page changed: SVC | User: PixelyIon | https://switchbrew.org/w/index.php?curid=81&diff=10704&oldid=10703
+[09:19:36] *** Quits fgsfds (Read error: Connection reset by peer)
+[12:02:02] <DoozerBot> PR-#530: htcs: implement hipc bindings, building targets: 02lib
+[12:05:28] <DoozerBot> PR-#531: sf: add serialization fixes necessary for htcs, building targets: 02lib
+[12:05:35] <plutobot> GitHub | New PR: sf add serial... | User: SciresM | https://github.com/switchbrew/libnx/pull/531
+[12:06:29] <DoozerBot> 02lib: 03 v4.0.0.28 Build OK - https://doozer.io/build/8b051ij506
+[12:09:06] <DoozerBot> 02lib: 03 v4.0.0.26 Build OK - https://doozer.io/build/6lopqbqwek
+[12:16:42] *** Quits giglife (Read error: Operation timed out)
+[12:17:21] *** Joins giglife
+[12:17:34] *** Quits balrog (Read error: Operation timed out)
+[12:18:13] *** Joins balrog
+[12:19:27] *** Quits Lightswor (Read error: Operation timed out)
+[12:19:50] *** Quits yls8bot (Read error: Operation timed out)
+[12:20:18] *** Joins Lightswor
+[12:22:11] *** Quits TurtleP (Read error: Operation timed out)
+[12:22:14] *** Joins TurtleP
+[12:26:46] *** Quits Lightswor (Ping timeout: 376 seconds)
+[12:34:01] *** Quits Kyouju (Read error: Connection reset by peer)
+[12:36:34] *** Quits yellows8 (Ping timeout: 1216 seconds)
+[12:38:40] *** Joins ave_7
+[12:38:46] *** Quits cpncok3 (Read error: Operation timed out)
+[12:42:53] *** Joins cpncok3
+[12:48:17] *** Joins Lightswor
+[12:48:22] *** Joins yellows8
+[12:48:22] *** WntrMute sets mode: +o yellows8
+[12:48:59] *** Joins Kyouju
+[12:50:18] *** Joins yls8bot_
+[12:52:33] *** yls8bot_ is now known as yls8bot
+[13:02:53] *** Joins refsw
+[13:05:07] *** Quits ris2z (Excess Flood)
+[13:05:40] *** Joins ris2z
+[13:09:31] *** Joins Summeli
+[13:09:53] *** Quits refsw3 (Ping timeout: 745 seconds)
+[13:16:11] <plutobot> GitHub | New commit | User: Michael Scire | https://github.com/switchbrew/libnx/commit/38ee48032f
+[13:16:15] <DoozerBot> fincs pushed to master: sf: add serialization fixes necessary for htcs "sf: add serialization fixes necessary for htcs" [072 files modified], building targets: 02lib
+[13:20:05] <DoozerBot> 02lib: 03 v4.0.0.26 Build OK - https://doozer.io/build/pxjsf6v4fz
+[17:01:43] *** Joins fgsfds
+[17:56:38] *** Joins refs
+[18:37:46] *** Quits eggy (Read error: Operation timed out)
+[19:43:53] *** Joins figgis_
+[19:49:50] *** Quits fgsfds (Ping timeout: 622 seconds)
+[20:23:00] *** Quits refsw (Read error: Operation timed out)
+[20:27:58] *** Joins refsw
+[20:44:26] *** Joins eggster
+[20:45:12] *** Quits eggster (Client Quit)
+[20:48:04] *** Joins eggster
+[21:55:03] *** Quits |Shadow| (Read error: Operation timed out)
+[21:59:27] *** Joins |Shadow|
+[22:01:24] *** Joins n87
+[23:15:12] *** Quits n87 (Read error: Connection reset by peer)

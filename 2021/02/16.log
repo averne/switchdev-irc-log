@@ -1,0 +1,112 @@
+[00:33:28] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[00:33:42] *** Joins rjeli____
+[00:54:02] *** Quits n87_3 (Read error: Connection reset by peer)
+[01:44:07] *** Joins figgis_
+[01:45:20] *** Quits giglife (Read error: Operation timed out)
+[01:45:24] *** Joins giglife
+[01:45:27] *** Quits GerbilSof (Read error: Operation timed out)
+[01:46:13] *** Quits tpw_rules (Read error: Operation timed out)
+[01:46:24] *** Quits j0hny5 (Read error: Operation timed out)
+[01:47:23] *** Quits omlet05_ (Read error: Operation timed out)
+[01:47:28] *** Joins omlet05
+[01:48:41] *** Quits |Shadow| (Read error: Operation timed out)
+[01:49:54] *** Quits um-velho- (Read error: Operation timed out)
+[01:51:41] *** Quits fgsfds (Read error: Operation timed out)
+[01:59:33] *** Joins GerbilSof
+[02:14:44] *** Joins tpw_rules
+[02:31:09] *** Quits refs (Quit: refs)
+[03:44:56] *** Quits refsw2 (Read error: Connection reset by peer)
+[03:54:45] *** Joins refsw2
+[04:06:06] *** Joins |Shadow|
+[05:36:30] *** Quits figgis_ (Quit: Leaving)
+[05:45:02] <plutobot> Wiki | Page changed: Mario Kart Live: Home Circuit | User: Cmdblkster | https://switchbrew.org/w/index.php?curid=420&diff=10694&oldid=10690
+[06:33:23] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[06:33:37] *** Joins rjeli____
+[07:09:50] *** Quits GerbilSof (Read error: Operation timed out)
+[09:29:40] *** Quits phigcloud (Quit: Connection closed for inactivity)
+[10:16:00] *** Joins n87
+[10:19:19] *** Joins derk0pf
+[10:36:03] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[10:36:16] *** Joins rjeli____
+[10:43:03] *** Quits cpncok3 (Ping timeout: 745 seconds)
+[10:44:01] *** Joins cpncok3
+[10:45:10] *** Joins TurtleP_
+[10:45:58] *** Quits TurtleP (Ping timeout: 745 seconds)
+[10:47:08] *** Quits hexkyz (Ping timeout: 745 seconds)
+[10:48:59] *** Joins hexkyz
+[10:50:38] *** Quits freundTec (Ping timeout: 745 seconds)
+[10:50:54] *** Joins freundTec
+[11:11:38] *** Quits Genolo (Ping timeout: 745 seconds)
+[11:11:49] *** Quits derk0pf (Ping timeout: 265 seconds)
+[11:11:55] *** Joins Genolo
+[11:19:29] *** Joins KuKzz_
+[11:20:15] *** Quits KuKzz (Read error: Operation timed out)
+[11:26:14] *** Quits lameboy (Ping timeout: 604 seconds)
+[11:43:34] *** Joins derk0pf
+[11:43:43] *** Joins lameboy
+[12:33:25] *** Joins n87_2
+[12:36:24] *** Quits n87 (Ping timeout: 265 seconds)
+[12:53:08] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[12:53:22] *** Joins rjeli____
+[13:09:37] *** Quits derk0pf (Ping timeout: 265 seconds)
+[13:18:44] *** Joins derk0pf
+[14:01:23] *** Quits uyjulian (Ping timeout: 745 seconds)
+[14:39:29] *** Joins derk0pf_
+[14:40:21] *** Quits derk0pf (Read error: Connection reset by peer)
+[14:45:15] *** Quits n87_2 (Read error: Connection reset by peer)
+[14:56:35] *** Quits changO- (hub.efnet.us ny.us.hub)
+[14:56:35] *** Quits Surkow (hub.efnet.us ny.us.hub)
+[14:56:35] *** Quits datagutt (hub.efnet.us ny.us.hub)
+[14:56:35] *** Quits oldtopman (hub.efnet.us ny.us.hub)
+[14:56:35] *** Quits mtheall (hub.efnet.us ny.us.hub)
+[14:56:35] *** Quits eggy (hub.efnet.us ny.us.hub)
+[15:05:34] *** Joins changO-
+[15:05:34] *** Joins Surkow
+[15:05:34] *** Joins datagutt
+[15:05:34] *** Joins oldtopman
+[15:05:34] *** Joins mtheall
+[15:05:34] *** Joins eggy
+[15:21:41] *** Quits derk0pf_ (Ping timeout: 258 seconds)
+[15:57:45] *** Joins fgsfds
+[16:02:56] *** Joins phigcloud
+[16:13:13] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[16:13:26] *** Joins rjeli____
+[16:56:22] *** Joins n87
+[16:59:18] *** Quits KuKzz_ (Ping timeout: 745 seconds)
+[17:03:52] *** Joins GerbilSof
+[17:28:27] *** Joins KuKzz
+[17:29:22] *** Joins rajkosto
+[17:47:22] *** Joins n87_2
+[17:50:34] *** Quits n87 (Ping timeout: 265 seconds)
+[18:16:10] *** Joins Generic
+[18:16:35] <Generic> what would be the equivalent of OpenGL buffer textures with deko3d?
+[18:17:05] <Generic> just a very large 1d texture?
+[18:17:37] <Generic> oh I found it
+[18:17:42] <Generic> https://github.com/devkitPro/deko3d/blob/master/include/deko3d.h#L343
+[18:54:03] *** Joins uyjulian
+[19:03:58] *** Quits fgsfds (Read error: Connection reset by peer)
+[19:07:27] *** Joins fgsfds
+[19:20:12] *** Quits rajkosto (Read error: Connection reset by peer)
+[19:21:52] *** Quits Generic (Ping timeout: 604 seconds)
+[19:23:25] *** Quits lameboy (Read error: Connection reset by peer)
+[19:23:51] *** Joins lameboy
+[19:24:03] *** Quits Maylay (Quit: Pipe Terminated)
+[19:24:48] *** Joins Maylay
+[19:27:20] *** Quits Maylay (Client Quit)
+[19:30:37] *** Joins Maylay
+[20:10:15] <plutobot> Wiki | Page changed: Error codes | User: ByLaws | https://switchbrew.org/w/index.php?curid=82&diff=10695&oldid=10650
+[20:11:39] *** Joins refs
+[20:31:59] *** Joins |Shadow|_
+[20:36:53] *** Quits |Shadow| (Ping timeout: 745 seconds)
+[21:06:38] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[21:06:51] *** Joins rjeli____
+[21:10:50] *** Joins Generic
+[22:04:08] <plutobot> Wiki | Page changed: Mario Kart Live: Home Circuit | User: Cmdblkster | https://switchbrew.org/w/index.php?curid=420&diff=10696&oldid=10694
+[22:59:13] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[22:59:26] *** Joins rjeli____
+[23:15:21] *** Joins n87_3
+[23:16:41] *** Quits n87_3 (Read error: Connection reset by peer)
+[23:18:45] *** Quits n87_2 (Ping timeout: 265 seconds)
+[23:23:48] *** Quits Generic (Ping timeout: 604 seconds)
+[23:38:07] *** |Shadow|_ is now known as |Shadow|
+[23:40:58] *** Joins Generic
