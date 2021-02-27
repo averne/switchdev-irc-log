@@ -1,0 +1,61 @@
+[01:19:45] *** Joins figgis__
+[01:19:57] *** Quits figgis_ (Ping timeout: 265 seconds)
+[01:20:03] *** Quits figgis__ (Remote host closed the connection)
+[01:22:21] *** Joins fgsfds
+[02:11:16] *** Quits GerbilSof (Quit: Windows must now restart because the Remote Procedure Call (RPC) service terminated unexpectedly.)
+[05:14:55] *** Quits refs (Quit: refs)
+[06:34:32] *** Joins oreo639
+[07:11:21] *** Quits |Shadow| ()
+[07:12:36] *** Quits fgsfds (Leaving)
+[07:16:39] *** Joins |Shadow|
+[08:04:32] *** Quits oreo639 (Read error: Operation timed out)
+[10:59:17] *** Quits Lightswor (Read error: Connection reset by peer)
+[11:00:11] *** Joins Lightswor
+[11:00:39] *** Joins yls8bot_
+[11:00:39] *** Quits yls8bot (Read error: Connection reset by peer)
+[11:00:49] *** yls8bot_ is now known as yls8bot
+[11:26:03] *** Quits fincs (Ping timeout: 265 seconds)
+[11:26:07] *** Joins fincs
+[11:26:08] *** WntrMute sets mode: +o fincs
+[11:33:02] *** Quits averne (quit)
+[11:33:18] *** Joins averne_
+[11:33:18] *** Server sets mode: +stn 
+[11:34:19] *** Joins KuKzz_
+[11:35:51] *** Quits averne (Read error: Operation timed out)
+[11:37:35] *** Joins omlet05
+[11:38:00] *** Quits KuKzz (Ping timeout: 604 seconds)
+[11:39:44] *** Quits lameboy (Read error: Operation timed out)
+[11:40:19] *** Joins lameboy
+[12:03:59] *** Joins Behemoth_
+[12:03:59] *** Quits Behemoth (Read error: Connection reset by peer)
+[12:16:57] *** Quits tpw_rules (Ping timeout: 496 seconds)
+[12:17:14] *** Joins tpw_rules
+[12:21:52] *** Joins ihaveama-
+[12:21:52] *** Quits ihaveamac (Read error: Connection reset by peer)
+[13:44:54] *** Joins refs
+[15:38:13] *** Joins GerbilSof
+[17:33:13] *** Quits Cu3PO42 (Ping timeout: 745 seconds)
+[17:33:16] *** Joins Cu3PO42
+[17:53:46] *** Joins fgsfds
+[18:53:59] *** Joins Heimskr
+[18:55:12] <Heimskr> Hello. Does anyone know the format of nn::mii::StoreData or where I could find it?
+[19:13:59] *** averne_ is now known as averne
+[19:14:29] <averne> Heimskr: this? https://www.3dbrew.org/wiki/Mii#Mii_format
+[19:15:37] *** Quits changO- (Read error: Operation timed out)
+[19:16:31] <Heimskr> averne: doesn't appear to be the same.
+[19:16:54] <Heimskr> for one, that's 92 bytes long, whereas StoreData is 68 bytes long.
+[19:26:55] *** Joins changO-
+[19:28:41] *** Quits nohit (Read error: Connection reset by peer)
+[19:28:47] *** Joins nohit
+[20:16:00] *** Joins n87
+[21:06:33] *** Joins n87_2
+[21:09:55] *** Quits n87 (Ping timeout: 265 seconds)
+[21:26:11] *** Quits Phils3r (Quit: ZNC - https://znc.in)
+[21:26:37] *** Joins Phils3r
+[21:38:21] *** Quits n87_2 (Read error: Connection reset by peer)
+[21:41:23] *** Joins n87
+[21:50:38] *** Quits flagrama (Read error: Connection reset by peer)
+[21:51:10] *** Joins flagrama
+[22:43:56] *** Joins n87_2
+[22:47:04] *** Quits n87 (Ping timeout: 265 seconds)
+[23:59:48] *** Quits GerbilSof (Quit: Windows must now restart because the Remote Procedure Call (RPC) service terminated unexpectedly.)

@@ -1,0 +1,38 @@
+[03:14:33] <plutobot> GitHub | New PR: bsd fix bsdRe... | User: SciresM | https://github.com/switchbrew/libnx/pull/533
+[03:14:36] <DoozerBot> PR-#533: bsd: fix bsdRegisterClient, building targets: 02lib
+[03:15:57] <DoozerBot> 02lib: 04 v4.0.0.28 Build Failed. sudo -E make -j9 -C nx install exited with status 2 - https://doozer.io/build/6kcsyg1r7u
+[03:17:19] <DoozerBot> PR-#533: bsd: fix bsdRegisterClient, building targets: 02lib
+[03:20:45] <DoozerBot> 02lib: 03 v4.0.0.28 Build OK - https://doozer.io/build/s1w15n2jas
+[07:17:34] *** Quits |Shadow| ()
+[07:23:51] *** Joins |Shadow|
+[09:20:13] *** Joins |Shadow|_
+[09:20:19] *** Quits |Shadow|_ (Excess Flood)
+[09:24:03] *** Quits |Shadow| (Read error: Operation timed out)
+[09:25:43] *** Joins |Shadow|
+[09:25:45] *** Quits |Shadow| (Excess Flood)
+[12:07:50] *** Quits m4ts_ (Ping timeout: 265 seconds)
+[12:09:08] *** Joins m4ts
+[12:17:59] *** Quits m4ts (Ping timeout: 265 seconds)
+[12:18:49] *** Joins m4ts
+[13:15:01] *** Quits m4ts (Ping timeout: 265 seconds)
+[13:21:08] *** Joins m4ts
+[13:28:04] *** Quits m4ts (Ping timeout: 265 seconds)
+[13:29:11] *** Joins m4ts
+[14:49:26] *** Quits Lightswor (Quit: ZNC)
+[14:49:56] *** Joins Lightswor
+[15:07:51] *** Joins |Shadow|
+[15:26:58] *** Quits m4ts (Ping timeout: 265 seconds)
+[16:08:18] *** Joins m4ts
+[16:17:39] *** Joins m4ts_
+[16:18:41] *** Quits m4ts (Ping timeout: 265 seconds)
+[17:13:19] *** Joins Tcm0
+[17:23:38] <plutobot> Wiki | Page changed: RCD | User: CFSworks | https://switchbrew.org/w/index.php?curid=426&diff=10709&oldid=10668
+[17:32:44] *** Quits Retr0id (Remote host closed the connection)
+[17:43:26] <DoozerBot> fincs pushed to master: bsd: fix bsdRegisterClient "bsd: fix bsdRegisterClient" [071 file modified], building targets: 02lib
+[17:47:29] <DoozerBot> 02lib: 03 v4.0.0.28 Build OK - https://doozer.io/build/qi1dodl4nu
+[18:02:40] <plutobot> GitHub | New commit | User: Michael Scire | https://github.com/switchbrew/libnx/commit/ae6f69d339
+[19:10:20] <plutobot> Wiki | Page changed: Mario Kart Live: Home Circuit | User: CFSworks | https://switchbrew.org/w/index.php?curid=420&diff=10710&oldid=10702
+[21:17:43] *** Joins m4ts
+[21:18:21] *** Quits m4ts_ (Ping timeout: 265 seconds)
+[21:21:07] *** Joins m4ts_
+[21:22:13] *** Quits m4ts (Ping timeout: 265 seconds)

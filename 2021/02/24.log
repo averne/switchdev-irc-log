@@ -1,0 +1,218 @@
+[00:01:06] *** Joins |Shadow|
+[00:01:07] *** Quits |Shadow| (Excess Flood)
+[00:01:58] *** Joins |Shadow|
+[00:03:04] *** Quits |Shadow| (Read error: Connection reset by peer)
+[00:11:32] *** Joins |Shadow|
+[00:29:34] *** Quits GerbilSof (Ping timeout: 265 seconds)
+[00:43:13] *** Quits changO- (Read error: Connection reset by peer)
+[00:45:51] *** Joins GerbilSof
+[00:47:55] *** Quits |Shadow| (Read error: Operation timed out)
+[00:56:24] *** Joins |Shadow|
+[00:56:25] *** Quits |Shadow| (Excess Flood)
+[01:01:21] *** Joins changO-
+[01:07:11] *** Joins |Shadow|
+[01:07:12] *** Quits |Shadow| (Excess Flood)
+[01:12:37] *** Joins |Shadow|
+[01:12:38] *** Quits |Shadow| (Excess Flood)
+[01:18:03] *** Joins |Shadow|
+[01:18:04] *** Quits |Shadow| (Excess Flood)
+[01:23:30] *** Joins |Shadow|
+[01:23:33] *** Quits |Shadow| (Excess Flood)
+[01:26:20] *** Joins |Shadow|
+[01:26:23] *** Quits |Shadow| (Excess Flood)
+[01:29:17] *** Joins |Shadow|
+[01:51:30] *** Quits Extrems (Read error: Connection reset by peer)
+[01:51:45] *** Joins Extrems
+[02:39:08] *** Quits refs (Quit: refs)
+[03:00:04] *** Quits balrog (Quit: Bye)
+[03:04:22] *** Joins balrog
+[03:14:32] *** Quits datagutt (Read error: Connection reset by peer)
+[03:16:56] *** Joins datagutt
+[03:26:38] *** Quits GerbilSof (Remote host closed the connection)
+[03:27:13] *** Joins GerbilSof
+[06:30:20] <DoozerBot> PR-#532: bsd: allow user-specified tmem backing buffer, building targets: 02lib
+[06:30:23] <plutobot> GitHub | New PR: bsd allow use... | User: SciresM | https://github.com/switchbrew/libnx/pull/532
+[06:30:57] <DoozerBot> PR-#530: htcs: implement hipc bindings, building targets: 02lib
+[06:37:14] <DoozerBot> 02lib: 03 v4.0.0.27 Build OK - https://doozer.io/build/blpze13n3z
+[06:37:19] <DoozerBot> 02lib: 03 v4.0.0.28 Build OK - https://doozer.io/build/pgq4u05s1a
+[08:36:08] *** Quits Summeli (Ping timeout: 745 seconds)
+[08:40:49] *** Quits fgsfds (Read error: Connection reset by peer)
+[08:48:45] *** Quits gruetzkop (Read error: Connection reset by peer)
+[08:50:49] *** Joins gruetzkop
+[09:00:06] *** Joins ave_75
+[09:02:16] *** Joins gruetzko-
+[09:03:47] *** Joins CCFL_Man_
+[09:05:02] *** Quits gruetzkop (Read error: Connection reset by peer)
+[09:08:33] *** Joins dibas_
+[09:08:33] *** Quits dibas (Read error: Connection reset by peer)
+[09:08:36] *** dibas_ is now known as dibas
+[09:10:33] *** Quits ave_7 (Ping timeout: 745 seconds)
+[09:10:33] *** Quits CCFL_Man (Ping timeout: 745 seconds)
+[09:10:33] *** ave_75 is now known as ave_7
+[12:49:26] *** Joins TAL_
+[12:49:26] *** Quits TAL (Read error: Connection reset by peer)
+[13:01:12] *** Joins n87
+[13:01:12] *** Parts Heimskr ()
+[13:30:05] *** Quits refsw (Quit: refsw)
+[13:31:40] *** Joins n87_2
+[13:35:08] *** Quits n87 (Ping timeout: 265 seconds)
+[15:03:50] *** Quits lameboy (Read error: Operation timed out)
+[15:23:42] *** Joins lameboy
+[15:24:38] *** Joins refsw
+[16:36:42] *** Joins fgsfds
+[17:13:29] *** Joins n87_3
+[17:16:51] *** Quits n87_2 (Ping timeout: 265 seconds)
+[17:23:07] *** Joins n87_2
+[17:26:37] *** Joins n87
+[17:26:55] *** Quits n87_2 (se.hub irc.underworld.no)
+[17:26:55] *** Quits n87_3 (se.hub irc.underworld.no)
+[17:26:55] *** Quits TAL_ (se.hub irc.underworld.no)
+[17:26:55] *** Quits m4ts_ (se.hub irc.underworld.no)
+[17:26:55] *** Quits WntrMute (se.hub irc.underworld.no)
+[17:26:55] *** Quits Ghabry (se.hub irc.underworld.no)
+[17:26:55] *** Quits Stary (se.hub irc.underworld.no)
+[17:26:58] *** Quits rjeli____ (Read error: Connection reset by peer)
+[17:28:14] *** Joins rjeli____
+[17:38:55] *** Joins TAL
+[17:38:55] *** Joins m4ts_
+[17:38:55] *** Joins WntrMute
+[17:38:55] *** Joins Ghabry
+[17:38:55] *** Joins Stary
+[17:38:55] *** irc.underworld.no sets mode: +o WntrMute
+[17:38:56] *** fincs sets mode: +o WntrMute
+[17:41:58] <DoozerBot> fincs pushed to master: bsd: allow user-specified tmem backing buffer "bsd: allow user-specified tmem backing buffer" [072 files modified], building targets: 02lib
+[17:45:48] <DoozerBot> 02lib: 03 v4.0.0.27 Build OK - https://doozer.io/build/4dcvebrtxk
+[17:53:21] *** WntrMute sets mode: +o fincs
+[17:53:21] *** WntrMute sets mode: +o yellows8
+[17:53:24] *** yellows8 sets mode: +o yls8bot
+[18:01:31] <plutobot> GitHub | New commit | User: Michael Scire | https://github.com/switchbrew/libnx/commit/c8f8145195
+[18:42:57] *** Joins |Shadow|_
+[18:42:58] *** Quits |Shadow|_ (Excess Flood)
+[18:46:35] *** Quits |Shadow| (Read error: Operation timed out)
+[18:48:39] *** Joins |Shadow|
+[18:48:40] *** Quits |Shadow| (Excess Flood)
+[18:54:08] *** Joins |Shadow|
+[18:54:09] *** Quits |Shadow| (Excess Flood)
+[18:59:38] *** Joins |Shadow|
+[18:59:39] *** Quits |Shadow| (Excess Flood)
+[19:05:05] *** Joins |Shadow|
+[19:05:06] *** Quits |Shadow| (Excess Flood)
+[19:10:31] *** Joins |Shadow|
+[19:10:32] *** Quits |Shadow| (Excess Flood)
+[19:15:59] *** Joins |Shadow|
+[19:16:00] *** Quits |Shadow| (Excess Flood)
+[19:21:29] *** Joins |Shadow|
+[19:21:30] *** Quits |Shadow| (Excess Flood)
+[19:24:29] *** Joins flotwig
+[19:26:58] *** Joins |Shadow|
+[19:26:59] *** Quits |Shadow| (Excess Flood)
+[19:32:25] *** Joins |Shadow|
+[19:32:26] *** Quits |Shadow| (Excess Flood)
+[19:37:51] *** Joins |Shadow|
+[19:37:52] *** Quits |Shadow| (Excess Flood)
+[19:43:20] *** Joins |Shadow|
+[19:43:21] *** Quits |Shadow| (Excess Flood)
+[19:46:11] *** Quits flotwig (Read error: Operation timed out)
+[19:48:16] <plutobot> Wiki | Page changed: Audio services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=264&diff=10708&oldid=10669
+[19:48:49] *** Joins |Shadow|
+[19:48:50] *** Quits |Shadow| (Excess Flood)
+[19:54:12] *** Quits averne (quit)
+[19:55:19] *** Joins averne
+[19:55:19] *** Server sets mode: +stn 
+[19:59:43] *** Joins |Shadow|
+[19:59:44] *** Quits |Shadow| (Excess Flood)
+[20:05:09] *** Joins |Shadow|
+[20:05:10] *** Quits |Shadow| (Excess Flood)
+[20:10:35] *** Joins |Shadow|
+[20:10:36] *** Quits |Shadow| (Excess Flood)
+[20:13:48] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[20:14:01] *** Joins rjeli____
+[20:16:01] *** Joins |Shadow|
+[20:16:02] *** Quits |Shadow| (Excess Flood)
+[20:21:47] *** Joins |Shadow|
+[20:21:48] *** Quits |Shadow| (Excess Flood)
+[20:27:33] *** Joins |Shadow|
+[20:27:34] *** Quits |Shadow| (Excess Flood)
+[20:32:58] *** Joins |Shadow|
+[20:32:59] *** Quits |Shadow| (Excess Flood)
+[20:38:27] *** Joins |Shadow|
+[20:38:28] *** Quits |Shadow| (Excess Flood)
+[20:43:54] *** Quits lameboy (Ping timeout: 604 seconds)
+[20:43:56] *** Joins |Shadow|
+[20:43:57] *** Quits |Shadow| (Excess Flood)
+[20:44:18] *** Joins lameboy
+[20:49:18] *** Joins |Shadow|
+[20:49:19] *** Quits |Shadow| (Excess Flood)
+[20:54:44] *** Joins |Shadow|
+[20:54:45] *** Quits |Shadow| (Excess Flood)
+[21:00:10] *** Joins |Shadow|
+[21:00:11] *** Quits |Shadow| (Excess Flood)
+[21:05:36] *** Joins |Shadow|
+[21:05:37] *** Quits |Shadow| (Excess Flood)
+[21:11:05] *** Joins |Shadow|
+[21:11:06] *** Quits |Shadow| (Excess Flood)
+[21:16:31] *** Joins |Shadow|
+[21:16:32] *** Quits |Shadow| (Excess Flood)
+[21:17:33] *** Quits foghorn (Read error: Operation timed out)
+[21:22:17] *** Joins |Shadow|
+[21:22:18] *** Quits |Shadow| (Excess Flood)
+[21:27:43] *** Joins |Shadow|
+[21:27:44] *** Quits |Shadow| (Excess Flood)
+[21:33:09] *** Joins |Shadow|
+[21:33:10] *** Quits |Shadow| (Excess Flood)
+[21:38:38] *** Joins |Shadow|
+[21:38:39] *** Quits |Shadow| (Excess Flood)
+[21:42:14] *** Joins refs
+[21:44:06] *** Joins |Shadow|
+[21:44:07] *** Quits |Shadow| (Excess Flood)
+[21:47:52] *** Quits n87 (Read error: Connection reset by peer)
+[21:49:31] *** Joins |Shadow|
+[21:49:32] *** Quits |Shadow| (Excess Flood)
+[21:54:57] *** Joins |Shadow|
+[21:54:58] *** Quits |Shadow| (Excess Flood)
+[22:00:24] *** Joins |Shadow|
+[22:00:25] *** Quits |Shadow| (Excess Flood)
+[22:05:50] *** Joins |Shadow|
+[22:05:51] *** Quits |Shadow| (Excess Flood)
+[22:11:16] *** Joins |Shadow|
+[22:11:17] *** Quits |Shadow| (Excess Flood)
+[22:16:42] *** Joins |Shadow|
+[22:16:43] *** Quits |Shadow| (Excess Flood)
+[22:22:08] *** Joins |Shadow|
+[22:22:09] *** Quits |Shadow| (Excess Flood)
+[22:27:33] *** Joins |Shadow|
+[22:27:34] *** Quits |Shadow| (Excess Flood)
+[22:32:58] *** Joins |Shadow|
+[22:32:59] *** Quits |Shadow| (Excess Flood)
+[22:34:58] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[22:35:11] *** Joins rjeli____
+[22:38:24] *** Joins |Shadow|
+[22:38:25] *** Quits |Shadow| (Excess Flood)
+[22:43:49] *** Joins |Shadow|
+[22:43:50] *** Quits |Shadow| (Excess Flood)
+[22:49:15] *** Joins |Shadow|
+[22:49:16] *** Quits |Shadow| (Excess Flood)
+[22:54:44] *** Joins |Shadow|
+[22:54:45] *** Quits |Shadow| (Excess Flood)
+[23:00:10] *** Joins |Shadow|
+[23:00:11] *** Quits |Shadow| (Excess Flood)
+[23:05:34] *** Joins |Shadow|
+[23:05:35] *** Quits |Shadow| (Excess Flood)
+[23:11:04] *** Joins |Shadow|
+[23:11:05] *** Quits |Shadow| (Excess Flood)
+[23:16:31] *** Joins |Shadow|
+[23:16:32] *** Quits |Shadow| (Excess Flood)
+[23:21:57] *** Joins |Shadow|
+[23:21:58] *** Quits |Shadow| (Excess Flood)
+[23:27:43] *** Joins |Shadow|
+[23:27:44] *** Quits |Shadow| (Excess Flood)
+[23:33:11] *** Joins |Shadow|
+[23:33:12] *** Quits |Shadow| (Excess Flood)
+[23:38:36] *** Joins |Shadow|
+[23:38:37] *** Quits |Shadow| (Excess Flood)
+[23:44:01] *** Joins |Shadow|
+[23:44:02] *** Quits |Shadow| (Excess Flood)
+[23:49:27] *** Joins |Shadow|
+[23:49:28] *** Quits |Shadow| (Excess Flood)
+[23:54:52] *** Joins |Shadow|
+[23:54:53] *** Quits |Shadow| (Excess Flood)
