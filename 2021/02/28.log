@@ -1,0 +1,43 @@
+[00:40:33] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[00:40:47] *** Joins rjeli____
+[01:04:28] *** Quits SCV____ (Ping timeout: 1230 seconds)
+[01:04:41] *** Joins SCV____
+[01:14:18] *** Quits oreo639 (Read error: Connection reset by peer)
+[02:28:14] *** Quits SCV____ (Read error: Connection timed out)
+[02:43:06] *** Joins SCV____
+[04:00:03] *** Quits SCV____ (Ping timeout: 1230 seconds)
+[04:00:16] *** Joins SCV____
+[05:06:19] *** Quits refs (Quit: refs)
+[05:27:33] *** Quits SCV____ (Ping timeout: 1230 seconds)
+[05:27:46] *** Joins SCV____
+[05:47:58] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[05:48:11] *** Joins rjeli____
+[06:15:26] *** Quits SCV____ (Read error: Connection timed out)
+[06:33:00] *** Joins SCV____
+[07:30:54] *** Quits fgsfds (Read error: Connection reset by peer)
+[10:22:32] *** Quits Phils3r (Quit: ZNC - https://znc.in)
+[10:22:44] *** Joins Phils3r
+[11:28:43] *** Joins n87
+[13:29:22] *** Joins refs
+[14:28:30] *** Quits thomasnet (Quit: Bye!)
+[14:30:25] *** Joins thomasnet
+[15:51:29] *** fearsage is now known as fearUS
+[15:54:38] *** Parts fearUS (WeeChat 2.9-dev)
+[17:02:44] *** Joins n87_2
+[17:06:14] *** Quits n87 (Ping timeout: 265 seconds)
+[18:39:19] *** Joins fgsfds
+[19:00:53] <DoozerBot> PR-#534: Add some nvchannel ioctls, building targets: 02lib
+[19:03:55] <plutobot> GitHub | New PR: Add some nvch... | User: averne | https://github.com/switchbrew/libnx/pull/534
+[19:08:30] <DoozerBot> 02lib: 03 v4.0.0.29 Build OK - https://doozer.io/build/9zxmkhc3mf
+[19:36:01] <plutobot> Wiki | Page changed: Audio services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=264&diff=10714&oldid=10708
+[20:02:52] <DoozerBot> PR-#534: Add some nvchannel ioctls, building targets: 02lib
+[20:06:55] <DoozerBot> 02lib: 03 v4.0.0.30 Build OK - https://doozer.io/build/hczbc4aecq
+[20:16:08] <DoozerBot> PR-#534: Add some nvchannel ioctls, building targets: 02lib
+[20:20:03] <DoozerBot> 02lib: 03 v4.0.0.31 Build OK - https://doozer.io/build/91sj93mst9
+[21:06:43] *** Joins n87_3
+[21:10:19] *** Quits n87_2 (Ping timeout: 265 seconds)
+[21:18:01] <DoozerBot> fincs pushed to master: Add some nvchannel ioctls (#534) "Add some nvchannel ioctls (#534)" [072 files modified], building targets: 02lib
+[21:18:04] <plutobot> GitHub | New commit | User: averne | https://github.com/switchbrew/libnx/commit/0716ed6ffd
+[21:21:46] <DoozerBot> 02lib: 03 v4.0.0.29 Build OK - https://doozer.io/build/yzm8bjwppg
+[22:56:09] *** TAL is now known as arbin
+[22:56:12] *** arbin is now known as TAL
