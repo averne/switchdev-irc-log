@@ -1,0 +1,81 @@
+[01:04:58] *** Quits Pieman (Ping timeout: 258 seconds)
+[01:38:50] *** Joins Pieman
+[01:59:17] *** Quits n87_2 (Read error: Connection reset by peer)
+[02:45:58] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[02:46:11] *** Joins rjeli____
+[02:59:26] *** |Shadow|_ is now known as |Shadow|
+[03:15:41] *** Quits SCV______ (Read error: Connection timed out)
+[03:24:01] *** Joins SCV______
+[04:48:28] *** Quits SCV______ (Ping timeout: 1230 seconds)
+[04:51:23] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[04:54:37] *** Joins SCV______
+[04:55:08] *** Quits SCV______ (Read error: Connection reset by peer)
+[04:58:21] *** Joins SCV______
+[05:20:17] *** Quits refs (Quit: refs)
+[05:44:32] *** Joins rjeli____
+[06:30:11] *** Joins |Shadow|_
+[06:35:22] *** Quits |Shadow| (Read error: Operation timed out)
+[06:37:40] *** Quits |Shadow|_ (Read error: Connection reset by peer)
+[06:43:35] *** Joins |Shadow|
+[06:49:23] *** Joins |Shadow|_
+[06:50:56] *** Quits |Shadow| (Read error: Operation timed out)
+[08:09:11] *** Quits AlexAltea (hub.efnet.us ny.us.hub)
+[08:09:11] *** Quits CCFL_Man (hub.efnet.us ny.us.hub)
+[08:09:11] *** Quits WntrMute (hub.efnet.us ny.us.hub)
+[08:09:11] *** Quits Behemoth_ (hub.efnet.us ny.us.hub)
+[08:09:11] *** Quits cpncok3 (hub.efnet.us ny.us.hub)
+[08:09:11] *** Quits cpnc0ke (hub.efnet.us ny.us.hub)
+[08:09:11] *** Quits Cu3PO42 (hub.efnet.us ny.us.hub)
+[08:09:11] *** Quits fincs (hub.efnet.us ny.us.hub)
+[08:09:11] *** Quits TurtleP (hub.efnet.us ny.us.hub)
+[08:10:15] *** Joins AlexAltea
+[08:10:15] *** Joins CCFL_Man
+[08:10:15] *** Joins WntrMute
+[08:10:15] *** Joins Behemoth_
+[08:10:15] *** Joins cpncok3
+[08:10:15] *** Joins cpnc0ke
+[08:10:15] *** Joins Cu3PO42
+[08:10:15] *** Joins fincs
+[08:10:15] *** Joins TurtleP
+[08:10:15] *** irc.colosolutions.net sets mode: +oo WntrMute fincs
+[08:10:18] *** WntrMute sets mode: +o yellows8
+[08:10:45] *** Quits fgsfds (Leaving)
+[08:34:13] *** |Shadow|_ is now known as |Shadow|
+[09:38:24] *** Joins refsw3
+[09:40:15] *** Quits refsw2 (Read error: Operation timed out)
+[09:49:52] *** Joins |Shadow|_
+[09:51:01] *** Quits |Shadow| (Read error: Operation timed out)
+[10:16:06] *** |Shadow|_ is now known as |Shadow|
+[11:46:26] *** Joins n87
+[13:39:11] *** Joins refs
+[14:21:58] *** Joins |Shadow|_
+[14:27:25] *** Quits |Shadow| (Read error: Operation timed out)
+[14:29:56] *** Joins |Shadow|
+[14:31:48] *** Quits |Shadow|_ (Read error: Operation timed out)
+[15:19:25] *** Joins n87_2
+[15:22:43] *** Quits n87 (Ping timeout: 265 seconds)
+[16:09:42] *** Joins giglife_
+[16:11:13] *** Quits giglife (Read error: Operation timed out)
+[16:11:14] *** giglife_ is now known as giglife
+[16:19:14] *** Joins giglife_
+[16:20:03] *** Quits giglife (Read error: Operation timed out)
+[16:20:03] *** giglife_ is now known as giglife
+[16:24:56] *** Quits |Shadow| (Read error: Operation timed out)
+[16:27:03] *** Joins fgsfds
+[16:27:11] *** Joins |Shadow|
+[17:50:06] <DoozerBot> PR-#535: Fix nvioctlChannel_Submit and add mm:u service wrappers, building targets: 02lib
+[17:54:05] <DoozerBot> 02lib: 03 v4.0.0.31 Build OK - https://doozer.io/build/gaza7x97hp
+[18:07:05] <DoozerBot> PR-#535: Fix nvioctlChannel_Submit and add mm:u service wrappers, building targets: 02lib
+[18:08:03] <plutobot> GitHub | New PR: Fix nvioctlCh... | User: averne | https://github.com/switchbrew/libnx/pull/535
+[18:11:05] <DoozerBot> 02lib: 03 v4.0.0.32 Build OK - https://doozer.io/build/bpn8fkchj3
+[19:59:50] <DoozerBot> fincs pushed to master: Const request "Fix nvioctlChannel_Submit syncpt writeback" [071 file modified]
+[19:59:51] <DoozerBot> fincs pushed to master: Const request "Add mm:u service wrappers" [032 files added07, 1 file modified]
+[19:59:52] <DoozerBot> fincs pushed to master: Const request "Const request" [072 files modified], building targets: 02lib
+[20:03:32] <DoozerBot> 02lib: 03 v4.0.0.32 Build OK - https://doozer.io/build/opk1frv2n8
+[20:08:07] <plutobot> GitHub | New commit | User: averne | https://github.com/switchbrew/libnx/commit/05744823ac
+[20:08:07] <plutobot> GitHub | New commit | User: averne | https://github.com/switchbrew/libnx/commit/3374db38a2
+[20:08:07] <plutobot> GitHub | New commit | User: averne | https://github.com/switchbrew/libnx/commit/3bb44d77b7
+[21:29:25] *** Quits |Shadow| (Read error: Connection reset by peer)
+[22:06:45] *** Joins |Shadow|
+[22:08:25] *** Quits giglife (Read error: Operation timed out)
+[22:08:47] *** Joins giglife
