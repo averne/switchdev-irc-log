@@ -1,0 +1,91 @@
+[02:26:39] *** Quits yls8bot (Read error: Operation timed out)
+[02:28:14] *** Quits yellows8 (Ping timeout: 376 seconds)
+[02:28:31] *** Quits Cu3PO42 (Read error: Operation timed out)
+[02:29:00] *** Joins yellows8
+[02:29:14] *** Quits Kyouju (Read error: Connection reset by peer)
+[02:29:26] *** Joins Kyouju
+[02:31:59] *** Joins yls8bot
+[02:35:11] *** Joins Cu3PO42
+[04:16:58] *** Quits fincs (Ping timeout: 265 seconds)
+[04:17:02] *** Joins fincs
+[04:17:08] *** Joins CHANFIX
+[04:17:08] *** services.int sets mode: +o CHANFIX
+[04:17:08] *** CHANFIX sets mode: +o fincs
+[04:17:08] <CHANFIX> 1 client should have been opped.
+[04:17:09] *** Parts CHANFIX ()
+[04:17:56] *** Quits Ghabry (Ping timeout: 265 seconds)
+[04:18:17] *** Joins Ghabry
+[04:27:13] *** Joins CHANFIX
+[04:27:13] *** services.int sets mode: +o CHANFIX
+[04:27:13] *** CHANFIX sets mode: +o yls8bot
+[04:27:13] <CHANFIX> 1 client should have been opped.
+[04:27:13] *** Parts CHANFIX ()
+[04:44:02] *** Quits yls8bot (Read error: Operation timed out)
+[04:47:46] *** Quits yellows8 (Ping timeout: 376 seconds)
+[04:49:24] *** Quits Surkow_ (Excess Flood)
+[04:50:35] *** Quits Kyouju (Read error: Connection reset by peer)
+[05:06:36] <DoozerBot> PR-#536: psm: Fix charger definitions, building targets: 02lib
+[05:10:31] <DoozerBot> 02lib: 03 v4.0.0.34 Build OK - https://doozer.io/build/cr6kldp6sv
+[05:14:57] <plutobot> GitHub | New PR: psm Fix charg... | User: endrift | https://github.com/switchbrew/libnx/pull/536
+[05:16:40] *** Joins Surkow
+[05:24:08] *** Joins Kyouju
+[05:24:11] *** Joins yellows8
+[05:24:24] *** Joins yls8bot
+[07:02:41] *** Quits Extrems (hub.efnet.us ny.us.hub)
+[07:02:41] *** Quits ihaveamac (hub.efnet.us ny.us.hub)
+[07:02:41] *** Quits GeekShado (hub.efnet.us ny.us.hub)
+[07:02:41] *** Quits Maylay (hub.efnet.us ny.us.hub)
+[07:02:41] *** Quits CCFL_Man (hub.efnet.us ny.us.hub)
+[07:02:41] *** Quits fgsfds (hub.efnet.us ny.us.hub)
+[07:02:41] *** Quits |Shadow| (hub.efnet.us ny.us.hub)
+[07:02:41] *** Quits giglife (hub.efnet.us ny.us.hub)
+[07:02:41] *** Quits omlet05 (hub.efnet.us ny.us.hub)
+[07:02:41] *** Quits balrog (hub.efnet.us ny.us.hub)
+[07:02:41] *** Quits j0hny5 (hub.efnet.us ny.us.hub)
+[07:03:38] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[07:05:19] *** Joins fgsfds
+[07:05:19] *** Joins |Shadow|
+[07:05:19] *** Joins giglife
+[07:05:19] *** Joins omlet05
+[07:05:19] *** Joins balrog
+[07:05:19] *** Joins Extrems
+[07:05:19] *** Joins ihaveamac
+[07:05:19] *** Joins GeekShado
+[07:05:19] *** Joins j0hny5
+[07:05:19] *** Joins Maylay
+[07:05:19] *** Joins CCFL_Man
+[07:10:37] *** Joins rjeli____
+[08:37:33] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[08:37:47] *** Joins rjeli____
+[08:41:40] *** Joins ave_7
+[08:46:28] *** Quits fgsfds (Read error: Connection reset by peer)
+[10:52:02] *** Quits nrq (Quit: ..)
+[12:36:45] *** Joins nrq
+[16:41:18] *** Quits yellows8 (Ping timeout: 376 seconds)
+[16:42:42] *** Quits yls8bot (Read error: Operation timed out)
+[16:44:06] *** Joins Kyouju-
+[16:44:46] *** Quits Kyouju (Read error: Connection reset by peer)
+[16:44:48] *** Kyouju- is now known as Kyouju
+[16:44:49] *** Joins yls8bot
+[16:46:33] *** Joins yellows8
+[16:59:13] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[16:59:26] *** Joins rjeli____
+[17:24:12] *** Joins fgsfds
+[18:05:43] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[18:05:57] *** Joins rjeli____
+[19:33:21] *** Quits lameboy (Read error: Connection reset by peer)
+[19:33:48] *** Joins lameboy
+[19:58:35] *** Joins n87
+[20:02:58] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[20:03:11] *** Joins rjeli____
+[21:11:01] *** Joins KuKzz
+[21:14:00] *** Quits KuKzz_ (Read error: Operation timed out)
+[21:20:33] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[21:20:46] *** Joins rjeli____
+[21:42:52] *** Joins refs
+[22:33:12] *** Quits n87 (Read error: Connection reset by peer)
+[22:55:38] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[22:55:52] *** Joins rjeli____
+[23:36:40] *** Quits refs (Quit: refs)
+[23:59:13] *** Quits rjeli____ (Ping timeout: 1230 seconds)
+[23:59:27] *** Joins rjeli____

@@ -1,0 +1,70 @@
+[01:40:35] *** Quits |Shadow| ()
+[01:41:42] *** Joins |Shadow|
+[01:54:38] *** Quits changO- (Read error: Connection reset by peer)
+[01:58:52] *** Joins changO-
+[04:10:17] *** Quits fgsfds (Leaving)
+[04:22:16] *** Quits refs (Quit: refs)
+[05:09:16] *** Quits GerbilSof (Quit: Windows must now restart because the Remote Procedure Call (RPC) service terminated unexpectedly.)
+[08:19:06] *** Quits |Shadow| ()
+[08:26:35] *** Joins |Shadow|
+[08:43:44] *** Quits KuKzz (Ping timeout: 265 seconds)
+[12:13:41] *** Joins m4ts_
+[12:14:57] *** Quits m4ts (Ping timeout: 265 seconds)
+[13:49:25] *** Joins fgsfds
+[14:18:49] *** Quits lameboy (Read error: Connection reset by peer)
+[14:19:13] *** Joins lameboy
+[14:22:57] *** Joins KuKzz
+[14:48:38] *** Joins GerbilSof
+[14:49:48] *** Quits GerbilSof (Remote host closed the connection)
+[14:53:21] *** Joins GerbilSof
+[15:18:21] *** Joins Felgar
+[15:24:21] *** Quits zombie343 (Read error: Operation timed out)
+[15:26:33] *** Quits lameboy (Read error: Operation timed out)
+[15:27:01] *** Joins lameboy
+[15:38:23] <yellows8> Behemoth_: if it doesn't work on stock anymore you'd probably (?) have to use a build where map_region is disabled in the json (not sure why you wouldn't just use a .nsp for directly booting AMS)
+[18:08:24] *** Quits nohit (Ping timeout: 258 seconds)
+[18:09:09] *** Joins nohit
+[18:10:47] *** Quits flagrama (Ping timeout: 258 seconds)
+[18:10:47] *** Quits GerbilSof (Ping timeout: 258 seconds)
+[18:10:47] *** Quits madk (Ping timeout: 258 seconds)
+[18:10:47] *** Quits plutobot (Ping timeout: 258 seconds)
+[18:10:47] *** Quits KuKzz (Ping timeout: 258 seconds)
+[18:10:47] *** Quits Normmatt (Ping timeout: 258 seconds)
+[18:10:47] *** Quits balrog (Ping timeout: 258 seconds)
+[18:10:47] *** Quits oldtopman (Ping timeout: 258 seconds)
+[18:10:48] *** Joins madk
+[18:11:11] *** Joins balrog
+[18:11:22] *** Joins flagrama
+[18:11:30] *** Joins Normmatt
+[18:11:36] *** Joins plutobot
+[18:11:48] *** Joins GerbilSof
+[18:12:31] *** Joins oldtopman
+[18:14:11] *** Joins KuKzz
+[18:18:22] *** Quits plutobot (Ping timeout: 258 seconds)
+[18:20:40] *** Quits oldtopman (Ping timeout: 258 seconds)
+[18:21:26] *** Quits DacoTaco (Ping timeout: 258 seconds)
+[18:22:54] *** Quits madk (Quit: ZNC 1.7.1 - https://znc.in)
+[18:23:12] *** Joins madk
+[18:23:29] *** Joins oldtopman
+[18:24:39] *** Joins DacoTaco
+[18:27:35] *** Joins plutobot
+[19:04:30] *** Quits plutobot (se.hub efnet.portlane.se)
+[19:04:30] *** Quits DacoTaco (se.hub efnet.portlane.se)
+[19:04:30] *** Quits oldtopman (se.hub efnet.portlane.se)
+[19:04:30] *** Quits madk (se.hub efnet.portlane.se)
+[19:04:30] *** Quits flagrama (se.hub efnet.portlane.se)
+[19:04:30] *** Quits nohit (se.hub efnet.portlane.se)
+[19:04:30] *** Quits Pieman (se.hub efnet.portlane.se)
+[19:44:31] *** Joins madk
+[19:44:31] *** Joins plutobot
+[19:44:31] *** Joins oldtopman
+[19:44:31] *** Joins nohit
+[19:44:31] *** Joins DacoTaco
+[19:44:31] *** Joins flagrama
+[19:44:31] *** Joins Pieman
+[20:36:49] *** Quits GerbilSof (Quit: Windows must now restart because the Remote Procedure Call (RPC) service terminated unexpectedly.)
+[20:41:58] *** Joins GerbilSof
+[20:55:10] *** Quits |Shadow| (Remote host closed the connection)
+[21:02:12] *** Joins |Shadow|
+[22:06:29] *** Joins refs
+[23:48:12] *** Quits refs (Quit: refs)
