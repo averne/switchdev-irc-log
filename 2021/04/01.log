@@ -1,0 +1,100 @@
+[01:10:00] *** Joins fgsfds
+[02:39:26] *** Quits ihaveamac (Quit: fail)
+[02:40:45] *** Joins ihaveamac
+[02:47:40] *** Quits ihaveamac (Quit: fail)
+[02:48:08] *** Joins ihaveamac
+[04:46:06] *** Quits X-Scale (Ping timeout: 255 seconds)
+[04:54:35] *** Joins X-Scale
+[07:09:15] *** Quits fgsfds (Leaving)
+[07:44:13] *** Joins changoXPR
+[07:50:33] *** Quits changO- (Read error: Operation timed out)
+[07:51:20] *** Joins changO-
+[07:57:13] *** Quits changoXPR (Ping timeout: 745 seconds)
+[10:01:47] *** Quits giglife (Read error: Operation timed out)
+[10:01:50] *** Joins giglife
+[10:03:11] *** Quits j0hny5 (Read error: Operation timed out)
+[10:03:56] *** Quits tpw_rules (Read error: Operation timed out)
+[10:04:44] *** Joins KuKzz_
+[10:05:53] *** Quits KuKzz (Ping timeout: 622 seconds)
+[10:07:17] *** Quits |Shadow| (Read error: Operation timed out)
+[10:16:30] *** Joins j0hny5
+[10:18:17] *** Joins tpw_rules
+[10:28:44] *** Joins |Shadow|
+[10:40:01] *** Joins n87
+[11:24:01] *** Joins n87_2
+[11:27:31] *** Quits n87 (Ping timeout: 265 seconds)
+[12:30:39] *** Joins KuKzz
+[12:32:09] *** Quits KuKzz_ (Ping timeout: 604 seconds)
+[12:57:29] *** Quits ris2z (Excess Flood)
+[12:57:54] *** Joins ris2z
+[14:33:40] *** Joins changoXPR
+[14:38:55] *** Quits changO- (Read error: Operation timed out)
+[14:38:55] *** changoXPR is now known as changO-
+[15:51:08] *** Quits Behemoth_ (Quit: Quit)
+[15:51:23] *** Joins Behemoth
+[15:54:46] *** Quits Behemoth (Client Quit)
+[15:54:59] *** Joins Behemoth
+[18:25:19] *** Joins Sentry-
+[18:29:42] *** Quits Snetry (Read error: Operation timed out)
+[18:42:05] *** Joins fgsfds
+[19:53:17] *** Quits phigcloud (Quit: Connection closed for inactivity)
+[20:11:59] *** Quits sh0e- (Bye.)
+[20:16:30] *** Joins sh0e
+[21:12:12] *** Quits TuxSH (Connection closed)
+[21:12:52] *** Joins TuxSH
+[22:04:42] <DoozerBot> PR-#538: set:sys: add ProductModel enums, building targets: 02lib
+[22:07:03] <DoozerBot> 02lib: 04 v4.0.0.38 Build Failed. sudo -E make -j9 -C nx install exited with status 2 - https://doozer.io/build/r447m61gfd
+[22:24:13] <plutobot> GitHub | New PR: setsys add Pr... | User: TurtleP | https://github.com/switchbrew/libnx/pull/538
+[22:26:38] *** Quits n87_2 (Read error: Connection reset by peer)
+[22:41:41] <DoozerBot> PR-#538: set:sys: add ProductModel enums, building targets: 02lib
+[22:46:27] <DoozerBot> 02lib: 03 v4.0.0.39 Build OK - https://doozer.io/build/bhgmq1t2ep
+[23:27:56] <DoozerBot> PR-#538: set:sys: add ProductModel enums, building targets: 02lib
+[23:32:00] <DoozerBot> 02lib: 03 v4.0.0.40 Build OK - https://doozer.io/build/0fixs3d2vt
+[23:44:03] *** Quits Surkow (se.hub hub.efnet.us)
+[23:44:03] *** Quits GerbilSof (se.hub hub.efnet.us)
+[23:44:03] *** Quits ihaveamac (se.hub hub.efnet.us)
+[23:44:03] *** Quits Galaxy| (se.hub hub.efnet.us)
+[23:44:03] *** Quits lameboy (se.hub hub.efnet.us)
+[23:44:03] *** Quits cpnc0ke (se.hub hub.efnet.us)
+[23:44:03] *** Quits fgsfds (se.hub hub.efnet.us)
+[23:44:03] *** Quits |Shadow| (se.hub hub.efnet.us)
+[23:44:03] *** Quits tpw_rules (se.hub hub.efnet.us)
+[23:44:03] *** Quits j0hny5 (se.hub hub.efnet.us)
+[23:44:03] *** Quits Behemoth (se.hub hub.efnet.us)
+[23:44:03] *** Quits changO- (se.hub hub.efnet.us)
+[23:44:03] *** Quits CCFL_Man (se.hub hub.efnet.us)
+[23:44:03] *** Quits balrog (se.hub hub.efnet.us)
+[23:44:03] *** Quits Cu3PO42 (se.hub hub.efnet.us)
+[23:44:03] *** Quits IShaDoWl (se.hub hub.efnet.us)
+[23:44:03] *** Quits GeekShado (se.hub hub.efnet.us)
+[23:44:03] *** Quits AlexAltea (se.hub hub.efnet.us)
+[23:44:03] *** Quits giglife (se.hub hub.efnet.us)
+[23:44:03] *** Quits flotwig (se.hub hub.efnet.us)
+[23:44:03] *** Quits omlet05 (se.hub hub.efnet.us)
+[23:44:03] *** Quits Kyouju (se.hub hub.efnet.us)
+[23:44:03] *** Quits yls8bot (se.hub hub.efnet.us)
+[23:44:03] *** Quits yellows8 (se.hub hub.efnet.us)
+[23:46:41] *** Joins Surkow
+[23:46:41] *** Joins fgsfds
+[23:46:41] *** Joins Behemoth
+[23:46:41] *** Joins changO-
+[23:46:41] *** Joins |Shadow|
+[23:46:41] *** Joins tpw_rules
+[23:46:41] *** Joins j0hny5
+[23:46:41] *** Joins giglife
+[23:46:41] *** Joins ihaveamac
+[23:46:41] *** Joins Galaxy|
+[23:46:41] *** Joins flotwig
+[23:46:41] *** Joins omlet05
+[23:46:41] *** Joins GerbilSof
+[23:46:41] *** Joins Kyouju
+[23:46:41] *** Joins yellows8
+[23:46:41] *** Joins yls8bot
+[23:46:41] *** Joins CCFL_Man
+[23:46:41] *** Joins lameboy
+[23:46:41] *** Joins balrog
+[23:46:41] *** Joins cpnc0ke
+[23:46:41] *** Joins Cu3PO42
+[23:46:41] *** Joins IShaDoWl
+[23:46:41] *** Joins GeekShado
+[23:46:41] *** Joins AlexAltea

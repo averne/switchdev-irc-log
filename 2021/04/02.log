@@ -1,0 +1,44 @@
+[01:43:27] *** Joins phigcloud
+[02:34:55] *** Quits ihaveamac (Quit: fail)
+[02:35:37] *** Joins ihaveamac
+[03:19:49] *** Quits ihaveamac (Remote host closed the connection)
+[03:21:47] *** Joins changoXPR
+[03:22:30] *** Joins ihaveamac
+[03:24:51] *** Quits changO- (Read error: Operation timed out)
+[03:24:52] *** changoXPR is now known as changO-
+[06:08:53] <DoozerBot> PR-#538: set:sys: add ProductModel enums, building targets: 02lib
+[06:12:00] *** Quits changO- (Read error: Connection reset by peer)
+[06:12:50] <DoozerBot> 02lib: 03 v4.0.0.41 Build OK - https://doozer.io/build/j4hyava0zr
+[06:15:34] <DoozerBot> PR-#538: set:sys: add ProductModel enums, building targets: 02lib
+[06:19:34] <DoozerBot> 02lib: 03 v4.0.0.42 Build OK - https://doozer.io/build/xvoz3iyezj
+[06:20:56] <DoozerBot> PR-#538: set:sys: add ProductModel enums, building targets: 02lib
+[06:22:24] *** Joins changO-
+[06:24:47] <DoozerBot> 02lib: 03 v4.0.0.43 Build OK - https://doozer.io/build/3grw2w0o37
+[06:35:59] *** Quits GerbilSof (Quit: Windows must now restart because the Remote Procedure Call (RPC) service terminated unexpectedly.)
+[06:51:34] *** Joins changoXPR
+[06:55:18] *** Quits changO- (Ping timeout: 501 seconds)
+[06:55:18] *** changoXPR is now known as changO-
+[07:02:45] *** Joins GerbilSof
+[07:28:54] *** Quits fgsfds (Read error: Connection reset by peer)
+[08:17:11] *** Quits |Shadow| ()
+[08:23:58] *** Joins |Shadow|
+[08:28:46] *** Joins changoXPR
+[08:31:27] *** Quits changO- (Read error: Operation timed out)
+[08:31:27] *** changoXPR is now known as changO-
+[08:43:05] *** Quits phigcloud (Quit: Connection closed for inactivity)
+[17:33:59] *** Joins fgsfds
+[17:38:44] *** Joins |Shadow|_
+[17:39:22] *** Quits |Shadow| (Read error: Operation timed out)
+[19:26:32] <DoozerBot> PR-#538: set:sys: add ProductModel enums, building targets: 02lib
+[19:30:22] <DoozerBot> 02lib: 03 v4.0.0.44 Build OK - https://doozer.io/build/lo439ra2mo
+[19:32:42] <DoozerBot> PR-#538: set:sys: add ProductModel enums, building targets: 02lib
+[19:34:45] <DoozerBot> fincs pushed to master: set:sys: add ProductModel enums (#538) "set:sys: add ProductModel enums (#538)" [072 files modified], building targets: 02lib
+[19:34:51] <plutobot> GitHub | New commit | User: Jeremy S. Pos... | https://github.com/switchbrew/libnx/commit/c5a9a909a9
+[19:38:18] <DoozerBot> 02lib: 03 v4.0.0.35 Build OK - https://doozer.io/build/m8l9csf7od
+[20:00:27] *** Joins refsw
+[20:25:05] *** Quits changO- (Read error: Operation timed out)
+[20:26:33] *** Joins changO-
+[21:14:51] *** Joins changoXPR
+[21:17:00] *** Quits changO- (Read error: Operation timed out)
+[21:17:00] *** changoXPR is now known as changO-
+[23:26:32] *** |Shadow|_ is now known as |Shadow|

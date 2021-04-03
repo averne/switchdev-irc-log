@@ -1,0 +1,47 @@
+[00:54:09] *** Quits changO- (Read error: Connection reset by peer)
+[01:04:37] *** Joins changO-
+[01:06:44] *** Quits changO- (Read error: Connection reset by peer)
+[02:32:17] *** Quits phigcloud (Quit: Connection closed for inactivity)
+[02:32:59] *** Joins phigcloud
+[03:22:16] *** Joins changO-
+[08:49:47] *** Quits fgsfds (Read error: Connection reset by peer)
+[09:40:52] <DoozerBot> PR-#536: psm: Fix charger definitions, building targets: 02lib
+[09:45:44] *** Quits lansiir (Ping timeout: 258 seconds)
+[09:45:57] *** Joins _oldtopma
+[09:46:23] <DoozerBot> 02lib: 03 v4.0.0.34 Build OK - https://doozer.io/build/nztco62zf3
+[10:01:30] *** Quits |Shadow| ()
+[10:07:49] *** Joins |Shadow|
+[10:25:15] *** Joins n87
+[10:34:42] *** Quits n87 (Read error: Connection reset by peer)
+[10:36:45] *** Joins n87
+[10:41:48] *** Joins n87_2
+[10:45:17] *** Quits n87 (Ping timeout: 265 seconds)
+[10:46:01] *** Quits n87_2 (Read error: Connection reset by peer)
+[10:47:41] *** Joins n87
+[11:05:40] *** Joins n87_2
+[11:08:58] *** Quits n87 (Ping timeout: 265 seconds)
+[13:20:18] *** Joins n87_3
+[13:21:36] *** Quits n87_3 (Read error: Connection reset by peer)
+[13:23:49] *** Quits n87_2 (Ping timeout: 265 seconds)
+[13:24:28] *** Joins n87
+[14:07:35] *** Quits n87 (Read error: Connection reset by peer)
+[17:40:12] <DoozerBot> fincs pushed to master: psm: Fix charger definitions "psm: Fix charger definitions" [072 files modified], building targets: 02lib
+[17:40:22] <plutobot> GitHub | New commit | User: Vicki Pfau | https://github.com/switchbrew/libnx/commit/7e29719263
+[17:44:06] <DoozerBot> 02lib: 03 v4.0.0.34 Build OK - https://doozer.io/build/ukpxvf660h
+[18:11:06] *** Joins fgsfds
+[19:56:47] *** Joins n87
+[20:07:56] <plutobot> Wiki | Page changed: Gamecard Partition | User: Hexkyz | https://switchbrew.org/w/index.php?curid=157&diff=10731&oldid=5261
+[20:23:22] <plutobot> Wiki | Page changed: Gamecard Format | User: Hexkyz | https://switchbrew.org/w/index.php?curid=169&diff=10732&oldid=10572
+[20:25:14] <plutobot> Wiki | Page changed: Gamecard | User: Hexkyz | https://switchbrew.org/w/index.php?curid=308&diff=10735&oldid=9673
+[20:30:11] <plutobot> Wiki | Page changed: Gamecard ASIC | User: Hexkyz | https://switchbrew.org/w/index.php?curid=349&diff=10736&oldid=10613
+[20:30:41] <plutobot> Wiki | New page: Lotus3 | User: Hexkyz | https://switchbrew.org/w/index.php?curid=431
+[20:31:32] <plutobot> Wiki | Page changed: Gamecard ASIC | User: Hexkyz | https://switchbrew.org/w/index.php?curid=349&diff=10738&oldid=10736
+[20:32:03] <plutobot> Wiki | Page changed: Gamecard ASIC | User: Hexkyz | https://switchbrew.org/w/index.php?curid=349&diff=10739&oldid=10738
+[20:34:36] <plutobot> Wiki | Page changed: XCI | User: Hexkyz | https://switchbrew.org/w/index.php?curid=169&diff=10742&oldid=10733
+[20:36:29] <plutobot> Wiki | Page changed: Lotus3 | User: Hexkyz | https://switchbrew.org/w/index.php?curid=349&diff=10743&oldid=10740
+[20:43:41] *** Joins n87_2
+[20:46:33] *** Quits n87 (Ping timeout: 265 seconds)
+[21:33:38] *** Joins flotwig
+[22:49:26] *** Quits zini (Quit: -->)
+[22:51:00] *** Joins zini
+[23:12:17] *** Quits phigcloud (Quit: Connection closed for inactivity)
