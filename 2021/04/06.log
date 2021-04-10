@@ -1,0 +1,154 @@
+[00:10:03] *** Quits: rjeli____ (Ping timeout: 1230 seconds)
+[00:10:16] *** Joins: rjeli____
+[01:54:00] *** Joins: SCV______
+[01:58:38] *** Quits: ave_7 (Quit: Ping timeout (120 seconds))
+[01:58:45] *** Joins: gruetzkop
+[01:59:10] *** Quits: derrek (Quit: This should have not happened.)
+[01:59:12] *** Quits: klock (Quit: ZNC - https://znc.in)
+[01:59:12] *** Quits: gruetzko- (Quit: quit)
+[01:59:12] *** Quits: uyjulian (Quit: ZNC - http://znc.in)
+[01:59:12] *** Quits: Whovian93 (Quit: And I'm gone.)
+[02:01:07] *** Joins: uyjulian
+[02:02:01] *** Joins: derrek
+[02:02:25] *** Joins: Whovian93
+[02:02:47] <yls8bot> https://yls8.mtheall.com/ninupdates/reports.php?date=2021-04-06_00-02-35&sys=hac 
+[02:02:50] *** Joins: klock
+[02:05:32] <yls8bot> Update-details for the following hac report is now available/updated: https://yls8.mtheall.com/ninupdates/reports.php?date=2021-04-06_00-02-35&sys=hac 
+[02:15:22] <plutobot> Wiki | New page: 12.0.0 | User: Yls8bot | https://switchbrew.org/w/index.php?curid=433
+[02:15:23] <plutobot> Wiki | Page changed: Template:NavboxVersions | User: Yls8bot | https://switchbrew.org/w/index.php?curid=183&diff=10746&oldid=10449
+[02:15:23] <plutobot> Wiki | Page changed: News/Archive | User: Yls8bot | https://switchbrew.org/w/index.php?curid=114&diff=10745&oldid=10448
+[02:24:52] <yls8bot> Sysmodule SwIPC-generation .info files for the following hac report is now available/updated: https://yls8.mtheall.com/ninupdates/reports.php?date=2021-04-06_00-02-35&sys=hac 
+[02:35:08] *** Joins: foghorn
+[02:35:18] <plutobot> Wiki | Page changed: FirmwareNews | User: Yls8bot | https://switchbrew.org/w/index.php?curid=43&diff=10748&oldid=10451
+[02:36:09] <plutobot> Wiki | Page changed: Title list | User: Zachycatgames | https://switchbrew.org/w/index.php?curid=84&diff=10749&oldid=10716
+[02:43:18] <plutobot> Wiki | Page changed: 12.0.0 | User: Yls8bot | https://switchbrew.org/w/index.php?curid=433&diff=10750&oldid=10747
+[03:20:05] <plutobot> Wiki | Page changed: 12.0.0 | User: yls8 | https://switchbrew.org/w/index.php?curid=433&diff=10751&oldid=10750
+[03:41:53] <plutobot> Wiki | Page changed: 12.0.0 | User: yls8 | https://switchbrew.org/w/index.php?curid=433&diff=10752&oldid=10751
+[04:06:53] *** Quits: rjeli____ (Ping timeout: 1230 seconds)
+[04:09:59] <plutobot> Wiki | Page changed: 12.0.0 | User: yls8 | https://switchbrew.org/w/index.php?curid=433&diff=10753&oldid=10752
+[04:13:58] *** Joins: rjeli____
+[04:31:57] <plutobot> Wiki | Page changed: Bluetooth Driver services | User: yls8 | https://switchbrew.org/w/index.php?curid=161&diff=10754&oldid=10681
+[04:36:33] <plutobot> Wiki | Page changed: WLAN services | User: yls8 | https://switchbrew.org/w/index.php?curid=324&diff=10755&oldid=10671
+[04:50:20] <plutobot> Wiki | Page changed: 12.0.0 | User: yls8 | https://switchbrew.org/w/index.php?curid=433&diff=10756&oldid=10753
+[05:10:02] *** Quits: refs (Quit: refs)
+[05:21:30] <plutobot> Wiki | Page changed: 12.0.0 | User: SciresM | https://switchbrew.org/w/index.php?curid=433&diff=10757&oldid=10756
+[05:32:03] <plutobot> Wiki | Page changed: Filesystem services | User: yls8 | https://switchbrew.org/w/index.php?curid=87&diff=10758&oldid=10721
+[05:32:54] <plutobot> Wiki | Page changed: 12.0.0 | User: SciresM | https://switchbrew.org/w/index.php?curid=433&diff=10759&oldid=10757
+[05:36:39] <plutobot> Wiki | Page changed: Bus services | User: yls8 | https://switchbrew.org/w/index.php?curid=152&diff=10760&oldid=10586
+[05:48:44] <plutobot> Wiki | Page changed: 12.0.0 | User: yls8 | https://switchbrew.org/w/index.php?curid=433&diff=10761&oldid=10759
+[06:09:04] *** Joins: nikitalit
+[06:10:20] *** Quits: fgsfds (Leaving)
+[06:12:07] *** Quits: TheLat (Ping timeout: 252 seconds)
+[06:12:41] <nikitalit> Hi, I'm trying to figure out how to dump the raw HID messages coming from a real controller while playing a game; what i've read suggests that it's possible but I'm not really sure where to begin in libnx
+[06:23:32] <nikitalit> yellows8: actually, I think you're just the person to talk about this. I'm looking to reverse engineer the Starlink toys, and I suspect they use the same hidbus interface that Ring-Con uses. How did you get the data going back and forth to make your analysis?
+[06:26:21] <plutobot> Wiki | Page changed: Bluetooth Driver services | User: yls8 | https://switchbrew.org/w/index.php?curid=161&diff=10762&oldid=10754
+[06:38:08] <plutobot> Wiki | Page changed: NPNS services | User: Behemoth | https://switchbrew.org/w/index.php?curid=327&diff=10763&oldid=9810
+[06:42:13] *** Quits: yls8bot (Read error: Operation timed out)
+[06:50:23] <plutobot> Wiki | Page changed: HID services | User: yls8 | https://switchbrew.org/w/index.php?curid=103&diff=10764&oldid=10691
+[06:52:25] <plutobot> Wiki | Page changed: Audio services | User: yls8 | https://switchbrew.org/w/index.php?curid=264&diff=10765&oldid=10715
+[07:05:30] *** Joins: changoXPR
+[07:07:10] *** Quits: changO- (Remote host closed the connection)
+[07:07:11] *** changoXPR is now known as changO-
+[07:09:58] *** Quits: giglife (Read error: Operation timed out)
+[07:10:40] *** Joins: giglife
+[07:26:39] <plutobot> Wiki | Page changed: Applet Manager services | User: yls8 | https://switchbrew.org/w/index.php?curid=132&diff=10766&oldid=10484
+[07:27:22] *** Joins: foghorn2
+[07:30:46] *** Quits: tpw_rules (Read error: Operation timed out)
+[07:31:00] *** Joins: tpw_rules
+[07:33:05] *** Quits: foghorn (Read error: Operation timed out)
+[07:34:06] *** Quits: Surkow_ (Read error: Operation timed out)
+[07:35:52] *** Quits: yellows8 (Read error: Operation timed out)
+[07:38:00] *** Quits: Kyouju (Read error: Operation timed out)
+[07:41:20] *** Joins: ihaveama-
+[07:44:10] *** Quits: ihaveamac (Ping timeout: 496 seconds)
+[07:44:18] *** Joins: Surkow
+[07:45:44] <plutobot> Wiki | Page changed: BTM services | User: yls8 | https://switchbrew.org/w/index.php?curid=306&diff=10767&oldid=10649
+[07:47:12] *** Joins: Kyouju
+[07:47:16] *** Joins: yls8bot
+[07:49:05] *** Joins: yellows8
+[07:49:59] *** Joins: Lightswor
+[07:51:11] <nikitalit> dang, they weren't kidding
+[07:51:14] <nikitalit> this update was huge
+[08:10:18] *** Joins: ihaveamac
+[08:10:19] *** Quits: ihaveama- (Read error: Connection reset by peer)
+[08:33:35] *** Quits: foghorn2 (Quit: Leaving)
+[09:52:18] *** Joins: rajkosto
+[10:57:50] *** Quits: Galaxy| (Quit: Quit.)
+[10:58:46] *** Joins: Galaxy|
+[11:34:01] <changO-> nikitalit which update
+[12:02:48] *** Quits: AlexAltea (Read error: Connection reset by peer)
+[13:51:49] *** Quits: Galaxy| (Quit.)
+[13:55:18] *** Joins: Galaxy|
+[15:43:06] *** Joins: m4ts
+[15:46:48] *** Quits: m4ts_ (Ping timeout: 265 seconds)
+[16:10:04] *** Joins: fgsfds
+[16:20:37] *** Joins: refs
+[17:25:08] <plutobot> Wiki | Page changed: Fuses | User: Deejay87 | https://switchbrew.org/w/index.php?curid=186&diff=10768&oldid=10706
+[17:27:06] *** Quits: hexkyz (Quit: blargh!)
+[17:43:05] *** Quits: nikitalit (Quit: The Lounge - https://thelounge.chat)
+[17:44:07] *** Joins: nikitalit
+[17:56:59] <plutobot> Wiki | Page changed: Error Report services | User: yls8 | https://switchbrew.org/w/index.php?curid=193&diff=10769&oldid=10444
+[18:05:19] *** Quits: rajkosto (Ping timeout: 501 seconds)
+[18:12:39] <plutobot> Wiki | Page changed: Display services | User: yls8 | https://switchbrew.org/w/index.php?curid=113&diff=10770&oldid=10641
+[18:24:28] *** Joins: hexkyz
+[19:24:41] <plutobot> Wiki | Page changed: Error Report services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=193&diff=10771&oldid=10769
+[19:24:55] *** Quits: sh0e (Read error: Connection reset by peer)
+[19:26:23] <plutobot> Wiki | Page changed: Applet Manager services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=132&diff=10772&oldid=10766
+[19:35:05] *** Joins: sh0e
+[19:39:40] <plutobot> Wiki | Page changed: Applet Manager services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=132&diff=10773&oldid=10772
+[19:40:42] <plutobot> Wiki | Page changed: Applet Manager services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=132&diff=10774&oldid=10773
+[19:44:47] <plutobot> Wiki | Page changed: Fuses | User: Hexkyz | https://switchbrew.org/w/index.php?curid=186&diff=10775&oldid=10768
+[19:50:48] *** Joins: rajkosto
+[19:52:27] <plutobot> Wiki | Page changed: SMC | User: Hexkyz | https://switchbrew.org/w/index.php?curid=159&diff=10776&oldid=10530
+[19:55:31] <plutobot> Wiki | Page changed: SMC | User: Hexkyz | https://switchbrew.org/w/index.php?curid=159&diff=10777&oldid=10776
+[20:06:14] <plutobot> Wiki | Page changed: System Settings | User: yls8 | https://switchbrew.org/w/index.php?curid=102&diff=10778&oldid=9744
+[20:09:38] <plutobot> Wiki | Page changed: HID services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=103&diff=10779&oldid=10764
+[20:16:53] <plutobot> Wiki | Page changed: 12.0.0 | User: yls8 | https://switchbrew.org/w/index.php?curid=433&diff=10780&oldid=10761
+[20:22:41] <plutobot> Wiki | Page changed: Filesystem services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=87&diff=10781&oldid=10758
+[20:34:05] <plutobot> Wiki | Page changed: Lotus3 | User: Hexkyz | https://switchbrew.org/w/index.php?curid=349&diff=10782&oldid=10743
+[20:35:57] <plutobot> Wiki | Page changed: Lotus3 | User: Hexkyz | https://switchbrew.org/w/index.php?curid=349&diff=10783&oldid=10782
+[21:01:30] <plutobot> Wiki | Page changed: Title list | User: Hexkyz | https://switchbrew.org/w/index.php?curid=84&diff=10784&oldid=10749
+[21:30:57] <plutobot> Wiki | Page changed: Bus services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=152&diff=10785&oldid=10760
+[21:37:46] <plutobot> Wiki | Page changed: System Settings | User: yls8 | https://switchbrew.org/w/index.php?curid=102&diff=10786&oldid=10778
+[21:58:51] *** Quits: hexkyz (Quit: blargh!)
+[22:03:44] *** Joins: hexkyz
+[22:10:05] *** Joins: changoXPR
+[22:11:37] *** Quits: hexkyz (Quit: blargh!)
+[22:13:38] *** Quits: changO- (Ping timeout: 265 seconds)
+[22:13:41] *** changoXPR is now known as changO-
+[22:14:17] *** Joins: hexkyz
+[22:16:34] *** Joins: phigcloud
+[23:19:26] <plutobot> Wiki | Page changed: System Settings | User: yls8 | https://switchbrew.org/w/index.php?curid=102&diff=10787&oldid=10786
+[23:20:46] *** Quits: RaYmAn (Read error: Operation timed out)
+[23:24:57] *** Joins: thejsa_
+[23:25:06] *** Quits: KuKzz (Ping timeout: 526 seconds)
+[23:25:30] *** Joins: CCFL_Man_
+[23:26:07] *** Joins: Behemoth_
+[23:26:12] *** Quits: plutobot (Ping timeout: 258 seconds)
+[23:26:44] *** Joins: gruetzko-
+[23:26:45] *** Quits: CCFL_Man (Write error: Broken pipe)
+[23:26:45] *** Quits: Behemoth (Ping timeout: 316 seconds)
+[23:26:45] *** Quits: GeekShado (Ping timeout: 316 seconds)
+[23:26:58] *** Quits: zini- (Ping timeout: 258 seconds)
+[23:26:58] *** Quits: madk (Ping timeout: 258 seconds)
+[23:27:12] *** Joins: zini
+[23:27:21] *** Quits: _oldtopma (Ping timeout: 258 seconds)
+[23:27:44] *** Quits: Maylay (Ping timeout: 258 seconds)
+[23:27:45] *** Quits: DacoTaco (Ping timeout: 258 seconds)
+[23:28:29] *** Quits: gruetzkop (Ping timeout: 323 seconds)
+[23:28:50] *** Joins: KuKzz
+[23:29:23] *** Joins: balrog_
+[23:30:06] *** Quits: Cu3PO42 (Ping timeout: 320 seconds)
+[23:30:39] *** Quits: thejsa (Ping timeout: 604 seconds)
+[23:30:40] *** Joins: GeekShado
+[23:30:50] *** Joins: Maylay
+[23:31:42] *** Quits: rajkosto (Ping timeout: 537 seconds)
+[23:33:21] *** Quits: balrog (Ping timeout: 531 seconds)
+[23:33:22] *** balrog_ is now known as balrog
+[23:34:24] *** Joins: rajkosto
+[23:36:54] *** Quits: Summeli (Read error: Connection reset by peer)
+[23:42:57] *** Joins: oldtopman
+[23:43:03] *** Joins: Cu3PO42
+[23:46:03] *** Joins: RaYmAn
+[23:49:37] *** Quits: Cu3PO42 (Read error: Connection timed out)
+[23:54:16] *** Joins: Cu3PO42

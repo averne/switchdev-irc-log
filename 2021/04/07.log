@@ -1,0 +1,288 @@
+[00:10:35] *** Joins: plutobot
+[00:11:03] *** Joins: madk
+[00:11:08] *** Joins: DacoTaco
+[00:15:09] <plutobot> Wiki | Page changed: Glue services | User: yls8 | https://switchbrew.org/w/index.php?curid=166&diff=10793&oldid=10381
+[00:20:05] <plutobot> Wiki | Page changed: NPNS services | User: yls8 | https://switchbrew.org/w/index.php?curid=327&diff=10794&oldid=10763
+[00:23:19] <plutobot> Wiki | Page changed: 12.0.0 | User: yls8 | https://switchbrew.org/w/index.php?curid=433&diff=10795&oldid=10780
+[00:28:50] *** Joins: Galaxy|_
+[00:32:28] *** Quits: Galaxy| (Ping timeout: 745 seconds)
+[00:32:28] *** Galaxy|_ is now known as Galaxy|
+[00:40:24] *** Quits: Ghabry (Ping timeout: 265 seconds)
+[00:44:58] *** Joins: Ghabry
+[00:45:18] *** Quits: SCV______ (Ping timeout: 1230 seconds)
+[00:52:24] *** Joins: SCV______
+[00:58:44] <plutobot> Wiki | Page changed: NS Services | User: yls8 | https://switchbrew.org/w/index.php?curid=89&diff=10796&oldid=10507
+[01:06:33] *** Quits: Galaxy| (Quit: Quit.)
+[01:07:53] *** Quits: yls8bot (Read error: Operation timed out)
+[01:08:28] *** Quits: Lightswor (Read error: Operation timed out)
+[01:10:31] *** Quits: sh0e (Read error: Operation timed out)
+[01:10:52] *** Quits: Kyouju (Read error: Operation timed out)
+[01:11:23] *** Quits: yellows8 (Read error: Operation timed out)
+[01:13:31] *** Joins: Galaxy|
+[01:17:14] *** Quits: Galaxy| (Client Quit)
+[01:25:27] *** Joins: sh0e
+[01:25:36] *** Joins: Kyouju
+[01:25:46] *** Joins: Lightswor
+[01:26:03] *** Quits: RaYmAn (se.hub efnet.deic.eu)
+[01:26:03] *** Quits: thejsa_ (se.hub efnet.deic.eu)
+[01:26:26] *** Joins: yellows8
+[01:27:56] *** Joins: yls8bot
+[01:30:00] *** CCFL_Man_ is now known as CCFL_Man
+[01:32:22] *** Quits: Lightswor (Ping timeout: 376 seconds)
+[01:34:50] *** Quits: yls8bot (Read error: Operation timed out)
+[01:35:05] *** Quits: yellows8 (Read error: Operation timed out)
+[01:35:20] *** Quits: Kyouju (Read error: Operation timed out)
+[01:49:31] *** Quits: TAL (Ping timeout: 265 seconds)
+[01:49:37] *** Joins: TAL
+[01:51:27] *** Quits: capin4 (Ping timeout: 265 seconds)
+[01:51:38] *** Joins: capin4
+[01:53:00] *** Joins: Lightswor
+[01:53:01] *** Joins: Kyouju
+[01:53:20] *** Joins: yls8bot
+[01:59:01] *** Quits: Lightswor (Read error: Operation timed out)
+[01:59:04] *** Quits: yls8bot (Read error: Operation timed out)
+[02:00:27] *** Quits: Kyouju (Read error: Operation timed out)
+[02:03:36] <plutobot> Wiki | Page changed: SSL services | User: yls8 | https://switchbrew.org/w/index.php?curid=145&diff=10797&oldid=10401
+[02:07:52] <plutobot> Wiki | Page changed: 12.0.0 | User: yls8 | https://switchbrew.org/w/index.php?curid=433&diff=10798&oldid=10795
+[02:11:01] *** Quits: rajkosto (Ping timeout: 265 seconds)
+[02:13:07] *** Joins: Kyouju
+[02:14:06] *** Joins: yls8bot
+[02:15:08] *** Joins: yellows8
+[02:17:37] *** Joins: Lightswor
+[02:18:05] <plutobot> Wiki | Page changed: 12.0.0 | User: yls8 | https://switchbrew.org/w/index.php?curid=433&diff=10799&oldid=10798
+[02:37:14] <yellows8> nikitalit: ringcon stuff was code-RE + {testing stuff from hb app}. for logging comms you'd need a mitm module. don't have one for hidbus - you could attempt to use this: https://github.com/Atmosphere-NX/Atmosphere/pull/1376
+[02:40:07] *** Quits: rjeli____ (Read error: Connection timed out)
+[02:40:45] <nikitalit> yellows8: excellent, thank you
+[02:41:02] *** Joins: rjeli____
+[03:10:53] <plutobot> Wiki | Page changed: System Settings | User: yls8 | https://switchbrew.org/w/index.php?curid=102&diff=10800&oldid=10789
+[03:13:57] <plutobot> Wiki | New page: Talk:XCI | User: DarkMatterCore | https://switchbrew.org/w/index.php?curid=434
+[03:24:42] <plutobot> Wiki | Page changed: System Settings | User: yls8 | https://switchbrew.org/w/index.php?curid=102&diff=10802&oldid=10800
+[03:31:46] *** Joins: lameboy2
+[03:34:51] *** Joins: KuKzz_
+[03:34:52] *** Joins: cpncok3
+[03:36:10] *** Quits: KuKzz (Ping timeout: 496 seconds)
+[03:36:10] *** Quits: cpnc0ke (Ping timeout: 496 seconds)
+[03:37:54] *** Quits: lameboy (Read error: Operation timed out)
+[03:37:54] *** lameboy2 is now known as lameboy
+[03:44:54] *** Quits: Lightswor (Read error: Connection reset by peer)
+[03:45:14] *** Joins: Lightswor
+[03:55:26] *** Joins: klockee
+[03:55:27] *** Quits: klock (Read error: Connection reset by peer)
+[03:55:37] *** Quits: phigcloud (Read error: Operation timed out)
+[03:55:39] *** Quits: Behemoth_ (Read error: Connection reset by peer)
+[03:55:51] *** Joins: phigcloud
+[03:56:06] *** Joins: Behemoth_
+[03:58:21] *** Quits: Retr0id (Read error: Connection reset by peer)
+[03:58:23] *** Joins: Retr0id
+[03:59:33] *** Joins: refsw`
+[04:06:08] *** Joins: refsw2
+[04:09:31] *** Quits: refsw (Read error: Operation timed out)
+[04:12:00] *** Quits: refsw` (Read error: Operation timed out)
+[04:20:26] *** Joins: CCFL_Man_
+[04:24:37] *** Quits: CCFL_Man (Read error: Operation timed out)
+[04:39:48] *** Quits: rjeli____ (Ping timeout: 1230 seconds)
+[04:40:01] *** Joins: rjeli____
+[04:48:22] *** Quits: Lightswor (Ping timeout: 376 seconds)
+[04:52:57] *** Quits: cpncok3 (Read error: Operation timed out)
+[04:53:49] *** Joins: cpnc0ke
+[04:57:43] <plutobot> Wiki | Page changed: System Settings | User: yls8 | https://switchbrew.org/w/index.php?curid=102&diff=10803&oldid=10802
+[05:08:02] *** Quits: refs (Quit: refs)
+[05:09:30] *** Joins: Lightswor
+[05:32:38] <plutobot> Wiki | Page changed: Bluetooth Driver services | User: yls8 | https://switchbrew.org/w/index.php?curid=161&diff=10804&oldid=10762
+[05:47:11] *** Joins: eggy
+[05:47:14] *** Quits: eggster (Read error: Connection reset by peer)
+[05:52:43] <plutobot> Wiki | Page changed: Bluetooth Driver services | User: yls8 | https://switchbrew.org/w/index.php?curid=161&diff=10805&oldid=10804
+[06:02:38] *** Quits: rjeli____ (Ping timeout: 1230 seconds)
+[06:02:55] *** Joins: rjeli____
+[06:09:04] *** Joins: rmaw_
+[06:09:05] *** Quits: rmaw (Read error: Connection reset by peer)
+[06:11:11] *** Quits: blasty (Read error: Connection reset by peer)
+[06:14:38] *** Quits: TuxSH (Read error: Connection reset by peer)
+[06:14:40] *** Quits: Retr0id (Read error: Connection reset by peer)
+[06:14:44] *** Quits: rmaw_ (Read error: Connection reset by peer)
+[06:15:12] <plutobot> Wiki | Page changed: 12.0.0 | User: SciresM | https://switchbrew.org/w/index.php?curid=433&diff=10806&oldid=10799
+[06:16:32] *** Joins: TuxSH
+[06:18:58] *** Joins: rmaw
+[06:23:24] *** Joins: blasty
+[06:28:14] *** Quits: Lightswor (Ping timeout: 376 seconds)
+[06:30:23] *** Joins: Retr0id
+[06:44:33] *** Joins: Lightswor
+[06:51:16] *** Joins: Retr0id9
+[06:53:32] *** Joins: rmaw_
+[06:57:35] *** Quits: Retr0id (Read error: Connection reset by peer)
+[06:57:38] *** Retr0id9 is now known as Retr0id
+[06:58:54] *** Quits: oldtopman (ircd.choopa.net irc.Prison.NET)
+[06:58:55] *** Quits: Surkow (ircd.choopa.net irc.Prison.NET)
+[07:00:38] *** Quits: rmaw (Ping timeout: 857 seconds)
+[07:03:28] *** Joins: lansiir
+[07:04:14] *** Joins: Surkow_
+[07:04:29] *** Quits: TuxSH (Read error: Operation timed out)
+[07:04:47] *** Quits: rmaw_ (Read error: Operation timed out)
+[07:05:56] <plutobot> Wiki | Page changed: 12.0.0 | User: yls8 | https://switchbrew.org/w/index.php?curid=433&diff=10807&oldid=10806
+[07:05:57] *** Quits: phigcloud (Read error: Operation timed out)
+[07:05:57] *** Joins: TuxSH
+[07:09:06] *** Quits: d3m3vilur (Read error: Operation timed out)
+[07:09:37] *** Joins: d3m3vilur
+[07:10:45] *** Quits: GrecKo (Read error: Operation timed out)
+[07:11:00] *** Joins: GrecKo
+[07:11:43] *** Quits: blasty (Read error: Operation timed out)
+[07:12:30] *** Quits: Sentry- (Read error: Operation timed out)
+[07:13:53] *** Joins: phigcloud
+[07:15:33] *** Quits: eggy (Read error: Operation timed out)
+[07:15:49] *** Quits: klanc (Read error: Operation timed out)
+[07:16:09] *** Joins: klanc
+[07:17:07] *** Quits: Retr0id (Ping timeout: 857 seconds)
+[07:22:14] *** Quits: TuxSH (Read error: Connection reset by peer)
+[07:29:26] <plutobot> Wiki | Page changed: Bluetooth Driver services | User: yls8 | https://switchbrew.org/w/index.php?curid=161&diff=10808&oldid=10805
+[07:30:32] *** Quits: phigcloud (Ping timeout: 857 seconds)
+[07:32:27] *** Quits: klanc (Ping timeout: 857 seconds)
+[07:34:41] *** Joins: klanc
+[07:35:45] *** Joins: phigcloud
+[07:39:54] *** Joins: TuxSH
+[07:40:09] <plutobot> Wiki | Page changed: Error codes | User: SciresM | https://switchbrew.org/w/index.php?curid=82&diff=10809&oldid=10699
+[07:43:23] <plutobot> Wiki | Page changed: 12.0.0 | User: SciresM | https://switchbrew.org/w/index.php?curid=433&diff=10810&oldid=10807
+[07:43:44] <plutobot> Wiki | Page changed: 12.0.0 | User: SciresM | https://switchbrew.org/w/index.php?curid=433&diff=10811&oldid=10810
+[07:43:55] *** Joins: thomasnet
+[07:50:53] <plutobot> Wiki | Page changed: Bluetooth Driver services | User: yls8 | https://switchbrew.org/w/index.php?curid=161&diff=10812&oldid=10808
+[07:55:51] *** Quits: fgsfds (Leaving)
+[07:55:53] *** Quits: ihaveamac (Read error: Connection reset by peer)
+[07:56:11] *** Joins: ihaveamac
+[07:58:08] *** Quits: phigcloud (Ping timeout: 1221 seconds)
+[07:59:24] <plutobot> Wiki | Page changed: Bluetooth Driver services | User: yls8 | https://switchbrew.org/w/index.php?curid=161&diff=10813&oldid=10812
+[08:03:12] *** Joins: phigcloud
+[08:05:17] *** Joins: blasty
+[08:08:36] *** Quits: TuxSH (Read error: Operation timed out)
+[08:11:43] *** Quits: thomasnet (Connection closed)
+[08:17:41] *** Quits: d3m3vilur (Ping timeout: 857 seconds)
+[08:17:50] *** Quits: blasty (Read error: Connection reset by peer)
+[08:19:32] *** Joins: d3m3vilur
+[08:20:54] *** Joins: TuxSH
+[08:24:58] *** Quits: klanc (Ping timeout: 857 seconds)
+[08:25:15] *** Joins: klanc
+[08:25:44] *** Quits: phigcloud (Ping timeout: 1221 seconds)
+[08:28:24] *** Joins: phigcloud
+[08:30:36] *** Joins: rmaw
+[08:34:35] *** Joins: RaYmAn
+[08:46:14] *** Quits: TuxSH (Read error: Operation timed out)
+[08:52:03] *** Quits: lameboy (Ping timeout: 186 seconds)
+[08:53:43] *** Quits: klanc (Ping timeout: 857 seconds)
+[08:55:08] *** Joins: lameboy
+[08:56:38] *** Quits: rmaw (Read error: Operation timed out)
+[08:58:31] *** Joins: TuxSH
+[09:03:27] *** Joins: klanc
+[09:04:42] *** Joins: Snetry
+[09:09:43] *** Joins: blasty
+[09:15:17] *** Joins: rmaw
+[09:57:40] *** Joins: rajkosto
+[10:09:43] *** Quits: averne (quit)
+[10:10:08] *** Joins: averne
+[10:10:09] *** Server sets mode: +stn 
+[10:10:11] *** Quits: Pieman (Read error: Connection reset by peer)
+[10:10:36] *** Joins: Pieman
+[10:16:23] *** Quits: SCV______ (Ping timeout: 1230 seconds)
+[10:16:36] *** Joins: SCV______
+[10:29:04] <plutobot> Wiki | Page changed: XCI | User: Liam | https://switchbrew.org/w/index.php?curid=169&diff=10814&oldid=10742
+[10:32:08] *** Quits: rjeli____ (Ping timeout: 1230 seconds)
+[10:32:21] *** Joins: rjeli____
+[10:50:50] *** Quits: nohit (Ping timeout: 258 seconds)
+[10:51:13] *** Quits: Pieman (Ping timeout: 258 seconds)
+[10:51:36] *** Quits: flagrama (Ping timeout: 258 seconds)
+[10:52:18] *** Joins: nohit
+[10:53:02] *** Joins: flagrama
+[11:03:53] *** Joins: Pieman
+[11:11:58] <plutobot> Wiki | Page changed: XCI | User: Liam | https://switchbrew.org/w/index.php?curid=169&diff=10815&oldid=10814
+[11:43:53] *** Quits: SCV______ (Ping timeout: 1230 seconds)
+[11:44:06] *** Joins: SCV______
+[12:08:17] *** Joins: n87
+[12:10:39] *** Quits: n87 (Read error: Connection reset by peer)
+[12:29:23] *** Quits: SCV______ (Ping timeout: 1230 seconds)
+[12:29:36] *** Joins: SCV______
+[13:56:53] *** Quits: SCV______ (Ping timeout: 1230 seconds)
+[13:57:07] *** Joins: SCV______
+[15:24:23] *** Quits: SCV______ (Ping timeout: 1230 seconds)
+[15:24:36] *** Joins: SCV______
+[15:37:13] *** Joins: rajko
+[15:38:16] *** Quits: tpw_rules (Read error: Operation timed out)
+[15:38:23] *** Quits: giglife (Read error: Operation timed out)
+[15:38:31] *** Joins: giglife
+[15:40:33] *** Joins: tpw_rules
+[15:43:35] *** Quits: rajkosto (Read error: Operation timed out)
+[16:32:38] *** Quits: rjeli____ (Ping timeout: 1230 seconds)
+[16:32:51] *** Joins: rjeli____
+[17:11:43] *** Quits: TurtleP_ (Ping timeout: 745 seconds)
+[17:15:00] *** Joins: TurtleP
+[17:18:00] *** Quits: averne (quit)
+[17:23:36] *** Joins: averne_
+[17:23:41] *** Server sets mode: +stn 
+[17:24:08] *** Joins: fgsfds
+[17:27:46] *** Quits: averne (Ping timeout: 857 seconds)
+[17:27:49] *** averne_ is now known as averne
+[17:34:41] <plutobot> Wiki | Page changed: Bluetooth Driver services | User: yls8 | https://switchbrew.org/w/index.php?curid=161&diff=10816&oldid=10813
+[17:36:53] <plutobot> Wiki | Page changed: Bluetooth Driver services | User: yls8 | https://switchbrew.org/w/index.php?curid=161&diff=10817&oldid=10816
+[17:46:46] <plutobot> Wiki | Page changed: Bluetooth Driver services | User: yls8 | https://switchbrew.org/w/index.php?curid=161&diff=10818&oldid=10817
+[17:49:46] *** Quits: averne (quit)
+[17:52:44] *** Joins: averne_
+[17:52:54] *** Server sets mode: +stn 
+[17:59:58] *** Quits: averne (Ping timeout: 857 seconds)
+[18:00:03] *** averne_ is now known as averne
+[18:29:18] *** Quits: SCV______ (Ping timeout: 1230 seconds)
+[18:29:31] *** Joins: SCV______
+[18:45:03] *** Quits: rjeli____ (Ping timeout: 1230 seconds)
+[18:45:16] *** Joins: rjeli____
+[19:20:30] *** Joins: lameboy2
+[19:22:01] *** Joins: eggy
+[19:24:41] <plutobot> Wiki | Page changed: NS Services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=89&diff=10819&oldid=10796
+[19:25:22] <plutobot> Wiki | Page changed: NS Services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=89&diff=10820&oldid=10819
+[19:27:04] *** Quits: rajko (Read error: Operation timed out)
+[19:28:05] *** Quits: lameboy (Read error: Operation timed out)
+[19:28:08] *** lameboy2 is now known as lameboy
+[19:30:37] *** Quits: RaYmAn (Read error: Connection reset by peer)
+[19:31:20] <plutobot> Wiki | Page changed: 12.0.0 | User: yls8 | https://switchbrew.org/w/index.php?curid=433&diff=10821&oldid=10811
+[19:31:30] <plutobot> Wiki | Page changed: Bluetooth Driver services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=161&diff=10822&oldid=10818
+[19:34:23] <plutobot> Wiki | Page changed: 12.0.0 | User: yls8 | https://switchbrew.org/w/index.php?curid=433&diff=10823&oldid=10821
+[19:41:12] <plutobot> Wiki | Page changed: Applet Manager services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=132&diff=10824&oldid=10774
+[19:54:09] <plutobot> Wiki | Page changed: Account services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=86&diff=10825&oldid=10792
+[19:59:35] <plutobot> Wiki | Page changed: Switch System Flaws | User: yls8 | https://switchbrew.org/w/index.php?curid=14&diff=10826&oldid=10616
+[20:04:58] *** Quits: lilibox (Ping timeout: 745 seconds)
+[20:07:01] *** Joins: lilibox
+[20:13:03] <plutobot> Wiki | Page changed: HID services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=103&diff=10827&oldid=10779
+[20:27:27] *** Joins: lilibox_
+[20:30:03] *** Quits: lilibox (Ping timeout: 258 seconds)
+[20:30:45] <plutobot> Wiki | Page changed: Bluetooth Driver services | User: yls8 | https://switchbrew.org/w/index.php?curid=161&diff=10828&oldid=10822
+[20:33:02] *** Joins: lilibox
+[20:33:02] *** Quits: lilibox_ (Read error: Connection reset by peer)
+[20:36:07] *** Joins: Genolo
+[20:42:18] *** Quits: SCV______ (Ping timeout: 1230 seconds)
+[20:42:31] *** Joins: SCV______
+[20:48:24] *** Joins: rajko
+[20:49:50] <plutobot> Wiki | Page changed: XCI | User: Hexkyz | https://switchbrew.org/w/index.php?curid=169&diff=10829&oldid=10815
+[20:53:55] <plutobot> Wiki | Page changed: XCI | User: Hexkyz | https://switchbrew.org/w/index.php?curid=169&diff=10830&oldid=10829
+[20:54:02] *** Quits: lilibox (Read error: Connection reset by peer)
+[20:54:18] *** Joins: lilibox
+[20:55:27] <plutobot> Wiki | Page changed: XCI | User: Hexkyz | https://switchbrew.org/w/index.php?curid=169&diff=10831&oldid=10830
+[20:59:56] <plutobot> Wiki | Page changed: XCI | User: Hexkyz | https://switchbrew.org/w/index.php?curid=169&diff=10832&oldid=10831
+[21:09:19] *** Joins: lilibox_
+[21:09:20] *** Quits: lilibox (Read error: Connection reset by peer)
+[21:27:31] <plutobot> Wiki | Page changed: NACP | User: Hexkyz | https://switchbrew.org/w/index.php?curid=280&diff=10833&oldid=10729
+[22:06:53] *** Quits: SCV______ (Ping timeout: 1230 seconds)
+[22:07:06] *** Joins: SCV______
+[22:37:13] *** Quits: rjeli____ (Ping timeout: 1230 seconds)
+[22:37:26] *** Joins: rjeli____
+[22:52:23] *** Quits: SCV______ (Ping timeout: 1230 seconds)
+[22:52:37] *** Joins: SCV______
+[23:40:14] *** Joins: n00b341
+[23:44:32] *** Joins: n00b205
+[23:44:36] *** Quits: n00b341 (Ping timeout: 252 seconds)
+[23:48:11] *** Joins: n00b205_
+[23:49:56] <n00b205_> Hi
+[23:50:06] <n00b205_> How does this work?
+[23:51:05] *** Joins: Aonyx
+[23:51:18] <Aonyx> Hi. Is anyone here? 
+[23:51:34] *** Quits: n00b205 (Ping timeout: 252 seconds)
+[23:55:14] *** Quits: n00b205_ (Ping timeout: 252 seconds)
+[23:55:35] *** Joins: n00b604
+[23:56:10] <n00b604> hello
+[23:56:27] <n00b604> Am I alone here?
+[23:56:31] <Aonyx> No
+[23:56:34] <Aonyx> i am here
+[23:57:44] <n00b604> goodbye
