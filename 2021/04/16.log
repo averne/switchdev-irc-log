@@ -1,0 +1,46 @@
+[00:37:03] *** Quits: Tcm0 (Leaving)
+[00:45:29] <plutobot> Wiki | Page changed: Bluetooth Driver services | User: yls8 | https://switchbrew.org/w/index.php?curid=161&diff=10883&oldid=10880
+[01:25:09] *** mid-kid1 is now known as mid-kid
+[01:35:05] *** Quits: n87_2 (Read error: Connection reset by peer)
+[02:33:41] *** Quits: refs (Quit: refs)
+[09:03:36] *** Quits: fgsfds (Read error: Connection reset by peer)
+[10:15:15] *** Quits: rajkosto (Read error: Operation timed out)
+[11:33:18] *** Quits: KuKzz (Ping timeout: 745 seconds)
+[12:28:21] *** Joins: Tcm0
+[12:50:00] *** Joins: n87
+[12:51:55] *** Joins: KuKzz
+[13:09:00] *** Joins: n87_2
+[13:12:34] *** Quits: n87 (Ping timeout: 265 seconds)
+[16:32:42] *** Joins: Mimoja
+[17:21:14] <plutobot> Wiki | Page changed: Bluetooth Driver services | User: yls8 | https://switchbrew.org/w/index.php?curid=161&diff=10884&oldid=10883
+[18:37:31] *** Joins: fgsfds
+[19:19:47] *** Joins: derk0pf
+[19:46:26] *** Quits: derk0pf (Ping timeout: 604 seconds)
+[19:53:29] *** Quits: WntrMute (Read error: Connection reset by peer)
+[20:02:05] *** Joins: WntrMute
+[20:02:06] *** fincs sets mode: +o WntrMute
+[20:30:55] *** Quits: n87_2 (Read error: Connection reset by peer)
+[20:35:42] *** Joins: n87
+[21:12:28] *** Joins: rajkosto
+[21:12:48] *** Quits: rajkosto (Client Quit)
+[21:16:59] *** Joins: rajkosto
+[21:25:59] *** Quits: Snetry (Quit: left EFNet)
+[21:26:47] *** Joins: Snetry
+[21:34:00] *** Quits: Snetry (Quit: left EFNet)
+[21:36:45] *** Joins: Snetry
+[21:41:41] *** Quits: Snetry (Client Quit)
+[21:45:31] *** Joins: Snetry
+[21:46:43] *** Quits: Snetry (Client Quit)
+[21:48:57] *** Joins: Snetry
+[21:55:01] *** Quits: Tcm0 (Leaving)
+[22:47:05] <DoozerBot> yellows8 pushed to master: btdrv: Added support for the new 12.0.0 cmds. "btdrv: Added support for the new 12.0.0 cmds." [073 files modified], building targets: 02lib
+[22:47:10] <plutobot> GitHub | New commit | User: yellows | https://github.com/switchbrew/libnx/commit/2e2cf43cf5
+[22:51:35] <DoozerBot> 02lib: 03 v4.0.0.43 Build OK - https://doozer.io/build/2yralrpfka
+[22:55:38] *** Quits: cpnc0ke (Ping timeout: 496 seconds)
+[22:57:34] <DoozerBot> PR-#540: btdrv: improve and update event data definitions for 12.0.0, misc other minor changes, building targets: 02lib
+[22:57:39] <plutobot> GitHub | New PR: btdrv improve... | User: ndeadly | https://github.com/switchbrew/libnx/pull/540
+[22:59:42] *** Joins: cpnc0ke
+[23:02:06] <DoozerBot> 02lib: 03 v4.0.0.46 Build OK - https://doozer.io/build/ebgapxcw3e
+[23:59:15] *** Joins: n87_2
+[23:59:30] *** Quits: rajkosto (Leaving)
+[23:59:47] *** Joins: rajkosto

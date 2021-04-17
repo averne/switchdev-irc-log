@@ -1,0 +1,162 @@
+[00:02:39] *** Quits: n87 (Ping timeout: 265 seconds)
+[00:08:10] *** Joins: n87
+[00:10:57] *** Joins: fincs_
+[00:10:58] *** WntrMute sets mode: +o fincs_
+[00:11:26] *** Joins: CCFL_Man_
+[00:12:11] *** Joins: MasterGK
+[00:13:00] *** Joins: lemmu
+[00:13:47] *** Joins: Stary_
+[00:15:01] *** Joins: TAL_
+[00:15:06] *** Quits: TAL_ (Handshake flooding)
+[00:15:11] *** Joins: TAL_
+[00:17:30] *** Quits: n87_2 (se.hub irc.underworld.no)
+[00:17:30] *** Quits: m4ts (se.hub irc.underworld.no)
+[00:17:30] *** Quits: CCFL_Man (se.hub irc.underworld.no)
+[00:17:30] *** Quits: TAL (se.hub irc.underworld.no)
+[00:17:30] *** Quits: Ghabry (se.hub irc.underworld.no)
+[00:17:30] *** Quits: Stary (se.hub irc.underworld.no)
+[00:17:30] *** Quits: lemmy (se.hub irc.underworld.no)
+[00:17:30] *** Quits: fincs (se.hub irc.underworld.no)
+[00:32:57] *** fincs_ is now known as fincs
+[00:34:05] <DoozerBot> PR-#540: btdrv: improve and update event data definitions for 12.0.0, misc other minor changes, building targets: 02lib
+[00:38:47] <DoozerBot> 02lib: 03 v4.0.0.52 Build OK - https://doozer.io/build/vr5vxjhbhj
+[00:59:33] <DoozerBot> PR-#540: btdrv: improve and update event data definitions for 12.0.0, misc other minor changes, building targets: 02lib
+[01:04:15] <DoozerBot> 02lib: 03 v4.0.0.55 Build OK - https://doozer.io/build/y7e2p3oz19
+[01:06:29] <DoozerBot> PR-#540: btdrv: improve and update event data definitions for 12.0.0, misc other minor changes, building targets: 02lib
+[01:10:57] <DoozerBot> 02lib: 03 v4.0.0.56 Build OK - https://doozer.io/build/utml1pap4v
+[01:17:55] *** CCFL_Man_ is now known as CCFL_Man
+[01:27:45] *** Joins: n87_2
+[01:33:50] *** Quits: n87 (Read error: Operation timed out)
+[02:08:22] *** Quits: n87_2 (Read error: Connection reset by peer)
+[02:26:13] *** Joins: refs
+[03:08:45] *** Quits: rajkosto (Leaving)
+[04:04:13] *** Quits: TuxSH (Read error: Connection reset by peer)
+[04:31:16] *** Quits: SCV______ (Read error: Connection timed out)
+[04:31:19] *** Joins: SCV______
+[04:38:28] *** Quits: refs (Quit: refs)
+[04:39:19] *** Quits: DoozerBot (Read error: Connection reset by peer)
+[04:39:19] *** Quits: uyjulian (Read error: Connection reset by peer)
+[04:39:19] *** Joins: DoozerBot
+[04:39:35] *** Joins: uyjulian
+[04:43:02] *** Joins: dibas_
+[04:43:02] *** Quits: dibas (Read error: Connection reset by peer)
+[04:43:06] *** dibas_ is now known as dibas
+[04:45:14] *** Joins: Ghabry
+[04:48:08] *** Quits: MasterGK (Ping timeout: 745 seconds)
+[04:50:28] *** Quits: rjeli____ (Ping timeout: 1230 seconds)
+[04:52:48] *** Quits: TurtleP (Ping timeout: 745 seconds)
+[04:53:23] *** Quits: eggy (Ping timeout: 745 seconds)
+[04:53:34] *** Joins: eggster
+[04:54:26] *** Joins: rjeli____
+[04:56:01] *** Quits: |Shadow| (ny.us.hub irc.Prison.NET)
+[04:56:14] *** Quits: rjeli____ (Read error: Connection reset by peer)
+[04:56:56] *** Joins: TurtleP
+[04:59:18] *** Joins: rjeli____
+[05:09:37] *** Joins: |Shadow|
+[05:19:00] *** Quits: |Shadow| (ircd.choopa.net irc.Prison.NET)
+[05:49:34] *** Joins: figgis_
+[05:50:29] *** Joins: figgis__
+[05:54:11] *** Quits: fgsfds (Ping timeout: 622 seconds)
+[05:54:28] *** Joins: fgsfds
+[05:57:11] *** Quits: figgis_ (Read error: Operation timed out)
+[05:59:03] *** Quits: figgis__ (Read error: Operation timed out)
+[06:04:32] *** Quits: SCV______ (Ping timeout: 1230 seconds)
+[06:04:45] *** Joins: SCV______
+[06:07:11] *** Joins: |Shadow|
+[06:08:44] *** Quits: |Shadow| (Client Quit)
+[06:23:35] *** Quits: j0hny5 (Read error: Operation timed out)
+[06:29:29] *** Joins: j0hny5
+[06:39:13] *** Joins: _|Shadow|
+[06:40:15] *** Quits: giglife (Read error: Operation timed out)
+[06:40:19] *** Joins: giglife
+[06:49:26] *** Quits: _|Shadow| (Read error: Operation timed out)
+[06:50:54] *** Joins: changoXPR
+[06:54:49] *** Joins: |Shadow|_
+[06:55:56] *** Quits: changO- (Ping timeout: 501 seconds)
+[06:55:56] *** changoXPR is now known as changO-
+[06:57:14] *** |Shadow|_ is now known as |Shadow|
+[07:20:09] *** Joins: figgis_
+[07:22:29] *** Quits: fgsfds (Ping timeout: 265 seconds)
+[07:36:43] <plutobot> Wiki | Page changed: Bluetooth Driver services | User: yls8 | https://switchbrew.org/w/index.php?curid=161&diff=10885&oldid=10884
+[07:54:42] *** TAL_ is now known as TAL
+[08:01:47] *** Quits: rjeli____ (Ping timeout: 1230 seconds)
+[08:02:02] *** Joins: rjeli____
+[09:04:27] *** Quits: figgis_ (Read error: Connection reset by peer)
+[09:57:37] *** Joins: n87
+[12:10:18] *** Quits: rjeli____ (Ping timeout: 1230 seconds)
+[12:10:30] *** Joins: rjeli____
+[12:26:04] *** Quits: SCV______ (Ping timeout: 1230 seconds)
+[12:26:27] *** Joins: SCV______
+[13:29:13] *** Joins: refs
+[14:22:09] *** Quits: rjeli____ (Read error: Connection timed out)
+[14:35:02] *** Quits: SCV______ (Ping timeout: 1230 seconds)
+[14:35:15] *** Joins: SCV______
+[14:39:42] *** Joins: rjeli____
+[15:57:08] *** Surkow_ is now known as Surkow
+[16:00:33] *** Joins: n87_2
+[16:03:02] *** Quits: n87 (Ping timeout: 265 seconds)
+[16:07:05] *** Joins: n87
+[16:08:50] *** Quits: n87_2 (Ping timeout: 265 seconds)
+[16:27:36] *** Joins: n87_2
+[16:32:57] *** Quits: Ghabry (se.hub irc.underworld.no)
+[16:33:14] *** Joins: MasterGK
+[16:34:16] *** Quits: n87 (Read error: Operation timed out)
+[16:51:16] *** Quits: n87_2 (Read error: Connection reset by peer)
+[17:05:24] *** Quits: |Shadow| (Ping timeout: 265 seconds)
+[17:05:28] *** Quits: SCV______ (Ping timeout: 1230 seconds)
+[17:05:41] *** Joins: SCV______
+[17:40:28] *** Quits: rjeli____ (Ping timeout: 1230 seconds)
+[17:40:38] *** Joins: |Shadow|
+[17:40:45] *** Joins: rjeli____
+[18:46:23] *** Quits: SCV______ (Ping timeout: 1230 seconds)
+[18:46:35] *** Joins: SCV______
+[18:56:58] *** Joins: m4ts
+[19:05:02] *** Quits: refs (Quit: refs)
+[19:26:27] *** Joins: fgsfds
+[20:07:30] *** Quits: giglife (Quit: ZNC - http://znc.in)
+[20:18:38] *** Joins: giglife_
+[21:03:27] *** Quits: rjeli____ (Ping timeout: 1230 seconds)
+[21:03:41] *** Joins: rjeli____
+[21:09:49] *** Joins: refs
+[21:40:58] *** Quits: m4ts (se.hub irc.underworld.no)
+[21:58:52] *** Quits: SCV______ (Ping timeout: 1230 seconds)
+[21:59:06] *** Joins: SCV______
+[23:20:01] *** Joins: n87
+[23:24:45] *** Quits: rmaw (Read error: Operation timed out)
+[23:29:04] *** Quits: d3m3vilur (Read error: Operation timed out)
+[23:32:42] *** Quits: phigcloud (Read error: Operation timed out)
+[23:34:18] *** Quits: blasty (Read error: Connection reset by peer)
+[23:39:08] *** Quits: klanc (Ping timeout: 857 seconds)
+[23:39:10] *** Joins: d3m3vilur
+[23:41:24] *** Joins: klanc
+[23:41:38] *** Quits: madk (Ping timeout: 258 seconds)
+[23:41:39] *** Quits: nohit (Ping timeout: 258 seconds)
+[23:41:44] *** Joins: nohit
+[23:42:02] *** Quits: DacoTaco (Ping timeout: 258 seconds)
+[23:42:25] *** Quits: KuKzz (Ping timeout: 258 seconds)
+[23:42:25] *** Quits: flagrama (Ping timeout: 258 seconds)
+[23:42:32] *** Joins: flagrama
+[23:42:48] *** Quits: plutobot (Ping timeout: 258 seconds)
+[23:43:10] *** Quits: refsw2 (Read error: Operation timed out)
+[23:43:11] *** Quits: Stary_ (Ping timeout: 258 seconds)
+[23:43:11] *** Quits: CCFL_Man (Ping timeout: 258 seconds)
+[23:43:11] *** Quits: Mimoja (Ping timeout: 258 seconds)
+[23:43:11] *** Quits: GrecKo (Ping timeout: 258 seconds)
+[23:43:11] *** Quits: oldtopman (Ping timeout: 258 seconds)
+[23:43:46] *** Joins: refsw2
+[23:44:10] *** Joins: GrecKo
+[23:44:29] *** Joins: Stary
+[23:44:41] *** Joins: blasty
+[23:46:12] *** Quits: Snetry (Read error: Connection reset by peer)
+[23:47:36] *** Quits: d3m3vilur (Read error: Connection reset by peer)
+[23:47:37] *** Joins: Snetry
+[23:48:20] *** Quits: Genolo (Ping timeout: 857 seconds)
+[23:48:43] *** Joins: KuKzz
+[23:48:57] *** Joins: Genolo
+[23:52:01] *** Joins: d3m3vilur
+[23:53:04] *** Quits: Snetry (Read error: Connection reset by peer)
+[23:53:19] *** Joins: phigcloud
+[23:53:29] *** Joins: Snetry
+[23:53:32] *** Quits: klanc (Read error: Operation timed out)
+[23:56:08] *** Joins: CCFL_Man
+[23:58:46] *** Joins: oldtopman

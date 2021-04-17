@@ -1,0 +1,350 @@
+[00:05:08] *** Quits: rjeli____ (Ping timeout: 1230 seconds)
+[00:05:21] *** Joins: rjeli____
+[00:22:03] *** Quits: SCV______ (Ping timeout: 1230 seconds)
+[00:22:16] *** Joins: SCV______
+[01:01:44] *** Quits: n87 (Read error: Connection reset by peer)
+[01:19:23] *** Joins: GerbilSof
+[01:36:08] *** Quits: SCV______ (Ping timeout: 1230 seconds)
+[01:36:21] *** Joins: SCV______
+[01:50:31] *** Quits: DoozerBot (Read error: Connection reset by peer)
+[01:52:43] *** Joins: DoozerBot
+[01:52:43] <DoozerBot> PR-#539: friends: ability to get Friend Code, building targets: 02lib
+[01:52:44] <DoozerBot> 02lib: 03 v4.0.0.37 Build OK - https://doozer.io/build/l4l4te8n0i
+[01:52:45] <DoozerBot> PR-#539: friends: ability to get Friend Code, building targets: 02lib
+[01:52:46] <DoozerBot> 02lib: 03 v4.0.0.38 Build OK - https://doozer.io/build/22ckyaqtdq
+[01:52:47] <DoozerBot> PR-#539: friends: ability to get Friend Code, building targets: 02lib
+[01:52:48] <DoozerBot> 02lib: 03 v4.0.0.39 Build OK - https://doozer.io/build/rsana3cyo7
+[01:52:49] <DoozerBot> PR-#539: friends: ability to get Friend Code, building targets: 02lib
+[01:52:50] <DoozerBot> 02lib: 03 v4.0.0.40 Build OK - https://doozer.io/build/c65k8qe2y7
+[01:52:51] <DoozerBot> PR-#539: friends: ability to get Friend Code, building targets: 02lib
+[01:52:52] <DoozerBot> 02lib: 03 v4.0.0.41 Build OK - https://doozer.io/build/7jp9jy3m0q
+[01:52:53] <DoozerBot> PR-#539: friends: ability to get Friend Code, building targets: 02lib
+[01:52:54] <DoozerBot> 02lib: 03 v4.0.0.42 Build OK - https://doozer.io/build/xfoytfcpcb
+[01:52:55] <DoozerBot> PR-#539: friends: ability to get Friend Code, building targets: 02lib
+[01:52:56] <DoozerBot> 02lib: 03 v4.0.0.43 Build OK - https://doozer.io/build/ldgpaihdmz
+[01:52:57] <DoozerBot> fincs pushed to master: friends: ability to get Friend Code (#539) "friends: ability to get Friend Code (#539)" [072 files modified], building targets: 02lib
+[01:52:58] <DoozerBot> 02lib: 03 v4.0.0.36 Build OK - https://doozer.io/build/8ka3wzz0on
+[01:52:59] <DoozerBot> fincs pushed to master: pgl: convert to cmif/tipc polyglot "envSetup: detect Atmosphère environment using EntryType_HosVersion" [071 file modified]
+[01:53:00] <DoozerBot> fincs pushed to master: pgl: convert to cmif/tipc polyglot "tipc: add cmif-like wrapper" [031 file added07, 1 file modified]
+[01:53:01] <DoozerBot> fincs pushed to master: pgl: convert to cmif/tipc polyglot "sm: update for 12.0.0, tipc" [072 files modified]
+[01:53:02] <DoozerBot> fincs pushed to master: pgl: convert to cmif/tipc polyglot "smm: support tipc/cmif" [072 files modified]
+[01:53:03] <DoozerBot> fincs pushed to master: pgl: convert to cmif/tipc polyglot "pgl: convert to cmif/tipc polyglot" [072 files modified], building targets: 02lib
+[01:53:05] <DoozerBot> 02lib: 03 v4.0.0.41 Build OK - https://doozer.io/build/e44qincl79
+[01:53:05] <DoozerBot> fincs pushed to master: sm: docufix "sm: docufix" [071 file modified], building targets: 02lib
+[01:53:06] <DoozerBot> 02lib: 03 v4.0.0.42 Build OK - https://doozer.io/build/wv6eovbqz9
+[02:07:30] *** Joins: figgis_
+[02:14:29] *** Quits: fgsfds (Ping timeout: 622 seconds)
+[02:29:32] *** Joins: balrog
+[02:46:08] *** Quits: rjeli____ (Ping timeout: 1230 seconds)
+[02:46:24] *** Joins: rjeli____
+[04:13:42] *** Joins: ihaveama-
+[04:14:28] *** Joins: changoXPR
+[04:14:28] *** Quits: changoXPR (Excess Flood)
+[04:14:38] *** Joins: changoXPR
+[04:15:20] *** Quits: changO- (Read error: Operation timed out)
+[04:15:21] *** changoXPR is now known as changO-
+[04:15:55] *** Joins: Extrems`
+[04:16:22] *** Quits: Lightswor (Ping timeout: 376 seconds)
+[04:16:50] *** Quits: ihaveamac (Ping timeout: 376 seconds)
+[04:21:13] *** Quits: rjeli____ (Ping timeout: 1230 seconds)
+[04:21:26] *** Joins: rjeli____
+[04:23:21] *** Quits: Extrems (se.hub irc.homelien.no)
+[04:23:46] *** Quits: Surkow (Read error: Operation timed out)
+[04:33:59] *** Joins: Surkow
+[04:35:11] *** Joins: Lightswor
+[04:38:54] *** Extrems` is now known as Extrems
+[04:41:59] *** Quits: refs (Quit: refs)
+[04:42:08] *** Quits: changO- (Read error: Operation timed out)
+[04:54:44] *** Joins: changO-
+[05:11:09] *** Quits: Phils3r (Read error: Connection reset by peer)
+[05:11:58] *** Joins: Phils3r
+[05:14:32] *** Joins: kbhomes
+[05:14:36] *** Quits: kbhomes (Client Quit)
+[05:48:15] *** Quits: DoozerBot (Read error: Operation timed out)
+[05:48:37] *** Quits: eggy (Read error: Operation timed out)
+[05:48:47] *** Quits: capin4 (Read error: Operation timed out)
+[05:48:51] *** Joins: eggster
+[05:49:13] *** Joins: capin4
+[05:49:53] *** Quits: TurtleP (Ping timeout: 265 seconds)
+[05:49:56] *** Quits: Cu3PO42 (Read error: Operation timed out)
+[05:49:59] *** Joins: TurtleP
+[05:50:04] *** Joins: DoozerBot
+[05:50:23] *** Joins: CCFL_Man_
+[05:50:45] *** Quits: CCFL_Man (Read error: Operation timed out)
+[05:52:26] *** Quits: eggster (ircd.choopa.net irc.Prison.NET)
+[05:52:27] *** Quits: Surkow (ircd.choopa.net irc.Prison.NET)
+[05:54:59] *** Joins: eggy
+[05:59:55] *** Joins: Cu3PO42
+[06:04:29] *** Quits: TurtleP (Read error: Operation timed out)
+[06:05:06] *** Quits: Lightswor (Ping timeout: 376 seconds)
+[06:06:29] *** Joins: Surkow
+[06:10:39] *** Joins: TurtleP
+[06:21:28] *** Joins: Lightswor
+[06:48:01] *** Quits: figgis_ (Read error: Connection reset by peer)
+[07:19:49] *** Quits: Cu3PO42 (ircd.choopa.net irc.mzima.net)
+[07:19:50] *** Quits: changO- (ircd.choopa.net irc.mzima.net)
+[07:19:50] *** Quits: ihaveama- (ircd.choopa.net irc.mzima.net)
+[07:19:50] *** Quits: cpnc0ke (ircd.choopa.net irc.mzima.net)
+[07:19:50] *** Quits: sh0e (ircd.choopa.net irc.mzima.net)
+[07:22:06] *** Quits: rajko (Read error: Operation timed out)
+[07:30:46] *** Joins: Cu3PO42
+[07:30:46] *** Joins: changO-
+[07:30:46] *** Joins: ihaveama-
+[07:30:46] *** Joins: cpnc0ke
+[07:30:46] *** Joins: sh0e
+[08:26:48] *** Quits: rjeli____ (Ping timeout: 1230 seconds)
+[08:27:01] *** Joins: rjeli____
+[10:40:17] *** Joins: n87
+[12:18:59] *** Quits: refsw` (Quit: refsw`)
+[12:19:50] *** Joins: changoXPR
+[12:19:51] *** Quits: changoXPR (Excess Flood)
+[12:20:13] *** Joins: changoXPR
+[12:25:14] *** Quits: changO- (Ping timeout: 496 seconds)
+[12:25:14] *** changoXPR is now known as changO-
+[12:31:06] *** Joins: refsw
+[12:48:19] *** Quits: blasty (Read error: Operation timed out)
+[12:48:19] *** Quits: TuxSH (Read error: Connection reset by peer)
+[12:49:03] *** Quits: refsw (Read error: Operation timed out)
+[12:50:12] *** Joins: refsw
+[12:52:58] *** Joins: TuxSH
+[12:57:59] *** Quits: phigcloud (Read error: Operation timed out)
+[12:57:59] *** Quits: rmaw (Read error: Connection reset by peer)
+[12:58:50] *** Quits: d3m3vilur (Read error: Operation timed out)
+[13:01:18] *** Joins: d3m3vilur
+[13:01:43] *** Joins: rmaw
+[13:01:48] *** Joins: phigcloud
+[13:07:11] *** Joins: blasty
+[13:16:28] *** Joins: m4ts_
+[13:17:02] *** Quits: m4ts (Ping timeout: 265 seconds)
+[13:31:06] *** Joins: n87_2
+[13:36:46] *** Joins: n87_3
+[13:36:46] *** Quits: n87 (Ping timeout: 265 seconds)
+[13:36:46] *** Quits: n87_2 (Ping timeout: 265 seconds)
+[14:09:22] *** Quits: Genolo (Read error: Operation timed out)
+[14:09:38] *** Joins: Genolo
+[14:12:45] *** Quits: lex1 (Read error: Operation timed out)
+[14:12:58] *** Quits: TuxSH (Read error: Operation timed out)
+[14:13:38] *** Quits: balrog (Read error: Operation timed out)
+[14:15:30] *** Quits: rmaw (Read error: Operation timed out)
+[14:15:30] *** Joins: balrog
+[14:15:30] *** Quits: n87_3 (Ping timeout: 604 seconds)
+[14:17:28] *** Quits: phigcloud (Read error: Operation timed out)
+[14:18:16] *** Quits: Snetry (Read error: Operation timed out)
+[14:18:35] *** Quits: d3m3vilur (Read error: Operation timed out)
+[14:19:39] *** Joins: Extrems`
+[14:19:46] *** Quits: Extrems (Read error: Operation timed out)
+[14:19:58] *** Extrems` is now known as Extrems
+[14:20:28] *** Quits: klanc (Ping timeout: 857 seconds)
+[14:23:01] *** Quits: blasty (Read error: Connection reset by peer)
+[14:23:04] *** Joins: d3m3vilur
+[14:23:11] *** Joins: TuxSH
+[14:23:17] *** Joins: Snetry
+[14:23:21] *** Joins: phigcloud
+[14:23:35] *** Joins: thomasnet
+[14:23:43] *** Joins: klanc
+[14:24:37] *** Joins: blasty
+[14:25:00] *** Joins: rmaw
+[14:28:14] *** Joins: lex1
+[14:38:49] *** Joins: n87
+[14:46:12] *** Joins: rajko
+[15:05:45] *** Quits: X-Scale (Ping timeout: 255 seconds)
+[15:07:48] *** Joins: X-Scale`
+[15:25:12] *** Joins: giglife_
+[15:26:46] *** Quits: tpw_rules (Read error: Operation timed out)
+[15:26:50] *** Quits: giglife (Read error: Operation timed out)
+[15:26:51] *** giglife_ is now known as giglife
+[15:26:51] *** Joins: GrecKo_
+[15:27:04] *** Joins: tpw_rules
+[15:28:32] *** Joins: balrog_
+[15:28:42] *** Quits: GeekShado (Read error: Operation timed out)
+[15:28:50] *** Quits: GrecKo (Read error: Operation timed out)
+[15:29:04] *** Quits: Behemoth_ (Read error: Operation timed out)
+[15:29:16] *** Quits: |Shadow| (Read error: Operation timed out)
+[15:29:20] *** Quits: balrog (Read error: Operation timed out)
+[15:29:21] *** balrog_ is now known as balrog
+[15:29:22] *** Joins: Behemoth
+[15:30:27] *** Quits: j0hny5 (Read error: Operation timed out)
+[15:30:37] *** Quits: lilibox_ (Read error: Operation timed out)
+[15:33:40] *** Joins: GeekShado
+[15:38:12] *** Joins: lilibox
+[16:13:45] *** Joins: |Shadow|
+[16:37:48] *** Quits: n87 (Read error: Connection reset by peer)
+[16:44:45] *** Joins: n87
+[16:50:17] *** Quits: |Shadow| (Read error: Operation timed out)
+[17:03:56] *** Joins: fgsfds
+[17:07:22] *** Joins: |Shadow|
+[17:07:26] *** Quits: |Shadow| (Excess Flood)
+[17:12:51] *** Joins: |Shadow|
+[17:12:53] *** Quits: |Shadow| (Excess Flood)
+[17:15:10] *** X-Scale` is now known as X-Scale
+[17:18:18] *** Joins: |Shadow|
+[17:18:20] *** Quits: |Shadow| (Excess Flood)
+[17:23:45] *** Joins: |Shadow|
+[17:23:47] *** Quits: |Shadow| (Excess Flood)
+[17:29:11] *** Joins: |Shadow|
+[17:29:13] *** Quits: |Shadow| (Excess Flood)
+[17:30:18] <plutobot> GitHub | New commit | User: Dave Murphy | https://github.com/switchbrew/switch-tools/commit/660305f32e
+[17:34:35] *** Joins: |Shadow|
+[17:34:37] *** Quits: |Shadow| (Excess Flood)
+[17:40:02] *** Joins: |Shadow|
+[17:40:04] *** Quits: |Shadow| (Excess Flood)
+[17:45:29] *** Joins: |Shadow|
+[17:45:30] *** Quits: |Shadow| (Excess Flood)
+[17:50:52] *** Joins: |Shadow|
+[17:50:54] *** Quits: |Shadow| (Excess Flood)
+[17:56:16] *** Joins: |Shadow|
+[17:56:18] *** Quits: |Shadow| (Excess Flood)
+[18:01:38] *** Joins: |Shadow|
+[18:01:40] *** Quits: |Shadow| (Excess Flood)
+[18:07:32] *** Joins: |Shadow|
+[18:07:43] *** Quits: |Shadow| (Excess Flood)
+[18:08:52] *** Joins: refsw`
+[18:10:48] *** Joins: n87_2
+[18:13:10] *** Joins: |Shadow|
+[18:13:14] *** Quits: |Shadow| (Excess Flood)
+[18:14:17] *** Quits: n87 (Ping timeout: 265 seconds)
+[18:19:24] *** Joins: |Shadow|
+[18:19:45] *** Quits: |Shadow| (Excess Flood)
+[18:20:03] *** Quits: refsw (Ping timeout: 745 seconds)
+[18:25:14] *** Joins: |Shadow|
+[18:25:16] *** Quits: |Shadow| (Excess Flood)
+[18:25:53] *** Quits: rjeli____ (Ping timeout: 1230 seconds)
+[18:26:06] *** Joins: rjeli____
+[18:30:43] *** Joins: |Shadow|
+[18:30:45] *** Quits: |Shadow| (Excess Flood)
+[18:36:12] *** Joins: |Shadow|
+[18:36:15] *** Quits: |Shadow| (Excess Flood)
+[18:38:43] *** Quits: giglife (Quit: ZNC - http://znc.in)
+[18:38:50] *** Joins: giglife
+[18:41:39] *** Joins: |Shadow|
+[18:41:41] *** Quits: |Shadow| (Excess Flood)
+[18:47:07] *** Joins: |Shadow|
+[18:47:09] *** Quits: |Shadow| (Excess Flood)
+[18:52:31] *** Joins: |Shadow|
+[18:52:33] *** Quits: |Shadow| (Excess Flood)
+[18:57:54] *** Joins: |Shadow|
+[18:57:56] *** Quits: |Shadow| (Excess Flood)
+[19:02:38] *** Quits: SCV______ (Ping timeout: 1230 seconds)
+[19:02:51] *** Joins: SCV______
+[19:03:39] *** Joins: |Shadow|
+[19:03:41] *** Quits: |Shadow| (Excess Flood)
+[19:09:05] *** Joins: |Shadow|
+[19:09:07] *** Quits: |Shadow| (Excess Flood)
+[19:13:49] *** Quits: rajko (Read error: Operation timed out)
+[19:14:30] *** Joins: |Shadow|
+[19:14:32] *** Quits: |Shadow| (Excess Flood)
+[19:19:57] *** Joins: |Shadow|
+[19:19:59] *** Quits: |Shadow| (Excess Flood)
+[19:25:23] *** Joins: |Shadow|
+[19:25:25] *** Quits: |Shadow| (Excess Flood)
+[19:30:48] *** Joins: |Shadow|
+[19:30:52] *** Quits: |Shadow| (Excess Flood)
+[19:36:15] *** Joins: |Shadow|
+[19:36:20] *** Quits: |Shadow| (Excess Flood)
+[19:41:41] *** Joins: |Shadow|
+[19:41:46] *** Quits: |Shadow| (Excess Flood)
+[19:47:07] *** Joins: |Shadow|
+[19:47:09] *** Quits: |Shadow| (Excess Flood)
+[19:50:28] *** Quits: rjeli____ (Ping timeout: 1230 seconds)
+[19:50:45] *** Joins: rjeli____
+[19:52:32] *** Joins: |Shadow|
+[19:52:34] *** Quits: |Shadow| (Excess Flood)
+[19:57:59] *** Joins: |Shadow|
+[19:58:00] *** Quits: |Shadow| (Excess Flood)
+[20:03:43] *** Joins: |Shadow|
+[20:03:45] *** Quits: |Shadow| (Excess Flood)
+[20:09:06] *** Joins: |Shadow|
+[20:09:08] *** Quits: |Shadow| (Excess Flood)
+[20:14:30] *** Joins: |Shadow|
+[20:14:32] *** Quits: |Shadow| (Excess Flood)
+[20:19:57] *** Joins: |Shadow|
+[20:19:59] *** Quits: |Shadow| (Excess Flood)
+[20:25:23] *** Joins: |Shadow|
+[20:25:25] *** Quits: |Shadow| (Excess Flood)
+[20:26:39] *** Joins: refs
+[20:30:50] *** Joins: |Shadow|
+[20:30:52] *** Quits: |Shadow| (Excess Flood)
+[20:32:01] <plutobot> Wiki | Page changed: Bluetooth Driver services | User: yls8 | https://switchbrew.org/w/index.php?curid=161&diff=10846&oldid=10842
+[20:36:17] *** Joins: |Shadow|
+[20:36:19] *** Quits: |Shadow| (Excess Flood)
+[20:41:43] *** Joins: |Shadow|
+[20:41:44] *** Quits: |Shadow| (Excess Flood)
+[20:47:04] *** Joins: |Shadow|
+[20:47:05] *** Quits: |Shadow| (Excess Flood)
+[20:50:48] *** Joins: rajko
+[20:52:31] *** Joins: |Shadow|
+[20:52:33] *** Quits: |Shadow| (Excess Flood)
+[20:57:58] *** Joins: |Shadow|
+[20:58:00] *** Quits: |Shadow| (Excess Flood)
+[21:03:25] *** Joins: |Shadow|
+[21:03:26] *** Quits: |Shadow| (Excess Flood)
+[21:08:51] *** Joins: |Shadow|
+[21:08:53] *** Quits: |Shadow| (Excess Flood)
+[21:14:13] *** Joins: |Shadow|
+[21:14:15] *** Quits: |Shadow| (Excess Flood)
+[21:19:39] *** Joins: |Shadow|
+[21:19:41] *** Quits: |Shadow| (Excess Flood)
+[21:25:07] *** Joins: |Shadow|
+[21:25:09] *** Quits: |Shadow| (Excess Flood)
+[21:29:47] *** Joins: nikitalit
+[21:30:33] *** Joins: |Shadow|
+[21:30:35] *** Quits: |Shadow| (Excess Flood)
+[21:35:59] *** Joins: |Shadow|
+[21:36:01] *** Quits: |Shadow| (Excess Flood)
+[21:37:48] *** Quits: rjeli____ (Ping timeout: 1230 seconds)
+[21:38:06] *** Joins: rjeli____
+[21:41:26] *** Joins: |Shadow|
+[21:41:28] *** Quits: |Shadow| (Excess Flood)
+[21:46:52] *** Joins: |Shadow|
+[21:46:54] *** Quits: |Shadow| (Excess Flood)
+[21:52:17] *** Joins: |Shadow|
+[21:52:19] *** Quits: |Shadow| (Excess Flood)
+[21:57:44] *** Joins: |Shadow|
+[21:57:46] *** Quits: |Shadow| (Excess Flood)
+[22:03:30] *** Joins: |Shadow|
+[22:03:32] *** Quits: |Shadow| (Excess Flood)
+[22:08:58] *** Joins: |Shadow|
+[22:09:00] *** Quits: |Shadow| (Excess Flood)
+[22:14:30] *** Joins: |Shadow|
+[22:14:35] *** Quits: |Shadow| (Excess Flood)
+[22:20:10] *** Joins: |Shadow|
+[22:20:15] *** Quits: |Shadow| (Excess Flood)
+[22:25:37] *** Joins: |Shadow|
+[22:25:42] *** Quits: |Shadow| (Excess Flood)
+[22:31:04] *** Joins: |Shadow|
+[22:31:09] *** Quits: |Shadow| (Excess Flood)
+[22:36:31] *** Joins: |Shadow|
+[22:36:35] *** Quits: |Shadow| (Excess Flood)
+[22:40:42] *** Quits: averne (quit)
+[22:41:35] *** Joins: averne
+[22:41:41] *** Server sets mode: +stn 
+[22:41:58] *** Joins: |Shadow|
+[22:42:02] *** Quits: |Shadow| (Excess Flood)
+[22:47:24] *** Joins: |Shadow|
+[22:47:26] *** Quits: |Shadow| (Excess Flood)
+[22:52:50] *** Joins: |Shadow|
+[22:52:51] *** Quits: |Shadow| (Excess Flood)
+[22:58:17] *** Joins: |Shadow|
+[22:58:19] *** Quits: |Shadow| (Excess Flood)
+[23:03:41] *** Joins: |Shadow|
+[23:03:43] *** Quits: |Shadow| (Excess Flood)
+[23:09:08] *** Joins: |Shadow|
+[23:09:10] *** Quits: |Shadow| (Excess Flood)
+[23:14:31] *** Joins: |Shadow|
+[23:14:33] *** Quits: |Shadow| (Excess Flood)
+[23:20:00] *** Joins: |Shadow|
+[23:20:02] *** Quits: |Shadow| (Excess Flood)
+[23:24:33] *** Quits: SCV______ (Ping timeout: 1230 seconds)
+[23:24:46] *** Joins: SCV______
+[23:25:29] *** Joins: |Shadow|
+[23:25:31] *** Quits: |Shadow| (Excess Flood)
+[23:31:15] *** Joins: |Shadow|
+[23:31:17] *** Quits: |Shadow| (Excess Flood)
+[23:36:39] *** Joins: |Shadow|
+[23:36:41] *** Quits: |Shadow| (Excess Flood)
+[23:42:06] *** Joins: |Shadow|
+[23:42:08] *** Quits: |Shadow| (Excess Flood)
+[23:47:29] *** Joins: |Shadow|
+[23:47:31] *** Quits: |Shadow| (Excess Flood)
+[23:52:55] *** Joins: |Shadow|
+[23:52:57] *** Quits: |Shadow| (Excess Flood)

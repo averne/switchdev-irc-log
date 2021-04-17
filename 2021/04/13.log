@@ -1,0 +1,261 @@
+[00:02:30] <plutobot> Wiki | Page changed: Bluetooth Driver services | User: yls8 | https://switchbrew.org/w/index.php?curid=161&diff=10847&oldid=10846
+[00:03:10] *** Quits: rajko (Read error: Connection reset by peer)
+[00:10:19] *** Joins: |Shadow|
+[00:50:21] *** CCFL_Man_ is now known as CCFL_Man
+[01:41:27] *** Quits: n87_2 (Read error: Connection reset by peer)
+[02:32:58] *** Quits: rjeli____ (Ping timeout: 1230 seconds)
+[02:33:11] *** Joins: rjeli____
+[02:40:17] *** Quits: refs (Quit: refs)
+[03:19:20] <plutobot> Wiki | Page changed: Bluetooth Driver services | User: yls8 | https://switchbrew.org/w/index.php?curid=161&diff=10848&oldid=10847
+[03:41:48] *** Quits: rjeli____ (Ping timeout: 1230 seconds)
+[03:42:06] *** Joins: rjeli____
+[03:53:43] *** Quits: CCFL_Man (Ping timeout: 258 seconds)
+[03:55:00] *** Quits: TuxSH (Read error: Operation timed out)
+[03:55:03] *** Quits: rmaw (Read error: Operation timed out)
+[03:55:03] *** Quits: thomasnet (Read error: Operation timed out)
+[03:55:03] *** Quits: blasty (Read error: Operation timed out)
+[03:55:21] *** Quits: refsw` (Read error: Operation timed out)
+[03:56:38] *** Quits: klanc (Read error: Operation timed out)
+[03:57:21] *** Joins: refsw`
+[03:57:32] *** Quits: d3m3vilur (Read error: Operation timed out)
+[03:57:44] *** Joins: thomasnet
+[04:00:03] *** Joins: CCFL_Man
+[04:00:12] *** Joins: klanc
+[04:01:02] *** Quits: thomasnet (Connection closed)
+[04:02:30] *** Joins: blasty
+[04:04:20] *** Joins: d3m3vilur
+[04:04:27] *** Quits: Snetry (Read error: Operation timed out)
+[04:05:15] *** Joins: balrog_
+[04:05:40] *** Quits: balrog (Read error: Operation timed out)
+[04:08:05] *** Quits: balrog_ (Excess Flood)
+[04:09:02] *** Quits: lilibox (Read error: Operation timed out)
+[04:13:07] *** Quits: blasty (Read error: Connection reset by peer)
+[04:16:15] *** Quits: Surkow (Ping timeout: 265 seconds)
+[04:16:44] *** Joins: blasty
+[04:16:58] *** Joins: Behemoth_
+[04:17:26] *** Quits: Lightswor (Ping timeout: 376 seconds)
+[04:17:35] *** Joins: balrog
+[04:19:08] *** Joins: lilibox
+[04:23:02] *** Quits: phigcloud (Ping timeout: 857 seconds)
+[04:24:56] *** Quits: GrecKo_ (Read error: Operation timed out)
+[04:25:57] *** Joins: GrecKo
+[04:25:57] *** Joins: changoXPR
+[04:25:57] *** Joins: phigcloud
+[04:27:01] *** Quits: Maylay (Read error: Operation timed out)
+[04:27:01] *** Quits: Behemoth (Ping timeout: 857 seconds)
+[04:27:01] *** Quits: klanc (Read error: Operation timed out)
+[04:28:05] *** Quits: changO- (Read error: Operation timed out)
+[04:28:05] *** changoXPR is now known as changO-
+[04:30:05] *** Quits: giglife (Ping timeout: 490 seconds)
+[04:30:05] *** Joins: capin
+[04:30:05] *** Quits: capin4 (Read error: Connection reset by peer)
+[04:30:05] *** Joins: giglife
+[04:31:09] *** Joins: Lightswor
+[04:35:07] *** Quits: RaYmAn (Ping timeout: 604 seconds)
+[04:36:11] *** Quits: DacoTaco (Ping timeout: 258 seconds)
+[04:36:11] *** Quits: lansiir (Ping timeout: 258 seconds)
+[04:37:15] *** Quits: flagrama (Ping timeout: 258 seconds)
+[04:37:15] *** Quits: plutobot (Ping timeout: 258 seconds)
+[04:38:19] *** Joins: flagrama
+[04:38:19] *** Quits: nohit (Ping timeout: 258 seconds)
+[04:38:19] *** Joins: Maylay
+[04:38:19] *** Joins: nohit
+[04:38:19] *** Joins: plutobot
+[04:39:23] *** Joins: DacoTaco
+[04:44:26] *** Quits: averne (quit)
+[04:50:45] *** Joins: averne_
+[04:50:45] *** Server sets mode: +stn 
+[04:51:32] *** Joins: Pieman
+[04:51:37] *** Quits: averne (Read error: Operation timed out)
+[04:51:37] *** averne_ is now known as averne
+[04:53:05] *** Quits: blasty (Read error: Connection reset by peer)
+[04:53:25] *** Joins: klanc
+[04:53:54] *** Quits: plutobot (Ping timeout: 258 seconds)
+[04:54:28] *** Quits: d3m3vilur (Ping timeout: 857 seconds)
+[04:55:20] *** Joins: d3m3vilur
+[04:57:44] *** Quits: DacoTaco (Ping timeout: 258 seconds)
+[04:57:48] *** Quits: giglife (Read error: Operation timed out)
+[04:58:07] *** Quits: madk (Ping timeout: 258 seconds)
+[04:58:53] *** Quits: omlet05 (Ping timeout: 258 seconds)
+[04:59:16] *** Quits: CCFL_Man (Ping timeout: 258 seconds)
+[04:59:51] *** Joins: Snetry
+[05:01:46] *** Joins: |Shadow|
+[05:01:48] *** Quits: |Shadow| (Excess Flood)
+[05:01:54] *** Joins: CCFL_Man
+[05:06:52] *** Joins: giglife
+[05:08:50] *** Quits: d3m3vilur (Read error: Operation timed out)
+[05:10:14] *** Joins: omlet05
+[05:11:38] *** Quits: SCV______ (Ping timeout: 1230 seconds)
+[05:11:50] *** Joins: SCV______
+[05:13:18] *** Quits: GeekShado (Read error: Connection reset by peer)
+[05:13:25] *** Quits: klanc (Read error: Operation timed out)
+[05:13:31] *** Joins: GeekShado
+[05:16:55] *** Joins: Sentry-
+[05:16:59] *** Quits: Snetry (Read error: Connection reset by peer)
+[05:17:01] *** Joins: TuxSH
+[05:17:31] *** Joins: klanc
+[05:19:33] *** Joins: d3m3vilur
+[05:22:56] *** Joins: omlet05_
+[05:22:59] *** Joins: giglife_
+[05:23:41] *** Joins: |Shadow|
+[05:24:17] *** Quits: omlet05 (Ping timeout: 316 seconds)
+[05:24:48] *** Joins: Phils3r_
+[05:25:54] *** Quits: Maylay (Ping timeout: 857 seconds)
+[05:26:48] *** Quits: Phils3r (Ping timeout: 615 seconds)
+[05:26:53] *** Joins: rmaw
+[05:28:18] *** Joins: Maylay
+[05:28:19] *** Quits: TuxSH (Read error: Operation timed out)
+[05:29:14] *** Quits: giglife (Ping timeout: 535 seconds)
+[05:29:14] *** giglife_ is now known as giglife
+[05:30:59] *** Quits: |Shadow| (Read error: Operation timed out)
+[05:40:14] *** Quits: d3m3vilur (Read error: Operation timed out)
+[05:41:51] *** Joins: plutobot
+[05:42:04] *** Joins: DacoTaco
+[05:42:51] *** Joins: madk
+[05:43:21] *** Joins: blasty
+[05:47:33] *** Joins: thejsa
+[05:47:33] *** Quits: GrecKo (Read error: Connection reset by peer)
+[05:48:50] *** Quits: blasty (Remote host closed the connection)
+[05:49:30] *** Joins: GrecKo
+[05:49:33] *** Joins: blasty
+[05:54:34] *** Quits: blasty (Remote host closed the connection)
+[05:56:16] *** Joins: rmaw_
+[05:56:17] *** Joins: |Shadow|
+[05:56:19] *** Quits: |Shadow| (Excess Flood)
+[05:57:27] *** Joins: TuxSH
+[05:59:10] *** Quits: rmaw (Read error: Operation timed out)
+[06:01:46] *** Joins: |Shadow|
+[06:01:49] *** Quits: |Shadow| (Excess Flood)
+[06:03:31] *** Quits: TuxSH (Read error: Operation timed out)
+[06:07:15] *** Joins: |Shadow|
+[06:07:17] *** Quits: |Shadow| (Excess Flood)
+[06:07:24] *** Joins: blasty
+[06:07:24] *** Quits: Sentry- (Read error: Connection reset by peer)
+[06:08:34] *** Joins: Snetry
+[06:10:57] *** Quits: nohit (Ping timeout: 258 seconds)
+[06:12:45] *** Joins: |Shadow|
+[06:12:47] *** Quits: |Shadow| (Excess Flood)
+[06:15:18] *** Joins: nohit
+[06:18:11] *** Joins: |Shadow|
+[06:18:13] *** Quits: |Shadow| (Excess Flood)
+[06:21:06] *** Quits: klanc (Ping timeout: 857 seconds)
+[06:21:31] *** Joins: klanc
+[06:21:41] *** Quits: madk (Ping timeout: 258 seconds)
+[06:21:52] *** Quits: rmaw_ (Ping timeout: 857 seconds)
+[06:22:05] *** Joins: rmaw
+[06:22:58] *** Joins: madk
+[06:23:35] *** Joins: |Shadow|
+[06:23:37] *** Quits: |Shadow| (Excess Flood)
+[06:27:53] *** Quits: capin (Read error: Operation timed out)
+[06:27:53] *** Quits: blasty (Read error: Connection reset by peer)
+[06:27:54] *** Joins: Phils3r
+[06:28:07] *** Joins: capin
+[06:28:50] *** Quits: Phils3r_ (Read error: Connection reset by peer)
+[06:29:01] *** Joins: |Shadow|
+[06:29:03] *** Quits: |Shadow| (Excess Flood)
+[06:30:17] *** Quits: sh0e (Read error: Operation timed out)
+[06:34:29] *** Joins: |Shadow|
+[06:34:31] *** Quits: |Shadow| (Excess Flood)
+[06:35:07] *** Quits: rmaw (Quit: ZNC 1.8.x-git-125-e415d9f5 - https://znc.in)
+[06:36:37] *** Joins: Sentry-
+[06:37:29] *** Joins: oldtopman
+[06:37:30] *** Quits: Maylay (Ping timeout: 496 seconds)
+[06:38:44] *** Quits: thejsa (irc.efnet.nl efnet.deic.eu)
+[06:39:06] *** Quits: Genolo (Ping timeout: 496 seconds)
+[06:39:25] *** Joins: blasty
+[06:40:23] *** Joins: |Shadow|
+[06:40:53] *** Quits: Snetry (Read error: Connection reset by peer)
+[06:40:57] *** Joins: sh0e
+[06:44:41] *** Joins: sh0e-
+[06:44:41] *** Quits: sh0e (Read error: Connection reset by peer)
+[06:54:20] *** Joins: rmaw
+[06:55:07] *** Joins: Maylay
+[06:57:29] *** Joins: cpncok3
+[07:00:26] *** Quits: cpnc0ke (Ping timeout: 496 seconds)
+[07:00:26] *** Quits: ihaveama- (Read error: Operation timed out)
+[07:02:02] *** Quits: omlet05_ (Ping timeout: 496 seconds)
+[07:02:34] *** Quits: sh0e- (Ping timeout: 496 seconds)
+[07:04:10] *** Quits: Cu3PO42 (Ping timeout: 496 seconds)
+[07:04:48] *** Joins: Genolo
+[07:05:23] *** Joins: TuxSH
+[07:05:25] *** Quits: |Shadow| (Read error: Operation timed out)
+[07:09:33] *** Joins: sh0e
+[07:12:49] *** Joins: Cu3PO42
+[07:13:52] *** Joins: d3m3vilur
+[07:32:55] *** Joins: ihaveamac
+[07:43:43] *** Quits: fgsfds (Read error: Connection reset by peer)
+[07:43:48] *** Joins: |Shadow|
+[07:43:50] *** Quits: |Shadow| (Excess Flood)
+[07:47:10] *** Quits: GrecKo (Read error: Connection reset by peer)
+[07:47:15] *** Quits: GerbilSof (Ping timeout: 265 seconds)
+[07:48:13] *** Joins: GrecKo
+[07:48:42] *** Quits: lilibox (Ping timeout: 265 seconds)
+[07:48:49] *** Joins: lilibox
+[07:48:55] *** Quits: oldtopman (Read error: Operation timed out)
+[07:49:11] *** Quits: capin (Ping timeout: 265 seconds)
+[07:49:47] *** Joins: oldtopman
+[07:55:19] *** Joins: capin
+[08:12:37] *** Joins: nikitalit
+[08:20:57] *** Joins: RaYmAn
+[09:07:38] *** Quits: giglife (Read error: Operation timed out)
+[09:17:09] *** Joins: |Shadow|
+[09:17:48] *** Quits: Cu3PO42 (Ping timeout: 745 seconds)
+[09:21:53] *** Quits: rjeli____ (Ping timeout: 1230 seconds)
+[09:22:12] *** Joins: rjeli____
+[09:25:57] *** Joins: Cu3PO42
+[09:25:58] *** Joins: Maylay_
+[09:27:18] *** Quits: ihaveamac (Ping timeout: 376 seconds)
+[09:27:32] *** Joins: ihaveamac
+[09:31:02] *** Quits: Lightswor (Ping timeout: 376 seconds)
+[09:31:43] *** Quits: Maylay (Read error: Operation timed out)
+[09:32:20] *** Quits: |Shadow| ()
+[09:32:51] *** Joins: |Shadow|
+[09:32:52] *** Quits: |Shadow| (Excess Flood)
+[09:33:31] *** Joins: |Shadow|
+[09:35:22] *** Joins: CCFL_Man_
+[09:37:14] *** Quits: CCFL_Man (Read error: Connection reset by peer)
+[09:46:38] *** Joins: cpnc0ke
+[09:46:47] *** Quits: cpncok3 (Read error: Operation timed out)
+[09:50:55] *** Joins: giglife
+[10:16:56] *** Joins: Lightswor
+[10:46:28] *** Quits: rjeli____ (Ping timeout: 1230 seconds)
+[10:46:46] *** Joins: rjeli____
+[10:56:25] *** Joins: |Shadow|_
+[10:58:02] *** Quits: |Shadow| (Read error: Operation timed out)
+[11:00:18] *** Joins: flotwig
+[11:09:47] *** Quits: SCV______ (Ping timeout: 1230 seconds)
+[11:10:00] *** Joins: SCV______
+[11:29:05] *** Quits: GrecKo (Quit: GrecKo)
+[11:29:47] *** Joins: GrecKo
+[11:31:31] *** |Shadow|_ is now known as |Shadow|
+[11:31:57] *** Quits: rjeli____ (Ping timeout: 1230 seconds)
+[11:32:20] *** Joins: rjeli____
+[12:41:16] *** Joins: Surkow
+[12:55:22] *** Quits: SCV______ (Ping timeout: 1230 seconds)
+[12:55:35] *** Joins: SCV______
+[13:26:18] *** Quits: KuKzz_ (Ping timeout: 745 seconds)
+[13:30:57] *** Quits: rjeli____ (Ping timeout: 1230 seconds)
+[13:31:10] *** Joins: rjeli____
+[13:34:44] *** Joins: KuKzz
+[14:14:41] *** Quits: |Shadow| ()
+[14:17:50] *** Joins: |Shadow|
+[14:17:51] *** Quits: |Shadow| (Remote host closed the connection!)
+[14:19:52] *** Joins: |Shadow|
+[15:23:15] *** Quits: KuKzz (Ping timeout: 265 seconds)
+[15:25:49] *** Joins: KuKzz
+[16:09:49] *** Quits: rjeli____ (Read error: Connection timed out)
+[16:24:15] *** Joins: rjeli____
+[16:43:29] <plutobot> Wiki | Page changed: Bluetooth Driver services | User: yls8 | https://switchbrew.org/w/index.php?curid=161&diff=10849&oldid=10848
+[17:00:10] *** Quits: giglife (ZNC - http://znc.in)
+[17:07:22] *** Joins: giglife
+[19:12:48] *** Quits: rjeli____ (Ping timeout: 1230 seconds)
+[19:13:00] *** Joins: rjeli____
+[19:38:07] *** Joins: foghorn
+[19:45:49] *** Joins: fgsfds
+[19:49:15] *** Quits: foghorn (Quit: Leaving)
+[20:21:10] *** Quits: mid-kid1 (Quit: Weechat upgrade...)
+[20:21:15] *** Joins: mid-kid
+[21:15:17] *** Joins: refs
+[22:08:35] *** Joins: rajkosto
+[22:47:54] *** Quits: X-Scale (Ping timeout: 255 seconds)
+[22:49:09] *** Joins: X-Scale
