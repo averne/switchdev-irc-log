@@ -1,0 +1,63 @@
+[00:05:18] *** Quits: Lightswor (Read error: Connection reset by peer)
+[00:13:13] *** Joins: Lightswor
+[00:32:00] *** Quits: changO- (Read error: Connection reset by peer)
+[00:35:49] *** Joins: changO-
+[01:26:36] *** Quits: DacoTaco (Ping timeout: 258 seconds)
+[01:27:29] *** Joins: DacoTaco
+[03:11:31] *** Joins: kbhomes
+[03:15:33] *** Joins: GerbilSof
+[04:43:09] *** Quits: refs (Quit: refs)
+[07:00:03] *** Joins: changoXPR
+[07:00:04] *** Quits: changoXPR (Excess Flood)
+[07:00:51] *** Joins: changoXPR
+[07:01:19] *** Quits: |Shadow| (Read error: Operation timed out)
+[07:01:42] *** Quits: kbhomes (hub.efnet.us irc.Prison.NET)
+[07:01:42] *** Quits: changO- (hub.efnet.us irc.Prison.NET)
+[07:01:42] *** Quits: oldtopman (hub.efnet.us irc.Prison.NET)
+[07:01:42] *** Quits: Surkow (hub.efnet.us irc.Prison.NET)
+[07:05:27] *** Joins: Surkow_
+[07:06:02] *** Joins: lansiir
+[07:35:47] *** Joins: |Shadow|
+[08:01:41] *** Joins: figgis_
+[08:05:07] *** Quits: giglife (Read error: Operation timed out)
+[08:05:11] *** Joins: giglife
+[08:08:09] *** Quits: tpw_rules (Read error: Operation timed out)
+[08:09:03] *** Quits: j0hny5 (Ping timeout: 622 seconds)
+[08:09:05] *** Quits: fgsfds (Read error: Operation timed out)
+[08:10:26] *** Joins: tpw_rules
+[08:10:35] *** Joins: j0hny5
+[09:02:44] *** Quits: figgis_ (Leaving)
+[09:48:36] *** Quits: sh0e (Read error: Connection reset by peer)
+[09:53:12] *** Joins: sh0e
+[10:24:48] *** Quits: flagrama (Read error: Connection reset by peer)
+[10:30:23] *** Joins: flagrama
+[10:31:44] *** Quits: giglife (Read error: Operation timed out)
+[10:33:12] *** Joins: giglife
+[10:42:19] *** Quits: Lightswor (Read error: Connection reset by peer)
+[10:52:06] *** Quits: Surkow_ (Ping timeout: 1216 seconds)
+[10:55:22] *** Joins: Lightswor
+[10:56:03] *** Joins: Surkow
+[13:16:41] *** Joins: m4ts_
+[13:17:21] *** Quits: m4ts (Ping timeout: 265 seconds)
+[17:15:01] *** Joins: n87
+[17:28:07] *** Joins: n87_2
+[17:31:35] *** Quits: n87 (Ping timeout: 265 seconds)
+[18:16:02] *** Quits: n87_2 (Read error: Connection reset by peer)
+[19:21:56] *** Joins: n87
+[19:27:06] *** Joins: n87_2
+[19:28:14] <DoozerBot> PR-#547: audrv: add audrvVoiceIsPaused, building targets: 02lib
+[19:30:29] *** Quits: n87 (Ping timeout: 265 seconds)
+[19:39:13] <plutobot> GitHub | New PR: audrv add aud... | User: TurtleP | https://github.com/switchbrew/libnx/pull/547
+[19:40:14] <DoozerBot> 02lib: 03 v4.0.0.49 Build OK - https://doozer.io/build/kw624xphec
+[19:43:30] *** Joins: n87_3
+[19:46:26] *** Quits: n87_2 (Ping timeout: 265 seconds)
+[20:33:15] <DoozerBot> fincs pushed to master: add audrvVoiceIsPaused "add audrvVoiceIsPaused" [072 files modified], building targets: 02lib
+[20:37:41] <DoozerBot> 02lib: 03 v4.0.0.49 Build OK - https://doozer.io/build/qi9qilux3l
+[20:39:13] <plutobot> GitHub | New commit | User: TurtleP | https://github.com/switchbrew/libnx/commit/00d1a696b9
+[20:44:31] *** Joins: giglife_
+[20:47:12] *** Quits: giglife (Read error: Operation timed out)
+[20:47:13] *** giglife_ is now known as giglife
+[21:36:25] *** Joins: refs
+[21:38:26] *** Joins: n87
+[21:39:03] *** Quits: n87_3 (Ping timeout: 265 seconds)
+[22:06:12] *** Quits: n87 (Read error: Connection reset by peer)
