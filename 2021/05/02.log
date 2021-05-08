@@ -1,0 +1,118 @@
+[00:23:31] *** Quits: averne (quit)
+[00:23:59] *** Joins: averne_
+[00:24:00] *** Server sets mode: +stn 
+[00:25:42] *** Quits: GrecKo (Read error: Operation timed out)
+[00:25:44] *** Joins: GrecKo
+[00:27:00] *** Quits: RaYmAn (Read error: Operation timed out)
+[00:30:45] *** Quits: averne (Ping timeout: 604 seconds)
+[00:30:45] *** averne_ is now known as averne
+[00:35:21] *** Joins: plutobot
+[00:35:31] *** Joins: DacoTaco
+[00:35:46] *** Joins: madk
+[00:38:16] *** Joins: Mimoja
+[00:44:08] *** Quits: n87 (Read error: Connection reset by peer)
+[01:02:47] *** Quits: plutobot (Ping timeout: 258 seconds)
+[01:03:10] *** Quits: DacoTaco (Ping timeout: 258 seconds)
+[01:03:57] *** Quits: madk (Ping timeout: 258 seconds)
+[01:04:20] *** Quits: Mimoja (Ping timeout: 258 seconds)
+[01:06:55] *** Joins: |Shadow|
+[01:11:56] *** Joins: yls8bot_
+[01:15:54] *** Quits: Snetry (Read error: Operation timed out)
+[01:16:08] *** Quits: phigcloud (Read error: Operation timed out)
+[01:16:33] *** Quits: yls8bot (Read error: Operation timed out)
+[01:17:06] *** Quits: lex (Read error: Operation timed out)
+[01:17:12] *** Quits: rmaw (Read error: Operation timed out)
+[01:17:18] *** Quits: yls8bot_ (Remote host closed the connection)
+[01:19:03] *** Quits: d3m3vilur (Read error: Operation timed out)
+[01:19:31] *** Quits: changO- (Read error: Operation timed out)
+[01:19:47] *** Joins: changO-
+[01:21:52] *** Quits: freundTec (Read error: Operation timed out)
+[01:23:04] *** Joins: freundTec
+[01:23:04] *** Quits: GerbilS9 (Read error: Operation timed out)
+[01:23:36] *** Joins: rmaw
+[01:24:05] *** Joins: Snetry
+[01:24:08] *** Quits: Behemoth_ (Read error: Connection reset by peer)
+[01:24:08] *** Joins: GerbilS9
+[01:24:10] *** Quits: blasty (Read error: Connection reset by peer)
+[01:24:18] *** Joins: d3m3vilur
+[01:24:35] *** Joins: phigcloud
+[01:24:44] *** Joins: Behemoth
+[01:26:24] *** Joins: lex
+[01:27:26] *** Joins: yls8bot
+[01:27:36] *** yellows8 sets mode: +o yls8bot
+[01:27:44] *** Joins: blasty
+[01:49:14] *** Joins: plutobot
+[01:49:26] *** Joins: DacoTaco
+[01:50:08] *** Joins: madk
+[01:50:25] *** Joins: Mimoja
+[02:06:32] *** Joins: RaYmAn
+[03:36:37] *** Quits: Cu3PO42 (Ping timeout: 745 seconds)
+[03:40:44] *** Joins: Cu3PO42
+[04:01:18] *** Quits: refs (Quit: refs)
+[04:15:06] *** Quits: changO- (Read error: Operation timed out)
+[04:15:32] *** Quits: sh0e (Ping timeout: 265 seconds)
+[04:16:09] *** Joins: changO-
+[05:16:29] *** Quits: SCV______ (Ping timeout: 1230 seconds)
+[05:16:35] *** Joins: sh0e
+[05:16:36] *** Joins: SCV______
+[05:18:10] *** Quits: giglife (Read error: Operation timed out)
+[05:18:16] *** Quits: yls8bot (Read error: Operation timed out)
+[05:20:33] *** Joins: giglife
+[05:21:17] *** Quits: Lightswor (Read error: Operation timed out)
+[05:24:11] *** Quits: Surkow (Read error: Operation timed out)
+[05:24:56] *** Quits: yellows8 (Read error: Operation timed out)
+[05:25:51] *** Quits: changO- (Read error: Operation timed out)
+[05:26:33] *** Joins: changO-
+[05:27:01] *** Joins: Surkow
+[05:35:49] *** Quits: sh0e (Ping timeout: 265 seconds)
+[05:36:51] *** Quits: Kyouju (Read error: Connection reset by peer)
+[06:05:25] *** Joins: sh0e
+[06:16:24] *** Joins: Lightswor
+[06:18:22] *** Joins: yls8bot
+[06:20:22] *** Joins: yellows8
+[06:20:24] *** WntrMute sets mode: +o yellows8
+[06:20:35] *** yellows8 sets mode: +o yls8bot
+[06:20:44] *** Joins: Kyouju
+[07:36:41] *** Quits: figgis_ (Read error: Connection reset by peer)
+[08:41:45] <plutobot> Wiki | Page changed: Testpads | User: Shinyquagsire23 | https://switchbrew.org/w/index.php?curid=337&diff=10907&oldid=10905
+[08:57:56] *** Quits: SCV______ (Read error: Connection timed out)
+[09:06:09] *** Joins: SCV______
+[10:22:45] *** Joins: n87
+[12:49:37] *** Quits: Cu3PO42 (Ping timeout: 745 seconds)
+[12:59:47] *** Joins: Cu3PO42
+[13:42:08] *** Joins: refs
+[14:15:46] *** Quits: GerbilS9 (Windows must now restart because the Remote Procedure Call (RPC) service terminated unexpectedly.)
+[15:18:34] <DoozerBot> fincs pushed to master: Make argvSetup overridable "Make argvSetup overridable" [071 file modified], building targets: 02lib
+[15:18:39] <plutobot> GitHub | New commit | User: fincs | https://github.com/switchbrew/libnx/commit/137f6d1ddc
+[15:32:11] <DoozerBot> 02lib: 03 v4.0.0.50 Build OK - https://doozer.io/build/u3gga7xan4
+[16:37:26] *** Joins: n87_2
+[16:38:00] *** Quits: Maylay (Ping timeout: 265 seconds)
+[16:39:56] *** Quits: n87 (Ping timeout: 265 seconds)
+[16:40:34] *** Joins: Jinx_
+[16:41:23] *** Quits: Jinx (Ping timeout: 265 seconds)
+[16:42:21] *** Quits: CCFL_Man (Ping timeout: 265 seconds)
+[16:43:59] *** Joins: Maylay
+[16:46:13] *** Quits: nrq_ (Ping timeout: 265 seconds)
+[16:48:27] *** Joins: nrq
+[16:49:45] *** Joins: CCFL_Man
+[18:26:55] <DoozerBot> fincs pushed to master: virtmem: Allow rng algorithm override "virtmem: Allow rng algorithm override" [071 file modified], building targets: 02lib
+[18:37:53] <DoozerBot> 02lib: 03 v4.0.0.51 Build OK - https://doozer.io/build/ihtwojk19w
+[18:42:50] <plutobot> GitHub | New commit | User: fincs | https://github.com/switchbrew/libnx/commit/95fca6753d
+[19:31:17] *** Joins: fgsfds
+[20:26:46] *** Quits: changO- (Read error: Connection reset by peer)
+[20:27:24] *** Joins: changO-
+[21:15:16] *** Quits: n87_2 (Quit: Leaving)
+[21:42:03] *** Quits: oldtopman (Read error: Operation timed out)
+[21:43:43] *** Joins: oldtopman
+[21:44:19] *** Joins: Surkow_
+[21:49:37] *** Quits: Surkow (ny.us.hub irc.Prison.NET)
+[21:49:37] *** Quits: |Shadow| (ny.us.hub irc.Prison.NET)
+[22:26:06] *** Joins: Genol-
+[22:37:02] *** Quits: Genolo (Ping timeout: 745 seconds)
+[22:37:02] *** Genol- is now known as Genolo
+[22:37:37] *** Quits: SCV______ (Ping timeout: 1230 seconds)
+[22:37:50] *** Joins: SCV______
+[23:00:12] *** Joins: changoXPR
+[23:02:01] *** Quits: changO- (Read error: Operation timed out)
+[23:02:02] *** changoXPR is now known as changO-
+[23:27:17] *** Joins: |Shadow|

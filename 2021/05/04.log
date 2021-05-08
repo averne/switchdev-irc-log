@@ -1,0 +1,101 @@
+[00:10:01] *** Joins: figgis_
+[00:18:01] *** Quits: fgsfds (Read error: Operation timed out)
+[00:31:06] *** Surkow_ is now known as Surkow
+[00:52:28] *** Quits: derrek (Quit: This should have not happened.)
+[00:53:30] *** Quits: gruetzkop (Remote host closed the connection)
+[00:54:32] *** Joins: derrek
+[00:55:51] *** Joins: dibas_
+[00:56:55] *** Joins: gruetzkop
+[01:05:48] *** Quits: averne (quit)
+[01:35:33] *** Joins: averne
+[01:35:33] *** Server sets mode: +stn 
+[02:27:21] *** Joins: Stary
+[02:29:15] *** Quits: refs (Quit: refs)
+[02:46:53] *** Joins: fgsfds
+[02:47:26] *** Quits: giglife (Read error: Operation timed out)
+[02:47:31] *** Joins: giglife
+[02:50:07] *** Joins: Jinx_
+[02:51:17] *** Quits: Jinx (Read error: Operation timed out)
+[02:53:53] *** Quits: figgis_ (Ping timeout: 622 seconds)
+[03:09:14] *** Jinx_ is now known as Jinx
+[04:44:19] *** Quits: fgsfds (Read error: Connection reset by peer)
+[05:22:40] *** Quits: Jinx (Ping timeout: 265 seconds)
+[05:22:40] *** Quits: Stary (Quit: ZNC - http://znc.in)
+[05:24:32] *** Joins: Stary
+[05:27:14] *** Joins: Jinx
+[06:31:05] *** Quits: GerbilSof (Windows must now restart because the Remote Procedure Call (RPC) service terminated unexpectedly.)
+[07:42:44] *** Quits: Stary (se.hub irc.underworld.no)
+[07:42:56] *** Joins: Stary_
+[08:01:45] *** Quits: DacoTaco (Ping timeout: 258 seconds)
+[08:01:45] *** Quits: plutobot (Ping timeout: 258 seconds)
+[08:02:08] *** Quits: Stary_ (Ping timeout: 258 seconds)
+[08:02:54] *** Quits: madk (Ping timeout: 258 seconds)
+[08:03:17] *** Quits: oldtopman (Ping timeout: 258 seconds)
+[08:03:17] *** Quits: Mimoja (Ping timeout: 258 seconds)
+[08:03:40] *** Quits: zini- (Ping timeout: 258 seconds)
+[08:03:59] *** Joins: zini
+[08:06:03] *** Quits: giglife (Read error: Operation timed out)
+[08:06:10] *** Quits: Lightswor (Read error: Operation timed out)
+[08:08:28] *** Joins: giglife
+[08:09:09] *** Quits: Surkow (Read error: Operation timed out)
+[08:09:22] *** Quits: Cu3PO42 (Ping timeout: 376 seconds)
+[08:09:25] *** Joins: derk0pf
+[08:12:17] *** Joins: Stary
+[08:12:35] *** Quits: yellows8 (Read error: Operation timed out)
+[08:16:55] *** Quits: derk0pf (Read error: Operation timed out)
+[08:17:13] *** Quits: |Shadow| (hub.efnet.us irc.Prison.NET)
+[08:17:13] *** Quits: mtheall_ (hub.efnet.us irc.Prison.NET)
+[08:18:41] *** Joins: mtheall
+[08:21:42] *** Joins: Cu3PO42
+[08:22:43] *** Quits: yls8bot (Read error: Operation timed out)
+[08:22:48] *** Joins: CHANFIX
+[08:22:48] *** services.int sets mode: +o CHANFIX
+[08:22:48] *** CHANFIX sets mode: +o fincs
+[08:22:48] <CHANFIX> 1 client should have been opped.
+[08:22:48] *** Parts: CHANFIX ()
+[08:23:29] *** Joins: GerbilSof
+[08:26:51] *** Quits: GerbilSof (Client Quit)
+[08:31:33] *** Joins: GerbilSof
+[08:35:29] *** Quits: Kyouju (Quit: ZNC 1.8.2+deb1+bionic2 - https://znc.in)
+[08:36:01] *** Joins: Kyouju
+[08:36:43] *** Joins: Lightswor
+[08:36:48] *** Joins: yls8bot
+[08:39:32] *** Joins: Surkow
+[08:40:54] *** Joins: |Shadow|
+[08:42:41] *** Joins: yellows8
+[09:02:48] *** Joins: CHANFIX
+[09:02:48] *** services.int sets mode: +o CHANFIX
+[09:02:48] *** CHANFIX sets mode: +o yls8bot
+[09:02:48] <CHANFIX> 1 client should have been opped.
+[09:02:48] *** Parts: CHANFIX ()
+[09:02:56] *** yls8bot sets mode: +o yellows8
+[09:07:50] *** Joins: plutobot
+[09:08:06] *** Joins: DacoTaco
+[09:08:41] *** Joins: madk
+[09:12:32] *** Joins: Mimoja
+[09:40:21] *** Quits: ris2z (Excess Flood)
+[09:40:27] *** Joins: ris2z
+[10:21:50] *** Joins: KuKzz
+[10:27:47] *** Quits: KuKzz_ (Ping timeout: 745 seconds)
+[13:39:51] *** Quits: madk (Ping timeout: 258 seconds)
+[13:39:51] *** Quits: DacoTaco (Ping timeout: 258 seconds)
+[13:40:37] *** Quits: plutobot (Ping timeout: 258 seconds)
+[13:41:00] *** Quits: Mimoja (Ping timeout: 258 seconds)
+[14:45:03] *** Joins: plutobot
+[14:45:10] *** Joins: DacoTaco
+[14:46:19] *** Joins: madk
+[14:48:31] *** Joins: Mimoja
+[15:58:09] <plutobot> Wiki | Page changed: GRC services | User: SciresM | https://switchbrew.org/w/index.php?curid=272&diff=10908&oldid=8128
+[15:58:50] <plutobot> Wiki | Page changed: GRC services | User: SciresM | https://switchbrew.org/w/index.php?curid=272&diff=10909&oldid=10908
+[16:00:01] <plutobot> Wiki | Page changed: GRC services | User: SciresM | https://switchbrew.org/w/index.php?curid=272&diff=10910&oldid=10909
+[16:03:56] <plutobot> Wiki | Page changed: GRC services | User: SciresM | https://switchbrew.org/w/index.php?curid=272&diff=10911&oldid=10910
+[17:09:59] *** Joins: n87
+[17:34:38] <DoozerBot> fincs pushed to master: hid: Correct some gesture errors "hid: Correct some gesture errors" [071 file modified], building targets: 02lib
+[17:38:57] <DoozerBot> 02lib: 03 v4.0.0.52 Build OK - https://doozer.io/build/wt940aeq9g
+[17:44:14] <plutobot> GitHub | New commit | User: Narr the Reg | https://github.com/switchbrew/libnx/commit/e2c3ae8e44
+[18:16:57] *** Joins: n87_2
+[18:20:10] *** Quits: n87 (Ping timeout: 265 seconds)
+[20:43:24] *** Quits: n87_2 (Read error: Connection reset by peer)
+[21:37:50] *** Joins: refs
+[22:48:08] *** Quits: cpnc0ke ()
+[22:59:43] *** Joins: cpnc0ke

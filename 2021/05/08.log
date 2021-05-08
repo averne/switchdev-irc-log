@@ -1,0 +1,63 @@
+[00:10:14] *** Quits: phigcloud (Read error: Operation timed out)
+[00:10:24] *** Quits: Snetry (Read error: Connection reset by peer)
+[00:10:43] *** Joins: phigcloud
+[00:12:27] *** Joins: Snetry
+[00:17:18] *** Quits: d3m3vilur (Ping timeout: 857 seconds)
+[00:20:43] *** Quits: blasty_ (Read error: Connection reset by peer)
+[00:21:14] *** Joins: blasty
+[00:21:53] *** Joins: d3m3vilur
+[00:28:28] *** Quits: Snetry (Read error: Connection reset by peer)
+[00:28:43] *** Joins: Snetry
+[00:29:11] *** Quits: rmaw (Ping timeout: 857 seconds)
+[00:34:01] *** Joins: Ghast
+[00:38:47] *** Joins: rmaw
+[00:48:44] *** Quits: Ghast (Quit: Leaving)
+[01:28:56] *** Quits: GerbilSof (Quit: Windows must now restart because the Remote Procedure Call (RPC) service terminated unexpectedly.)
+[04:44:03] *** Joins: figgis_
+[04:49:06] *** Quits: |Shadow| (Read error: Operation timed out)
+[04:51:32] *** Quits: fgsfds (Read error: Operation timed out)
+[04:54:35] *** Joins: |Shadow|
+[05:45:17] *** Quits: SCV______ (Ping timeout: 1230 seconds)
+[05:45:31] *** Joins: SCV______
+[06:34:26] *** Joins: GerbilSof
+[06:54:51] *** Quits: figgis_ (Quit: Leaving)
+[07:19:25] *** Quits: sh0e (Quit: Bye.)
+[07:33:35] *** Joins: sh0e
+[07:41:40] *** Joins: zombie343
+[07:47:36] <DoozerBot> PR-#549: swkbd: Fix several swkbd enums and structs, building targets: 02lib
+[07:47:44] <plutobot> GitHub | New PR: swkbd Fix sev... | User: Morph | https://github.com/switchbrew/libnx/pull/549
+[07:51:44] <DoozerBot> 02lib: 03 v4.0.0.55 Build OK - https://doozer.io/build/gr7tkrbjr6
+[09:36:39] *** Quits: sh0e (Bye.)
+[10:03:15] *** Quits: Jinx (Ping timeout: 258 seconds)
+[10:03:23] *** Joins: sh0e
+[10:10:13] *** Joins: Jinx
+[10:18:52] *** Quits: SCV______ (Ping timeout: 1230 seconds)
+[10:19:05] *** Joins: SCV______
+[11:45:45] *** Joins: Felgar
+[11:47:50] *** Quits: RaYmAn (Read error: Operation timed out)
+[11:47:50] *** Quits: Behemoth (Read error: Operation timed out)
+[11:47:50] *** Joins: Behemoth
+[11:50:55] *** Quits: averne (quit)
+[11:57:17] *** Joins: averne
+[11:57:17] *** Server sets mode: +stn 
+[11:57:27] *** Joins: rmaw
+[11:57:50] *** Quits: Snetry (Read error: Operation timed out)
+[11:58:19] *** Quits: Jinx (Read error: Operation timed out)
+[11:58:48] *** Quits: phigcloud (Read error: Operation timed out)
+[12:01:07] *** Joins: Jinx
+[12:15:32] *** Joins: phigcloud
+[12:15:44] *** Joins: Snetry
+[12:15:54] *** Joins: blasty
+[12:19:01] *** Joins: d3m3vilur
+[12:22:34] *** Joins: lex1
+[16:51:41] *** Joins: rajkosto
+[17:00:11] *** Joins: fgsfds
+[17:08:57] *** Quits: SCV______ (Ping timeout: 1230 seconds)
+[17:09:11] *** Joins: SCV______
+[17:25:00] *** Quits: rajkosto (Read error: Connection reset by peer)
+[18:15:56] *** Joins: refs
+[18:36:27] *** Quits: SCV______ (Ping timeout: 1230 seconds)
+[18:36:40] *** Joins: SCV______
+[19:42:32] *** Joins: RaYmAn
+[22:57:27] *** Joins: PistonMin
+[22:59:09] *** Quits: PistonMin (Client Quit)
