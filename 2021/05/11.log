@@ -1,0 +1,251 @@
+[00:28:07] <plutobot> Wiki | Page changed: TSEC | User: Hexkyz | https://switchbrew.org/w/index.php?curid=199&diff=10917&oldid=10916
+[00:33:56] *** Quits: n87 (Read error: Connection reset by peer)
+[00:54:08] *** Joins: rajkosto
+[01:37:14] *** Quits: yls8bot (Read error: Connection reset by peer)
+[01:37:20] *** Joins: yls8bot
+[01:37:43] *** Quits: Kyouju (Read error: Connection reset by peer)
+[01:37:48] *** yellows8 sets mode: +o yls8bot
+[01:37:55] *** Joins: Kyouju
+[01:47:02] *** Joins: |Shadow|
+[01:56:47] *** Quits: SCV______ (Ping timeout: 1230 seconds)
+[01:57:01] *** Joins: SCV______
+[02:02:27] *** Joins: KuKzz_
+[02:02:52] *** Quits: KuKzz (Ping timeout: 240 seconds)
+[02:09:45] *** Joins: GeekShado
+[02:11:56] <GeekShado> hi
+[02:12:04] <GeekShado> I just noticed something
+[02:12:09] <GeekShado> I use the web browser applet (from wifi settings)
+[02:12:16] <GeekShado> but I don't know when it was modified, but the applet now exit after 20mn
+[02:12:24] <GeekShado> on last Switch fw
+[02:12:31] <GeekShado> is there a way to prevent this ?
+[02:13:19] *** Joins: cpnc0ke
+[02:15:40] *** Quits: cpncok3 (Ping timeout: 496 seconds)
+[02:33:56] *** Quits: refs (Quit: refs)
+[03:37:25] *** Quits: blasty (Read error: Connection reset by peer)
+[03:49:18] *** Joins: blasty
+[03:51:51] *** Quits: phigcloud (Read error: Operation timed out)
+[03:52:43] *** Joins: phigcloud
+[03:59:29] *** Joins: Sentry-
+[03:59:29] *** Quits: Snetry (Read error: Connection reset by peer)
+[05:36:31] *** Joins: fincs_
+[05:40:06] *** Quits: GeekShado (se.hub irc.underworld.no)
+[05:40:06] *** Quits: m4ts_ (se.hub irc.underworld.no)
+[05:40:06] *** Quits: Behemoth (se.hub irc.underworld.no)
+[05:40:06] *** Quits: WntrMute (se.hub irc.underworld.no)
+[05:40:06] *** Quits: fincs (se.hub irc.underworld.no)
+[05:40:06] *** Quits: Mimoja (se.hub irc.underworld.no)
+[05:40:06] *** Quits: giglife (se.hub irc.underworld.no)
+[05:40:06] *** Quits: Stary (se.hub irc.underworld.no)
+[05:41:41] *** Joins: Behemoth_
+[05:41:46] *** Joins: giglife_
+[05:46:02] *** Joins: GeekShad1
+[05:49:48] *** Quits: GerbilSof (Quit: Windows must now restart because the Remote Procedure Call (RPC) service terminated unexpectedly.)
+[05:55:44] *** giglife_ is now known as giglife
+[05:56:00] *** fincs_ is now known as fincs
+[06:04:56] *** Joins: GerbilSof
+[06:15:12] *** Quits: SCV______ (Ping timeout: 1230 seconds)
+[06:15:25] *** Joins: SCV______
+[06:33:58] *** Quits: ihaveamac (Read error: Connection reset by peer)
+[06:36:01] *** Quits: rajkosto (Read error: Connection reset by peer)
+[06:37:11] *** Joins: ihaveamac
+[06:50:25] *** Joins: m4ts
+[06:50:25] *** Joins: WntrMute
+[06:50:25] *** irc.underworld.no sets mode: +o WntrMute
+[06:50:25] *** WntrMute sets mode: +o fincs
+[06:50:26] *** WntrMute sets mode: +o yellows8
+[06:50:30] *** Joins: Stary
+[08:12:45] *** Joins: KuKzz
+[08:13:40] *** Quits: plutobot (Read error: Operation timed out)
+[08:14:05] *** Quits: rmaw (Read error: Operation timed out)
+[08:14:49] *** Joins: plutobot
+[08:17:25] *** Quits: KuKzz_ (Ping timeout: 604 seconds)
+[08:17:33] *** Quits: RaYmAn (Read error: Operation timed out)
+[08:17:45] *** Joins: Behemoth
+[08:18:06] *** Quits: blasty (Read error: Connection reset by peer)
+[08:19:31] *** Quits: Fixi0n (Read error: Operation timed out)
+[08:20:35] *** Quits: Maylay (Ping timeout: 604 seconds)
+[08:23:34] *** Joins: Maylay
+[08:23:45] *** Quits: Behemoth_ (Ping timeout: 604 seconds)
+[08:25:46] *** Quits: d3m3vilur (Read error: Operation timed out)
+[08:30:03] *** Quits: Sentry- (Ping timeout: 857 seconds)
+[08:30:27] *** Quits: phigcloud (Ping timeout: 1221 seconds)
+[08:35:20] *** Joins: rmaw
+[08:40:47] *** Quits: lex1 (Ping timeout: 857 seconds)
+[08:44:32] *** Quits: SCV______ (Ping timeout: 1230 seconds)
+[08:44:45] *** Joins: SCV______
+[08:44:47] *** Joins: phigcloud
+[08:49:39] *** Quits: rmaw (Read error: Operation timed out)
+[08:55:15] *** Joins: Snetry
+[08:55:37] *** Joins: lex1
+[08:55:40] *** Joins: rmaw
+[08:59:16] *** Quits: rmaw (Read error: Operation timed out)
+[08:59:39] *** lansiir is now known as oldtopman
+[09:03:33] *** Joins: GeekShado
+[09:04:52] *** Quits: GeekShad1 (Ping timeout: 260 seconds)
+[09:04:52] *** Quits: Surkow (Read error: Operation timed out)
+[09:06:06] *** Quits: |Shadow| (Ping timeout: 260 seconds)
+[09:06:06] *** Quits: Surkow_ (Ping timeout: 260 seconds)
+[09:06:06] *** Quits: GerbilSof (Ping timeout: 260 seconds)
+[09:06:46] *** Joins: Surkow
+[09:07:13] *** Joins: GerbilSof
+[09:11:48] *** Quits: Snetry (Read error: Connection reset by peer)
+[09:12:59] *** Joins: |Shadow|
+[09:13:01] *** Quits: |Shadow| (Excess Flood)
+[09:13:38] *** Joins: rmaw
+[09:14:13] *** Joins: Snetry
+[09:14:17] *** Joins: d3m3vilur
+[09:17:17] *** Joins: blasty
+[09:21:22] *** Joins: RaYmAn
+[09:33:25] *** Joins: n87
+[09:36:19] *** Joins: Surkow_
+[10:00:48] *** Quits: n87 (Ping timeout: 265 seconds)
+[10:01:19] *** Joins: n87
+[10:04:38] *** Joins: |Shadow|
+[10:17:10] *** Joins: n87_2
+[10:24:12] *** Quits: Surkow_ (Quit: 418 I'm a teapot - NOP NOP NOP)
+[10:24:30] *** Quits: n87 (Read error: Operation timed out)
+[10:40:13] *** Joins: n87_3
+[10:43:31] *** Joins: n87
+[10:45:47] *** Quits: n87_2 (Read error: Operation timed out)
+[10:47:49] *** Quits: n87_3 (Read error: Operation timed out)
+[12:14:05] *** Joins: refsw2
+[12:15:40] *** Quits: refsw` (Ping timeout: 258 seconds)
+[12:20:27] *** Quits: n87 (Read error: Operation timed out)
+[12:28:48] *** Joins: refsw3
+[12:31:23] *** Quits: refsw2 (Ping timeout: 258 seconds)
+[12:35:32] *** Joins: refsw
+[12:38:15] *** Joins: refsw`
+[12:40:47] *** Quits: refsw3 (Read error: Operation timed out)
+[12:43:03] *** Quits: refsw (Read error: Operation timed out)
+[12:43:58] *** Joins: refsw2
+[12:46:04] *** Quits: refsw` (Read error: Operation timed out)
+[13:21:07] *** Joins: n87
+[13:25:44] *** Quits: n87 (Ping timeout: 265 seconds)
+[13:26:04] *** Joins: n87
+[13:51:14] *** Quits: n87 (Read error: Operation timed out)
+[14:03:09] *** Joins: n87
+[14:31:53] *** Joins: n87_2
+[14:38:06] *** Quits: n87 (Read error: Operation timed out)
+[14:43:03] *** Joins: n87
+[14:44:45] *** Quits: n87_2 (Read error: Operation timed out)
+[14:44:59] *** Joins: n87_2
+[14:48:43] *** Quits: n87_2 (Read error: Connection reset by peer)
+[14:52:01] *** Quits: n87 (Read error: Operation timed out)
+[15:12:27] *** Quits: SCV______ (Ping timeout: 1230 seconds)
+[15:12:40] *** Joins: SCV______
+[17:03:59] *** Joins: n87
+[17:14:29] *** Quits: n87 (Ping timeout: 604 seconds)
+[17:24:08] *** Joins: n87
+[17:26:08] *** Joins: n87_2
+[17:26:26] *** Quits: m4ts (Ping timeout: 265 seconds)
+[17:28:14] *** Joins: m4ts
+[17:29:49] *** Quits: n87 (Ping timeout: 265 seconds)
+[17:31:33] <plutobot> Wiki | Page changed: TSEC | User: Hexkyz | https://switchbrew.org/w/index.php?curid=199&diff=10918&oldid=10917
+[17:32:24] <plutobot> Wiki | Page changed: TSEC | User: Hexkyz | https://switchbrew.org/w/index.php?curid=199&diff=10919&oldid=10918
+[17:36:06] *** Quits: lameboy (Quit: Astalabyebye...)
+[17:43:19] *** Joins: lameboy
+[17:48:14] <plutobot> Wiki | Page changed: TSEC | User: Hexkyz | https://switchbrew.org/w/index.php?curid=199&diff=10920&oldid=10919
+[17:53:31] <plutobot> Wiki | Page changed: TSEC | User: Hexkyz | https://switchbrew.org/w/index.php?curid=199&diff=10921&oldid=10920
+[17:59:35] *** Quits: Maylay (Read error: Connection reset by peer)
+[18:02:38] *** Quits: giglife (Quit: ZNC - http://znc.in)
+[18:02:42] *** Joins: giglife
+[18:03:18] *** Joins: Maylay
+[18:33:31] <plutobot> Wiki | Page changed: TSEC | User: Hexkyz | https://switchbrew.org/w/index.php?curid=199&diff=10922&oldid=10921
+[18:37:06] <plutobot> Wiki | Page changed: TSEC | User: Hexkyz | https://switchbrew.org/w/index.php?curid=199&diff=10923&oldid=10922
+[18:38:28] <plutobot> Wiki | Page changed: TSEC | User: Hexkyz | https://switchbrew.org/w/index.php?curid=199&diff=10924&oldid=10923
+[18:48:13] *** Joins: Felgar
+[18:49:16] *** Joins: eggster
+[18:49:42] *** Joins: TAL_
+[18:50:24] *** Quits: zombie343 (Remote host closed the connection)
+[18:50:28] *** Joins: zini-
+[18:50:40] *** Quits: balrog (Remote host closed the connection)
+[18:50:40] *** Quits: zini (Write error: Broken pipe)
+[18:50:40] *** Quits: Normmatt (Write error: Broken pipe)
+[18:50:40] *** Quits: Phils3r (Write error: Connection reset by peer)
+[18:50:40] *** Quits: omlet05 (Write error: Connection reset by peer)
+[18:50:40] *** Quits: GrecKo (Write error: Broken pipe)
+[18:50:40] *** Quits: dibas (Write error: Broken pipe)
+[18:50:40] *** Quits: thomasnet (Quit: Bye!)
+[18:50:40] *** Quits: Whovian93 (Quit: And I'm gone.)
+[18:50:40] *** Quits: uyjulian (Quit: ZNC - http://znc.in)
+[18:50:40] *** Quits: lemmu (Quit: Bye)
+[18:50:40] *** Joins: dibas
+[18:50:53] *** Quits: derrek (Quit: This should have not happened.)
+[18:50:53] *** Quits: gruetzkop (Write error: Connection reset by peer)
+[18:50:53] *** Quits: TAL (Write error: Connection reset by peer)
+[18:50:53] *** Joins: Phils3r
+[18:50:53] *** Quits: jn (Read error: Connection reset by peer)
+[18:51:03] *** Joins: uyjulian
+[18:51:20] *** Joins: omlet05
+[18:51:27] *** Joins: GrecKo
+[18:51:29] *** Joins: jn
+[18:51:37] *** Joins: gruetzkop
+[18:51:56] *** Joins: derrek
+[18:52:19] *** Joins: Whovian93
+[18:52:30] *** Joins: Normmatt
+[18:54:23] *** Quits: n87_2 (Read error: Operation timed out)
+[18:57:34] *** Joins: balrog
+[18:59:58] *** Quits: eggy (Ping timeout: 745 seconds)
+[19:03:27] *** Quits: DacoTaco (Ping timeout: 745 seconds)
+[19:04:40] *** Joins: DacoTaco
+[19:06:47] <plutobot> Wiki | Page changed: TSEC | User: Hexkyz | https://switchbrew.org/w/index.php?curid=199&diff=10925&oldid=10924
+[19:09:41] <plutobot> Wiki | Page changed: TSEC | User: Hexkyz | https://switchbrew.org/w/index.php?curid=199&diff=10926&oldid=10925
+[19:11:23] *** Joins: lemmu
+[19:11:33] <plutobot> Wiki | Page changed: TSEC | User: Hexkyz | https://switchbrew.org/w/index.php?curid=199&diff=10927&oldid=10926
+[19:14:06] <plutobot> Wiki | Page changed: TSEC | User: Hexkyz | https://switchbrew.org/w/index.php?curid=199&diff=10928&oldid=10927
+[19:15:08] *** Quits: SCV______ (Ping timeout: 1230 seconds)
+[19:15:20] *** Joins: SCV______
+[19:18:52] <plutobot> Wiki | Page changed: TSEC | User: Hexkyz | https://switchbrew.org/w/index.php?curid=199&diff=10929&oldid=10928
+[19:22:07] *** TAL_ is now known as TAL
+[20:08:47] *** Quits: refsw2 (Read error: Operation timed out)
+[20:08:48] *** Quits: zini- (Read error: Connection reset by peer)
+[20:09:14] *** Joins: refsw2
+[20:09:44] *** Joins: zini
+[20:10:37] *** Quits: d3m3vilur (Read error: Operation timed out)
+[20:12:04] *** Quits: Snetry (Read error: Operation timed out)
+[20:12:22] *** Joins: refsw3
+[20:14:18] *** Joins: Snetry
+[20:17:12] *** Joins: d3m3vilur
+[20:21:28] *** Quits: refsw2 (Read error: Operation timed out)
+[20:22:22] *** Joins: fgsfds
+[20:25:58] *** Joins: nrq_
+[20:26:00] *** Quits: DoozerBot (Read error: Connection reset by peer)
+[20:27:19] *** Quits: nrq (Remote host closed the connection)
+[20:27:37] *** Joins: DoozerBot
+[20:50:08] *** Joins: n87
+[21:03:07] *** Joins: n87_2
+[21:06:21] *** Quits: n87 (Ping timeout: 265 seconds)
+[21:06:36] *** Joins: refs
+[21:31:55] *** Joins: nohit_
+[21:33:02] *** Quits: Pieman (Ping timeout: 258 seconds)
+[21:33:25] *** Quits: nohit (Ping timeout: 258 seconds)
+[21:33:25] *** nohit_ is now known as nohit
+[21:34:06] *** Joins: refsw
+[21:34:11] *** Quits: refs (Ping timeout: 258 seconds)
+[21:34:34] *** Quits: flagrama (Ping timeout: 258 seconds)
+[21:34:57] *** Quits: MasterGK (Ping timeout: 258 seconds)
+[21:35:06] *** Joins: Ghabry
+[21:35:14] *** Joins: flagrama
+[21:36:52] *** Quits: refsw3 (Ping timeout: 258 seconds)
+[21:37:13] *** Joins: Pieman
+[21:54:24] *** Joins: KuKzz_
+[21:55:52] *** Quits: KuKzz (Ping timeout: 240 seconds)
+[21:56:54] *** Joins: CCFL_Man_
+[21:57:01] *** Joins: GerbilS1
+[21:57:10] *** Quits: GerbilSof (Ping timeout: 240 seconds)
+[21:57:10] *** Quits: CCFL_Man (Ping timeout: 240 seconds)
+[21:58:05] *** Quits: Pieman (Ping timeout: 240 seconds)
+[21:58:12] *** Quits: flagrama (se.hub irc.nordunet.se)
+[21:58:13] *** Quits: mtheall (se.hub irc.nordunet.se)
+[21:58:47] *** Joins: Pieman
+[22:09:14] *** Quits: n87_2 (Read error: Connection reset by peer)
+[22:19:15] *** Joins: mtheall_
+[22:24:21] *** Joins: flagrama
+[22:24:21] *** Joins: mtheall
+[22:24:21] *** Quits: flagrama (se.hub irc.nordunet.se)
+[22:24:21] *** Quits: mtheall (se.hub irc.nordunet.se)
+[22:30:03] *** Joins: flagrama
+[22:39:49] *** Joins: refs
+[22:52:42] *** Quits: SCV______ (Ping timeout: 1230 seconds)
+[22:52:55] *** Joins: SCV______
+[23:31:57] <plutobot> Wiki | Page changed: System Settings | User: ByLaws | https://switchbrew.org/w/index.php?curid=102&diff=10930&oldid=10841
