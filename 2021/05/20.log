@@ -1,0 +1,125 @@
+[00:16:03] *** Quits: d3m3vilur (Ping timeout: 857 seconds)
+[00:23:26] *** Joins: blasty
+[00:24:14] *** Quits: blasty_ (Read error: Connection reset by peer)
+[00:28:27] *** Quits: blasty (Remote host closed the connection)
+[00:28:37] *** Quits: SCV______ (Ping timeout: 1230 seconds)
+[00:28:50] *** Joins: SCV______
+[00:28:59] *** Joins: blasty
+[00:31:13] *** Joins: d3m3vilur
+[00:32:05] *** Joins: Snetry
+[00:37:57] *** Joins: rmaw
+[00:58:52] *** Quits: rmaw (Read error: Operation timed out)
+[01:11:39] *** Joins: Sentry-
+[01:11:39] *** Quits: Snetry (Read error: Connection reset by peer)
+[01:15:50] *** Joins: rmaw
+[01:30:45] *** Quits: ihaveamac (Quit: fail)
+[01:31:18] *** Joins: ihaveamac
+[03:08:12] *** Joins: lemmy
+[03:28:26] *** Quits: rajkosto (Quit: Leaving)
+[03:45:03] *** Joins: oreo639
+[03:46:22] *** Quits: SCV______ (Ping timeout: 1230 seconds)
+[03:46:35] *** Joins: SCV______
+[04:03:11] *** Quits: |Shadow| (ircd.choopa.net irc.Prison.NET)
+[04:19:09] *** Quits: lex1 (Read error: Operation timed out)
+[04:19:29] *** Joins: lex1
+[04:20:28] *** Quits: rmaw (Read error: Operation timed out)
+[04:22:09] *** Quits: blasty (Read error: Connection reset by peer)
+[04:29:26] *** Quits: d3m3vilur (Ping timeout: 1221 seconds)
+[04:30:38] *** Quits: Sentry- (Read error: Connection reset by peer)
+[04:43:15] *** Joins: |Shadow|
+[04:43:32] *** Joins: lex2
+[04:44:23] *** Quits: lex1 (Ping timeout: 1221 seconds)
+[04:44:26] *** lex2 is now known as lex1
+[04:59:46] *** Joins: d3m3vilur
+[05:00:28] *** Joins: Snetry
+[05:04:15] *** Joins: blasty
+[05:05:32] *** Joins: rmaw
+[05:36:37] *** Quits: phigcloud (Ping timeout: 1230 seconds)
+[05:43:52] *** Joins: phigcloud
+[06:26:33] <plutobot> GitHub | New PR: crc allow che... | User: DarkMatterCore | https://github.com/switchbrew/libnx/pull/550
+[06:26:34] <DoozerBot> PR-#550: crc: allow checksum calculation in blocks., building targets: 02lib
+[06:27:36] <DoozerBot> 02lib: 04 v4.0.0.54 Build Failed. sudo -E make -j9 -C nx install exited with status 1 - https://doozer.io/build/trjrku54ir
+[06:45:27] *** Quits: SCV______ (Ping timeout: 1230 seconds)
+[06:45:40] *** Joins: SCV______
+[08:14:51] *** Joins: yifanlu
+[08:15:45] *** Quits: yifanlu (Client Quit)
+[08:25:00] *** Quits: fgsfds (Read error: Connection reset by peer)
+[08:28:42] *** Quits: phigcloud (Ping timeout: 1230 seconds)
+[08:29:04] *** Joins: phigcloud
+[09:07:06] *** Quits: oreo639 (Ping timeout: 255 seconds)
+[09:26:02] <DoozerBot> PR-#540: btdrv: improve and update event data definitions for 12.0.0, misc other minor changes, building targets: 02lib
+[09:26:32] <DoozerBot> 02lib: 04 v4.0.0.63 Build Failed. sudo -E make -j9 -C nx install exited with status 1 - https://doozer.io/build/u5w0e6ubnb
+[09:28:14] <plutobot> GitHub | New commit | User: Dave Murphy | https://github.com/switchbrew/libnx/commit/4bd7863364
+[09:28:15] <DoozerBot> WinterMute pushed to master: add github workflow building "add github workflow building" [031 file added07, 1 file modified], building targets: 02lib
+[09:28:52] <DoozerBot> 02lib: 04 v4.0.0.54 Build Failed. sudo -E make -j9 -C nx install exited with status 1 - https://doozer.io/build/qx6xalb30w
+[09:29:01] <DoozerBot> PR-#540: btdrv: improve and update event data definitions for 12.0.0, misc other minor changes, building targets: 02lib
+[09:29:02] <DoozerBot> 02lib: 04 v4.0.0.62 Build Failed. sudo -E make -j9 -C nx install exited with status 1 - https://doozer.io/build/6ic1l9727d
+[09:34:02] *** Quits: phigcloud (Ping timeout: 1230 seconds)
+[09:42:28] *** Joins: phigcloud
+[10:15:06] *** Joins: rmaw_
+[10:15:07] *** Joins: KuKzz_
+[10:15:30] *** Quits: RaYmAn (Read error: Operation timed out)
+[10:16:25] *** Quits: rmaw (Read error: Operation timed out)
+[10:16:27] *** Quits: rmaw_ (Write error: Broken pipe)
+[10:17:48] *** Joins: rmaw
+[10:19:33] *** Quits: KuKzz (Ping timeout: 604 seconds)
+[10:19:35] *** Quits: d3m3vilur (Read error: Operation timed out)
+[10:21:30] *** Joins: d3m3vilur
+[11:28:42] *** Joins: rmaw_
+[11:32:19] *** Quits: Snetry (Read error: Connection reset by peer)
+[11:34:27] *** Quits: blasty (Read error: Connection reset by peer)
+[11:36:42] *** Joins: Snetry
+[11:37:14] *** Quits: rmaw (Ping timeout: 857 seconds)
+[11:41:30] *** Joins: blasty
+[11:59:36] *** Quits: Snetry (Read error: Connection reset by peer)
+[12:00:29] *** Quits: blasty (Read error: Connection reset by peer)
+[12:04:01] *** Joins: blasty
+[12:04:18] *** Joins: Snetry
+[12:31:24] *** Quits: phigcloud (Read error: Connection timed out)
+[12:45:51] *** Joins: RaYmAn
+[12:47:12] *** Joins: phigcloud
+[15:00:07] *** Quits: plutobot (Ping timeout: 745 seconds)
+[15:00:21] *** Joins: plutobot
+[15:07:22] *** Joins: thomasnet
+[15:16:27] *** Quits: hexkyz (Ping timeout: 745 seconds)
+[15:17:15] *** Joins: hexkyz
+[15:20:09] <DoozerBot> PR-#550: crc: allow checksum calculation in blocks., building targets: 02lib
+[15:20:14] <DoozerBot> 02lib: 04 v4.0.0.55 Build Failed. sudo -E make -j9 -C nx install exited with status 1 - https://doozer.io/build/s3gj3m6rpj
+[15:29:31] *** Joins: hexkyz_
+[15:29:52] *** Quits: hexkyz (Ping timeout: 745 seconds)
+[15:36:52] *** Quits: phigcloud (Ping timeout: 1230 seconds)
+[15:37:14] *** Joins: phigcloud
+[15:41:18] *** Quits: phigcloud (Client Quit)
+[15:41:46] *** Joins: phigcloud
+[15:42:07] *** Quits: hexkyz_ (Ping timeout: 745 seconds)
+[15:43:59] *** Joins: hexkyz
+[16:01:22] *** Quits: hexkyz (Ping timeout: 745 seconds)
+[16:01:42] *** Joins: hexkyz
+[16:03:17] *** Joins: nohit
+[17:43:16] *** Joins: fgsfds
+[17:59:16] *** Joins: figgis_
+[18:02:47] *** Joins: figgis__
+[18:05:40] *** Quits: fgsfds (Read error: Operation timed out)
+[18:09:15] *** Quits: figgis_ (Read error: Operation timed out)
+[18:27:12] *** Quits: SCV______ (Ping timeout: 1230 seconds)
+[18:27:25] *** Joins: SCV______
+[18:33:30] *** Joins: oreo639
+[18:54:58] *** Joins: changoXPR
+[18:56:23] *** Joins: fgsfds
+[19:01:24] *** Quits: figgis__ (Read error: Operation timed out)
+[19:01:35] *** Quits: changO- (Read error: Operation timed out)
+[19:01:35] *** changoXPR is now known as changO-
+[19:17:53] *** Quits: RaYmAn (Ping timeout: 604 seconds)
+[19:30:47] *** Quits: SCV______ (Ping timeout: 1230 seconds)
+[19:31:00] *** Joins: SCV______
+[20:58:45] *** Joins: Retr0id
+[21:48:36] *** Quits: rmaw_ (Read error: Operation timed out)
+[21:48:54] *** Joins: rmaw
+[21:52:38] *** Quits: blasty (Read error: Connection reset by peer)
+[21:52:47] *** Quits: Snetry (Read error: Connection reset by peer)
+[21:54:05] *** Quits: Retr0id (Read error: Operation timed out)
+[22:01:51] *** Joins: Snetry
+[22:06:06] *** Joins: blasty
+[22:08:52] *** Quits: SCV______ (Ping timeout: 1230 seconds)
+[22:09:05] *** Joins: SCV______
+[22:11:24] *** Joins: refs

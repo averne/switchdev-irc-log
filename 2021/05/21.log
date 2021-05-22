@@ -1,0 +1,44 @@
+[00:07:41] <DoozerBot> fincs pushed to master: crc: allow checksum calculation in blocks. (#550) "crc: allow checksum calculation in blocks. (#550)" [071 file modified], building targets: 02lib
+[00:07:42] <plutobot> GitHub | New commit | User: Pablo Curiel | https://github.com/switchbrew/libnx/commit/e604350e9c
+[00:08:21] <DoozerBot> 02lib: 04Temporary failure: GIT: Unable to create GIT repo -- failed to make directory './(null)': Permission denied because Unable to create heap repo.d2cc37cx4v.0 -- Read-only file system, No more retries - https://doozer.io/build/mfnz4aj0s9
+[00:15:01] *** Quits: Phils3r (Quit: ZNC - https://znc.in)
+[00:15:11] *** Joins: Phils3r
+[00:51:06] *** Quits: refs (Quit: refs)
+[00:53:44] *** Joins: RaYmAn
+[01:07:57] *** Quits: SCV______ (Ping timeout: 1230 seconds)
+[01:08:10] *** Joins: SCV______
+[02:16:10] *** Quits: phigcloud (Ping timeout: 600 seconds)
+[02:16:23] *** Joins: phigcloud
+[03:49:28] *** Joins: figgis_
+[03:52:10] *** Quits: fgsfds (Ping timeout: 376 seconds)
+[06:36:29] *** Quits: oreo639 (Quit: Quit)
+[06:43:08] *** Joins: changoXPR
+[06:43:24] *** Quits: changO- (Ping timeout: 496 seconds)
+[06:43:24] *** changoXPR is now known as changO-
+[09:44:19] *** Quits: thomasnet (Ping timeout: 265 seconds)
+[09:44:40] *** Joins: thomasnet
+[10:10:11] *** Quits: figgis_ (Read error: Connection reset by peer)
+[10:20:05] *** Quits: thomasnet (Ping timeout: 265 seconds)
+[10:20:43] *** Joins: thomasnet
+[10:23:46] *** Quits: thomasnet (Read error: Connection reset by peer)
+[10:23:59] *** Joins: thomasnet
+[18:32:19] *** Joins: fgsfds
+[19:10:03] *** Quits: gruetzkop (Read error: Connection reset by peer)
+[19:16:59] *** Joins: gruetzkop
+[19:30:10] *** Joins: Tcm0
+[19:46:47] *** Joins: derk0pf
+[21:03:30] *** Quits: changO- (Read error: Connection reset by peer)
+[21:22:33] *** Joins: changO-
+[21:25:08] <plutobot> Wiki | Page changed: NV services | User: ByLaws | https://switchbrew.org/w/index.php?curid=88&diff=10951&oldid=10559
+[22:26:27] *** Joins: oreo639
+[22:31:57] *** Quits: derk0pf (Read error: Operation timed out)
+[22:56:59] *** Joins: derk0pf
+[23:04:18] <DoozerBot> fincs pushed to master: Remove obsolete reference to 3dmoo carried over from libctru "Remove obsolete reference to 3dmoo carried over from libctru" [071 file modified], building targets: 02lib
+[23:04:22] <plutobot> GitHub | New commit | User: fincs | https://github.com/switchbrew/libnx/commit/f47e1d26ec
+[23:04:58] <DoozerBot> 02lib: 04Temporary failure: GIT: Unable to create GIT repo -- failed to make directory './(null)': Permission denied because Unable to create heap repo.d2cc37cx4v.0 -- Read-only file system, No more retries - https://doozer.io/build/h66pk20ti1
+[23:07:20] *** Quits: derk0pf (Read error: Operation timed out)
+[23:30:41] *** Joins: derk0pf
+[23:35:15] *** Quits: derk0pf (Ping timeout: 260 seconds)
+[23:41:48] *** Quits: oreo639 (Quit: Quit)
+[23:48:33] *** Joins: derk0pf
+[23:54:03] *** Quits: flagrama (Ping timeout: 255 seconds)
