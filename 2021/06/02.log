@@ -1,0 +1,56 @@
+[00:21:04] *** Joins: lameboy
+[01:40:05] *** Joins: jn
+[01:45:22] *** Quits: jn_ (Ping timeout: 615 seconds)
+[01:50:21] *** Joins: oreo639
+[01:51:47] *** Quits: SCV______ (Ping timeout: 1230 seconds)
+[01:52:00] *** Joins: SCV______
+[02:01:08] *** Quits: jn (Read error: Connection reset by peer)
+[02:01:50] *** Joins: jn
+[02:12:12] *** Quits: lameboy (Read error: Operation timed out)
+[02:30:30] *** Quits: SCV______ (Read error: Connection timed out)
+[02:39:03] *** Quits: refs (Quit: refs)
+[02:43:24] *** Joins: SCV______
+[03:10:12] *** Quits: |Shadow| ()
+[03:20:27] *** Joins: |Shadow|
+[04:46:18] *** Joins: lameboy
+[05:48:22] *** Quits: ave_ (hub.efnet.us ircd.choopa.net)
+[05:48:22] *** Quits: fgsfds (hub.efnet.us ircd.choopa.net)
+[05:48:22] *** Quits: GrecKo (hub.efnet.us ircd.choopa.net)
+[05:48:22] *** Quits: KuKzz (hub.efnet.us ircd.choopa.net)
+[05:48:22] *** Quits: freundTe- (hub.efnet.us ircd.choopa.net)
+[05:48:22] *** Quits: mtheall (hub.efnet.us ircd.choopa.net)
+[05:48:22] *** Quits: nrq (hub.efnet.us ircd.choopa.net)
+[05:48:22] *** Quits: nich (hub.efnet.us ircd.choopa.net)
+[05:48:22] *** Quits: plutobot (hub.efnet.us ircd.choopa.net)
+[05:48:22] *** Quits: tpw_rules (hub.efnet.us ircd.choopa.net)
+[05:48:22] *** Quits: oreo639 (hub.efnet.us ircd.choopa.net)
+[05:48:22] *** Quits: Cu3PO42 (hub.efnet.us ircd.choopa.net)
+[05:48:22] *** Quits: ihaveamac (hub.efnet.us ircd.choopa.net)
+[05:52:04] *** Joins: ave_
+[05:52:04] *** Joins: fgsfds
+[05:52:04] *** Joins: GrecKo
+[05:52:04] *** Joins: KuKzz
+[05:52:04] *** Joins: freundTe-
+[05:52:04] *** Joins: mtheall
+[05:52:04] *** Joins: nich
+[05:52:04] *** Joins: nrq
+[05:52:04] *** Joins: plutobot
+[05:52:04] *** Joins: tpw_rules
+[05:58:58] *** Joins: oreo639
+[05:58:58] *** Joins: Cu3PO42
+[05:58:58] *** Joins: ihaveamac
+[06:28:53] *** Quits: fgsfds (Read error: Connection reset by peer)
+[11:00:29] *** Quits: oreo639 (Ping timeout: 496 seconds)
+[11:08:38] <plutobot> GitHub | New PR: Update core b... | User: ndeadly | https://github.com/switchbrew/libnx/pull/553
+[13:12:42] *** Joins: rajkosto
+[16:41:17] *** Quits: lameboy (Read error: Connection reset by peer)
+[16:41:42] *** Joins: lameboy
+[18:02:50] <plutobot> GitHub | New commit | User: ndeadly | https://github.com/switchbrew/libnx/commit/58885db2cd
+[18:02:50] <plutobot> GitHub | New commit | User: ndeadly | https://github.com/switchbrew/libnx/commit/8c8bd9debf
+[19:44:17] *** Quits: rajkosto (Ping timeout: 260 seconds)
+[19:58:10] *** Joins: fgsfds
+[21:07:42] *** Joins: oreo639
+[21:12:34] <plutobot> Wiki | Page changed: Bluetooth Driver services | User: Ndeadly | https://switchbrew.org/w/index.php?curid=161&diff=10964&oldid=10939
+[21:18:27] *** Joins: rajkosto
+[21:19:34] <plutobot> Wiki | Page changed: Bluetooth Driver services | User: Ndeadly | https://switchbrew.org/w/index.php?curid=161&diff=10965&oldid=10964
+[21:23:08] *** Joins: refs
