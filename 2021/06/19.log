@@ -1,0 +1,64 @@
+[01:43:50] *** Joins: ground_
+[02:49:07] *** Joins: refs
+[02:49:43] *** Quits: DoozerBot (Ping timeout: 745 seconds)
+[03:02:07] *** Joins: DoozerBot
+[03:34:27] *** Quits: ground_ (Remote host closed the connection)
+[04:05:58] *** Quits: refs (Quit: refs)
+[05:29:41] *** Quits: Generic (Quit: Generic)
+[06:01:34] *** Quits: fgsfds (Ping timeout: 376 seconds)
+[09:06:06] *** Joins: lameboy2
+[09:07:21] *** Quits: thejsa (Read error: Operation timed out)
+[09:07:25] *** Joins: thejsa
+[09:07:25] *** Quits: nrq (Read error: Operation timed out)
+[09:07:29] *** Joins: nrq
+[09:07:50] *** Quits: GeekShado (Read error: Operation timed out)
+[09:08:13] *** Quits: DacoTaco (Read error: Operation timed out)
+[09:08:17] *** Quits: GrecKo (Read error: Operation timed out)
+[09:08:25] *** Joins: DacoTaco
+[09:08:32] *** Joins: GrecKo
+[09:11:24] *** Quits: Maylay (Read error: Operation timed out)
+[09:11:40] *** Joins: Maylay
+[09:11:41] *** Quits: Maylay (Remote host closed the connection!)
+[09:12:25] *** Joins: usineur__
+[09:13:07] *** Joins: GeekShado
+[09:13:38] *** Quits: lameboy (Read error: Operation timed out)
+[09:13:39] *** lameboy2 is now known as lameboy
+[09:14:37] *** Quits: RaYmAn (Ping timeout: 604 seconds)
+[09:15:41] *** Quits: Pieman (Read error: Operation timed out)
+[09:16:11] *** Joins: Pieman
+[09:16:31] *** Quits: usineur_ (Ping timeout: 604 seconds)
+[09:18:20] *** Quits: |Shadow| (Read error: Operation timed out)
+[09:22:03] *** Quits: Retr0id (Ping timeout: 857 seconds)
+[09:22:46] *** Joins: |Shadow|
+[09:29:12] *** Joins: Retr0id
+[09:42:34] *** Joins: Maylay
+[10:53:51] *** Joins: ihaveama-
+[10:56:46] *** Quits: Maylay (Ping timeout: 496 seconds)
+[10:57:50] *** Quits: ihaveamac (Ping timeout: 496 seconds)
+[11:07:12] *** Joins: Maylay
+[11:15:27] *** Joins: ihaveamac
+[11:15:53] *** Quits: ihaveama- (Read error: Operation timed out)
+[14:55:41] *** Joins: RaYmAn
+[15:15:33] *** Quits: Surkow (Quit: 418 I'm a teapot - NOP NOP NOP)
+[15:16:04] *** Joins: Surkow
+[15:51:26] *** Quits: Surkow (Quit: 418 I'm a teapot - NOP NOP NOP)
+[15:51:48] *** Joins: Surkow
+[17:03:50] *** Joins: oldtopman
+[18:29:01] *** Joins: refs
+[18:31:05] *** Joins: fgsfds
+[19:19:06] *** Joins: Generic
+[19:19:18] <Generic> I have a weird issue with deko3d
+[19:19:27] <Generic> 32*8 textures seem not work
+[19:19:42] <Generic> as in only the left half is displayed
+[19:19:49] <Generic> the other half has random memory
+[19:20:41] <Generic> 16*8 textures seem to work again
+[19:20:47] <Generic> and 32*16 textures work as well
+[19:20:57] <Generic> it also works if the layout is changed to pitch linear
+[19:25:43] <Generic> the format is rgba_unorm btw
+[19:29:26] <Generic> ah another thing I tried was retrieving the texture back to the cpu
+[19:29:31] <Generic> and it is properly uploaded
+[20:26:38] <Generic> I guess I'll try to get something reproducible working
+[20:26:41] <Generic> and create an issue
+[21:12:42] <plutobot> Wiki | Page changed: Fuses | User: Deejay87 | https://switchbrew.org/w/index.php?curid=186&diff=11007&oldid=10942
+[21:34:17] <Generic> done https://github.com/devkitPro/deko3d/issues/10
+[23:54:11] *** Quits: Generic (Read error: Operation timed out)

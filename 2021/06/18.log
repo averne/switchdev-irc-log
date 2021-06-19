@@ -1,0 +1,75 @@
+[00:44:01] *** Joins: refs
+[01:27:07] *** Joins: changoXPR
+[01:31:31] *** Quits: changO- (Read error: Operation timed out)
+[02:44:46] *** Quits: refs (Quit: refs)
+[03:48:33] *** Joins: ground_
+[03:54:13] *** Quits: ground_ (Remote host closed the connection)
+[04:02:10] *** Quits: oreo639 (Ping timeout: 252 seconds)
+[04:13:54] *** Quits: changoXPR (Read error: Operation timed out)
+[05:06:05] *** Quits: |Shadow| ()
+[05:16:21] *** Joins: |Shadow|
+[06:21:41] *** Quits: rmaw (Read error: Operation timed out)
+[06:22:00] *** Joins: refsw`
+[06:22:17] *** Joins: rmaw
+[06:22:27] *** Quits: refsw (Read error: Operation timed out)
+[06:23:14] *** Quits: nohit_ (Ping timeout: 493 seconds)
+[06:23:37] *** Joins: nohit_
+[06:23:51] *** Quits: IShaDoWl (Read error: Operation timed out)
+[06:26:04] *** Joins: IShaDoWl
+[06:27:47] *** Quits: refsw` (Read error: Operation timed out)
+[06:31:55] *** Joins: refsw3
+[06:33:17] *** Quits: Maylay (Read error: Operation timed out)
+[06:33:48] *** Joins: Maylay
+[06:35:13] *** Joins: blasty_
+[06:35:13] *** Quits: blasty (Read error: Connection reset by peer)
+[07:37:14] *** Quits: fgsfds (Read error: Connection reset by peer)
+[09:16:44] *** Quits: Pokemod97 (Read error: Operation timed out)
+[09:18:58] *** Quits: tpw_rules (Read error: Operation timed out)
+[09:21:35] *** Quits: ave_ (Ping timeout: 600 seconds)
+[09:22:50] *** Quits: j0hny5 (Ping timeout: 600 seconds)
+[09:22:53] *** Quits: nrq (Read error: Connection reset by peer)
+[09:23:03] *** Joins: nrq
+[09:23:55] *** Joins: tpw_rules
+[09:24:30] *** Quits: GrecKo (Ping timeout: 600 seconds)
+[09:24:36] *** Joins: GrecKo
+[09:26:06] *** Joins: j0hny5
+[09:26:06] *** Quits: mtheall (Read error: Connection reset by peer)
+[09:26:09] *** Joins: mtheall
+[09:31:48] *** Quits: plutobot (Read error: Operation timed out)
+[09:32:58] *** Joins: plutobot
+[09:40:07] *** Quits: WntrMute (Ping timeout: 265 seconds)
+[09:40:14] *** Joins: WntrMute
+[09:40:30] *** yls8bot sets mode: +o WntrMute
+[09:41:05] *** Quits: klock (Ping timeout: 265 seconds)
+[09:43:08] *** Quits: GrecKo (Ping timeout: 265 seconds)
+[09:43:08] *** Quits: Pieman (Ping timeout: 265 seconds)
+[09:43:08] *** Quits: fincs (Ping timeout: 265 seconds)
+[09:43:08] *** Joins: fincs
+[09:43:08] *** WntrMute sets mode: +o fincs
+[09:43:08] *** Joins: klock
+[09:44:07] *** Joins: Pieman
+[09:46:04] *** Joins: GrecKo
+[10:39:22] *** Quits: Surkow (Read error: Operation timed out)
+[10:41:27] *** Joins: Surkow
+[12:07:18] *** Quits: Lightswor (Read error: Connection reset by peer)
+[12:18:30] *** Joins: usineur_
+[17:02:24] *** Joins: Generic
+[17:03:19] <Generic> what kind of barrier do I need to use to safely use the result of a transfer or 2d engine operation?
+[17:03:37] <Generic> I'm currently using a full barrier, though I feel like that's a bit too much :D
+[17:08:19] *** Quits: Generic (Quit: Generic)
+[17:08:52] *** Joins: Generic
+[17:26:10] <plutobot> Wiki | Page changed: Title list | User: Hexkyz | https://switchbrew.org/w/index.php?curid=84&diff=11002&oldid=11001
+[17:37:04] <plutobot> Wiki | Page changed: Title list | User: Hexkyz | https://switchbrew.org/w/index.php?curid=84&diff=11003&oldid=11002
+[17:47:58] <plutobot> Wiki | Page changed: Error codes | User: Berichan | https://switchbrew.org/w/index.php?curid=82&diff=11004&oldid=10990
+[17:55:48] <plutobot> Wiki | Page changed: Title list | User: Hexkyz | https://switchbrew.org/w/index.php?curid=84&diff=11005&oldid=11003
+[17:57:30] <plutobot> Wiki | Page changed: Title list | User: Hexkyz | https://switchbrew.org/w/index.php?curid=84&diff=11006&oldid=11005
+[18:02:38] *** Joins: n00b406
+[18:05:02] *** Joins: Lightswor
+[18:13:31] *** Quits: n00b406 (Ping timeout: 252 seconds)
+[18:59:49] *** Quits: Generic (Remote host closed the connection)
+[19:00:28] *** Joins: Generic
+[20:16:26] *** Joins: fgsfds
+[21:33:11] *** Quits: Generic (Read error: Operation timed out)
+[21:35:13] *** Joins: Generic
+[22:05:29] *** Quits: Generic (Read error: Operation timed out)
+[22:48:26] *** Joins: Generic

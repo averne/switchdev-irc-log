@@ -1,0 +1,45 @@
+[03:52:03] *** Joins: j0hny5
+[04:58:51] *** Quits: refs (Quit: refs)
+[06:17:41] *** Quits: fgsfds (Read error: Connection reset by peer)
+[07:19:57] *** Joins: rajkosto
+[07:51:21] *** Quits: rajkosto (Quit: Leaving)
+[07:51:35] *** Joins: rajkosto
+[07:51:39] *** Quits: rajkosto (Read error: Connection reset by peer)
+[07:51:55] *** Joins: rajkosto
+[07:57:01] *** Quits: rajkosto (Quit: Leaving)
+[07:57:20] *** Joins: rajkosto
+[07:57:41] *** Quits: rajkosto (Client Quit)
+[07:57:55] *** Joins: rajkosto
+[08:01:41] *** Quits: rajkosto (Client Quit)
+[08:01:59] *** Joins: rajkosto
+[08:48:00] *** Quits: rajkosto (Read error: Operation timed out)
+[10:06:58] *** Quits: oreo639 (Quit: Quit)
+[11:37:25] *** Joins: refsw3
+[11:48:23] *** Quits: refsw2 (Ping timeout: 745 seconds)
+[12:08:48] *** Quits: SCV______ (Ping timeout: 1230 seconds)
+[12:09:01] *** Joins: SCV______
+[12:09:58] *** Quits: rjeli____ (Ping timeout: 1230 seconds)
+[12:13:02] *** Joins: rjeli____
+[13:24:28] *** Joins: refs
+[16:18:02] *** Quits: |Shadow| (ny.us.hub irc.Prison.NET)
+[17:29:07] *** Joins: rajkosto
+[18:28:44] *** Joins: fgsfds
+[19:22:33] *** Quits: rajkosto (Read error: Operation timed out)
+[20:11:38] *** Joins: Generic
+[20:12:03] <Generic> hello, I just had a weird issue with copyBuffer in deko3d
+[20:12:46] <Generic> I was using it to copy an entire image (both src and dst of the same format ofc)
+[20:13:32] <Generic> where small segments of color would be repeated across the image
+[20:14:03] <Generic> now I'm using blitImage to do the exact same copy and everything seems to work alright
+[20:33:23] *** Quits: SCV______ (Ping timeout: 1230 seconds)
+[20:33:39] *** Joins: SCV______
+[20:37:25] *** Joins: rajkosto
+[20:41:23] <averne> Generic: You're probably supposed to use copyImage for this, which is unimplemented: https://github.com/devkitPro/deko3d/blob/master/source/dk_image.cpp#L508. blitImage works as a workaround.
+[20:42:54] <Generic> yeah I would have used copyImage if it as implemented
+[20:43:48] <Generic> though in princible
+[20:44:09] <Generic> is there anything about copyBuffer which prevents it from being used with images?
+[22:20:02] *** Quits: Generic (Quit: Generic)
+[22:20:20] *** Joins: Generic
+[22:48:45] *** Quits: SCV______ (Read error: Connection timed out)
+[23:06:11] *** Joins: SCV______
+[23:19:55] *** Joins: |Shadow|
+[23:57:32] *** Joins: GeekShado
