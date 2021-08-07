@@ -1,0 +1,37 @@
+[00:47:18] *** Joins: changO-
+[00:56:34] *** Quits: changoXPR (Ping timeout: 745 seconds)
+[02:23:28] *** Joins: oreo639
+[02:30:19] *** Quits: rmaw (Read error: Operation timed out)
+[02:55:44] *** Quits: ihaveamac (Quit: fail)
+[02:56:38] *** Joins: ihaveamac
+[02:58:05] *** Joins: refs
+[03:05:02] *** Quits: oreo639 (Read error: Operation timed out)
+[04:08:26] *** Joins: oreo639
+[04:24:00] *** Joins: refs`
+[04:24:19] *** Quits: refs (Ping timeout: 186 seconds)
+[04:37:47] *** Quits: oreo639 (Ping timeout: 265 seconds)
+[04:44:35] *** Quits: refs` (Quit: refs`)
+[04:54:03] *** Joins: oreo639
+[05:58:26] *** Quits: mtheall (Read error: Operation timed out)
+[05:58:41] *** Joins: mtheall
+[06:03:01] *** Quits: oreo639 (Ping timeout: 604 seconds)
+[06:38:24] *** Joins: oreo639
+[07:12:30] *** Quits: figgis_ (Ping timeout: 376 seconds)
+[07:15:38] *** Joins: n00b604
+[07:17:53] <n00b604> so I'm wondering some stuff about homebrew for the switch
+[07:18:18] <n00b604> I was looking into exporting my playtime history, which I used to do via the parental controls API
+[07:18:48] <n00b604> that code broke at some point, so I was looking into alternatives and came across https://github.com/tallbl0nde/NX-Activity-Log
+[07:19:11] <n00b604> which in theory would be much better, but would require setting up homebrew on my switch
+[07:20:19] <n00b604> so now I'm wondering if it's possible to not get banned running it
+[07:21:07] <n00b604> most guides on things like emuNAND involve creating a second partition for doing stuff, which I assume doesn't work if you need r/o access to the system NAND
+[07:22:06] <n00b604> though I'd hope there's some easy option to run homebrew offline, extract a text file, and then reboot without leaving any real trace
+[07:50:21] <n00b604> if there isn't, I'll just wait until the dust settles and export it at the very end
+[09:23:00] <oreo639> Simply running Atmosphere will not get you banned unless you are installing titles, cheating online, or modifying your online profile in ways your are not normally supposed to. (there are other ways ofc like using console certs for api abuse, but that goes without saying) Just running homebrew apps on sysnand through the homebrew launcher generally won't get you banned unless it is doing one of the previously mentioned things. Ofc, 
+[09:23:00] <oreo639> feel free to correct me or clarify further.
+[10:07:30] *** Quits: CCFL_Man (Ping timeout: 252 seconds)
+[10:14:49] *** Joins: CCFL_Man
+[11:41:35] *** Quits: oreo639 (Ping timeout: 496 seconds)
+[18:35:50] *** Joins: refs
+[19:57:17] *** Joins: fgsfds
+[21:49:13] *** Joins: oreo639
+[22:44:28] *** Joins: Retr0id
