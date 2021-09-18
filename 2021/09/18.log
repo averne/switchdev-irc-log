@@ -1,0 +1,63 @@
+[00:09:37] *** Quits: ihaveamac (Read error: Operation timed out)
+[01:02:47] *** Joins: ihaveamac
+[04:13:09] *** Quits: flagrama_ (Ping timeout: 1230 seconds)
+[04:26:43] *** Joins: flagrama_
+[04:54:36] *** Quits: phigcloud (Read error: Connection timed out)
+[05:11:57] *** Joins: phigcloud
+[05:35:16] *** Pieman is now known as PiemanPHD
+[05:50:29] *** Quits: zombie343 ()
+[05:50:34] *** Quits: rjeli____ (Ping timeout: 1230 seconds)
+[05:50:47] *** Joins: rjeli____
+[05:57:58] <plutobot> Wiki | Page changed: Bluetooth Driver services | User: yls8 | https://switchbrew.org/w/index.php?curid=161&diff=11175&oldid=11148
+[06:32:19] <plutobot> GitHub | New commit | User: yellows | https://github.com/switchbrew/libnx/commit/369bb31311
+[07:10:51] *** Quits: fgsfds (Quit: Leaving)
+[08:01:14] *** Joins: eggster
+[08:37:52] <plutobot> Wiki | Page changed: SVC | User: SciresM | https://switchbrew.org/w/index.php?curid=81&diff=11176&oldid=10704
+[09:09:43] <plutobot> GitHub | New PR: svc add .. sv... | User: SciresM | https://github.com/switchbrew/libnx/pull/573
+[09:54:24] *** Quits: rjeli____ (Ping timeout: 1230 seconds)
+[09:54:37] *** Joins: rjeli____
+[09:57:00] *** Quits: |Shadow| (hub.efnet.us irc.Prison.NET)
+[10:03:57] *** Joins: |Shadow|
+[11:19:34] *** Joins: n87
+[11:21:54] *** Quits: rjeli____ (Ping timeout: 1230 seconds)
+[11:22:07] *** Joins: rjeli____
+[12:35:02] <plutobot> GitHub | New commit | User: Michael Scire | https://github.com/switchbrew/libnx/commit/49507b86a8
+[13:31:24] *** Quits: rjeli____ (Ping timeout: 1230 seconds)
+[13:31:37] *** Joins: rjeli____
+[15:22:51] *** Quits: Surkow (Read error: Operation timed out)
+[15:47:25] *** Joins: derk0pf
+[16:04:37] *** Joins: Surkow
+[16:08:27] *** Quits: n87 (Read error: Connection reset by peer)
+[16:59:20] *** Joins: derk0pf_
+[17:00:54] *** Quits: derk0pf (Read error: Operation timed out)
+[17:06:39] *** Joins: fgsfds
+[17:54:05] <plutobot> Wiki | Page changed: Fuses | User: Deejay87 | https://switchbrew.org/w/index.php?curid=186&diff=11177&oldid=11039
+[17:56:53] *** Quits: derk0pf_ (Ping timeout: 501 seconds)
+[18:19:25] *** Joins: derk0pf
+[18:27:09] *** Quits: derk0pf (Read error: Operation timed out)
+[18:38:00] *** Joins: derk0pf
+[19:21:36] <plutobot> Wiki | Page changed: SVC | User: Hexkyz | https://switchbrew.org/w/index.php?curid=81&diff=11178&oldid=11176
+[19:24:50] <plutobot> Wiki | Page changed: SVC | User: Hexkyz | https://switchbrew.org/w/index.php?curid=81&diff=11179&oldid=11178
+[19:27:13] <plutobot> Wiki | Page changed: NS Services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=89&diff=11180&oldid=11167
+[19:40:39] *** Quits: rjeli____ (Ping timeout: 1230 seconds)
+[19:40:52] *** Joins: rjeli____
+[19:45:49] *** Quits: derk0pf (Read error: Operation timed out)
+[20:16:28] *** Joins: derk0pf
+[20:31:10] <plutobot> Wiki | Page changed: NS Services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=89&diff=11181&oldid=11180
+[20:44:08] <plutobot> Wiki | Page changed: BCAT services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=108&diff=11182&oldid=11157
+[20:48:09] *** Joins: flotwig
+[21:24:29] *** Quits: derk0pf (Ping timeout: 745 seconds)
+[21:26:57] *** PiemanPHD is now known as PiemanPhD
+[21:29:09] *** Quits: rjeli____ (Ping timeout: 1230 seconds)
+[21:29:22] *** Joins: rjeli____
+[21:33:14] *** PiemanPhD is now known as pieman
+[21:48:25] <plutobot> GitHub | New PR: ncm add new .... | User: SciresM | https://github.com/switchbrew/libnx/pull/574
+[22:09:56] <plutobot> GitHub | New commit | User: Michael Scire | https://github.com/switchbrew/libnx/commit/8daccdf35a
+[23:12:34] *** Joins: derk0pf
+[23:13:46] *** Quits: |Shadow| (Ping timeout: 240 seconds)
+[23:13:58] <plutobot> Wiki | Page changed: Account services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=86&diff=11183&oldid=11165
+[23:16:31] <plutobot> Wiki | Page changed: NS Services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=89&diff=11184&oldid=11181
+[23:25:44] *** Joins: n87
+[23:25:49] *** Quits: derk0pf (Ping timeout: 745 seconds)
+[23:37:29] *** Joins: |Shadow|
+[23:39:30] <plutobot> Wiki | Page changed: Account services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=86&diff=11185&oldid=11183

@@ -1,0 +1,20 @@
+[00:00:21] *** Joins: oreo639
+[05:14:56] *** Quits: refs (Quit: refs)
+[09:59:36] *** Quits: fgsfds (Read error: Connection reset by peer)
+[10:24:48] *** Quits: |Shadow| (Ping timeout: 240 seconds)
+[10:27:22] *** Joins: |Shadow|
+[10:45:12] *** Quits: oreo639 (Ping timeout: 240 seconds)
+[11:03:26] *** Joins: n87
+[13:52:10] *** Joins: refs
+[13:54:51] *** Quits: n87 (Read error: Connection reset by peer)
+[17:33:23] *** Joins: fgsfds
+[17:57:52] *** Quits: Surkow (Remote host closed the connection)
+[17:59:35] *** Joins: Surkow
+[19:15:26] <CCFL_Man> https://www.freebsdnews.com/2017/03/08/nintendo-switch-runs-freebsd/ <-- is this true?
+[19:23:16] <averne> completely false https://en.wikipedia.org/wiki/Nintendo_Switch_system_software#OS
+[19:40:22] <CCFL_Man> i figured
+[19:42:54] <CCFL_Man> ahh, uses some networking code
+[19:45:01] <plutobot> GitHub | New PR: Fix ldrroro i... | User: XorTroll | https://github.com/switchbrew/libnx/pull/571
+[19:46:04] *** Joins: n87
+[20:03:48] *** Joins: oreo639
+[23:10:47] *** Quits: n87 (Read error: Connection reset by peer)
