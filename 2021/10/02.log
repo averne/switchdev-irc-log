@@ -1,0 +1,69 @@
+[00:35:55] *** Quits: thejsa (Ping timeout: 615 seconds)
+[00:35:58] *** Joins: thejsa
+[00:42:20] *** Quits: lemmy (Ping timeout: 615 seconds)
+[01:01:37] *** Joins: lemmu
+[01:30:26] *** Quits: sh0e (Quit: Bye.)
+[01:34:54] *** Joins: sh0e
+[02:06:28] *** Joins: refs
+[02:21:30] *** Quits: refs (Quit: refs)
+[03:51:47] *** Joins: dibas_
+[03:51:47] *** Quits: dibas (Read error: Connection reset by peer)
+[03:51:51] *** dibas_ is now known as dibas
+[03:55:09] *** Joins: jsa_
+[03:58:00] *** Quits: lemmu (Ping timeout: 615 seconds)
+[04:00:20] *** Quits: thejsa (Ping timeout: 745 seconds)
+[04:20:38] *** Joins: lemmu
+[06:34:20] *** Quits: fgsfds (Quit: Leaving)
+[06:39:24] *** Quits: rjeli____ (Read error: Connection reset by peer)
+[06:46:06] *** Joins: rjeli____
+[06:46:52] *** Quits: rjeli____ (Read error: Connection reset by peer)
+[06:53:18] *** Joins: rjeli____
+[06:59:55] *** Quits: rjeli____ (Read error: Connection reset by peer)
+[07:15:54] *** Joins: rjeli____
+[10:17:42] *** Quits: nohit__ (Read error: Connection reset by peer)
+[10:18:46] *** Joins: nohit__
+[10:25:48] *** Quits: lemmu (se.hub efnet.deic.eu)
+[10:25:48] *** Quits: jsa_ (se.hub efnet.deic.eu)
+[10:25:48] *** Quits: Maylay (se.hub efnet.deic.eu)
+[10:25:48] *** Quits: lameboy (se.hub efnet.deic.eu)
+[10:25:48] *** Quits: GrecKo (se.hub efnet.deic.eu)
+[10:25:48] *** Quits: DacoTaco (se.hub efnet.deic.eu)
+[10:25:50] *** Quits: rjeli____ (Read error: Connection reset by peer)
+[10:34:13] *** Joins: lameboy2
+[10:35:05] *** Joins: GrecKo_
+[10:40:54] *** lameboy2 is now known as lameboy
+[10:41:31] *** Quits: balrog (hub.efnet.us irc.colosolutions.net)
+[10:41:31] *** Quits: fincs (hub.efnet.us irc.colosolutions.net)
+[10:41:52] *** Joins: balrog_
+[10:42:06] *** Joins: fincs_
+[10:42:06] *** WntrMute sets mode: +o fincs_
+[10:45:23] *** Quits: |Shadow| (hub.efnet.us irc.Prison.NET)
+[10:48:25] *** Quits: blasty (Read error: Connection reset by peer)
+[10:49:08] *** Joins: |Shadow|
+[10:49:33] *** Quits: nohit__ (Ping timeout: 493 seconds)
+[10:56:35] *** fincs_ is now known as fincs
+[10:57:13] *** Quits: Retr0id (Ping timeout: 857 seconds)
+[10:57:20] *** balrog_ is now known as balrog
+[11:07:28] *** Joins: Retr0id
+[11:08:30] *** Joins: nohit__
+[11:12:08] *** Joins: blasty
+[12:05:22] *** Joins: lemmu
+[12:05:22] *** Joins: jsa_
+[12:05:22] *** Joins: Maylay
+[12:05:22] *** Joins: DacoTaco
+[14:18:53] *** Quits: Lightswor (Quit: ZNC)
+[14:19:03] *** Joins: Lightswor
+[16:47:09] <plutobot> GitHub | New commit | User: fincs | https://github.com/switchbrew/libnx/commit/7a97056dc2
+[16:49:05] *** Joins: rjeli____
+[17:18:11] <plutobot> GitHub | New commit | User: fincs | https://github.com/switchbrew/libnx/commit/748cf5ab98
+[17:54:36] *** Joins: n87
+[18:09:31] *** Joins: GerbilSof
+[18:18:25] *** Joins: refs
+[18:40:24] *** Quits: refs (Quit: refs)
+[19:17:09] *** Joins: refs
+[19:59:49] *** Quits: GerbilSof (Read error: Operation timed out)
+[20:00:17] *** Joins: GerbilSof
+[21:45:13] <plutobot> Wiki | Page changed: NS Services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=89&diff=11205&oldid=11196
+[21:50:30] <plutobot> Wiki | Page changed: Audio services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=264&diff=11206&oldid=11143
+[22:15:21] <plutobot> Wiki | Page changed: HID services | User: Hexkyz | https://switchbrew.org/w/index.php?curid=103&diff=11207&oldid=11194
+[23:52:48] *** Quits: n87 (Read error: Connection reset by peer)
