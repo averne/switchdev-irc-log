@@ -1,0 +1,105 @@
+[01:24:23] *** Joins: refs
+[02:37:36] *** Joins: uyjulian_
+[02:37:36] *** Quits: zini (Read error: Connection reset by peer)
+[02:37:36] *** Quits: uyjulian (Read error: Connection reset by peer)
+[02:37:36] *** Joins: zini-
+[02:37:44] *** uyjulian_ is now known as uyjulian
+[02:42:50] *** Quits: rjeli____ (Read error: Connection timed out)
+[02:53:05] *** Joins: rjeli____
+[03:23:18] *** Quits: rjeli____ (Read error: Connection timed out)
+[03:31:43] *** Joins: rjeli____
+[04:10:22] *** Quits: phigcloud (Ping timeout: 252 seconds)
+[04:10:46] *** Joins: phigcloud
+[04:17:41] *** Quits: refs (Quit: refs)
+[04:21:55] *** Quits: CCFL_Man (Ping timeout: 745 seconds)
+[04:32:44] *** Quits: phigcloud (Read error: Operation timed out)
+[04:48:10] *** Quits: rjeli____ (Ping timeout: 1230 seconds)
+[05:01:38] *** Joins: rjeli____
+[05:06:28] *** Joins: phigcloud
+[08:48:24] *** Quits: figgis_ (Quit: Leaving)
+[10:27:34] *** Joins: lameboy2
+[10:28:07] *** Joins: zini
+[10:34:50] *** Joins: balrog_
+[10:38:03] *** Quits: rjeli____ (se.hub efnet.port80.se)
+[10:38:05] *** Quits: zini- (se.hub efnet.port80.se)
+[10:38:05] *** Quits: uyjulian (se.hub efnet.port80.se)
+[10:38:05] *** Quits: Jdbye (se.hub efnet.port80.se)
+[10:38:05] *** Quits: Phils3r (se.hub efnet.port80.se)
+[10:38:05] *** Quits: lameboy (se.hub efnet.port80.se)
+[10:38:05] *** Quits: balrog (se.hub efnet.port80.se)
+[10:38:05] *** Quits: Whovian93 (se.hub efnet.port80.se)
+[10:38:05] *** Quits: derrek (se.hub efnet.port80.se)
+[10:38:05] *** Quits: mid-kid4 (se.hub efnet.port80.se)
+[10:38:05] *** Quits: Normmatt (se.hub efnet.port80.se)
+[10:38:05] *** Quits: dibas (se.hub efnet.port80.se)
+[10:41:03] *** Joins: Jbdye
+[10:45:35] *** Quits: tpw_rules (Read error: Operation timed out)
+[10:47:53] *** Joins: nrq_
+[10:49:28] *** Quits: GerbilSof (Read error: Operation timed out)
+[10:51:11] *** Quits: j0hny5 (Ping timeout: 600 seconds)
+[10:51:34] *** Joins: GerbilSof
+[10:51:52] *** Quits: nrq (Read error: Connection reset by peer)
+[10:51:58] *** Quits: zini (-->)
+[10:52:13] *** Joins: j0hny5
+[10:52:50] *** Quits: lex1 (Read error: Operation timed out)
+[10:52:55] *** Quits: eggster (Read error: Operation timed out)
+[10:53:09] *** Quits: nohit__ (Read error: Operation timed out)
+[10:53:11] *** Joins: eggster
+[10:53:11] *** lameboy2 is now known as lameboy
+[10:53:58] *** Quits: balrog_ (Read error: Operation timed out)
+[10:54:03] *** Jbdye is now known as Jdbye
+[10:54:43] *** Joins: balrog
+[10:54:53] *** Joins: nohit
+[10:55:00] *** Joins: lex1
+[10:55:19] *** Quits: WntrMute (Ping timeout: 321 seconds)
+[10:56:07] *** Joins: WntrMute
+[10:56:56] *** Joins: zini
+[10:56:56] *** Joins: tpw_rules
+[10:56:56] *** Joins: mid-kid4
+[10:56:56] *** Joins: uyjulian
+[10:56:56] *** Joins: Normmatt
+[10:56:56] *** Joins: Whovian93
+[10:56:56] *** Joins: dibas
+[10:56:56] *** Joins: derrek
+[10:56:56] *** Joins: Phils3r
+[10:57:57] *** Quits: Cu3PO42 (Ping timeout: 277 seconds)
+[11:10:36] *** Joins: Cu3PO42
+[11:17:02] *** Joins: derrek_
+[11:22:56] *** Quits: uyjulian (Quit: ZNC - http://znc.in)
+[11:23:00] *** Joins: uyjulian
+[11:23:05] *** Quits: derrek (Ping timeout: 745 seconds)
+[11:23:05] *** derrek_ is now known as derrek
+[11:27:02] *** Quits: j0hny5 (Read error: Operation timed out)
+[11:27:43] *** Joins: j0hny5
+[11:40:02] *** Quits: Maylay_ (Ping timeout: 252 seconds)
+[11:41:10] *** Joins: rjeli____
+[11:44:17] *** Joins: Maylay
+[11:45:02] *** Quits: lameboy (Ping timeout: 252 seconds)
+[11:45:44] *** Joins: lameboy
+[12:09:42] *** Quits: mtheall (Read error: Operation timed out)
+[12:09:43] *** Joins: mtheall
+[12:11:28] *** Quits: eggster (Read error: Operation timed out)
+[12:11:33] *** Quits: Maylay (Write error: Broken pipe)
+[12:11:45] *** Joins: eggster
+[12:12:20] *** Joins: Maylay
+[12:31:32] *** Quits: rjeli____ (Read error: Connection reset by peer)
+[12:48:52] *** Quits: Snetry (Read error: Operation timed out)
+[12:52:46] *** Quits: nohit (Read error: Operation timed out)
+[13:00:55] *** Quits: blasty (Read error: Operation timed out)
+[13:01:18] *** Quits: lex1 (Read error: Operation timed out)
+[13:02:47] *** Joins: oreo639_
+[13:11:23] *** Quits: oreo639 (Read error: Operation timed out)
+[13:14:46] *** Joins: rjeli____
+[13:29:30] *** Joins: nohit
+[13:30:34] *** Joins: blasty
+[13:30:42] *** Joins: Snetry
+[13:39:00] *** Joins: lex1
+[13:48:05] *** Quits: oreo639_ (Quit: Quit)
+[16:48:18] *** Joins: changoXPR
+[16:52:02] *** Quits: changO- (Read error: Operation timed out)
+[18:14:09] *** Joins: refs
+[18:38:09] *** Joins: fgsfds
+[19:08:08] *** Quits: fgsfds (Quit: Leaving)
+[19:10:44] *** Joins: fgsfds
+[20:18:21] *** Joins: n87
+[21:18:18] *** Quits: n87 (Read error: Connection reset by peer)
