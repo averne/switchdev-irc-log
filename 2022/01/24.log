@@ -1,0 +1,34 @@
+[02:49:24] *** Joins: rajkosto
+[04:13:29] *** Quits: fgsfds (Leaving)
+[04:56:56] *** Joins: oreo639
+[05:17:02] *** Quits: refs (Quit: refs)
+[07:03:25] *** Quits: oreo639 (Read error: Operation timed out)
+[07:25:40] *** Joins: oreo639
+[09:10:07] *** Quits: Whovian93 (Ping timeout: 745 seconds)
+[09:17:19] *** Quits: oreo639 (Remote host closed the connection)
+[09:54:11] *** Quits: rajkosto (Ping timeout: 496 seconds)
+[10:51:27] *** Joins: Whovian93
+[12:24:53] *** Joins: m4ts
+[12:26:11] *** Quits: m4ts_ (Ping timeout: 265 seconds)
+[12:56:38] *** Quits: fincs (Ping timeout: 265 seconds)
+[13:01:27] *** Joins: fincs
+[13:01:27] *** WntrMute sets mode: +o fincs
+[13:28:24] *** Joins: fgsfds
+[13:34:08] *** Quits: Phils3r (Quit: ZNC - https://znc.in)
+[13:34:38] *** Joins: Phils3r
+[13:50:08] *** Quits: TurtleP (Ping timeout: 745 seconds)
+[13:57:47] *** Joins: TurtleP
+[15:01:05] *** Quits: Surkow (Quit: 418 I'm a teapot - NOP NOP NOP)
+[16:31:25] *** Joins: Surkow
+[18:42:24] *** lansiir is now known as oldtopman
+[20:01:13] <Behemoth> Trying to figure out a bug and it might be an issue in deko. He gets "dkDeviceDestroy (2--0009) unfreed memory blocks"
+[20:01:14] <Behemoth> https://github.com/devkitPro/deko3d/blob/24f9e457de68ef7737ecad24cce69d08bc35f5a9/include/deko3d.hpp#L71-L84
+[20:01:15] <Behemoth> https://github.com/joel16/NX-Shell/blob/5a5067afeb6b18c0d2bb4d7b16f71899a768012a/source/textures.cpp#L167-L169
+[20:01:17] <Behemoth> I think with this assignment, the left side leaks. UniqueHandle(T&& rhs) -> operator=(UniqueHandle&& rhs) where lhs only gets cleared but not destroyed. Swapping the handles would be what I would have expected.
+[20:25:30] <averne> That's pretty easy to confirm, just log something in the destructor and see if it does happen. At a glace I can't trace a call to destroy() either but it would be strange if it leaked considering most applications use that patter
+[20:33:04] <Behemoth> Usually applications would create a memblock once and hand out memory chunks from that.
+[20:33:42] <Behemoth> Joel confirmed it working when clearing the handle first with a nullptr assignment.
+[20:35:17] *** Joins: refs
+[21:08:43] <averne> I thought the imgui-deko3d port did that, maybe not
+[21:08:47] <averne> Nice catch though
+[22:57:12] *** Joins: oreo639
