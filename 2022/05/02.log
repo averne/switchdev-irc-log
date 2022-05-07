@@ -1,0 +1,19 @@
+[01:28:23] *** Quits: rajkosto (Read error: Connection reset by peer)
+[02:31:08] *** Quits: fgsfds (Read error: Connection reset by peer)
+[03:32:37] *** Joins: Snetry
+[03:33:56] *** Quits: Sentry (Read error: Operation timed out)
+[03:33:57] *** Snetry is now known as Sentry
+[04:34:41] *** Quits: refs (Quit: refs)
+[09:19:28] *** Quits: |Shadow| (Ping timeout: 268 seconds)
+[09:22:07] *** Joins: |Shadow|
+[12:11:37] *** Joins: fgsfds
+[13:29:51] *** Quits: m4ts_ (Ping timeout: 265 seconds)
+[13:30:04] *** Joins: m4ts
+[20:04:13] *** Joins: Rafa10
+[20:45:35] *** Joins: guest467
+[20:45:43] <guest467> hi guys
+[20:46:17] <guest467> i got an example compiled
+[20:46:24] <guest467> and it works
+[20:47:10] <guest467> but im wondering can i use hdls create a second virtual controller and do button presses on it ?
+[20:50:26] <averne> yes, see https://github.com/switchbrew/switch-examples/tree/master/hid/abstracted-pad
+[20:58:07] *** Quits: guest467 (Ping timeout: 252 seconds)
