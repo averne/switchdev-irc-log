@@ -1,0 +1,138 @@
+[00:15:01] *** Quits: Phils3r_ (Quit: ZNC - https://znc.in)
+[00:15:09] *** Joins: Phils3r
+[01:30:02] *** Joins: refs
+[02:29:26] *** Quits: fgsfds (Read error: Connection reset by peer)
+[03:57:47] *** Joins: Snetry
+[03:59:07] *** Quits: Sentry (Read error: Operation timed out)
+[03:59:07] *** Snetry is now known as Sentry
+[04:02:37] *** Quits: refs (Quit: refs)
+[05:32:59] *** Quits: Sentry (efnet.deic.eu se.hub)
+[05:32:59] *** Quits: lex1 (efnet.deic.eu se.hub)
+[05:32:59] *** Quits: GerbilSof (efnet.deic.eu se.hub)
+[05:32:59] *** Quits: Retr0id (efnet.deic.eu se.hub)
+[05:32:59] *** Quits: d3m3vilur (efnet.deic.eu se.hub)
+[05:32:59] *** Quits: flotwig (efnet.deic.eu se.hub)
+[05:33:00] *** Quits: Extrems (efnet.deic.eu se.hub)
+[05:33:00] *** Quits: ihaveamac (efnet.deic.eu se.hub)
+[05:33:00] *** Quits: nrq (efnet.deic.eu se.hub)
+[05:33:00] *** Quits: Cu3PO42 (efnet.deic.eu se.hub)
+[05:33:00] *** Quits: eggster (efnet.deic.eu se.hub)
+[05:33:00] *** Quits: Normmatt (efnet.deic.eu se.hub)
+[05:33:00] *** Quits: Surkow (efnet.deic.eu se.hub)
+[05:33:00] *** Quits: freundTe- (efnet.deic.eu se.hub)
+[05:33:00] *** Quits: Lightswor (efnet.deic.eu se.hub)
+[05:33:00] *** Quits: Kyouju_ (efnet.deic.eu se.hub)
+[05:33:00] *** Quits: yellows8 (efnet.deic.eu se.hub)
+[05:33:00] *** Quits: Jdbye (efnet.deic.eu se.hub)
+[05:33:00] *** Quits: GeekShado (efnet.deic.eu se.hub)
+[05:33:00] *** Quits: sh0e (efnet.deic.eu se.hub)
+[05:33:00] *** Quits: CCFL_Man (efnet.deic.eu se.hub)
+[05:33:00] *** Quits: lansiir (efnet.deic.eu se.hub)
+[05:33:00] *** Quits: Maylay (efnet.deic.eu se.hub)
+[05:33:00] *** Quits: |Shadow| (efnet.deic.eu se.hub)
+[05:33:00] *** Quits: DacoTaco (efnet.deic.eu se.hub)
+[05:33:00] *** Quits: balrog (efnet.deic.eu se.hub)
+[05:33:00] *** Quits: uyjulian (efnet.deic.eu se.hub)
+[05:33:00] *** Quits: zombie343 (efnet.deic.eu se.hub)
+[05:33:00] *** Quits: KuKzz (efnet.deic.eu se.hub)
+[05:33:00] *** Quits: yls8bot (efnet.deic.eu se.hub)
+[05:33:00] *** Quits: djorz (efnet.deic.eu se.hub)
+[05:33:00] *** Quits: nich (efnet.deic.eu se.hub)
+[05:33:00] *** Quits: j0hny5 (efnet.deic.eu se.hub)
+[05:33:00] *** Quits: tpw_rules (efnet.deic.eu se.hub)
+[05:33:00] *** Quits: lameboy (efnet.deic.eu se.hub)
+[05:33:00] *** Quits: Phils3r (efnet.deic.eu se.hub)
+[05:33:00] *** Quits: zini (efnet.deic.eu se.hub)
+[05:33:00] *** Quits: TurtleP (efnet.deic.eu se.hub)
+[05:33:00] *** Quits: hexkyz (efnet.deic.eu se.hub)
+[05:33:00] *** Quits: dibas (efnet.deic.eu se.hub)
+[05:33:00] *** Quits: mtheall (efnet.deic.eu se.hub)
+[05:33:00] *** Quits: klock (efnet.deic.eu se.hub)
+[05:33:01] *** Quits: mid-kid4 (efnet.deic.eu se.hub)
+[05:33:01] *** Quits: Genolo (efnet.deic.eu se.hub)
+[05:33:01] *** Quits: Whovian93 (efnet.deic.eu se.hub)
+[05:33:01] *** Quits: GrecKo (efnet.deic.eu se.hub)
+[05:33:01] *** Quits: Behemoth (efnet.deic.eu se.hub)
+[05:33:01] *** Quits: derrek (efnet.deic.eu se.hub)
+[05:33:01] *** Quits: fincs (efnet.deic.eu se.hub)
+[05:33:01] *** Quits: m4ts (efnet.deic.eu se.hub)
+[05:33:01] *** Quits: phigcloud (efnet.deic.eu se.hub)
+[05:33:01] *** Quits: WntrMute (efnet.deic.eu se.hub)
+[05:33:01] *** Quits: Stary (efnet.deic.eu se.hub)
+[05:33:01] *** Quits: TAL (efnet.deic.eu se.hub)
+[05:33:01] *** Quits: Ghabry (efnet.deic.eu se.hub)
+[05:33:01] *** Quits: Mimoja8 (efnet.deic.eu se.hub)
+[05:33:01] *** Quits: ris2z (efnet.deic.eu se.hub)
+[05:33:01] *** Quits: pieman (efnet.deic.eu se.hub)
+[05:33:01] *** Quits: flagrama_ (efnet.deic.eu se.hub)
+[08:43:13] *** Joins: uyjulian
+[08:43:13] *** Joins: GerbilSof
+[08:43:13] *** Joins: |Shadow|
+[08:43:13] *** Joins: Normmatt
+[08:43:13] *** Joins: eggster
+[08:43:13] *** Joins: Cu3PO42
+[08:43:13] *** Joins: nrq
+[08:43:13] *** Joins: d3m3vilur
+[08:43:13] *** Joins: ihaveamac
+[08:43:13] *** Joins: Extrems
+[08:43:13] *** Joins: Retr0id
+[08:43:13] *** Joins: flotwig
+[08:43:13] *** Joins: lex1
+[08:43:13] *** Joins: Sentry
+[08:43:13] *** Joins: Phils3r
+[08:43:13] *** Joins: yls8bot
+[08:43:13] *** Joins: djorz
+[08:43:13] *** Joins: j0hny5
+[08:43:13] *** Joins: nich
+[08:43:13] *** Joins: tpw_rules
+[08:43:13] *** Joins: KuKzz
+[08:43:13] *** Joins: zombie343
+[08:43:13] *** Joins: Maylay
+[08:43:13] *** Joins: lansiir
+[08:43:14] *** Joins: balrog
+[08:43:14] *** Joins: CCFL_Man
+[08:43:14] *** Joins: DacoTaco
+[08:43:14] *** Joins: GeekShado
+[08:43:14] *** Joins: Surkow
+[08:43:14] *** Joins: freundTe-
+[08:43:14] *** Joins: Lightswor
+[08:43:14] *** Joins: sh0e
+[08:43:14] *** Joins: Kyouju_
+[08:43:14] *** Joins: Jdbye
+[08:43:14] *** Joins: yellows8
+[08:43:14] *** Joins: lameboy
+[08:43:14] *** Joins: GrecKo
+[08:43:14] *** Joins: zini
+[08:43:14] *** Joins: fincs
+[08:43:14] *** Joins: TurtleP
+[08:43:14] *** Joins: m4ts
+[08:43:14] *** Joins: Mimoja8
+[08:43:14] *** Joins: phigcloud
+[08:43:14] *** Joins: hexkyz
+[08:43:14] *** Joins: Behemoth
+[08:43:14] *** Joins: dibas
+[08:43:14] *** se.hub sets mode: +ooo yls8bot yellows8 fincs
+[08:43:14] *** Joins: mtheall
+[08:43:14] *** Joins: ris2z
+[08:43:14] *** Joins: klock
+[08:43:14] *** Joins: mid-kid4
+[08:43:14] *** Joins: Genolo
+[08:43:14] *** Joins: WntrMute
+[08:43:14] *** Joins: Stary
+[08:43:14] *** Joins: TAL
+[08:43:14] *** Joins: Ghabry
+[08:43:14] *** Joins: Whovian93
+[08:43:14] *** Joins: pieman
+[08:43:14] *** Joins: flagrama_
+[08:43:14] *** Joins: derrek
+[08:43:14] *** se.hub sets mode: +o WntrMute
+[13:54:13] *** Joins: refs
+[14:49:20] *** Quits: nrq (Quit: -o-)
+[14:51:55] *** Joins: nrq
+[18:05:59] *** Quits: zini (Quit: -->)
+[18:06:27] *** Joins: zini
+[18:06:47] *** Quits: zini (Client Quit)
+[18:07:35] *** Joins: zini
+[18:08:53] *** Joins: fgsfds
+[20:40:58] *** Quits: Sentry (Quit: left EFNet)
+[20:41:08] *** Joins: Sentry
