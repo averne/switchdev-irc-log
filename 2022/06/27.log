@@ -1,0 +1,39 @@
+[00:14:08] *** Quits: m4ts (Excess Flood)
+[00:16:29] *** Joins: m4ts
+[01:14:10] *** Quits: oreo639 (Read error: Operation timed out)
+[02:31:47] *** Quits: GerbilSof (Windows must now restart because the Remote Procedure Call (RPC) service terminated unexpectedly.)
+[02:31:50] *** Joins: GerbilSof
+[02:49:22] *** Joins: oreo639
+[02:55:12] *** Quits: fgsfds (Read error: Connection reset by peer)
+[03:56:44] *** Joins: Snetry
+[03:58:03] *** Quits: Sentry (Read error: Operation timed out)
+[03:58:03] *** Snetry is now known as Sentry
+[05:01:15] *** Quits: refs (Quit: refs)
+[09:44:32] *** Quits: rajkosto (Read error: Connection reset by peer)
+[09:47:23] *** Quits: oreo639 (Ping timeout: 745 seconds)
+[13:32:04] *** Joins: fgsfds
+[13:32:09] *** Joins: m4ts_
+[13:33:32] *** Quits: m4ts (Ping timeout: 265 seconds)
+[13:40:47] *** Quits: m4ts_ (Excess Flood)
+[13:42:37] *** Joins: m4ts
+[17:09:32] *** Quits: flotwig (Read error: Operation timed out)
+[17:34:20] <plutobot_> GitHub | New PR: svc fix wrong... | User: SciresM | https://github.com/switchbrew/libnx/pull/590
+[17:34:51] <plutobot_> GitHub | New commit | User: Michael Scire | https://github.com/switchbrew/libnx/commit/62755bebe0
+[17:58:12] *** Joins: oreo639
+[18:33:08] *** Quits: oreo639 (Quit: Quit)
+[18:46:07] *** Joins: flotwig
+[19:02:51] *** Quits: flotwig (Read error: Operation timed out)
+[19:36:35] *** Joins: oreo639
+[21:18:45] *** Joins: flotwig
+[21:44:29] *** Quits: oreo639 (Quit: Quit)
+[21:48:56] *** Joins: refs
+[22:13:18] *** Joins: fractal__
+[22:16:49] <fractal__> hi! I've been trying to do some usb-host stuff with libnx and have been running into some problems, is this the right place to ask about that?
+[22:19:03] *** Quits: m4ts (Excess Flood)
+[22:22:10] *** Joins: m4ts
+[22:26:05] <fractal__> from what I understand, all of the usb interfaces get populated on init by the usb:hs service from the usb config descriptor, but when I try to access an available (alt) interface with a known existent endpoint, there's nothing in either of the endpoint descriptor arrays 
+[22:27:18] <fractal__> the only hint I've been able to find is "descriptors which are not available are set to all-zero", but the interface is available and I can acquire it successfully
+[22:29:58] <fractal__> is the endpoint descriptor just not getting populated correctly? should I populate it myself using data from the config descriptor and then pass that to usbHsIfOpenUsbEp?
+[22:44:48] *** Joins: oreo639
+[23:35:30] *** Quits: oreo639 (Remote host closed the connection)
+[23:36:00] *** Joins: oreo639

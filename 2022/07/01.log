@@ -1,0 +1,310 @@
+[01:09:26] <fractal_> yeah, that tracks. I'll try SetInterface tonight, but it also looks like there's a chance that none of the input_endpoint_descs or output_endpoint_descs arrays are getting populated for available interfaces, (the device also has CDC serial and i'm having a similar issue with the i/o endpoints on the CDC-Data interface)
+[03:06:11] *** Quits: refs (Quit: refs)
+[03:36:52] *** Joins: |Shadow|
+[03:53:44] *** Joins: Snetry
+[03:55:03] *** Quits: Sentry (Read error: Operation timed out)
+[03:55:03] *** Snetry is now known as Sentry
+[04:49:25] *** Joins: dibas_
+[04:49:25] *** Quits: dibas (Read error: Connection reset by peer)
+[04:49:30] *** dibas_ is now known as dibas
+[04:55:17] *** Joins: dibas_
+[04:55:17] *** Quits: dibas (Read error: Connection reset by peer)
+[04:55:21] *** dibas_ is now known as dibas
+[05:01:07] *** Joins: dibas_
+[05:01:07] *** Quits: dibas (Read error: Connection reset by peer)
+[05:01:12] *** dibas_ is now known as dibas
+[05:06:57] *** Joins: dibas_
+[05:06:57] *** Quits: dibas (Read error: Connection reset by peer)
+[05:07:02] *** dibas_ is now known as dibas
+[05:12:46] *** Joins: dibas_
+[05:12:46] *** Quits: dibas (Read error: Connection reset by peer)
+[05:12:52] *** dibas_ is now known as dibas
+[05:16:34] *** Joins: dibas_
+[05:16:34] *** Quits: dibas (Read error: Connection reset by peer)
+[05:16:39] *** dibas_ is now known as dibas
+[05:20:57] *** Joins: dibas_
+[05:20:57] *** Quits: dibas (Read error: Connection reset by peer)
+[05:21:02] *** dibas_ is now known as dibas
+[05:26:46] *** Joins: dibas_
+[05:26:46] *** Quits: dibas (Read error: Connection reset by peer)
+[05:26:51] *** dibas_ is now known as dibas
+[05:32:36] *** Joins: dibas_
+[05:32:36] *** Quits: dibas (Read error: Connection reset by peer)
+[05:32:41] *** dibas_ is now known as dibas
+[05:32:51] *** Quits: fgsfds (Read error: Connection reset by peer)
+[05:38:26] *** Joins: dibas_
+[05:38:26] *** Quits: dibas (Read error: Connection reset by peer)
+[05:38:31] *** dibas_ is now known as dibas
+[05:44:17] *** Joins: dibas_
+[05:44:17] *** Quits: dibas (Read error: Connection reset by peer)
+[05:44:22] *** dibas_ is now known as dibas
+[05:50:06] *** Joins: dibas_
+[05:50:06] *** Quits: dibas (Read error: Connection reset by peer)
+[05:50:11] *** dibas_ is now known as dibas
+[05:55:56] *** Joins: dibas_
+[05:55:56] *** Quits: dibas (Read error: Connection reset by peer)
+[05:56:01] *** dibas_ is now known as dibas
+[06:01:47] *** Joins: dibas_
+[06:01:47] *** Quits: dibas (Read error: Connection reset by peer)
+[06:01:52] *** dibas_ is now known as dibas
+[06:05:34] *** Joins: dibas_
+[06:05:34] *** Quits: dibas (Read error: Connection reset by peer)
+[06:05:39] *** dibas_ is now known as dibas
+[06:09:53] *** Joins: dibas_
+[06:09:53] *** Quits: dibas (Read error: Connection reset by peer)
+[06:09:57] *** dibas_ is now known as dibas
+[06:15:11] *** Joins: dibas_
+[06:15:11] *** Quits: dibas (Read error: Connection reset by peer)
+[06:15:17] *** dibas_ is now known as dibas
+[06:21:02] *** Joins: dibas_
+[06:21:02] *** Quits: dibas (Read error: Connection reset by peer)
+[06:21:08] *** dibas_ is now known as dibas
+[06:24:46] *** Joins: dibas_
+[06:24:46] *** Quits: dibas (Read error: Connection reset by peer)
+[06:24:51] *** dibas_ is now known as dibas
+[06:29:12] *** Joins: dibas_
+[06:29:12] *** Quits: dibas (Read error: Connection reset by peer)
+[06:29:16] *** dibas_ is now known as dibas
+[06:35:01] *** Joins: dibas_
+[06:35:01] *** Quits: dibas (Read error: Connection reset by peer)
+[06:35:05] *** dibas_ is now known as dibas
+[06:41:27] *** Joins: dibas_
+[06:41:27] *** Quits: dibas (Read error: Connection reset by peer)
+[06:41:31] *** dibas_ is now known as dibas
+[06:47:17] *** Joins: dibas_
+[06:47:17] *** Quits: dibas (Read error: Connection reset by peer)
+[06:47:21] *** dibas_ is now known as dibas
+[06:53:06] *** Joins: dibas_
+[06:53:06] *** Quits: dibas (Read error: Connection reset by peer)
+[06:53:11] *** dibas_ is now known as dibas
+[06:58:55] *** Joins: dibas_
+[06:58:55] *** Quits: dibas (Read error: Connection reset by peer)
+[06:59:00] *** dibas_ is now known as dibas
+[07:04:46] *** Joins: dibas_
+[07:04:46] *** Quits: dibas (Read error: Connection reset by peer)
+[07:04:50] *** dibas_ is now known as dibas
+[07:10:37] *** Joins: dibas_
+[07:10:37] *** Quits: dibas (Read error: Connection reset by peer)
+[07:10:43] *** dibas_ is now known as dibas
+[07:16:25] *** Joins: dibas_
+[07:16:25] *** Quits: dibas (Read error: Connection reset by peer)
+[07:16:31] *** dibas_ is now known as dibas
+[07:20:13] *** Joins: dibas_
+[07:20:13] *** Quits: dibas (Read error: Connection reset by peer)
+[07:20:18] *** dibas_ is now known as dibas
+[07:24:37] *** Joins: dibas_
+[07:24:37] *** Quits: dibas (Read error: Connection reset by peer)
+[07:24:42] *** dibas_ is now known as dibas
+[07:30:22] *** Joins: dibas_
+[07:30:22] *** Quits: dibas (Read error: Connection reset by peer)
+[07:30:27] *** dibas_ is now known as dibas
+[07:35:41] *** Joins: dibas_
+[07:35:42] *** Quits: dibas (Read error: Connection reset by peer)
+[07:35:46] *** dibas_ is now known as dibas
+[07:39:29] *** Joins: dibas_
+[07:39:29] *** Quits: dibas (Read error: Connection reset by peer)
+[07:39:34] *** dibas_ is now known as dibas
+[07:43:51] *** Joins: dibas_
+[07:43:52] *** Quits: dibas (Read error: Connection reset by peer)
+[07:43:56] *** dibas_ is now known as dibas
+[07:50:22] *** Joins: dibas_
+[07:50:22] *** Quits: dibas (Read error: Connection reset by peer)
+[07:50:26] *** dibas_ is now known as dibas
+[07:56:41] *** Joins: dibas_
+[07:56:41] *** Quits: dibas (Read error: Connection reset by peer)
+[07:56:47] *** dibas_ is now known as dibas
+[08:00:29] *** Joins: dibas_
+[08:00:29] *** Quits: dibas (Read error: Connection reset by peer)
+[08:00:34] *** dibas_ is now known as dibas
+[08:04:48] *** Joins: dibas_
+[08:04:49] *** Quits: dibas (Read error: Connection reset by peer)
+[08:04:54] *** dibas_ is now known as dibas
+[08:10:40] *** Joins: dibas_
+[08:10:40] *** Quits: dibas (Read error: Connection reset by peer)
+[08:10:45] *** dibas_ is now known as dibas
+[08:16:32] *** Joins: dibas_
+[08:16:32] *** Quits: dibas (Read error: Connection reset by peer)
+[08:16:37] *** dibas_ is now known as dibas
+[08:22:21] *** Joins: dibas_
+[08:22:22] *** Quits: dibas (Read error: Connection reset by peer)
+[08:22:26] *** dibas_ is now known as dibas
+[08:28:11] *** Joins: dibas_
+[08:28:12] *** Quits: dibas (Read error: Connection reset by peer)
+[08:28:16] *** dibas_ is now known as dibas
+[08:31:47] *** Quits: oreo639 (Ping timeout: 493 seconds)
+[08:31:47] *** Quits: dibas (Read error: Connection reset by peer)
+[08:34:35] *** Joins: dibas
+[08:40:26] *** Joins: dibas_
+[08:40:26] *** Quits: dibas (Read error: Connection reset by peer)
+[08:40:31] *** dibas_ is now known as dibas
+[08:44:15] *** Joins: dibas_
+[08:44:15] *** Quits: dibas (Read error: Connection reset by peer)
+[08:44:20] *** dibas_ is now known as dibas
+[08:48:35] *** Joins: dibas_
+[08:48:35] *** Quits: dibas (Read error: Connection reset by peer)
+[08:48:41] *** dibas_ is now known as dibas
+[08:54:27] *** Joins: dibas_
+[08:54:27] *** Quits: dibas (Read error: Connection reset by peer)
+[08:54:31] *** dibas_ is now known as dibas
+[09:00:14] *** Joins: dibas_
+[09:00:14] *** Quits: dibas (Read error: Connection reset by peer)
+[09:00:20] *** dibas_ is now known as dibas
+[09:06:07] *** Joins: dibas_
+[09:06:07] *** Quits: dibas (Read error: Connection reset by peer)
+[09:06:12] *** dibas_ is now known as dibas
+[09:09:54] *** Joins: dibas_
+[09:09:54] *** Quits: dibas (Read error: Connection reset by peer)
+[09:10:00] *** dibas_ is now known as dibas
+[09:14:15] *** Joins: dibas_
+[09:14:15] *** Quits: dibas (Read error: Connection reset by peer)
+[09:14:21] *** dibas_ is now known as dibas
+[09:20:05] *** Joins: dibas_
+[09:20:05] *** Quits: dibas (Read error: Connection reset by peer)
+[09:20:10] *** dibas_ is now known as dibas
+[09:25:56] *** Joins: dibas_
+[09:25:56] *** Quits: dibas (Read error: Connection reset by peer)
+[09:26:01] *** dibas_ is now known as dibas
+[09:32:21] *** Joins: dibas_
+[09:32:21] *** Quits: dibas (Read error: Connection reset by peer)
+[09:32:27] *** dibas_ is now known as dibas
+[09:38:07] *** Joins: dibas_
+[09:38:07] *** Quits: dibas (Read error: Connection reset by peer)
+[09:38:12] *** dibas_ is now known as dibas
+[09:44:01] *** Joins: dibas_
+[09:44:01] *** Quits: dibas (Read error: Connection reset by peer)
+[09:44:06] *** dibas_ is now known as dibas
+[09:50:26] *** Joins: dibas_
+[09:50:26] *** Quits: dibas (Read error: Connection reset by peer)
+[09:50:30] *** dibas_ is now known as dibas
+[09:56:15] *** Joins: dibas_
+[09:56:15] *** Quits: dibas (Read error: Connection reset by peer)
+[09:56:21] *** dibas_ is now known as dibas
+[09:57:33] *** Quits: rajkosto (Read error: Connection reset by peer)
+[10:02:07] *** Joins: dibas_
+[10:02:07] *** Quits: dibas (Read error: Connection reset by peer)
+[10:02:12] *** dibas_ is now known as dibas
+[10:08:32] *** Joins: dibas_
+[10:08:32] *** Quits: dibas (Read error: Connection reset by peer)
+[10:08:37] *** dibas_ is now known as dibas
+[10:14:57] *** Joins: dibas_
+[10:14:57] *** Quits: dibas (Read error: Connection reset by peer)
+[10:15:02] *** dibas_ is now known as dibas
+[10:20:46] *** Joins: dibas_
+[10:20:46] *** Quits: dibas (Read error: Connection reset by peer)
+[10:20:51] *** dibas_ is now known as dibas
+[10:26:36] *** Joins: dibas_
+[10:26:36] *** Quits: dibas (Read error: Connection reset by peer)
+[10:26:41] *** dibas_ is now known as dibas
+[10:32:59] *** Joins: dibas_
+[10:32:59] *** Quits: dibas (Read error: Connection reset by peer)
+[10:33:04] *** dibas_ is now known as dibas
+[10:38:47] *** Joins: dibas_
+[10:38:47] *** Quits: dibas (Read error: Connection reset by peer)
+[10:38:52] *** dibas_ is now known as dibas
+[10:44:41] *** Joins: dibas_
+[10:44:41] *** Quits: dibas (Read error: Connection reset by peer)
+[10:44:46] *** dibas_ is now known as dibas
+[10:51:05] *** Joins: dibas_
+[10:51:05] *** Quits: dibas (Read error: Connection reset by peer)
+[10:51:11] *** dibas_ is now known as dibas
+[10:56:56] *** Joins: dibas_
+[10:56:56] *** Quits: dibas (Read error: Connection reset by peer)
+[10:57:02] *** dibas_ is now known as dibas
+[11:00:02] *** Quits: averne (quit)
+[11:00:18] *** Joins: averne
+[11:00:18] *** Server sets mode: +stn 
+[11:03:38] *** Quits: dibas (Read error: Connection reset by peer)
+[11:04:30] *** Joins: dibas
+[11:10:21] *** Joins: dibas_
+[11:10:22] *** Quits: dibas (Read error: Connection reset by peer)
+[11:10:26] *** dibas_ is now known as dibas
+[11:16:46] *** Joins: dibas_
+[11:16:46] *** Quits: dibas (Read error: Connection reset by peer)
+[11:16:51] *** dibas_ is now known as dibas
+[11:22:07] *** Quits: dibas (Read error: Connection reset by peer)
+[11:22:31] *** Joins: dibas
+[11:28:26] *** Joins: dibas_
+[11:28:26] *** Quits: dibas (Read error: Connection reset by peer)
+[11:28:31] *** dibas_ is now known as dibas
+[11:34:51] *** Joins: dibas_
+[11:34:51] *** Quits: dibas (Read error: Connection reset by peer)
+[11:34:56] *** dibas_ is now known as dibas
+[11:40:38] *** Joins: dibas_
+[11:40:38] *** Quits: dibas (Read error: Connection reset by peer)
+[11:40:44] *** dibas_ is now known as dibas
+[11:46:31] *** Joins: dibas_
+[11:46:31] *** Quits: dibas (Read error: Connection reset by peer)
+[11:46:36] *** dibas_ is now known as dibas
+[11:52:56] *** Joins: dibas_
+[11:52:57] *** Quits: dibas (Read error: Connection reset by peer)
+[11:53:01] *** dibas_ is now known as dibas
+[11:55:23] *** Quits: IShaDoWl ()
+[11:59:21] *** Joins: dibas_
+[11:59:21] *** Quits: dibas (Read error: Connection reset by peer)
+[11:59:26] *** dibas_ is now known as dibas
+[12:05:46] *** Joins: dibas_
+[12:05:46] *** Quits: dibas (Read error: Connection reset by peer)
+[12:05:51] *** dibas_ is now known as dibas
+[12:12:12] *** Joins: dibas_
+[12:12:12] *** Quits: dibas (Read error: Connection reset by peer)
+[12:12:16] *** dibas_ is now known as dibas
+[12:18:37] *** Joins: dibas_
+[12:18:37] *** Quits: dibas (Read error: Connection reset by peer)
+[12:18:41] *** dibas_ is now known as dibas
+[12:25:01] *** Joins: dibas_
+[12:25:01] *** Quits: dibas (Read error: Connection reset by peer)
+[12:25:06] *** dibas_ is now known as dibas
+[12:31:25] *** Joins: dibas_
+[12:31:25] *** Quits: dibas (Read error: Connection reset by peer)
+[12:31:30] *** dibas_ is now known as dibas
+[12:37:52] *** Joins: dibas_
+[12:37:52] *** Quits: dibas (Read error: Connection reset by peer)
+[12:37:56] *** dibas_ is now known as dibas
+[12:44:17] *** Joins: dibas_
+[12:44:17] *** Quits: dibas (Read error: Connection reset by peer)
+[12:44:22] *** dibas_ is now known as dibas
+[12:50:41] *** Joins: dibas_
+[12:50:41] *** Quits: dibas (Read error: Connection reset by peer)
+[12:50:47] *** dibas_ is now known as dibas
+[12:57:05] *** Joins: dibas_
+[12:57:05] *** Quits: dibas (Read error: Connection reset by peer)
+[12:57:10] *** dibas_ is now known as dibas
+[13:03:31] *** Joins: dibas_
+[13:03:31] *** Quits: dibas (Read error: Connection reset by peer)
+[13:03:36] *** dibas_ is now known as dibas
+[13:09:57] *** Joins: dibas_
+[13:09:57] *** Quits: dibas (Read error: Connection reset by peer)
+[13:10:01] *** dibas_ is now known as dibas
+[13:11:40] *** Joins: fgsfds
+[13:14:59] *** Joins: dibas_
+[13:14:59] *** Quits: dibas (Read error: Connection reset by peer)
+[13:15:04] *** dibas_ is now known as dibas
+[13:19:52] *** Joins: dibas_
+[13:19:52] *** Quits: dibas (Read error: Connection reset by peer)
+[13:19:56] *** dibas_ is now known as dibas
+[13:26:16] *** Joins: dibas_
+[13:26:16] *** Quits: dibas (Read error: Connection reset by peer)
+[13:26:21] *** dibas_ is now known as dibas
+[13:32:41] *** Joins: dibas_
+[13:32:41] *** Quits: dibas (Read error: Connection reset by peer)
+[13:32:46] *** dibas_ is now known as dibas
+[13:39:07] *** Joins: dibas_
+[13:39:07] *** Quits: dibas (Read error: Connection reset by peer)
+[13:39:12] *** dibas_ is now known as dibas
+[13:43:25] *** Joins: n87
+[13:43:25] *** Quits: dibas (Read error: Connection reset by peer)
+[13:45:31] *** Joins: dibas
+[13:48:19] *** Quits: n87 (Read error: Connection reset by peer)
+[13:52:13] *** Quits: dibas (Read error: Connection reset by peer)
+[13:55:23] *** Joins: dibas_
+[13:55:30] *** dibas_ is now known as dibas
+[15:32:32] *** Quits: ris2z (Ping timeout: 186 seconds)
+[15:53:32] *** Joins: ris2z
+[16:36:57] *** Joins: n87
+[20:38:10] *** Joins: oreo639
+[22:15:49] *** Joins: Wally
+[22:20:33] <Wally> Sorry, what source do functions like vnBindProgram and friends come from?
+[23:00:46] *** Quits: Wally (Ping timeout: 252 seconds)
+[23:08:56] *** Joins: refs
+[23:25:50] *** Quits: n87 (Read error: Connection reset by peer)
+[23:42:12] *** Quits: oreo639 (Ping timeout: 480 seconds)
