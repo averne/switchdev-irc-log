@@ -1,0 +1,41 @@
+[01:11:47] *** Quits: GerbilSof (Quit: Windows must now restart because the Remote Procedure Call (RPC) service terminated unexpectedly.)
+[01:26:16] *** Joins: GerbilSof
+[01:30:28] *** Quits: refs (Quit: refs)
+[02:45:32] *** Quits: xperia64 (WeeChat 3.0)
+[02:50:24] *** Joins: xperia64
+[02:50:53] *** Quits: xperia64 (Client Quit)
+[02:53:16] *** Joins: xperia64
+[03:22:50] *** Joins: Snetry
+[03:24:09] *** Quits: Sentry (Read error: Operation timed out)
+[03:24:13] *** Snetry is now known as Sentry
+[10:48:54] *** Quits: oreo639 (Read error: Operation timed out)
+[11:27:22] *** Joins: fgsfds
+[11:34:26] *** Quits: fgsfds (Quit: Leaving)
+[11:34:31] *** Joins: fgsfds
+[12:46:51] *** Quits: fgsfds (Ping timeout: 265 seconds)
+[13:40:16] *** Joins: fgsfds
+[15:23:27] *** Quits: fgsfds (Ping timeout: 265 seconds)
+[15:54:16] *** Joins: fgsfds
+[16:59:05] *** Joins: m4ts_
+[17:01:34] *** Quits: m4ts (Ping timeout: 265 seconds)
+[17:20:24] *** Joins: n87
+[20:02:42] *** Joins: figgis_
+[20:06:09] *** Quits: figgis_ (Remote host closed the connection)
+[20:06:12] *** Quits: fgsfds (Ping timeout: 265 seconds)
+[20:06:36] *** Joins: figgis_
+[20:07:39] *** Quits: figgis_ (Remote host closed the connection)
+[20:08:14] *** Joins: fgsfds
+[20:16:54] *** Joins: oreo639
+[20:25:18] *** Joins: m4ts
+[20:27:28] *** Quits: m4ts_ (Ping timeout: 265 seconds)
+[20:40:54] <fractal_> yellows8: SetInterface worked for the CDC endpoints perfectly! thank you for that :)
+[20:46:23] *** Quits: fgsfds (Read error: Operation timed out)
+[21:57:37] *** Joins: fgsfds
+[23:13:57] *** Quits: fgsfds (Ping timeout: 612 seconds)
+[23:15:51] *** Quits: oreo639 (Quit: Quit)
+[23:16:19] *** Joins: oreo639
+[23:16:34] *** Joins: oreo639_
+[23:16:38] *** Quits: oreo639 (Client Quit)
+[23:18:46] *** Quits: oreo639_ (Remote host closed the connection)
+[23:19:30] *** Joins: oreo639
+[23:52:17] *** Quits: n87 (Read error: Connection reset by peer)

@@ -1,0 +1,31 @@
+[00:58:14] *** Quits: refs (Quit: refs)
+[02:34:21] *** Joins: xperia64
+[02:36:56] <xperia64> have there been any attempts at adding NVDEC support to libnx?
+[03:24:59] *** Joins: Snetry
+[03:26:18] *** Quits: Sentry (Read error: Operation timed out)
+[03:26:19] *** Snetry is now known as Sentry
+[06:09:05] *** Quits: lemmy (se.hub efnet.deic.eu)
+[06:09:05] *** Quits: nohit (se.hub efnet.deic.eu)
+[06:12:32] *** Joins: lemmy
+[06:12:33] *** Joins: nohit
+[07:35:58] *** Quits: flotwig (Read error: Operation timed out)
+[07:50:12] *** Joins: flotwig
+[09:38:57] *** Quits: oreo639 (Ping timeout: 260 seconds)
+[10:22:14] <Behemoth> I'd guess averne would know about that. He already got NVJpeg to work.
+[10:34:44] <averne> I have something wip but not public yet
+[10:35:15] <averne> What's your usecase?
+[13:59:23] *** Joins: n87
+[18:45:05] *** Quits: n87 (Read error: Connection reset by peer)
+[19:25:03] *** Joins: fgsfds
+[19:26:44] *** Quits: fgsfds (Client Quit)
+[21:28:08] *** Joins: oreo639
+[21:57:45] *** Joins: refs
+[22:01:53] *** Quits: m4ts (Read error: Connection reset by peer)
+[22:02:32] *** Joins: m4ts
+[23:37:21] <xperia64> averne: Mostly wanted to know if it had been attempted so as not to duplicate effort. Just picked up my first switch and was a little surprised to learn moonlight currently uses software decoding (that still seemingly deadlocks at times)
+[23:37:53] *** Quits: m4ts (Excess Flood)
+[23:41:51] *** Joins: m4ts
+[23:44:55] <averne> xperia64: It's just obnoxious to get working because you can't rely on nvidia's driver stack, so you need to pretty much interact directly with the hardware through ioctls
+[23:45:46] <averne> also depending on your approach, you might need a driver for VIC, another hardware engine that can accelerate YUV->RGB plane merging
+[23:56:52] <xperia64> bleh, that's no fun; software decoding really isn't great (and h265 is unusable)
+[23:57:43] <xperia64> guess I should just focus on figuring out why there are still video (presumably sw decoding) deadlocks
