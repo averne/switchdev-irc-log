@@ -1,0 +1,44 @@
+[00:58:42] <xperia64> anyone happen to know what the switch's implementation of apm's `GetPerformanceMode` is looking for from the hardware? I have a defective tablet that never truly enters docked mode clocks, but HDMI/USB/full speed charging work
+[02:00:32] *** Quits: refs (Quit: refs)
+[02:05:13] <yls8bot> https://yls8.mtheall.com/ninupdates/reports.php?date=2022-07-26_00-05-06&sys=hac Update-details for the following hac report is now available/updated: https://yls8.mtheall.com/ninupdates/reports.php?date=2022-07-26_00-05-06&sys=hac Sysmodule SwIPC-generation .info files for the following hac report is now available/updated: 
+[02:05:18] <yls8bot> https://yls8.mtheall.com/ninupdates/reports.php?date=2022-07-26_00-05-06&sys=hac 
+[03:06:54] *** Joins: Snetry
+[03:08:13] *** Quits: Sentry (Read error: Operation timed out)
+[03:08:18] *** Snetry is now known as Sentry
+[03:13:05] *** Quits: lemmy (se.hub efnet.deic.eu)
+[03:13:09] *** Quits: nohit (se.hub efnet.deic.eu)
+[03:14:55] *** Joins: lemmy
+[03:14:59] *** Joins: nohit
+[03:19:45] *** Quits: averne (quit)
+[03:21:22] *** Joins: averne
+[03:21:30] *** Server sets mode: +stn 
+[03:21:47] *** Joins: lemmy
+[03:21:53] *** Joins: nohit
+[03:34:54] *** Quits: lemmy (se.hub efnet.deic.eu)
+[03:34:57] *** Quits: nohit (se.hub efnet.deic.eu)
+[03:41:24] *** Joins: lemmy
+[03:41:28] *** Joins: nohit
+[03:49:40] *** Quits: m4ts_ (Ping timeout: 265 seconds)
+[04:09:54] *** Quits: lemmy (se.hub efnet.deic.eu)
+[04:09:57] *** Quits: nohit (se.hub efnet.deic.eu)
+[04:16:38] *** Joins: lemmy
+[04:16:42] *** Joins: nohit
+[06:12:48] *** Quits: |Shadow| ()
+[06:46:29] *** Joins: |Shadow|
+[06:55:48] *** Quits: |Shadow| ()
+[07:03:49] *** Joins: |Shadow|
+[07:26:33] *** Quits: |Shadow| ()
+[07:30:59] *** Joins: |Shadow|
+[11:31:40] *** Quits: IShaDoWl ()
+[11:31:57] *** Joins: IShaDoWl
+[11:35:12] *** Joins: m4ts
+[12:10:43] *** Quits: oreo639 (Read error: Operation timed out)
+[14:51:04] *** Joins: n87
+[16:23:56] *** Quits: n87 (Read error: Connection reset by peer)
+[18:00:44] *** Joins: n87
+[19:44:36] <hexkyz> xperia64: it depends on 3 values from other services/sysmodules: IsEnoughPowerSupplied == 1 | GetBatteryVoltageState == 3 | GetAcOk == 1
+[19:44:39] <hexkyz> first 2 come from psm and the last one is from bpc
+[19:45:38] <hexkyz> there's also logic for forcing a performance mode by overwritting the system setting apm!performance_mode_policy (allowed values are "auto", "normal" and "boost")
+[19:47:00] <hexkyz> you could try calling each of those commands and verify the results
+[21:23:08] *** Joins: refs
+[21:26:30] *** Joins: oreo639

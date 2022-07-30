@@ -1,0 +1,68 @@
+[00:12:53] *** Quits: n87 (Read error: Connection reset by peer)
+[00:59:57] *** Quits: Maylay (Read error: Operation timed out)
+[01:03:11] *** Joins: Maylay
+[01:33:37] *** Joins: rajkosto
+[01:34:05] *** Quits: rajkosto (Client Quit)
+[01:52:31] <xperia64> hmm, tried forcing performance_mode_policy in atmosphere but that didn't work. Let me query those values.
+[02:00:45] <xperia64> Ok IsEnoughPowerSupplied is true, and GetBatteryVoltageState is 3.
+[02:14:32] <xperia64> and that would do it. GetAcOk is returning false (assuming I called it correctly)
+[02:15:10] <xperia64> hexkyz: so then, any idea what GetAcOk is looking for?
+[02:55:49] *** Quits: refs (Quit: refs)
+[03:04:35] *** Joins: Snetry
+[03:05:55] *** Quits: Sentry (Read error: Operation timed out)
+[03:05:55] *** Snetry is now known as Sentry
+[03:33:10] *** Quits: lemmy (se.hub efnet.deic.eu)
+[03:33:10] *** Quits: nohit (se.hub efnet.deic.eu)
+[03:35:08] *** Quits: Maylay (Read error: Operation timed out)
+[03:38:40] *** Joins: lemmy
+[03:38:40] *** Joins: nohit
+[04:18:30] *** Joins: Maylay
+[04:33:11] *** Quits: oreo639 (Read error: Connection reset by peer)
+[04:33:33] *** Joins: oreo639
+[04:36:37] *** Quits: lemmy (se.hub efnet.deic.eu)
+[04:36:37] *** Quits: nohit (se.hub efnet.deic.eu)
+[04:38:36] *** Joins: lemmy
+[04:38:36] *** Joins: nohit
+[04:54:59] *** Quits: Maylay (Ping timeout: 493 seconds)
+[05:04:00] *** Joins: Maylay
+[05:05:33] <xperia64> CTCaer and I have narrowed it down to somewhere between the bm92t and bq24
+[05:30:44] *** Joins: Maylay_
+[05:34:42] *** Quits: Maylay (Read error: Operation timed out)
+[06:02:02] *** Quits: Maylay_ (Read error: Operation timed out)
+[06:27:33] *** Joins: Maylay
+[06:56:28] *** Quits: Maylay (Ping timeout: 252 seconds)
+[08:44:15] *** Joins: Maylay
+[09:09:52] *** Quits: Maylay (Ping timeout: 612 seconds)
+[10:02:48] *** Quits: oreo639 (Read error: Operation timed out)
+[10:22:50] *** Joins: Maylay
+[10:50:43] *** Quits: Maylay (Ping timeout: 493 seconds)
+[11:00:07] *** Joins: Maylay
+[11:12:04] *** Quits: Maylay (Ping timeout: 612 seconds)
+[11:38:23] *** Joins: Maylay
+[12:10:43] *** Quits: Maylay (Read error: Connection reset by peer)
+[12:12:31] *** Joins: Maylay
+[12:29:21] *** Joins: n87
+[13:22:45] *** Quits: m4ts (Remote host closed the connection)
+[13:23:33] *** Joins: m4ts
+[13:45:54] *** Quits: GerbilSof (Ping timeout: 493 seconds)
+[16:28:53] *** Quits: n87 (Read error: Connection reset by peer)
+[16:31:36] *** Joins: GerbilSof
+[17:22:09] *** Joins: n87
+[17:51:31] *** Quits: KuKzz (Ping timeout: 252 seconds)
+[19:04:36] <hexkyz> xperia64: GetAcOk does a simple i2c read on the reg MAX77620_REG_ONOFFSTAT
+[19:04:36] <hexkyz> it then checks if bit1 is set which is: https://github.com/CTCaer/hekate/blob/master/bdk/power/max77620.h#L130
+[21:15:09] *** Joins: refs
+[21:31:36] *** Joins: oreo639
+[21:47:11] *** Quits: Maylay (Read error: Operation timed out)
+[21:48:00] *** Joins: Maylay
+[21:52:58] *** Quits: Maylay (Ping timeout: 252 seconds)
+[22:14:14] *** Joins: Maylay
+[22:37:25] *** Quits: n87 (Read error: Connection reset by peer)
+[22:37:25] *** Quits: Maylay (Read error: Connection reset by peer)
+[22:38:29] *** Joins: Maylay
+[22:52:05] *** Quits: Maylay (Read error: Operation timed out)
+[23:01:51] *** Joins: Maylay
+[23:15:04] *** Quits: Maylay (Read error: Operation timed out)
+[23:25:40] *** Joins: Maylay
+[23:39:27] *** Joins: Maylay_
+[23:41:31] *** Quits: Maylay (Ping timeout: 612 seconds)

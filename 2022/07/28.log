@@ -1,0 +1,37 @@
+[00:36:34] *** Quits: IShaDoWl ()
+[00:42:28] <xperia64> hexkyz: thanks. I'm just going to get a refund at this point; even though everything else those power/charge controller chips do seems to work, AcOk does not and the BQ behaves a little inconsistently too
+[00:43:13] <xperia64> the other symptom of this issue is the switch not doing anything when it's off and you apply USB-C power
+[00:43:37] <xperia64> it's just so weird fast charging and everything work fine
+[00:43:58] <xperia64> you would think they would check AcOk for more than those two things
+[02:05:06] *** Quits: Maylay_ (Read error: Operation timed out)
+[02:22:58] *** Joins: Maylay
+[02:51:43] *** Quits: refs (Quit: refs)
+[03:03:58] *** Joins: Snetry
+[03:05:18] *** Quits: Sentry (Read error: Operation timed out)
+[03:05:18] *** Snetry is now known as Sentry
+[03:12:03] *** Quits: Maylay (Ping timeout: 493 seconds)
+[03:19:45] *** Joins: Maylay
+[04:32:04] *** Quits: Maylay (Ping timeout: 612 seconds)
+[04:38:00] *** Quits: m4ts (Excess Flood)
+[04:38:15] *** Joins: m4ts
+[05:40:12] *** Joins: Maylay
+[08:52:02] *** Quits: Maylay (Read error: Operation timed out)
+[08:59:44] *** Joins: Maylay
+[09:29:35] *** Joins: flotwig_
+[09:34:43] *** Quits: flotwig (Ping timeout: 745 seconds)
+[09:34:43] *** flotwig_ is now known as flotwig
+[12:01:52] *** Quits: oreo639 (Ping timeout: 612 seconds)
+[12:59:27] *** Quits: Maylay (Read error: Operation timed out)
+[13:46:44] *** Joins: Maylay
+[14:07:10] *** Quits: Maylay (Ping timeout: 493 seconds)
+[14:21:26] *** Joins: Maylay
+[16:23:15] *** Quits: Maylay (Ping timeout: 493 seconds)
+[16:28:42] *** Joins: Maylay
+[18:58:47] <hexkyz> xperia64: yeah that's definitely a bizarre hardware issue with the pmic and/or the bq
+[18:58:47] <hexkyz> also doesn't help how little documentation maxim provides for stuff like this
+[20:41:14] *** Quits: m4ts (Excess Flood)
+[20:42:08] *** Joins: m4ts
+[20:56:23] *** Joins: refs
+[21:25:45] <xperia64> we believe the pmic is fine
+[21:26:07] <xperia64> but yep, very jank
+[22:08:36] *** Joins: oreo639
