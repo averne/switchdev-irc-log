@@ -1,0 +1,70 @@
+[00:26:55] *** Joins: refs
+[01:19:16] <lameboy> wtf
+[01:19:22] <lameboy> oops wrong window
+[01:31:03] *** Quits: oreo639_ (Ping timeout: 483 seconds)
+[01:34:16] *** Quits: refs (Read error: Connection reset by peer)
+[01:35:47] *** Joins: refs
+[02:05:20] <plutobot> Wiki | Page changed: 16.0.0 | User: Yls8bot | https://switchbrew.org/w/index.php?curid=469&diff=12464&oldid=12338
+[02:06:52] <plutobot> Wiki | Page changed: 16.0.0 | User: yls8 | https://switchbrew.org/w/index.php?curid=469&diff=12465&oldid=12464
+[02:34:56] *** Quits: refs (Quit: refs)
+[03:41:23] *** Joins: yls8bot_
+[03:41:23] *** Quits: yls8bot (Read error: Connection reset by peer)
+[03:41:23] *** Quits: Normmatt (Read error: Connection reset by peer)
+[03:41:38] *** yls8bot_ is now known as yls8bot
+[03:53:58] *** Joins: sentry
+[03:55:17] *** Quits: Snetry (Read error: Connection refused)
+[03:55:17] *** sentry is now known as Snetry
+[04:13:37] *** Joins: oreo639
+[04:25:06] *** Joins: jerry
+[04:41:48] *** Joins: Normmatt
+[06:20:23] *** Joins: lameboy2
+[06:23:33] *** Quits: lameboy (Ping timeout: 260 seconds)
+[06:23:34] *** lameboy2 is now known as lameboy
+[10:37:39] *** Joins: fgsfds
+[10:40:19] *** Quits: oreo639 (Read error: Operation timed out)
+[10:50:52] *** Joins: oreo639
+[11:03:26] *** Quits: oreo639 (Read error: Operation timed out)
+[11:40:12] *** Joins: proconsul
+[11:41:46] <proconsul> Hi all, just a quick question, is stat working for getting timestamp of a file on sd card? i got strange value and so garbage date once converted. is there any example for doing this?
+[12:09:27] *** Joins: n87
+[12:31:06] *** Quits: n87 (Read error: Connection reset by peer)
+[12:36:17] *** Joins: n87
+[12:40:09] *** Quits: n87 (Read error: Connection reset by peer)
+[12:42:25] *** Joins: n87
+[12:44:55] *** Quits: n87 (Read error: Connection reset by peer)
+[12:47:48] *** Joins: n87
+[16:37:49] *** Quits: proconsul ()
+[17:27:02] *** Quits: jerry (ny.us.hub hub.efnet.us)
+[17:27:02] *** Quits: yls8bot (ny.us.hub hub.efnet.us)
+[17:27:02] *** Quits: Cu3PO42 (ny.us.hub hub.efnet.us)
+[17:27:02] *** Quits: DacoTaco (ny.us.hub hub.efnet.us)
+[17:27:02] *** Quits: Surkow (ny.us.hub hub.efnet.us)
+[17:27:02] *** Quits: flotwig (ny.us.hub hub.efnet.us)
+[17:27:03] *** Quits: Genolo (ny.us.hub hub.efnet.us)
+[17:27:03] *** Quits: Lightswor (ny.us.hub hub.efnet.us)
+[17:27:03] *** Quits: Maylay_ (ny.us.hub hub.efnet.us)
+[17:27:03] *** Quits: klock (ny.us.hub hub.efnet.us)
+[17:27:03] *** Quits: yellows8 (ny.us.hub hub.efnet.us)
+[17:27:03] *** Quits: tpw_rules (ny.us.hub hub.efnet.us)
+[17:27:03] *** Quits: TurtleP (ny.us.hub hub.efnet.us)
+[17:27:03] *** Quits: fincs (ny.us.hub hub.efnet.us)
+[17:28:49] *** Joins: jerry
+[17:28:49] *** Joins: yls8bot
+[17:28:49] *** Joins: Cu3PO42
+[17:28:49] *** Joins: TurtleP
+[17:28:49] *** Joins: fincs
+[17:28:49] *** Joins: DacoTaco
+[17:28:49] *** Joins: Surkow
+[17:28:49] *** Joins: flotwig
+[17:28:49] *** Joins: tpw_rules
+[17:28:49] *** Joins: yellows8
+[17:28:49] *** Joins: klock
+[17:28:49] *** Joins: Maylay_
+[17:28:49] *** Joins: Lightswor
+[17:28:49] *** Joins: Genolo
+[17:28:49] *** hub.efnet.us sets mode: +oo fincs yellows8
+[22:22:48] *** Quits: ave_ (Read error: Operation timed out)
+[22:34:36] *** Joins: oreo639
+[22:38:52] *** Quits: n87 (Read error: Connection reset by peer)
+[22:39:14] *** Joins: ave_
+[23:08:55] *** Joins: n87
