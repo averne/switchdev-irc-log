@@ -1,0 +1,32 @@
+[00:31:04] *** Quits: fgsfds (~figgis@85.191.222.221) (Read error: Connection reset by peer)
+[01:36:40] *** Joins: refs (~refs@p4fe75835.dip0.t-ipconnect.de)
+[02:51:49] *** Quits: refs (~refs@p4fe75835.dip0.t-ipconnect.de) (Quit: refs)
+[03:02:34] *** Quits: lameboy (~lameboy@202.47.121.182) (Read error: Connection reset by peer)
+[03:03:32] *** Joins: lameboy (~lameboy@202.47.121.182)
+[03:28:32] *** Joins: sentry (~sentry@87.122.104.169)
+[03:29:51] *** Quits: Snetry (~sentry@87.122.106.163) (Read error: Connection refused)
+[03:29:51] *** sentry is now known as Snetry
+[03:33:10] *** Joins: oreo639 (~oreo639@130.166.192.221)
+[04:18:50] *** Quits: oreo639 (~oreo639@130.166.192.221) (Ping timeout: 622 seconds)
+[07:14:05] *** Joins: oreo639 (~oreo639@104.173.210.7)
+[07:38:07] *** Joins: KuKzz (~KuKzz@46.39.249.151)
+[07:40:09] *** Quits: KuKzz_ (~KuKzz@46.39.249.151) (Ping timeout: 620 seconds)
+[09:52:03] *** Joins: oreo639_ (~oreo639@104-173-210-007.res.spectrum.com)
+[09:52:03] *** Quits: oreo639 (~oreo639@104.173.210.7) (Read error: Connection reset by peer)
+[09:53:13] *** oreo639_ is now known as oreo639
+[09:54:50] *** Quits: uyjulian (~uyjulian@99-35-187-227.lightspeed.lbcktx.sbcglobal.net) (Read error: Operation timed out)
+[09:58:03] *** Joins: uyjulian (~uyjulian@99-35-187-227.lightspeed.lbcktx.sbcglobal.net)
+[10:38:18] *** Quits: maylay (~gren@108-198-59-230.lightspeed.miamfl.sbcglobal.net) (Read error: Connection reset by peer)
+[10:45:48] *** Joins: maylay (~gren@108-198-59-230.lightspeed.miamfl.sbcglobal.net)
+[14:33:19] *** Quits: oreo639 (~oreo639@104-173-210-007.res.spectrum.com) (Ping timeout: 622 seconds)
+[15:19:15] <CCFL_Man> has there been a single cause why when you try to boot atmosphere, the screen will go black after the atmosphere logos?
+[15:20:32] <CCFL_Man> i'm using exfat on a switch lite and mariko, 14.1.0 and 15.0.0 respectively, and even trying early versions of atmosphere, it still goes black
+[15:20:56] <CCFL_Man> i was reading that it's a common problem, but no one was able to pinpoint it
+[15:21:11] <CCFL_Man> and there does not seem to be a way to debug
+[15:51:00] *** Joins: n87 (~n87@046125250044.public.t-mobile.at)
+[17:21:59] *** Quits: n87 (~n87@046125250044.public.t-mobile.at) (Read error: Connection reset by peer)
+[17:25:14] *** Joins: n87 (~n87@046125250044.public.t-mobile.at)
+[20:55:07] *** Quits: balrog (~balrog@pool-173-62-160-227.phlapa.fios.verizon.net) (Remote host closed the connection)
+[20:58:32] *** Joins: balrog (~balrog@pool-173-62-160-227.phlapa.fios.verizon.net)
+[21:05:47] *** Joins: fgsfds (~figgis@85.191.222.221)
+[21:57:15] *** Joins: oreo639 (~oreo639@104-173-210-007.res.spectrum.com)
