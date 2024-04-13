@@ -1,0 +1,36 @@
+[00:05:41] *** Joins: oreo639
+[00:44:43] *** Quits: fgsfds (Read error: Connection reset by peer)
+[02:30:49] *** Joins: refs
+[03:35:53] *** Joins: sentry
+[03:37:12] *** Quits: Snetry (Read error: Connection refused)
+[03:37:13] *** sentry is now known as Snetry
+[04:37:10] *** Quits: refs (Quit: refs)
+[06:26:26] *** Joins: GerbilSof
+[07:15:52] *** Quits: averne (quit)
+[07:16:10] *** Joins: averne_
+[07:16:10] *** Server sets mode: +stn 
+[07:20:51] *** Quits: averne (Read error: Operation timed out)
+[07:20:51] *** averne_ is now known as averne
+[07:38:52] *** Quits: averne (quit)
+[07:41:06] *** Joins: averne_
+[07:41:06] *** Server sets mode: +stn 
+[07:42:28] *** Quits: averne (Read error: Operation timed out)
+[07:42:28] *** averne_ is now known as averne
+[07:45:39] *** Joins: Shiz_
+[11:27:41] *** Joins: fgsfds
+[12:21:30] *** Quits: DacoTaco (ny.us.hub irc.Prison.NET)
+[12:27:24] *** Joins: n87
+[12:29:59] *** Joins: DacoTaco_
+[12:39:37] *** Quits: d3m3vilur (Ping timeout: 493 seconds)
+[12:40:26] *** Joins: d3m3vilur
+[13:23:45] *** Quits: Snetry (Read error: Operation timed out)
+[13:27:09] *** Quits: d3m3vilur (Ping timeout: 493 seconds)
+[13:27:13] *** Joins: d3m3vilur
+[13:29:03] *** Joins: Snetry
+[13:43:40] *** Quits: oreo639 (Ping timeout: 240 seconds)
+[15:33:50] *** Quits: n87 (Read error: Connection reset by peer)
+[18:38:14] *** Joins: refs
+[20:05:22] *** Joins: n87
+[20:46:59] <CCFL_Man> if you want to replace an emmc, doing a restore of boot0/1 and and the whole emmc is not enough, right? you need to restore pod.keys as well to copy your keys?
+[22:26:11] <CCFL_Man> so it booted up after i restored boot0/1 and the raw emmc
+[23:25:57] *** Quits: n87 (Read error: Connection reset by peer)
