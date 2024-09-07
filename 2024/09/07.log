@@ -1,0 +1,22 @@
+[02:38:51] *** Quits: oreo639 (Read error: Operation timed out)
+[03:13:30] *** Joins: oreo639
+[03:36:05] *** Joins: sentry
+[03:37:24] *** Quits: Snetry (Read error: Operation timed out)
+[03:37:24] *** sentry is now known as Snetry
+[04:13:29] *** Quits: oreo639 (Ping timeout: 260 seconds)
+[04:19:32] *** Joins: oreo639
+[05:36:04] *** Quits: oreo639 (Ping timeout: 240 seconds)
+[06:40:08] *** Joins: oreo639
+[12:42:45] *** Joins: fgsfds
+[14:55:02] *** Quits: oreo639 (Read error: Operation timed out)
+[15:07:38] *** Joins: GerbilSof
+[19:29:11] *** Joins: tom2199
+[19:38:07] <tom2199> Hello guys, I hope this is the right place to ask this question. I want to check if my Switch is on (for home automation purposes). So I found an old project named sys-http, which gives a health check via http. The problem is, every half hour or so the switch wakes up and answers the request, even if it's not on. (The same thing happens when I ping the Switch, that's why I wanted to do this via sys-http).
+[19:38:36] <tom2199> So my idea is to change sys-http just a little bit by checking if the switch is on somehow before answering the request. Is there a Atmosphere/HOS-Function for this? Maybe check if the green light from the dock is on or something? I hope someone familiar with Atmosphere and it's libraries can give me a hint. Help would be much appreciated!
+[19:39:06] <tom2199> Here's the project and the line I want to change: https://github.com/zaksabeast/sys-http/blob/fd818dfff5c467f749ebf372c1a741061ba0a7b3/source/main.cpp#L112
+[23:12:28] *** Joins: Tom
+[23:15:54] *** Joins: oreo639
+[23:18:03] *** Quits: tom2199 (Read error: Operation timed out)
+[23:21:32] *** Joins: Tom_
+[23:27:02] *** Quits: Tom (Read error: Operation timed out)
+[23:54:13] *** Quits: oreo639 (Read error: Operation timed out)
