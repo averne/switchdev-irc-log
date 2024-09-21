@@ -1,0 +1,79 @@
+[00:00:18] *** Quits: n87 (Read error: Operation timed out)
+[00:31:38] *** Quits: oreo639 (Read error: Operation timed out)
+[00:40:05] *** Joins: oreo639
+[01:01:24] *** Quits: oreo639 (Read error: Operation timed out)
+[01:10:45] *** Joins: oreo639
+[01:30:04] *** Quits: oreo639 (Ping timeout: 240 seconds)
+[01:51:57] *** Joins: oreo639
+[03:53:53] *** Quits: oreo639 (Ping timeout: 260 seconds)
+[04:30:34] *** Joins: oreo639
+[04:38:07] *** Quits: oreo639 (Remote host closed the connection)
+[04:38:35] *** Joins: oreo639
+[05:11:32] *** Quits: oreo639 (Read error: Operation timed out)
+[06:51:08] *** Joins: oreo639
+[07:42:45] *** Quits: oreo639 (Read error: Operation timed out)
+[07:56:49] *** Joins: oreo639
+[09:09:06] *** Quits: plutobot_ (hub.efnet.us irc.choopa.net)
+[09:09:06] *** Quits: tertu (hub.efnet.us irc.choopa.net)
+[09:09:06] *** Quits: hexkyz (hub.efnet.us irc.choopa.net)
+[09:09:18] *** Joins: plutobot
+[09:10:14] *** Joins: tertu
+[09:10:24] *** Joins: hexkyz
+[10:01:38] *** Joins: n87
+[10:47:42] *** Quits: oreo639 (Ping timeout: 622 seconds)
+[12:00:25] *** Quits: n87 (Read error: Connection reset by peer)
+[12:02:05] *** Joins: n87
+[12:13:36] *** Quits: n87 (Read error: Connection reset by peer)
+[12:18:28] *** Joins: n87
+[12:22:45] *** Quits: Retr0id (Read error: Connection reset by peer)
+[12:22:48] *** Joins: Retr0id
+[15:47:43] *** Quits: n87 (Read error: Connection reset by peer)
+[15:51:44] *** Joins: n87
+[16:40:43] *** Quits: Surkow (Ping timeout: 240 seconds)
+[16:44:19] *** Quits: n87 (Read error: Connection reset by peer)
+[16:46:04] *** Joins: n87
+[16:55:09] *** Joins: Surkow
+[16:58:15] *** Joins: imax
+[17:15:42] *** Quits: n87 (Read error: Connection reset by peer)
+[17:17:09] *** Joins: n87
+[17:44:49] *** Quits: n87 (ny.us.hub ircd.choopa.net)
+[17:44:50] *** Quits: hexkyz (ny.us.hub ircd.choopa.net)
+[17:44:50] *** Quits: tertu (ny.us.hub ircd.choopa.net)
+[17:44:50] *** Quits: plutobot (ny.us.hub ircd.choopa.net)
+[17:44:50] *** Quits: mtheall_ (ny.us.hub ircd.choopa.net)
+[17:44:50] *** Quits: |Shadow| (ny.us.hub ircd.choopa.net)
+[17:44:50] *** Quits: lameboy (ny.us.hub ircd.choopa.net)
+[17:44:50] *** Quits: GeekShado (ny.us.hub ircd.choopa.net)
+[17:45:36] *** Joins: plutobot
+[17:45:36] *** Joins: mtheall_
+[17:45:36] *** Joins: |Shadow|
+[17:45:36] *** Joins: lameboy
+[17:45:36] *** Joins: GeekShado
+[17:57:33] <imax> I'm compiling https://github.com/rclone/rclone (with help of https://github.com/hajimehoshi/hitsumabushi). I've got it to the point of successfully linking .nro, but it crashes here https://sourcegraph.com/github.com/switchbrew/libnx/-/blob/nx/source/services/hid.c?L307
+[18:00:47] <imax> it is called _before_ "RcloneInitialize", so I suspect some of go's init code messes up something in memory, causing the error return value. Any pointers to what is it that might be borked, so I can narrow down my search?
+[18:00:51] *** Joins: tertu
+[18:00:51] *** Joins: hexkyz
+[18:00:51] *** Joins: n87
+[18:06:26] <averne> make sure that the hid service is initialized, in normal circumstances this is the relevant code https://sourcegraph.com/github.com/switchbrew/libnx@8cff58d5af8f65a881ea0da59322af57843f7dfe/-/blob/nx/source/runtime/init.c?L129
+[18:09:58] <imax> thank you! I'll go figure out if the __libnx_init got patched out
+[18:12:44] <averne> you can try checking the .elf in ghidra
+[18:14:56] <imax> yeah, good point
+[18:18:48] <imax> _sigh_ it's taking its time to chomp on 60MB binary
+[19:18:28] <imax> nope, _start still invokes __libnx_init. And it's probably something inside Go runtime, because if I replace rclone with helloworld - it still crashes in the same place
+[19:24:27] <imax> hm, I can try figuring out which symbols get replaced by the library that go compiler spits out
+[20:14:53] *** Quits: substanc3 (hub.efnet.us irc.colosolutions.net)
+[20:18:45] *** Quits: n87 (ircd.choopa.net irc.choopa.net)
+[20:18:45] *** Quits: hexkyz (ircd.choopa.net irc.choopa.net)
+[20:18:45] *** Quits: tertu (ircd.choopa.net irc.choopa.net)
+[20:21:52] *** Joins: n87_2
+[20:45:18] <imax> if anyone wants to poke around, here's a minimal repro case https://github.com/imax9000/golang-libnx-crashing
+[21:34:09] <averne> it's crashing because the go runtime is aborting here https://github.com/golang/go/blob/master/src/runtime/cgo/gcc_libinit.c#L116
+[21:37:25] <imax> how did you see that? I was never getting that fprintf line
+[21:38:02] <averne> i used gdb
+[21:40:01] <imax> nice! is there a page describing how to set it up? (I'm outta juice for today, so won't get back to actively debugging this until tomorrow)
+[21:40:13] <averne> there's a sort of tutorial here, it's geared towards modding but still applicable to homebrew https://gist.github.com/jam1garner/c9ba6c0cff150f1a2480d0c18ff05e33
+[21:40:47] <imax> awesome, thank you!
+[21:42:24] <averne> basically start $DEVKITPRO/devkitA64/bin/aarch64-none-elf-gdb in the directory where your .elf lives, you do `target extended-remote Switch:22225` -> `os info processes` -> attach to hbloader -> start your homebrew, it will break on the first instruction -> `share` -> place your breakpoints and debug as you would with gdb
+[22:27:29] *** Joins: hexkyz
+[22:47:08] *** Joins: substanc3
+[22:52:05] *** Quits: Maylay (Ping timeout: 260 seconds)
